@@ -22,7 +22,7 @@ jobs:
         pip install git+https://github.com/kmaasrud/oboe.git
 
     - name: Generate HTML through oboe
-      run: oboe ./notes -o ./out -d Readings
+      run: oboe . -t ./template.html -o ./out -d Readings
  
     - name: Publish
       uses: s0/git-publish-subdir-action@develop

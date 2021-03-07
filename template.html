@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://cdnjs.cloudflare.com https://www.kmaasrud.com"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://www.kmaasrud.com/web-components/head.js"></script>
+    <script src="https://www.kmaasrud.com/web-components/katex.js"></script>
+    <script src="https://www.kmaasrud.com/web-components/highlight.js"></script>
+    <title>{title}</title>
+  </head>
+  <body style="font-family: Merriweather">
+    <div id="main">
+      <div id="header"><strong>{title}</strong></div>
+      <script src="https://www.kmaasrud.com/web-components/header.js"></script>
+      <div id="content">{content}{backlinks}</div>
+    </div>
+    <script src="https://www.kmaasrud.com/web-components/darkModeToggle.js"></script>
+  </body>
+</html>
