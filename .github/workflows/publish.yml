@@ -19,7 +19,7 @@ jobs:
     - name: Install oboe
       run: |
         python -m pip install --upgrade pip
-        pip install git+https://github.com/kmaasrud/oboe.git
+        pip install --force-reinstall git+https://github.com/kmaasrud/oboe.git
 
     - name: Generate HTML through oboe
       run: oboe . -t ./template.html -o ./out -d Readings
