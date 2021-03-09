@@ -22,7 +22,7 @@ jobs:
         pip install --force-reinstall git+https://github.com/kmaasrud/oboe.git
 
     - name: Generate HTML through oboe
-      run: oboe . -t ./template.html -o ./out -d Readings
+      run: oboe . -t ./template.html -o ./out -d readings
  
     - name: Publish
       uses: s0/git-publish-subdir-action@develop
