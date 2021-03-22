@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://cdnjs.cloudflare.com https://www.kmaasrud.com"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://www.kmaasrud.com/web-components/head.js"></script>
+    <script src="https://www.kmaasrud.com/web-components/katex.js"></script>
+    <script src="https://www.kmaasrud.com/web-components/highlight.js"></script>
+    <title>muppet</title>
+  </head>
+  <body style="font-family: Merriweather">
+    <div id="main">
+      <div id="header"><strong>muppet</strong></div>
+      <script src="https://www.kmaasrud.com/web-components/header.js"></script>
+      <div id="content"><div id="content"><h1 id="muppet-massive-multi-task-representations-with-pre-finetuning">Muppet: Massive Multi-task Representations with Pre-Finetuning</h1>
+
+<h2 id="whats-wrong-with-the-current-multi-task-learning">What's wrong with the current multi-task learning?</h2>
+
+<p>Labeled datasets vary in size and models might struggle to learn all the tasks (unstable) through varying losses as a result. </p>
+
+<h2 id="what-are-the-contributions-of-this-paper">What are the contributions of this paper?</h2>
+
+<ul>
+<li>Optimization and loss scaling to reconcile different tasks's losses, which leads to a more stable learning process<br />
+<ul><br />
+<li>Within-batch heterogeneous data -> accumulating losses across tasks for each gradient update (better than one task by one task and one single task batch by one single task batch)</li><br />
+<li>Additional loss term to coerce similar representation when input is perturbed</li><br />
+<li>Scaled loss $$L_{scaled}(x_i, y_i) = \frac{L(x_i, y_i)}{logn(i)}$$, where $n(i)$ is the decision dimension of the task (e.g. 2 for binary classification and the size of the vocabulary for generation)</li><br />
+</ul></li>
+<li>Experiments on large scale multi-task pre-finetuning (adaptive finetuning)<br />
+<ul><br />
+<li>Not to reiterate the success, but interestingly, it worsens the results on BART for three common-sense reasoning tasks</li><br />
+</ul></li>
+</ul>
+
+<h2 id="next">Next</h2>
+
+<p><a href="readings/sentence-ranking-loss">readings/sentence-ranking-loss</a></p>
+</div></div>
+    </div>
+    <script src="https://www.kmaasrud.com/web-components/darkModeToggle.js"></script>
+  </body>
+</html>
