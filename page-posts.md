@@ -4,6 +4,7 @@
 
 ## Readings
 - [[readings/a-practical-survey-on-faster-and-lighter-transformers]]
+- [[readings/muppet]]
 - [[readings/language-models-are-few-shot-learners]]
 - [[readings/switch-transformers]]
 - [[readings/deberta]]
