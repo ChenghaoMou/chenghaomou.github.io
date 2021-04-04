@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://cdnjs.cloudflare.com https://www.kmaasrud.com"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://www.kmaasrud.com/web-components/head.js"></script>
+    <script src="https://www.kmaasrud.com/web-components/katex.js"></script>
+    <script src="https://www.kmaasrud.com/web-components/highlight.js"></script>
+    <title>a-practical-survey-on-faster-and-lighter-transformers</title>
+  </head>
+  <body style="font-family: Merriweather">
+    <div id="main">
+      <div id="header"><strong>a-practical-survey-on-faster-and-lighter-transformers</strong></div>
+      <script src="https://www.kmaasrud.com/web-components/header.js"></script>
+      <div id="content"><div id="content"><h1 id="a-practical-survey-on-faster-and-lighter-transformers">A Practical Survey on Faster and Lighter Transformers</h1>
+
+<p><a href="https://arxiv.org/abs/2103.14636">arxiv</a><br />
+Before Transformer is invented, RNNs (LSTM/GRU) are the go-to choices for NLP tasks but they do not handle distance dependencies very well, partially due to the limited relative effective context length (RECL) - about 400 words. Then we have the Transformer and all its BERTology variants, but the quadratic computation and memory cost prohibit its general application as few individuals or companies could train a descent model without costing an arm and a leg.</p>
+
+<p>This paper discusses some general techniques to improve transformer's performance and some low-level optimizations to change its complexity.</p>
+
+<h2 id="quadratic-complexity">Quadratic complexity</h2>
+
+<p>Scaled dot-product self-attention in transformers produces weights for each token by<br />
+$$<br />
+\mathit{Attention}(Q,K,V) = \mathit{Softmax}(\frac{QK^\top}{\sqrt{d}})V<br />
+$$</p>
+
+<p>where $Q$ and $K$ are both $(N, H)$ tensors and therefore it takes $\mathcal{O}(N^2)$ time and space to compute. Multi-head attention is just a collection of multiple attentions that enables the model to attend multple positions simultaneously. </p>
+
+<h2 id="general-methods">General methods</h2>
+
+<h3 id="1-gradient-checkpointing">1. Gradient checkpointing</h3>
+
+<p>In most cases, the memory is occupied by forward-pass intermediate results that are needed for gradient back-propagation. However, we can decrease the memory usage by allowing only part of the network to store their results and re-calculate the rest of results again during back-propagation. </p>
+
+<h3 id="2-parallelization">2. Parallelization</h3>
+
+<p>Model parallelization and data parallelization. </p>
+
+<table>
+<thead>
+<tr>
+  <th>Parallelization</th>
+  <th>Data</th>
+  <th>Model</th>
+  <th>Sync</th>
+  <th>Use Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Data Parallelization a.k.a Batch dimension spliting</td>
+  <td>Different data on each GPU</td>
+  <td>Same model on each GPU</td>
+  <td>After one forward pass</td>
+  <td>Small model on a supercomputer</td>
+</tr>
+<tr>
+  <td>Model Parallelization (Hidden dimension spliting?)</td>
+  <td>Same data on each GPU</td>
+  <td>Different model parameters on each GPU</td>
+  <td>Depends on operations</td>
+  <td>Large model on a supercomputer/cluster</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="3-reversible-layers">3. Reversible layers</h3>
+
+<p>Split input in the channel dimension, $x \rightarrow {x_1, x_2}$. During the forward pass,<br />
+$$<br />
+\begin{equation}<br />
+\begin{split}<br />
+y_1 = x_1 + f(x_2) \<br />
+y_2 = x_2 + g(y_1)<br />
+\end{split}<br />
+\end{equation}<br />
+$$<br />
+and we can re-construct the activations by<br />
+$$<br />
+\begin{equation}<br />
+\begin{split}<br />
+x_2 = y_2 - g(y_1) \<br />
+x_1 = y_1 - f(x_2)<br />
+\end{split}<br />
+\end{equation}<br />
+$$</p>
+
+<blockquote>
+  <p>Nonetheless, reversible layers add numerical errors that accumulate over multiple layers and may degrade the model performance. Therefore, they are not suited for very deep networks.</p>
+</blockquote>
+
+<h3 id="4-parameter-sharing">4. Parameter sharing</h3>
+
+<p>Reusing some parameters reduces the model size but performance sometimes degrades as well (smaller model capacity).</p>
+
+<h3 id="5-pruning">5. Pruning</h3>
+
+<p>Reomving some parameters (individual weights or structures) with low saliency (no change or small change to the loss) can often lead to smaller model and equivalent performance, with the downsides being that the model will become sparse and the base model has to be trained first.</p>
+
+<blockquote>
+  <p>randomlyinitialized, dense neural network contains a subnetwork that is initialized such that – when trained in isolation – it can match the test accuracy of the original network after training for at most the same number of iterations.</p>
+</blockquote>
+
+<h3 id="6-knowledge-distillation">6. Knowledge distillation</h3>
+
+<p>Distillation trains a smaller network to mimic a large model's behaviors. It produces smaller models like pruning.</p>
+
+<h3 id="7-mixed-precision">7. Mixed-precision</h3>
+
+<p>Each parameter in the network is reduced to a certain bit length but the number of parameters remains the same.</p>
+
+<h3 id="8-mixture-of-experts">8. Mixture of experts</h3>
+
+<p><a href="switch-transformers">switch-transformers</a> is the latest MoE model where expert networks are included but only used when activated/choosen.</p>
+
+<h3 id="9-sample-efficient-objectives">9. Sample-efficient objectives</h3>
+
+<p>MLM predicts only masked tokens for one input. Better objectives like replaced token detection in DETECTRA make the model more computationally efficient.</p>
+
+<h3 id="10-architecture-search">10. Architecture search</h3>
+
+<p>Various NAS have been proposed to find better nueral network architectures. The evolved transformer, for expamle, has similar performance with the vanilla transformer with only 78% of the parameters. NSA requires high computation resources though. </p>
+
+<h3 id="11-conditional-computing">11. Conditional computing</h3>
+
+<p>MoE is also a form of conditional computing. Maybe early exit too? Another form of conditional computing is Adaptive Computation Time, with which the model learns a halting probability so it knows when to stop pondering and a pondering cost that it does not take too long to think. Transformer variations of this leads to moels like Universal Transformer and Depth Adaptive Transformer. </p>
+
+<h2 id="specific-approaches">Specific Approaches</h2>
+
+<h3 id="1-recurrence">1. Recurrence</h3>
+
+<p>Models like Transformer-XL increase the RECL by chunking the input into windows and therefore allows the model to consider previous context window.</p>
+
+<h3 id="2-sparse-attention">2. Sparse attention</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Model</th>
+  <th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Sparse Transformer</td>
+  <td>strided attention or fixed attention</td>
+</tr>
+<tr>
+  <td>Cascade Transformer</td>
+  <td>increasing attention span along layers</td>
+</tr>
+<tr>
+  <td>BlockBERT</td>
+  <td>block attention spans attend to other spans according to certain permutations</td>
+</tr>
+<tr>
+  <td>Sinkhorn attention</td>
+  <td>like BlockBERT, but with learned permutations</td>
+</tr>
+<tr>
+  <td>Linformer and BigBird</td>
+  <td>sliding window attention, global attention and random attention</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="3-locality-sensitive-hashing">3. Locality sensitive hashing</h3>
+
+<p>Full attention calculates the weights based on query and key and the highest score is assigned when their dot product is the highest, which means when query and key are similar, their produced weight weill be higher. Therefore, we can use LSH to find a set of similar query-key pairs with less complexity.</p>
+
+<h3 id="4-low-rank-factorization">4. Low rank factorization</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Model</th>
+  <th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Linformer</td>
+  <td><img src="pasted-image-20210404091622png" alt="Pasted image 20210404091622.png" /></td>
+</tr>
+<tr>
+  <td>Nyströmformer</td>
+  <td>Nyström  method and SVD</td>
+</tr>
+<tr>
+  <td>Synthesizer</td>
+  <td>Replace dot product with FFN</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="5-kernel-attention">5. Kernel attention</h3>
+
+<p>Performer uses a kernel mapping to approximate the exponential calculation.</p>
+
+<h2 id="discussion">Discussion</h2>
+
+<ul>
+<li>We do not fully understand how any why attention works</li>
+<li>We generally could not evaluate them all when proposing new changes</li>
+<li>One technique is not enough, people combine more and more into one model (<a href="switch-transformers">switch-transformers</a> combines distillation, MoE, mixed-precision)</li>
+<li>We should report not only the theoretical compelxity but also FLOPs, wall-clock time, memory footprint (cloud infra cost as well?)</li>
+<li>No modification so far generalize well for various tasks</li>
+<li>Large models do perform well, but we need lighter and faster ones for wider applications, lower $\mathit{CO}_2$ emissions and costs</li>
+</ul>
+
+<blockquote>
+  <p>Nonetheless, a clear trend emerges from Long-Range Arena: sparse attention is the best performing approach, kernel attention is the fastest, and low-rank factorization is the lightest. The two best performing models are BigBird and Longformer, both based on the sparse attention, with BigBird outperforming the vanilla Transformer; the two fastest models are the Performer and the linear Transformer, both based on kernel attention; the lightest model is the Linformer which uses lowrank factorization.</p>
+</blockquote>
+</div></div>
+    </div>
+    <script src="https://www.kmaasrud.com/web-components/darkModeToggle.js"></script>
+  </body>
+</html>
