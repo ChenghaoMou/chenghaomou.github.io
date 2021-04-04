@@ -1,15 +1,13 @@
 # A Practical Survey on Faster and Lighter Transformers
 [arxiv](https://arxiv.org/abs/2103.14636)
+
 Before Transformer is invented, RNNs (LSTM/GRU) are the go-to choices for NLP tasks but they do not handle distance dependencies very well, partially due to the limited relative effective context length (RECL) - about 400 words. Then we have the Transformer and all its BERTology variants, but the quadratic computation and memory cost prohibit its general application as few individuals or companies could train a descent model without costing an arm and a leg.
 
 This paper discusses some general techniques to improve transformer's performance and some low-level optimizations to change its complexity.
 
 ## Quadratic complexity
 Scaled dot-product self-attention in transformers produces weights for each token by 
-$$
-\mathit{Attention}(Q,K,V) = \mathit{Softmax}(\frac{QK^\top}{\sqrt{d}})V
-$$
-
+$$\mathit{Attention}(Q,K,V) = \mathit{Softmax}(\frac{QK^\top}{\sqrt{d}})V$$
 where $Q$ and $K$ are both $(N, H)$ tensors and therefore it takes $\mathcal{O}(N^2)$ time and space to compute. Multi-head attention is just a collection of multiple attentions that enables the model to attend multple positions simultaneously. 
 
 ## General methods
@@ -27,23 +25,9 @@ Model parallelization and data parallelization.
 
 ### 3. Reversible layers
 Split input in the channel dimension, $x \rightarrow {x_1, x_2}$. During the forward pass, 
-$$
-\begin{equation}
-\begin{split}
-y_1 = x_1 + f(x_2) \\
-y_2 = x_2 + g(y_1)
-\end{split}
-\end{equation}
-$$
+$$\begin{aligned}y_1 = x_1 + f(x_2) \\\\ y_2 = x_2 + g(y_1)\end{aligned}$$
 and we can re-construct the activations by
-$$
-\begin{equation}
-\begin{split}
-x_2 = y_2 - g(y_1) \\
-x_1 = y_1 - f(x_2)
-\end{split}
-\end{equation}
-$$
+$$\begin{aligned}x_2 = y_2 - g(y_1) \\\\ x_1 = y_1 - f(x_2)\end{aligned}$$
 
 > Nonetheless, reversible layers add numerical errors that accumulate over multiple layers and may degrade the model performance. Therefore, they are not suited for very deep networks.
 
@@ -91,11 +75,11 @@ Models like Transformer-XL increase the RECL by chunking the input into windows 
 Full attention calculates the weights based on query and key and the highest score is assigned when their dot product is the highest, which means when query and key are similar, their produced weight weill be higher. Therefore, we can use LSH to find a set of similar query-key pairs with less complexity.
 
 ### 4. Low rank factorization
-| Model         | Mechanism                            |
-| ------------- | ------------------------------------ |
-| Linformer     | ![[Pasted image 20210404091622.png]] |
-| Nyströmformer | Nyström  method and SVD                                     |
-| Synthesizer   | Replace dot product with FFN         |
+| Model         | Mechanism                    |
+| ------------- | ---------------------------- |
+| Linformer     | Matrix factorization         |
+| Nyströmformer | Nyström  method and SVD      |
+| Synthesizer   | Replace dot product with FFN |
 
 ### 5. Kernel attention
 
