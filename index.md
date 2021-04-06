@@ -16,7 +16,6 @@
 - [[page-oss-projects]]
 - [[page-digital-gardens]]
 - [[page-resume]]
-- [Page Resume](https://standardresume.co/r/yKD3t-mPK0xrmdlaJ-Ee8)
 
 ## Credits
 This blog is created with [Obsidian](https://obsidian.md/) and [oboe](https://github.com/kmaasrud/oboe)
