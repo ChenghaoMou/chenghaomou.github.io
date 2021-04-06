@@ -15,6 +15,7 @@
 - [[page-posts]]
 - [[page-oss-projects]]
 - [[page-digital-gardens]]
+- [[page-resume]]
 - [Page Resume](https://standardresume.co/r/yKD3t-mPK0xrmdlaJ-Ee8)
 
 ## Credits
