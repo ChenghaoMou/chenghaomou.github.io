@@ -12,4 +12,4 @@ Labeled datasets vary in size and models might struggle to learn all the tasks (
 	- Not to reiterate the success, but interestingly, it worsens the results on BART for three common-sense reasoning tasks
 
 ## Next
-[[readings/sentence-ranking-loss]]
+[[sentence-ranking-loss]]

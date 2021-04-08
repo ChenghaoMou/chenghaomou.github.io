@@ -12,10 +12,10 @@
 > Chenghao
 
 ## Pages
-- [[page-posts]]
-- [[page-oss-projects]]
-- [[page-digital-gardens]]
-- [[page-resume]]
+- [[page-posts]]#
+- [[page-oss-projects]]#
+- [[page-digital-gardens]]#
+- [[page-resume]]#
 
 ## Credits
 This blog is created with [Obsidian](https://obsidian.md/) and [oboe](https://github.com/kmaasrud/oboe)
