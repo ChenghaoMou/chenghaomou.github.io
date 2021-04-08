@@ -12,11 +12,11 @@
 > Chenghao
 
 ## Pages
-- [[page-posts]]#
-- [[page-oss-projects]]#
-- [[page-digital-gardens]]#
-- [[page-resume]]#
+- [[posts]]#
+- [[oss-projects]]#
+- [[digital-gardens]]#
+- [[resume]]#
 
 ## Credits
-This blog is created with [Obsidian](https://obsidian.md/) and [oboe](https://github.com/kmaasrud/oboe)
+This blog is created with [Obsidian](https://obsidian.md/) and [neuron](https://github.com/srid/neuron)
 

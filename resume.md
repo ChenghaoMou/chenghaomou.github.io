@@ -1,4 +1,4 @@
-# Chenghao Mou
+# Resume
 [Github](https://github.com/ChenghaoMou) | [Email](mailto:mouchenghao@gmail.com) | (213) 234-8004
 
 ## WORK EXPERIENCE
@@ -36,4 +36,4 @@ Master of Science, Data Informatics
 Bachelor of Engineering, Software Engineering 
 
 ## PROJECTS
-[[page-oss-projects]]
+[[oss-projects]]
