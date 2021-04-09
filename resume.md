@@ -5,6 +5,7 @@
 
 **[Armorblox](https://www.armorblox.com/)**, Machine Learning Enginer <span style="float:right"> May, 2020 - Current </span>
 
+
 Summary: NLU vertical applications targeting emails and documents
 -   Proposed a robust OCR-and-rule-based invoice information extraction system
 -   Built and shipped multiple NLU applications end-to-end, including classifiers for phishing/marketing/social engineering/extortion emails with <100ms latency, using Kubernetes, MLflow and Seldon-core
@@ -16,12 +17,14 @@ Summary: NLU vertical applications targeting emails and documents
 
 **[Information Sciences Institute](https://www.isi.edu/)**, Student Worker <span style="float:right"> Jan, 2019 - Jan, 2020 </span>
 
+
 Summary: Commonsense reasoning/inference and low-resource machine translation with Professor Jonathan May
 -   Proposed transformer with pointer generator for low resource NMT
 -   Incorporated bilingual dictionaries (Tagalog-English) with statistical machine translation models using Moses
 -   Implemented commonsense reasoning/inference evaluation framework for BERTology models with AI2 leaderboards
 
 **[USC VIterbi School of Engineering](https://www.usc.edu/)**, Research Intern <span style="float:right"> Aug, 2018 - Dec, 2018 </span>
+
 
 Summary: Understanding user reviews and mobile application evolution
 -   Refined text preprocessing with parallelism for over 500 Million reviews, reducing preprocess time from days to hours
@@ -31,7 +34,8 @@ Summary: Understanding user reviews and mobile application evolution
 
 ## EDUCATION
 **[University of Southern California](https://www.usc.edu/)** <span style="float:right"> Aug, 2018 - May, 2020</span>
-Master of Science, Data Informatics 
+Master of Science, Data Informatics
+
 **[Wuhan University](http://en.whu.edu.cn/)** <span style="float:right"> Aug, 2014 - May, 2018</span>
 Bachelor of Engineering, Software Engineering 
 
