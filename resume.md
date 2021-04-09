@@ -36,6 +36,7 @@ Summary: Understanding user reviews and mobile application evolution
 **[University of Southern California](https://www.usc.edu/)** <span style="float:right"> Aug, 2018 - May, 2020</span>
 Master of Science, Data Informatics
 
+
 **[Wuhan University](http://en.whu.edu.cn/)** <span style="float:right"> Aug, 2014 - May, 2018</span>
 Bachelor of Engineering, Software Engineering 
 
