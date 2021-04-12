@@ -4,5 +4,6 @@ We've seen some ideas on remedy the vocabulary burden from modern large models w
 
 In this paper, CANINE makes it more generic by applying character/code-point level hash embeddings and block-wise self-attention – focusing on locality of characters since they don't really have long dependency – and strided convolutions to down-size the sequence length ($\frac{2048}{4}\rightarrow{512}$). 
 
+Above-mentioned architecture is suffient for classification, but for sequence generation tasks, they concatenate the attended chara
 
 
