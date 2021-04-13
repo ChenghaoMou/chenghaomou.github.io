@@ -45,13 +45,13 @@ Distillation trains a smaller network to mimic a large model's behaviors. It pro
 Each parameter in the network is reduced to a certain bit length but the number of parameters remains the same.
 
 ### 8. Mixture of experts
-[[switch-transformers]] is the latest MoE model where expert networks are included but only used when activated/choosen.
+[[switch-transformers]] is the latest MoE model where expert networks are included but only used when activated/chosen.
 
 ### 9. Sample-efficient objectives
 MLM predicts only masked tokens for one input. Better objectives like replaced token detection in DETECTRA make the model more computationally efficient.
 
 ### 10. Architecture search
-Various NAS have been proposed to find better nueral network architectures. The evolved transformer, for expamle, has similar performance with the vanilla transformer with only 78% of the parameters. NSA requires high computation resources though. 
+Various NAS have been proposed to find better nueral network architectures. The evolved transformer, for example, has similar performance with the vanilla transformer with only 78% of the parameters. NSA requires high computation resources though. 
 
 ### 11. Conditional computing
 MoE is also a form of conditional computing. Maybe early exit too? Another form of conditional computing is Adaptive Computation Time, with which the model learns a halting probability so it knows when to stop pondering and a pondering cost that it does not take too long to think. Transformer variations of this leads to moels like Universal Transformer and Depth Adaptive Transformer. 
@@ -90,9 +90,9 @@ Performer uses a kernel mapping to approximate the exponential calculation.
 - We do not fully understand how any why attention works
 - We generally could not evaluate them all when proposing new changes
 - One technique is not enough, people combine more and more into one model ([[switch-transformers]] combines distillation, MoE, mixed-precision)
-- We should report not only the theoretical compelxity but also FLOPs, wall-clock time, memory footprint (cloud infra cost as well?)
+- We should report not only the theoretical complexity but also FLOPs, wall-clock time, memory footprint (cloud infra cost as well?)
 - No modification so far generalize well for various tasks
 - Large models do perform well, but we need lighter and faster ones for wider applications, lower $\mathit{CO}_2$ emissions and costs
 
-> Nonetheless, a clear trend emerges from Long-Range Arena: sparse attention is the best performing approach, kernel attention is the fastest, and low-rank factorization is the lightest. The two best performing models are BigBird and Longformer, both based on the sparse attention, with BigBird outperforming the vanilla Transformer; the two fastest models are the Performer and the linear Transformer, both based on kernel attention; the lightest model is the Linformer which uses lowrank factorization.
+> Nonetheless, a clear trend emerges from Long-Range Arena: sparse attention is the best performing approach, kernel attention is the fastest, and low-rank factorization is the lightest. The two best performing models are BigBird and Longformer, both based on the sparse attention, with BigBird outperforming the vanilla Transformer; the two fastest models are the Performer and the linear Transformer, both based on kernel attention; the lightest model is the Linformer which uses low-rank factorization.
 

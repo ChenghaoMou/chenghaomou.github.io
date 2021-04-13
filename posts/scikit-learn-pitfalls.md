@@ -1,6 +1,6 @@
 # Scikit-learn Pitfalls
 
-- Use pipelines for both preprocessing transformations and models
+- Use pipelines for both pre-processing transformations and models
 - Test set is only for testing, nothing else
   - Always split the data first
   - `fit*` functions can never see test set, but usage of `transform` should be consistent
