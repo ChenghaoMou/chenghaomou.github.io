@@ -8,7 +8,7 @@
 
 Summary: NLU vertical applications targeting emails and documents
 -   Proposed a robust OCR-and-rule-based invoice information extraction system
--   Built and shipped multiple NLU applications end-to-end, including classifiers for phishing/marketing/social engineering/extortion emails with <100ms latency, using Kubernetes, MLflow and Seldon-core
+-   Built and shipped multiple NLU applications end-to-end, including classifiers for phishing/marketing/social engineering/extortion emails with <100ms latency, using Kubernetes, Scikit-learn and PyTorch
 -   Implemented a SOTA CRF-based document segmentation model for the email zoning problem, recognizing email salutations, bodies, and signature/disclaimers with sub-second latency
 -   Introduced and perfected multiple internal tools for model demonstration and inspection w/ streamlit
 
