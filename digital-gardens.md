@@ -16,10 +16,11 @@
 ## NLP
 
 ## Engineering
-| Name                                           | Category |
-| ---------------------------------------------- | -------- |
-| [Terminus](https://github.com/Eugeny/terminus) | Terminal |
-|                                                |          |
+| Name                                                             | Category      |
+| ---------------------------------------------------------------- | ------------- |
+| [Terminus](https://github.com/Eugeny/terminus)                   | Terminal      |
+| [README Template](https://github.com/krishdevdb/readme-template) | Documentation |
+|                                                                  |               |
 
 ## Python
 
