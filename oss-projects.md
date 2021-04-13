@@ -3,6 +3,8 @@
 ## NLP projects
 - [ai2](https://github.com/isi-nlp/ai2) is a succint commmonsense-reasoning training and evaluation framework for transformer-based models.
 - [pytorch-pqrnn](https://github.com/ChenghaoMou/pytorch-pQRNN) is a PyTorch implementation of [pQRNN model](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html).
+- [text-dedup]()
+- [transformer with pointer generator](https://github.com/ChenghaoMou/transformer-pointer-generator)
 
 ## For fun
 - [karafulu](https://github.com/ChenghaoMou/karafuru) shows traditional Chinese colors in your terminal.
