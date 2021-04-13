@@ -7,9 +7,9 @@
 
 
 Summary: NLU vertical applications targeting emails and documents
--   Proposed a robust OCR-and-heuristic-based invoice information extraction system
+-   Proposed a robust OCR-and-heuristic-based invoice information extraction system *What is the impact*
 -   Built and shipped multiple NLU applications end-to-end, including classifiers for phishing/marketing/social engineering/extortion emails with <100ms latency, using Kubernetes, Scikit-learn and PyTorch
--   Implemented a SOTA CRF-based document segmentation model for the email zoning problem, recognizing email salutations, bodies, and signature/disclaimers with sub-second latency
+-   Implemented a SOTA CRF-based document segmentation model for the email zoning problem, recognizing email salutations, bodies, and signature/disclaimers with sub-second latency, significantly reducing 
 -   Re-produced and open-sourced first PyTorch [implementation](https://github.com/ChenghaoMou/pytorch-pQRNN) of [pQRNN](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html), a model with 300x less parameters than BERT and competitive performance
 
 **[Armorblox](https://www.armorblox.com/)**, NLP Intern <span style="float:right"> Jan, 2020 - May, 2020 </span>
