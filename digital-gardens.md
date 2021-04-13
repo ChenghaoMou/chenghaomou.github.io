@@ -14,13 +14,14 @@
 - [16Personalities](https://www.16personalities.com/profile) Personalty test
 
 ## ML/NLP
-| Name                                                                         | Category   |
-| ---------------------------------------------------------------------------- | ---------- |
-| [Github MLOps](https://mlops.githubapp.com/)                                 | MLOps      |
-| [NLP Journey](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing) | Tutorials  |
-| [AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                 | AI         |
-| [NLP Papers](https://github.com/gyunggyung/NLP-Papers)                       | Paper List |
-|                                                                              |            |
+| Name                                                                         | Category         |
+| ---------------------------------------------------------------------------- | ---------------- |
+| [Github MLOps](https://mlops.githubapp.com/)                                 | MLOps            |
+| [NLP Journey](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing) | Tutorials        |
+| [AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                 | AI               |
+| [NLP Papers](https://github.com/gyunggyung/NLP-Papers)                       | Paper List       |
+| [Facet](https://github.com/BCG-Gamma/facet)                                  | Interpretability |
+| [224N](https://web.stanford.edu/class/cs224n/)                               | NLP Course                 |
 
 ## Engineering
 | Name                                                             | Category      |
@@ -32,6 +33,7 @@
 ## Python
 
 ## Interview
+- [An Enlightening Guide to Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener)
 
 ## Productivity
 | Name                                             | Category                           |
