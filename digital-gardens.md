@@ -11,6 +11,7 @@
 
 ## Career
 - [Teal](https://app.tealhq.com/) Work style personality test & job tracker
+- [16Personalities](https://www.16personalities.com/profile) Personalty test
 
 ## NLP
 
