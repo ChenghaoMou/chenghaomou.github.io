@@ -12,10 +12,14 @@
 ## Interview
 
 ## Productivity
+| Name                                             | Category                           |
+| ------------------------------------------------ | ---------------------------------- |
+| [Todoist](https://todoist.com/)                  | To-do list                         |
+| [Fantastical](https://flexibits.com/fantastical) | Calendar                           |
+| [Miro](https://miro.com/)                        | UML                                |
+| [Whimsical](https://whimsical.com/)              | Mind Map                           |
+| [Papers](https://app.readcube.com/)              | Reference Management/Paper Reading |
+| [Obsidian](https://obsidian.md/)                 | Note-taking/Knowledge Management   |                                                 |                                    |
+                                
 
-### UML, Mind Maps and Diagrams
-| :Name:                    | :Category: |
-| ------------------------- | ---------- |
-| [Miro](https://miro.com/) |            |
-- [Miro](https://miro.com/)
-- [Whimsical](https://whimsical.com/)
+								
