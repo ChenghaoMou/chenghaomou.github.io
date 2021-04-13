@@ -13,7 +13,14 @@
 - [Teal](https://app.tealhq.com/) Work style personality test & job tracker
 - [16Personalities](https://www.16personalities.com/profile) Personalty test
 
-## NLP
+## ML/NLP
+| Name                                                                         | Category   |
+| ---------------------------------------------------------------------------- | ---------- |
+| [Github MLOps](https://mlops.githubapp.com/)                                 | MLOps      |
+| [NLP Journey](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing) | Tutorials  |
+| [AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                 | AI         |
+| [NLP Papers](https://github.com/gyunggyung/NLP-Papers)                       | Paper List |
+|                                                                              |            |
 
 ## Engineering
 | Name                                                             | Category      |
