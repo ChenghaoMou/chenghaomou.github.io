@@ -3,14 +3,14 @@
 
 ## WORK EXPERIENCE
 
-**[Armorblox](https://www.armorblox.com/)**, Machine Learning Enginer <span style="float:right"> May, 2020 - Current </span>
+**[Armorblox](https://www.armorblox.com/)**, Machine Learning Engineer <span style="float:right"> May, 2020 - Current </span>
 
 
 Summary: NLU vertical applications targeting emails and documents
--   Proposed a robust OCR-and-rule-based invoice information extraction system
+-   Proposed a robust OCR-and-heuristic-based invoice information extraction system
 -   Built and shipped multiple NLU applications end-to-end, including classifiers for phishing/marketing/social engineering/extortion emails with <100ms latency, using Kubernetes, Scikit-learn and PyTorch
 -   Implemented a SOTA CRF-based document segmentation model for the email zoning problem, recognizing email salutations, bodies, and signature/disclaimers with sub-second latency
--   Introduced and perfected multiple internal tools for model demonstration and inspection w/ streamlit
+-   Introduced and perfected multiple internal tools for model demonstration and inspection w/ Streamlit
 
 **[Armorblox](https://www.armorblox.com/)**, NLP Intern <span style="float:right"> Jan, 2020 - May, 2020 </span>
 -   Created a multi-granularity multitasking model in PyTorch with a pre-trained language model that deals with documents, paragraphs, sentences, and tokens in one pass
@@ -21,16 +21,16 @@ Summary: NLU vertical applications targeting emails and documents
 Summary: Commonsense reasoning/inference and low-resource machine translation with Professor Jonathan May
 -   Proposed transformer with pointer generator for low resource NMT
 -   Incorporated bilingual dictionaries (Tagalog-English) with statistical machine translation models using Moses
--   Implemented commonsense reasoning/inference evaluation framework for BERTology models with AI2 leaderboards
+-   Implemented commonsense reasoning/inference evaluation framework for BERT models with AI2 leaderboards
 
 **[USC VIterbi School of Engineering](https://www.usc.edu/)**, Research Intern <span style="float:right"> Aug, 2018 - Dec, 2018 </span>
 
 
 Summary: Understanding user reviews and mobile application evolution
--   Refined text preprocessing with parallelism for over 500 Million reviews, reducing preprocess time from days to hours
+-   Refined text pre-processing with parallelism for over 500 Million reviews, reducing preprocess time from days to hours
 -   Wrote a dozen specialized scrapers for data collecting within a few days
--   Reimplemented a comprehensive text similarity model based on a Siamese Network with concatenated embedding and statistical features
--   Deployed a BiLSTM Network with CRF for review aspect abstraction with 0.79 F1-score (SOTA 0.82) on a public dataset
+-   Re-implemented a comprehensive text similarity model based on a Siamese Network with concatenated embedding and statistical features
+-   Deployed a Bi-LSTM Network with CRF for review aspect abstraction with 0.79 F1-score (SOTA 0.82) on a public data-set
 
 ## EDUCATION
 **[University of Southern California](https://www.usc.edu/)** <span style="float:right"> Aug, 2018 - May, 2020</span>
