@@ -1,11 +1,24 @@
 # Digital Garden
 
+## Sources
+- [Hacker News](https://news.ycombinator.com/)
+- [Twitter](https://twitter.com/home)
+- [Medium](https://medium.com/)
+- [Github](https://github.com/)
+- [Weibo](https://weibo.com/)
+- [Product Hunt](https://www.producthunt.com/)
+- [Beta List](https://betalist.com/)
+
 ## Career
 - [Teal](https://app.tealhq.com/) Work style personality test & job tracker
 
 ## NLP
 
 ## Engineering
+| Name                                           | Category |
+| ---------------------------------------------- | -------- |
+| [Terminus](https://github.com/Eugeny/terminus) | Terminal |
+|                                                |          |
 
 ## Python
 
