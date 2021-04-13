@@ -21,7 +21,9 @@
 | [AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                 | AI               |
 | [NLP Papers](https://github.com/gyunggyung/NLP-Papers)                       | Paper List       |
 | [Facet](https://github.com/BCG-Gamma/facet)                                  | Interpretability |
-| [224N](https://web.stanford.edu/class/cs224n/)                               | NLP Course                 |
+| [224N](https://web.stanford.edu/class/cs224n/)                               | NLP Course       |
+| [MLOps Course](https://madewithml.com/courses/mlops/)                        | MLOps            |
+|                                                                              |                  |
 
 ## Engineering
 | Name                                                             | Category      |
