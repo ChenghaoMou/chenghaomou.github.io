@@ -25,7 +25,8 @@
 | [224N](https://web.stanford.edu/class/cs224n/)                               | NLP Course       |
 | [MLOps Course](https://madewithml.com/courses/mlops/)                        | MLOps            |
 | [interpret-text](https://github.com/interpretml/interpret-text)              | Interpretability |
-| [Dive into Deep Learning](https://i.am.ai/roadmap)                           | Book/Course      | 
+| [Dive into Deep Learning](https://i.am.ai/roadmap)                           | Book/Course      |
+| [SOTA](https://www.stateoftheart.ai/)                                        | Reference        | 
 
 ## Engineering
 | Name                                                             | Category      |
