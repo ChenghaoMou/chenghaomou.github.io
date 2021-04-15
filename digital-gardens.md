@@ -9,6 +9,9 @@
 - [Product Hunt](https://www.producthunt.com/)
 - [Beta List](https://betalist.com/)
 
+## Reading
+- [The Gradient](https://thegradient.pub/)
+
 ## Career
 - [Teal](https://app.tealhq.com/) Work style personality test & job tracker
 - [16Personalities](https://www.16personalities.com/profile) Personalty test
