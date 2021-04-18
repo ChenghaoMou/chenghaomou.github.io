@@ -19,3 +19,8 @@ Text segmentation techniques like BPE and SentencePiece are subject to a lot of 
 
 Here, the rendered text is segmented into blocks/slices using a sliding window and each slice goes through a series of transformations — Conv2D, BatchNorm, ReLU and a linear transformation — and eventually goes to a standard transformer for further processing.
 
+Some interesting observations from the paper:
+- Given a fixed window size, increasing the stride degrades the performance
+- Increasing the convolution channel size does not necessarily translate into performance gains
+- Smaller strides increase the training time as the sequence are getting longer
+- Consistent improvement over baseline models on noisy data (confusables, permutations)
