@@ -15,7 +15,7 @@ Text segmentation techniques like BPE and SentencePiece are subject to a lot of 
 | Shared Character Components | 확인**한**다 | 확인·한·다  |
 |                             | 확인**했**다 | 확인·했다   |
 
-![[vtr.png]]
+![Architecture](./static/vtr.png)
 
 Here, the rendered text is segmented into blocks/slices using a sliding window and each slice goes through a series of transformations — Conv2D, BatchNorm, ReLU and a linear transformation — and eventually goes to a standard transformer for further processing.
 
