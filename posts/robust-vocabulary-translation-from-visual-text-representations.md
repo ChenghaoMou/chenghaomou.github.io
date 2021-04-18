@@ -23,4 +23,4 @@ Some interesting observations from the paper:
 - Given a fixed window size, increasing the stride degrades the performance
 - Increasing the convolution channel size does not necessarily translate into performance gains
 - Smaller strides increase the training time as the sequence are getting longer
-- Consistent improvement over baseline models on noisy data (confusables, permutations)
+- Consistent improvement over baseline models on noisy data (confusables, permutations, natural noise like misspelling)
