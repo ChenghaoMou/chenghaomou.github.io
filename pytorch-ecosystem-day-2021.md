@@ -2,7 +2,8 @@
 
 - Distributed or Accelerated Training
 	- `torch_ort` Using one line of code to adopt ONNX runtime for your model training
-```python
-from torch_ort import ORTModule
-model = ORTModule(MyModel().to(devide))
-```
+	- `dask` extends their distribution capability into PyTorch training
+
+- Ops
+	- `ClearML`: An open-source solution covering fundamentals of MLOps for R&D — Reproducibility, Orchestration, and Automation
+	- 
