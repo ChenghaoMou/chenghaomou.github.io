@@ -11,4 +11,4 @@
 - NLP, Multi-modal
 	- `MMF` A modular framework for multi-modal research (specialized encoders for each modality and fusion with transformers/concatenation)
 - Performance & Profiler
-	- 
+	- PyTorch Profiler
