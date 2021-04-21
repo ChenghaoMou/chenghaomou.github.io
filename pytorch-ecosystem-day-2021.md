@@ -6,4 +6,7 @@
 
 - Ops
 	- `ClearML`: An open-source solution covering fundamentals of MLOps for R&D — Reproducibility, Orchestration, and Automation
-	- 
+	- `Avalanche`: Continual Learning
+
+- NLP, Multi-modal
+	- `MMF` A modular framework for multi-modal research (specialized encoders for each modality and fusion with )
