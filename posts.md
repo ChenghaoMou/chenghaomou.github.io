@@ -15,5 +15,5 @@
 - [[shortformer-better-language-modeling-using-shorter-inputs]]#
 
 ## Ideas
-- A classification alternative to [SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization](https://arxiv.org/abs/2104.07605)
+- A classification alternative to [SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization](https://arxiv.org/ abs/2104.07605)
 
