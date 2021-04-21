@@ -13,3 +13,6 @@
 - [[deberta]]#
 - [[supervised-contrastive-learning]]#
 - [[shortformer-better-language-modeling-using-shorter-inputs]]#
+
+## Ideas
+- An alternative to SummVIS
