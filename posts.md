@@ -15,4 +15,4 @@
 - [[shortformer-better-language-modeling-using-shorter-inputs]]#
 
 ## Ideas
-- An alternative to SummVIS
+- A classification alternative to [](https://arxiv.org/abs/2104.07605)
