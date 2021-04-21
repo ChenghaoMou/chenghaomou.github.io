@@ -1,8 +1,8 @@
 # OSS Projects
-![Stats](https://github-readme-stats.vercel.app/api?username=ChenghaoMou&show_icons=true)
+![GitHub User's stars](https://img.shields.io/github/stars/ChenghaoMou?style=social)
 
 ## NLP projects
-- [text-embeddings](https://github.com/ChenghaoMou/embeddings) no-vocabulary text embeddings, compatible with `transformers`
+- [text-embeddings](https://github.com/ChenghaoMou/embeddings) no-vocabulary text embeddings, compatible with `transformers` ![GitHub Repo stars](https://img.shields.io/github/stars/ChenghaoMou/embeddings?style=social)
 - [ai2](https://github.com/isi-nlp/ai2) is a succinct commonsense-reasoning training and evaluation framework for transformer-based models.
 - [pytorch-pqrnn](https://github.com/ChenghaoMou/pytorch-pQRNN) is a PyTorch implementation of [pQRNN model](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html).
 - [text-dedup](https://github.com/ChenghaoMou/text-dedup) All-in-one text de-duplication tool with edit distance, LSH and embeddings.
