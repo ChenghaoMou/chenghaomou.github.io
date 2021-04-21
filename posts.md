@@ -2,6 +2,7 @@
 
 ## Random
 - [[scikit-learn-pitfalls]]# covers some thoughts on reading [Common pitfalls and recommended practices](https://scikit-learn.org/stable/common\_pitfalls.html#common-pitfalls)
+- [[pytorch-ecosystem-day-2021]]# highlights from PyTorch Ecosystem Day 2021
 
 ## Readings
 - [[robust-vocabulary-translation-from-visual-text-representations]]#
