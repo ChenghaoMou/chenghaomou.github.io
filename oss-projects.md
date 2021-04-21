@@ -1,4 +1,5 @@
 # OSS Projects
+![Stats](https://github-readme-stats.vercel.app/api?username=ChenghaoMou&show_icons=true)
 
 ## NLP projects
 - [text-embeddings](https://github.com/ChenghaoMou/embeddings) no-vocabulary text embeddings, compatible with `transformers`
