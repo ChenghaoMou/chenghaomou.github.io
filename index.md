@@ -17,6 +17,7 @@
 - [[oss-projects]]#
 - [[digital-gardens]]#
 - [[resume]]#
+- [[collections]]#
 
 ## Credits
 This blog is created with [Obsidian](https://obsidian.md/) and [neuron](https://github.com/srid/neuron)
