@@ -21,13 +21,14 @@ Researchers from Google published two models, namely [PRADO](https://aclantholog
 
 In this way, as long as you can store the hashing function, you do not require an embedding layer since you can generate your input matrix on the fly. This projection was mainly designed for on-device models and PRQNN is just an extension to PRADO where the backbone of the model is changed from LSTM to QRNN.
 
-Similar method has been adopted in [CANINE](https://arxiv.org/abs/2103.06874). In this model, each charater is hashed and later in the model, convolution 
+Similar method has been adopted in [CANINE](https://arxiv.org/abs/2103.06874). In this model, **each charater** is hashed and later in the model, convolution layers are used to learn a **cross-character context** which essentially forms the representations of subword tokens.
 
 ## No Embedding for Images
+It is fun to ingest text by words, tokens, or characters, but it is also fun when the model can see them too. Authors of [Robust Open-Vocabulary Translation from Visual Text Representations](https://arxiv.org/abs/2104.08211) convert each line the text into an image and use sliding window to "tokenize" the text. Because it is agnostic to the underlying language and visually capable, it achieves some very interesting and promising results for machine translation and is very robust to noise/errors like misspelling.
+
 ## A Samll Embedding Goes a Long Way
+
+Words are in millions, subword tokens, maybe in thousands, characters 
+
 ## No Tokenization is Perfect, Unless You Learn to Be
 
-
-## References and Resources
-1. Clark, J. H., Garrette, D., Turc, I. & Wieting, J. CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation. _Arxiv_ (2021).
-2. Salesky, E., Etter, D. & Post, M. Robust Open-Vocabulary Translation from Visual Text Representations. _Arxiv_ (2021).
