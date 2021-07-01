@@ -10,7 +10,7 @@ If you trace back the memory lane, you can probably remember Word2Vec and GloVe 
 ## What is wrong with the embedding layer/tokenization
 Tokenization and the embedding layer come hand in hand, you need a tokenizer to segment your text into tokens and an embedding layer to map each token to its representation. That part is easy but if you ever tried to take tokenization by yourself before, you know there is no prefect tokenizer and it can easily drive a sane man into madness.
 
-Authors from [Robust Open-Vocabulary Translation from Visual Text Representations](https://arxiv.org/abs/2104.08211) give a nice summary of issues with tokenization methods we have right now:
+Authors of [Robust Open-Vocabulary Translation from Visual Text Representations](https://arxiv.org/abs/2104.08211) give a nice summary of issues with tokenization methods we have right now:
 ![[Pasted image 20210701151829.png]]
 Figure 1: Examples of common behavior which cause divergent representations for subword models. BPE models shown have vocabularies of size 5k.
 
@@ -36,5 +36,11 @@ Since the embeddings are only linked to each character, we loose some context in
 
 In ByT5, the authors uses a different span corruption as the training objective and unblanced encoder-decoder (emphasis on encoder) to help model understand byte sequences.
 
-As for Charformer, the authors designed a trainable module to, at each position of 
+As for Charformer, the authors designed a trainable module to score different segmentations at that position in the byte sequence. Consequently, the model can learn the best byte-level segmentations on the fly and end-to-end. To the outside, it reads bytes but internally, it understands token-level boundaries.
 
+
+## Thoughts
+Models are going bigger and smaller. The upper limit of those models are our best hope and the lower ones are our best day-to-day tools for those who like me don't have access to crazy number of GPUs. 
+Let me know what you think of this post and any feedback is welcome!
+
+Not all papers included code when publishing, so I have a small [repo](https://github.com/ChenghaoMou/embeddings/) for reimplementing them on my weekends, if you have any interesting ideas let me know as well!
