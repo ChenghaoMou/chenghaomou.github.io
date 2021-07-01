@@ -30,7 +30,11 @@ It is fun to ingest text by words, tokens, or characters, but it is also fun whe
 
 If you still want an embedding layer, we can definitely reduce its size significantly with a character-level vocabulary(There are plenty of character-based PLMs such as charBERT or characterBERT) but we can go one step further to the bytes.
 
-[ByT5] and [Charformer] are byte-level models. The both use a small vocabulary of size around 256 (+- few special IDs)
+[ByT5](https://arxiv.org/abs/2105.13626) and [Charformer](https://arxiv.org/abs/2106.12672) are byte-level models. The both use a small vocabulary of size around 256 (+- few special IDs). With these models, the tokenization process is reduced to simple encoding from string to bytes. But they differ in how to handle such embeddings later in the model.
 
-## No Tokenization is Perfect, Unless You Learn to Be
+Since the embeddings are only linked to each character, we loose some context information regarding a subword or a whole word. So it is important to teach/force the model to capture such relationships through architecturing. 
+
+In ByT5, the authors uses a different span corruption as the training objective and unblanced encoder-decoder (emphasis on encoder) to help model understand byte sequences.
+
+As for Charformer, the authors designed a trainable module to, at each position of 
 
