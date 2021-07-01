@@ -28,7 +28,9 @@ It is fun to ingest text by words, tokens, or characters, but it is also fun whe
 
 ## A Samll Embedding Goes a Long Way
 
-Words are in millions, subword tokens, maybe in thousands, characters 
+If you still want an embedding layer, we can definitely reduce its size significantly with a character-level vocabulary(There are plenty of character-based PLMs such as charBERT or characterBERT) but we can go one step further to the bytes.
+
+[ByT5] and [Charformer] are byte-level models. The both use a small vocabulary of size around 256 (+- few special IDs)
 
 ## No Tokenization is Perfect, Unless You Learn to Be
 
