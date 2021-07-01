@@ -17,7 +17,11 @@ Figure 1: Examples of common behavior which cause divergent representations for 
 Yes, BPE and sentencepiece are great for formal, English and clean dataset, but it is only a small tip of the iceberg — we still have informal usage of a language (emojis, confusables, code etc.), low-resource, morphological or orthgraphical rich languages that cannot take direct benefit from the same method. 
 
 ## Hash Embedding Comes to the Resuce
-Researchers from Google published two blog posts with their projection-bas
+Researchers from Google published two models, namely [PRADO](https://aclanthology.org/D19-1506.pdf) and [PQRNN](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html)  with their projection-based hash embeddings. Essentially, they "project" each token $w_i$ into a length $B$ trinary sequence by hashining every few bit into $\{-1, 0, 1\}$ and uses a $B \times b$ matrix to transformer each token into a $d$ dimention vector. 
+
+In this way, as long as you can store the hashing function, you do not require an embedding layer since you can generate your input matrix on the fly. This projection was mainly designed for on-device models and PRQNN is just an extension to PRADO where the backbone of the model is changed from LSTM to QRNN.
+
+Similar method has been adopted in [CANINE](https://arxiv.org/abs/2103.06874). In this model, each charater is hashed and later in the model, convolution 
 
 ## No Embedding for Images
 ## A Samll Embedding Goes a Long Way
