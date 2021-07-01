@@ -11,7 +11,7 @@ If you trace back the memory lane, you can probably remember Word2Vec and GloVe 
 Tokenization and the embedding layer come hand in hand, you need a tokenizer to segment your text into tokens and an embedding layer to map each token to its representation. That part is easy but if you ever tried to take tokenization by yourself before, you know there is no prefect tokenizer and it can easily drive a sane man into madness.
 
 Authors of [Robust Open-Vocabulary Translation from Visual Text Representations](https://arxiv.org/abs/2104.08211) give a nice summary of issues with tokenization methods we have right now:
-![[Pasted image 20210701151829.png]]
+![Figure 1](./static/vtr_issues.png)
 Figure 1: Examples of common behavior which cause divergent representations for subword models. BPE models shown have vocabularies of size 5k.
 
 Yes, BPE and sentencepiece are great for formal, English and clean dataset, but it is only a small tip of the iceberg — we still have informal usage of a language (emojis, confusables, code etc.), low-resource, morphological or orthgraphical rich languages that cannot take direct benefit from the same method. 
