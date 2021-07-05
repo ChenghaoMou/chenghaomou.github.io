@@ -2,3 +2,5 @@ out
 .obsidian
 .DS_Store
 .neuron
+.vscode
+.obsidian-git-data
