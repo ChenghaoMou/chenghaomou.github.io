@@ -15,3 +15,10 @@ $$h = f(Wx + b)$$
 $$\theta^{\mbox{new}} = \theta^{\mbox{old}} - \alpha\nabla_{\theta}J(\Theta)$$
 ## Binary true vs. corrupted word window classification
 ## Matrix calculus introduction
+$$
+\begin{align}
+\frac{\partial}{\partial x}(Wx+b) &= W\\
+\frac{\partial}{\partial b}(Wx+b) &= I\\
+\frac{\partial}{\partial u}(u^Th) &= h^T
+\end{align}
+$$
