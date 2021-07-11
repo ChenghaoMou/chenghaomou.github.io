@@ -31,4 +31,8 @@ For small delta, compute the gradients using $f'(x) = \frac{f(x+h) - f(x-h)}{2h}
 $J(\theta) = ... + \lambda \sum_k \theta_k^2$
 
 ## Non-linear activations
-## Parameter initializationP
+## Parameter initialization
+## Optimizers
+## Learning rates
+- start small
+- or if you are using fancy optimizers, start large (0.1 e.g.)
