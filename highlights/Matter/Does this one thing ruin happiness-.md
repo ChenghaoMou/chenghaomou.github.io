@@ -1,0 +1,13 @@
+---
+aliases:
+  - Does this one thing ruin happiness?
+url: https://getmatter.com/email/19083553/?token=19083553%3Ar6aUz26V8_CP2l3Yacd3Ld8V_bA
+publisher: Mark Manson
+order: -20230206030433
+date: 2023-02-06
+tags:
+---
+
+## Highlights
+<mark>What matters isn’t the comparison. What matters is the meaning we derive from the comparison.</mark>
+

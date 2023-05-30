@@ -1,0 +1,14 @@
+img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.markdown-preview-view table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.publish-renderer > .markdown-preview-view > .markdown-preview-sizer {
+  max-width: 1280px;
+}
