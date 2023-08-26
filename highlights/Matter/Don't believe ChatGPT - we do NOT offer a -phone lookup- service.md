@@ -3,10 +3,11 @@ aliases:
   - Don't believe ChatGPT - we do NOT offer a "phone lookup" service
 url: https://blog.opencagedata.com/post/dont-believe-chatgpt
 author: freyfogle
-publisher: Hacker News: Front Page
+publisher: "Hacker News: Front Page"
 order: -20230223132449
 date: 2023-02-23
 tags:
+title: "Don't believe ChatGPT - we do NOT offer a -phone lookup- service"
 ---
 
 ## Highlights
@@ -15,4 +16,3 @@ tags:
 <mark>The key difference is that humans have learned to be sceptical when getting advice from other humans, for example via a video coding tutorial. It seems though that we haven’t yet fully internalized this when it comes to AI in general or ChatGPT specifically. The other key difference is the sheer scale of the problem. Bad tutorial videos got us a handful of frustrated sign-ups. With ChatGPT the problem is several orders of magnitude bigger.</mark>
 
 <mark>ChatGPT is doing exactly what it’s makers intended - producing a coherent, believable answer. Whether that answer is truthful does not seem to matter in the slightest.</mark>
-
