@@ -54,18 +54,12 @@
 @online{_d,
   title = {Data {{Statements}}: {{From Technical Concept}} to {{Community Practice}} | {{ACM Journal}} on {{Responsible Computing}}},
   url = {https://dl.acm.org/doi/10.1145/3594737},
-  urldate = {2023-05-12}
+  urldate = {2023-05-12},
+  file = {/Users/chenghao/Zotero/storage/AJ3XXS2K/Data_Statements.pdf}
 }
 
 @software{_e,
   title = {Addon {{Item}}},
-  keywords = {/unread}
-}
-
-@online{_f,
-  title = {[2305.17333] {{Fine-Tuning Language Models}} with {{Just Forward Passes}}},
-  url = {https://arxiv.org/abs/2305.17333},
-  urldate = {2023-05-30},
   keywords = {/unread}
 }
 
@@ -99,7 +93,7 @@
   urldate = {2023-05-30},
   abstract = {Automated dialogue or conversational systems are anthropomorphised by developers and personified by users. While a degree of anthropomorphism is inevitable, conscious and unconscious design choices can guide users to personify them to varying degrees. Encouraging users to relate to automated systems as if they were human can lead to transparency and trust issues, and high risk scenarios caused by over-reliance on their outputs. As a result, natural language processing researchers have begun to investigate factors that induce personification and develop resources to mitigate such effects. However, these efforts are fragmented, and many aspects of anthropomorphism have yet to be considered. In this paper, we discuss the linguistic factors that contribute to the anthropomorphism of dialogue systems and the harms that can arise, arguing that it can reinforce stereotypes of gender roles and notions of acceptable language. We recommend that future efforts towards developing dialogue systems take particular care in their design, development, release, and description; and attend to the many linguistic cues that can elicit personification by users.},
   pubstate = {preprint},
-  keywords = {/unread,Computer Science - Computation and Language},
+  keywords = {Computer Science - Computation and Language},
   annotation = {0 citations (Semantic Scholar/arXiv) [2023-05-29] 0 citations (Semantic Scholar/DOI) [2023-05-29]},
   file = {/Users/chenghao/Zotero/storage/DJ92DHUC/Abercrombie_et_al_(2023)_Mirages.pdf}
 }
@@ -384,6 +378,23 @@
   file = {/Users/chenghao/Zotero/storage/JP79AKQG/Biderman et al. - 2023 - Pythia A Suite for Analyzing Large Language Model.pdf}
 }
 
+@online{birhane_2023,
+  title = {On {{Hate Scaling Laws For Data-Swamps}}},
+  author = {Birhane, Abeba and Prabhu, Vinay and Han, Sang and Boddeti, Vishnu Naresh},
+  date = {2023-06-28},
+  eprint = {2306.13141},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2306.13141},
+  url = {http://arxiv.org/abs/2306.13141},
+  urldate = {2023-07-03},
+  abstract = {`Scale the model, scale the data, scale the GPU-farms' is the reigning sentiment in the world of generative AI today. While model scaling has been extensively studied, data scaling and its downstream impacts remain under explored. This is especially of critical importance in the context of visio-linguistic datasets whose main source is the World Wide Web, condensed and packaged as the CommonCrawl dump. This large scale data-dump, which is known to have numerous drawbacks, is repeatedly mined and serves as the data-motherlode for large generative models. In this paper, we: 1) investigate the effect of scaling datasets on hateful content through a comparative audit of the LAION-400M and LAION-2B-en, containing 400 million and 2 billion samples respectively, and 2) evaluate the downstream impact of scale on visio-linguistic models trained on these dataset variants by measuring racial bias of the models trained on them using the Chicago Face Dataset (CFD) as a probe. Our results show that 1) the presence of hateful content in datasets, when measured with a Hate Content Rate (HCR) metric on the inferences of the Pysentimiento hate-detection Natural Language Processing (NLP) model, increased by nearly \$12\textbackslash\%\$ and 2) societal biases and negative stereotypes were also exacerbated with scale on the models we evaluated. As scale increased, the tendency of the model to associate images of human faces with the `human being' class over 7 other offensive classes reduced by half. Furthermore, for the Black female category, the tendency of the model to associate their faces with the `criminal' class doubled, while quintupling for Black male faces. We present a qualitative and historical analysis of the model audit results, reflect on our findings and its implications for dataset curation practice, and close with a summary of our findings and potential future work to be done in this area.},
+  pubstate = {preprint},
+  keywords = {/unread,Computer Science - Computers and Society},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2023-07-03] 0 citations (Semantic Scholar/DOI) [2023-07-03]},
+  file = {/Users/chenghao/Zotero/storage/CXGZHNFJ/Birhane_et_al_(2023)_On_Hate_Scaling_Laws_For_Data-Swamps.pdf}
+}
+
 @article{biten_2022,
   title = {{{OCR-IDL}}: {{OCR Annotations}} for {{Industry Document Library Dataset}}},
   shorttitle = {{{OCR-IDL}}},
@@ -517,23 +528,6 @@
   file = {/Users/chenghao/Zotero/storage/YNBRHW5E/Bulatov et al. - 2023 - Scaling Transformer to 1M tokens and beyond with R.pdf}
 }
 
-@online{bulatov_2023a,
-  title = {Scaling {{Transformer}} to {{1M}} Tokens and beyond with {{RMT}}},
-  author = {Bulatov, Aydar and Kuratov, Yuri and Burtsev, Mikhail S.},
-  date = {2023-04-19},
-  eprint = {2304.11062},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  doi = {10.48550/arXiv.2304.11062},
-  url = {http://arxiv.org/abs/2304.11062},
-  urldate = {2023-04-30},
-  abstract = {This technical report presents the application of a recurrent memory to extend the context length of BERT, one of the most effective Transformer-based models in natural language processing. By leveraging the Recurrent Memory Transformer architecture, we have successfully increased the model's effective context length to an unprecedented two million tokens, while maintaining high memory retrieval accuracy. Our method allows for the storage and processing of both local and global information and enables information flow between segments of the input sequence through the use of recurrence. Our experiments demonstrate the effectiveness of our approach, which holds significant potential to enhance long-term dependency handling in natural language understanding and generation tasks as well as enable large-scale context processing for memory-intensive applications.},
-  pubstate = {preprint},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
-  annotation = {0 citations (Semantic Scholar/arXiv) [2023-04-30]},
-  file = {/Users/chenghao/Zotero/storage/CXDRTSUE/Bulatov_et_al_(2023)_Scaling_Transformer_to_1M_tokens_and_beyond_with_RMT.pdf}
-}
-
 @online{burns_2023,
   title = {A {{Suite}} of {{Generative Tasks}} for {{Multi-Level Multimodal Webpage Understanding}}},
   author = {Burns, Andrea and Srinivasan, Krishna and Ainslie, Joshua and Brown, Geoff and Plummer, Bryan A. and Saenko, Kate and Ni, Jianmo and Guo, Mandy},
@@ -595,6 +589,23 @@
   file = {/Users/chenghao/Zotero/storage/H7WN7YIJ/Chen_et_al_(2022)_XDoc.pdf;/Users/chenghao/Zotero/storage/B4Y6AKRX/e5b03c3165d3a056dc55ce18835be04f5f817f4b.html}
 }
 
+@online{chen_2023,
+  title = {Extending {{Context Window}} of {{Large Language Models}} via {{Positional Interpolation}}},
+  author = {Chen, Shouyuan and Wong, Sherman and Chen, Liangjian and Tian, Yuandong},
+  date = {2023-06-28},
+  eprint = {2306.15595},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2306.15595},
+  url = {http://arxiv.org/abs/2306.15595},
+  urldate = {2023-07-17},
+  abstract = {We present Position Interpolation (PI) that extends the context window sizes of RoPE-based pretrained LLMs such as LLaMA models to up to 32768 with minimal fine-tuning (within 1000 steps), while demonstrating strong empirical results on various tasks that require long context, including passkey retrieval, language modeling, and long document summarization from LLaMA 7B to 65B. Meanwhile, the extended model by Position Interpolation preserve quality relatively well on tasks within its original context window. To achieve this goal, Position Interpolation linearly down-scales the input position indices to match the original context window size, rather than extrapolating beyond the trained context length which may lead to catastrophically high attention scores that completely ruin the self-attention mechanism. Our theoretical study shows that the upper bound of interpolation is at least \$\textbackslash sim 600 \textbackslash times\$ smaller than that of extrapolation, further demonstrating its stability. Models extended via Position Interpolation retain its original architecture and can reuse most pre-existing optimization and infrastructure.},
+  pubstate = {preprint},
+  keywords = {/unread,Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
+  annotation = {1 citations (Semantic Scholar/arXiv) [2023-07-17] 1 citations (Semantic Scholar/DOI) [2023-07-17]},
+  file = {/Users/chenghao/Zotero/storage/LEMWM4WI/Chen et al. - 2023 - Extending Context Window of Large Language Models via Positional Interpolation.pdf}
+}
+
 @article{cheng_2022,
   title = {{{TRIE}}++: {{Towards End-to-End Information Extraction}} from {{Visually Rich Documents}}},
   shorttitle = {{{TRIE}}++},
@@ -622,21 +633,6 @@
   file = {/Users/chenghao/Zotero/storage/P2QF3RNC/Choshen_et_al_(2022)_Fusing_finetuned_models_for_better_pretraining.pdf}
 }
 
-@unpublished{chowdhery_2022,
-  title = {{{PaLM}}: {{Scaling Language Modeling}} with {{Pathways}}},
-  shorttitle = {{{PaLM}}},
-  author = {Chowdhery, Aakanksha and Narang, Sharan and Devlin, Jacob and Bosma, Maarten and Mishra, Gaurav and Roberts, Adam and Barham, Paul and Chung, Hyung Won and Sutton, Charles and Gehrmann, Sebastian and Schuh, Parker and Shi, Kensen and Tsvyashchenko, Sasha and Maynez, Joshua and Rao, Abhishek and Barnes, Parker and Tay, Yi and Shazeer, Noam and Prabhakaran, Vinodkumar and Reif, Emily and Du, Nan and Hutchinson, Ben and Pope, Reiner and Bradbury, James and Austin, Jacob and Isard, Michael and Gur-Ari, Guy and Yin, Pengcheng and Duke, Toju and Levskaya, Anselm and Ghemawat, Sanjay and Dev, Sunipa and Michalewski, Henryk and Garcia, Xavier and Misra, Vedant and Robinson, Kevin and Fedus, Liam and Zhou, Denny and Ippolito, Daphne and Luan, David and Lim, Hyeontaek and Zoph, Barret and Spiridonov, Alexander and Sepassi, Ryan and Dohan, David and Agrawal, Shivani and Omernick, Mark and Dai, Andrew M. and Pillai, Thanumalayan Sankaranarayana and Pellat, Marie and Lewkowycz, Aitor and Moreira, Erica and Child, Rewon and Polozov, Oleksandr and Lee, Katherine and Zhou, Zongwei and Wang, Xuezhi and Saeta, Brennan and Diaz, Mark and Firat, Orhan and Catasta, Michele and Wei, Jason and Meier-Hellstern, Kathy and Eck, Douglas and Dean, Jeff and Petrov, Slav and Fiedel, Noah},
-  date = {2022-04-05},
-  eprint = {2204.02311},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  url = {http://arxiv.org/abs/2204.02311},
-  urldate = {2022-04-06},
-  abstract = {Large language models have been shown to achieve remarkable performance across a variety of natural language tasks using few-shot learning, which drastically reduces the number of task-specific training examples needed to adapt the model to a particular application. To further our understanding of the impact of scale on few-shot learning, we trained a 540-billion parameter, densely activated, Transformer language model, which we call Pathways Language Model PaLM. We trained PaLM on 6144 TPU v4 chips using Pathways, a new ML system which enables highly efficient training across multiple TPU Pods. We demonstrate continued benefits of scaling by achieving state-of-the-art few-shot learning results on hundreds of language understanding and generation benchmarks. On a number of these tasks, PaLM 540B achieves breakthrough performance, outperforming the finetuned state-of-the-art on a suite of multi-step reasoning tasks, and outperforming average human performance on the recently released BIG-bench benchmark. A significant number of BIG-bench tasks showed discontinuous improvements from model scale, meaning that performance steeply increased as we scaled to our largest model. PaLM also has strong capabilities in multilingual tasks and source code generation, which we demonstrate on a wide array of benchmarks. We additionally provide a comprehensive analysis on bias and toxicity, and study the extent of training data memorization with respect to model scale. Finally, we discuss the ethical considerations related to large language models and discuss potential mitigation strategies.},
-  keywords = {Computer Science - Computation and Language,nlp,PLM},
-  file = {/Users/chenghao/Zotero/storage/RXRTF8SS/Chowdhery_et_al_(2022)_PaLM.pdf}
-}
-
 @online{chowdhery_2022a,
   title = {{{PaLM}}: {{Scaling Language Modeling}} with {{Pathways}}},
   shorttitle = {{{PaLM}}},
@@ -662,6 +658,26 @@
   journaltitle = {arXiv},
   abstract = {Pipelined NLP systems have largely been superseded by end-to-end neural modeling, yet nearly all commonly-used models still require an explicit tokenization step. While recent tokenization approaches based on data-derived subword lexicons are less brittle than manually engineered tokenizers, these techniques are not equally suited to all languages, and the use of any fixed vocabulary may limit a model's ability to adapt. In this paper, we present CANINE, a neural encoder that operates directly on character sequences, without explicit tokenization or vocabulary, and a pre-training strategy that operates either directly on characters or optionally uses subwords as a soft inductive bias. To use its finer-grained input effectively and efficiently, CANINE combines downsampling, which reduces the input sequence length, with a deep transformer stack, which encodes context. CANINE outperforms a comparable mBERT model by 2.8 F1 on TyDi QA, a challenging multilingual benchmark, despite having 28\% fewer model parameters.},
   keywords = {\#nosource}
+}
+
+@article{csanyi_2021,
+  title = {Challenges and {{Open Problems}} of {{Legal Document Anonymization}}},
+  author = {Csányi, Gergely Márk and Nagy, Dániel and Vági, Renátó and Vadász, János Pál and Orosz, Tamás},
+  date = {2021-08-13},
+  journaltitle = {Symmetry},
+  shortjournal = {Symmetry},
+  volume = {13},
+  number = {8},
+  pages = {1490},
+  issn = {2073-8994},
+  doi = {10.3390/sym13081490},
+  url = {https://www.mdpi.com/2073-8994/13/8/1490},
+  urldate = {2023-07-05},
+  abstract = {Data sharing is a central aspect of judicial systems. The openly accessible documents can make the judiciary system more transparent. On the other hand, the published legal documents can contain much sensitive information about the involved persons or companies. For this reason, the anonymization of these documents is obligatory to prevent privacy breaches. General Data Protection Regulation (GDPR) and other modern privacy-protecting regulations have strict definitions of private data containing direct and indirect identifiers. In legal documents, there is a wide range of attributes regarding the involved parties. Moreover, legal documents can contain additional information about the relations between the involved parties and rare events. Hence, the personal data can be represented by a sparse matrix of these attributes. The application of Named Entity Recognition methods is essential for a fair anonymization process but is not enough. Machine learning-based methods should be used together with anonymization models, such as differential privacy, to reduce re-identification risk. On the other hand, the information content (utility) of the text should be preserved. This paper aims to summarize and highlight the open and symmetrical problems from the fields of structured and unstructured text anonymization. The possible methods for anonymizing legal documents discussed and illustrated by case studies from the Hungarian legal practice.},
+  langid = {english},
+  keywords = {/unread},
+  annotation = {18 citations (Semantic Scholar/DOI) [2023-07-06]},
+  file = {/Users/chenghao/Zotero/storage/ELTBE9D8/Csányi et al. - 2021 - Challenges and Open Problems of Legal Document Ano.pdf}
 }
 
 @article{cui_2021,
@@ -748,6 +764,23 @@
   keywords = {Computer Science - Computation and Language},
   annotation = {1 citations (Semantic Scholar/arXiv) [2022-06-04]},
   file = {/Users/chenghao/Zotero/storage/9VEMW9NJ/Di_Liello_et_al_(2022)_Paragraph-based_Transformer_Pre-training_for_Multi-Sentence_Inference.pdf}
+}
+
+@online{ding_2023,
+  title = {{{LongNet}}: {{Scaling Transformers}} to 1,000,000,000 {{Tokens}}},
+  shorttitle = {{{LongNet}}},
+  author = {Ding, Jiayu and Ma, Shuming and Dong, Li and Zhang, Xingxing and Huang, Shaohan and Wang, Wenhui and Wei, Furu},
+  date = {2023-07-05},
+  eprint = {2307.02486},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2307.02486},
+  url = {http://arxiv.org/abs/2307.02486},
+  urldate = {2023-07-06},
+  abstract = {Scaling sequence length has become a critical demand in the era of large language models. However, existing methods struggle with either computational complexity or model expressivity, rendering the maximum sequence length restricted. In this work, we introduce LongNet, a Transformer variant that can scale sequence length to more than 1 billion tokens, without sacrificing the performance on shorter sequences. Specifically, we propose dilated attention, which expands the attentive field exponentially as the distance grows. LongNet has significant advantages: 1) it has a linear computation complexity and a logarithm dependency between tokens; 2) it can be served as a distributed trainer for extremely long sequences; 3) its dilated attention is a drop-in replacement for standard attention, which can be seamlessly integrated with the existing Transformer-based optimization. Experiments results demonstrate that LongNet yields strong performance on both long-sequence modeling and general language tasks. Our work opens up new possibilities for modeling very long sequences, e.g., treating a whole corpus or even the entire Internet as a sequence.},
+  pubstate = {preprint},
+  keywords = {/unread,Computer Science - Computation and Language,Computer Science - Machine Learning},
+  file = {/Users/chenghao/Zotero/storage/C22FMD8K/Ding_et_al_(2023)_LongNet.pdf}
 }
 
 @unpublished{du_2021a,
@@ -844,6 +877,15 @@
   file = {/Users/chenghao/Zotero/storage/UHZ3F26Q/Fernandes et al. - 2023 - Bridging the Gap A Survey on Integrating (Human) .pdf}
 }
 
+@inproceedings{francopoulo_2020,
+  title = {Anonymization for the {{GDPR}} in the {{Context}} of {{Citizen}} and {{Customer Relationship Management}} and {{NLP}}},
+  author = {Francopoulo, Gil and Schaub, Leon-Paul},
+  date = {2020-05-01},
+  abstract = {The General Data Protection Regulation (GDPR) is the regulation in the European Economic Area (EEA) law on data protection and privacy for all citizens. There is a dilemma between sharing data and their subjects' confidentiality to respect GDPR in the commercial, legal and administrative sectors of activity. Moreover, the case of text data poses an additional difficulty: suppressing the personal information without deteriorating the semantic argumentation expressed in the text in order to apply a subsequent process like a thematic detection, an opinion mining or a chatbot. We listed five functional requirements for an anonymization process but we faced some difficulties to implement a solution that fully meets these requirements. Finally, and following an engineering approach, we propose a practical compromise which currently satisfies our users and could also be applied to other sectors like the medical or financial ones.},
+  keywords = {/unread},
+  file = {/Users/chenghao/Zotero/storage/JA8B5G85/Francopoulo and Schaub - 2020 - Anonymization for the GDPR in the Context of Citiz.pdf}
+}
+
 @online{fried_2022,
   title = {{{InCoder}}: {{A Generative Model}} for {{Code Infilling}} and {{Synthesis}}},
   shorttitle = {{{InCoder}}},
@@ -898,23 +940,6 @@
   keywords = {Computer Science - Computer Vision and Pattern Recognition},
   annotation = {0 citations (Semantic Scholar/arXiv) [2023-03-14]},
   file = {/Users/chenghao/Zotero/storage/CX87I6ZL/Gandikota_et_al_(2023)_Erasing_Concepts_from_Diffusion_Models.pdf}
-}
-
-@online{ganguli_2023,
-  title = {The {{Capacity}} for {{Moral Self-Correction}} in {{Large Language Models}}},
-  author = {Ganguli, Deep and Askell, Amanda and Schiefer, Nicholas and Liao, Thomas and Lukošiūtė, Kamilė and Chen, Anna and Goldie, Anna and Mirhoseini, Azalia and Olsson, Catherine and Hernandez, Danny and Drain, Dawn and Li, Dustin and Tran-Johnson, Eli and Perez, Ethan and Kernion, Jackson and Kerr, Jamie and Mueller, Jared and Landau, Joshua and Ndousse, Kamal and Nguyen, Karina and Lovitt, Liane and Sellitto, Michael and Elhage, Nelson and Mercado, Noemi and DasSarma, Nova and Lasenby, Robert and Larson, Robin and Ringer, Sam and Kundu, Sandipan and Kadavath, Saurav and Johnston, Scott and Kravec, Shauna and Showk, Sheer El and Lanham, Tamera and Telleen-Lawton, Timothy and Henighan, Tom and Hume, Tristan and Bai, Yuntao and Hatfield-Dodds, Zac and Mann, Ben and Amodei, Dario and Joseph, Nicholas and McCandlish, Sam and Brown, Tom and Olah, Christopher and Clark, Jack and Bowman, Samuel R. and Kaplan, Jared},
-  date = {2023-02-14},
-  eprint = {2302.07459},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  doi = {10.48550/arXiv.2302.07459},
-  url = {http://arxiv.org/abs/2302.07459},
-  urldate = {2023-02-18},
-  abstract = {We test the hypothesis that language models trained with reinforcement learning from human feedback (RLHF) have the capability to "morally self-correct" -- to avoid producing harmful outputs -- if instructed to do so. We find strong evidence in support of this hypothesis across three different experiments, each of which reveal different facets of moral self-correction. We find that the capability for moral self-correction emerges at 22B model parameters, and typically improves with increasing model size and RLHF training. We believe that at this level of scale, language models obtain two capabilities that they can use for moral self-correction: (1) they can follow instructions and (2) they can learn complex normative concepts of harm like stereotyping, bias, and discrimination. As such, they can follow instructions to avoid certain kinds of morally harmful outputs. We believe our results are cause for cautious optimism regarding the ability to train language models to abide by ethical principles.},
-  pubstate = {preprint},
-  keywords = {/unread,Computer Science - Computation and Language},
-  annotation = {0 citations (Semantic Scholar/arXiv) [2023-02-18]},
-  file = {/Users/chenghao/Zotero/storage/VWUZ8WJN/Ganguli_et_al_(2023)_The_Capacity_for_Moral_Self-Correction_in_Large_Language_Models.pdf}
 }
 
 @unpublished{gao_2020,
@@ -997,23 +1022,6 @@
   file = {/Users/chenghao/Zotero/storage/EQS4NI8L/Gesmundo_Dean_(2022)_An_Evolutionary_Approach_to_Dynamic_Introduction_of_Tasks_in_Large-scale.pdf}
 }
 
-@online{geva_2023,
-  title = {Dissecting {{Recall}} of {{Factual Associations}} in {{Auto-Regressive Language Models}}},
-  author = {Geva, Mor and Bastings, Jasmijn and Filippova, Katja and Globerson, Amir},
-  date = {2023-04-28},
-  eprint = {2304.14767},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  doi = {10.48550/arXiv.2304.14767},
-  url = {http://arxiv.org/abs/2304.14767},
-  urldate = {2023-05-02},
-  abstract = {Transformer-based language models (LMs) are known to capture factual knowledge in their parameters. While previous work looked into where factual associations are stored, only little is known about how they are retrieved internally during inference. We investigate this question through the lens of information flow. Given a subject-relation query, we study how the model aggregates information about the subject and relation to predict the correct attribute. With interventions on attention edges, we first identify two critical points where information propagates to the prediction: one from the relation positions followed by another from the subject positions. Next, by analyzing the information at these points, we unveil a three-step internal mechanism for attribute extraction. First, the representation at the last-subject position goes through an enrichment process, driven by the early MLP sublayers, to encode many subject-related attributes. Second, information from the relation propagates to the prediction. Third, the prediction representation "queries" the enriched subject to extract the attribute. Perhaps surprisingly, this extraction is typically done via attention heads, which often encode subject-attribute mappings in their parameters. Overall, our findings introduce a comprehensive view of how factual associations are stored and extracted internally in LMs, facilitating future research on knowledge localization and editing.},
-  pubstate = {preprint},
-  keywords = {/unread,Computer Science - Computation and Language},
-  annotation = {0 citations (Semantic Scholar/arXiv) [2023-05-01]},
-  file = {/Users/chenghao/Zotero/storage/XP2ZY6XZ/Geva_et_al_(2023)_Dissecting_Recall_of_Factual_Associations_in_Auto-Regressive_Language_Models.pdf}
-}
-
 @online{gilardi_2023,
   title = {{{ChatGPT Outperforms Crowd-Workers}} for {{Text-Annotation Tasks}}},
   author = {Gilardi, Fabrizio and Alizadeh, Meysam and Kubli, Maël},
@@ -1028,6 +1036,22 @@
   pubstate = {preprint},
   keywords = {/unread,Computer Science - Computation and Language,Computer Science - Computers and Society},
   file = {/Users/chenghao/Zotero/storage/FIGARLHI/Gilardi_et_al_(2023)_ChatGPT_Outperforms_Crowd-Workers_for_Text-Annotation_Tasks.pdf}
+}
+
+@online{grosse_2023,
+  title = {Studying {{Large Language Model Generalization}} with {{Influence Functions}}},
+  author = {Grosse, Roger and Bae, Juhan and Anil, Cem and Elhage, Nelson and Tamkin, Alex and Tajdini, Amirhossein and Steiner, Benoit and Li, Dustin and Durmus, Esin and Perez, Ethan and Hubinger, Evan and Lukošiūtė, Kamilė and Nguyen, Karina and Joseph, Nicholas and McCandlish, Sam and Kaplan, Jared and Bowman, Samuel R.},
+  date = {2023-08-07},
+  eprint = {2308.03296},
+  eprinttype = {arxiv},
+  eprintclass = {cs, stat},
+  doi = {10.48550/arXiv.2308.03296},
+  url = {http://arxiv.org/abs/2308.03296},
+  urldate = {2023-08-11},
+  abstract = {When trying to gain better visibility into a machine learning model in order to understand and mitigate the associated risks, a potentially valuable source of evidence is: which training examples most contribute to a given behavior? Influence functions aim to answer a counterfactual: how would the model's parameters (and hence its outputs) change if a given sequence were added to the training set? While influence functions have produced insights for small models, they are difficult to scale to large language models (LLMs) due to the difficulty of computing an inverse-Hessian-vector product (IHVP). We use the Eigenvalue-corrected Kronecker-Factored Approximate Curvature (EK-FAC) approximation to scale influence functions up to LLMs with up to 52 billion parameters. In our experiments, EK-FAC achieves similar accuracy to traditional influence function estimators despite the IHVP computation being orders of magnitude faster. We investigate two algorithmic techniques to reduce the cost of computing gradients of candidate training sequences: TF-IDF filtering and query batching. We use influence functions to investigate the generalization patterns of LLMs, including the sparsity of the influence patterns, increasing abstraction with scale, math and programming abilities, cross-lingual generalization, and role-playing behavior. Despite many apparently sophisticated forms of generalization, we identify a surprising limitation: influences decay to near-zero when the order of key phrases is flipped. Overall, influence functions give us a powerful new tool for studying the generalization properties of LLMs.},
+  pubstate = {preprint},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Statistics - Machine Learning},
+  file = {/Users/chenghao/Zotero/storage/WMWTLVGR/Grosse et al. - 2023 - Studying Large Language Model Generalization with .pdf}
 }
 
 @online{gudibande_2023,
@@ -1114,14 +1138,6 @@
   pubstate = {preprint},
   keywords = {/unread,Computer Science - Machine Learning,Statistics - Machine Learning},
   file = {/Users/chenghao/Zotero/storage/6U3GWTYS/Gutmann_(2022)_Pen_and_Paper_Exercises_in_Machine_Learning.pdf}
-}
-
-@article{hao_,
-  title = {Reasoning with {{Language Model}} Is {{Planning}} with {{World Model}}},
-  author = {Hao, Shibo and Gu, Yi and Ma, Haodi and Hong, Joshua Jiahua and Wang, Zhen and Wang, Daisy Zhe and Hu, Zhiting},
-  abstract = {Large language models (LLMs) have shown remarkable reasoning capabilities, especially when prompted to generate intermediate reasoning steps (e.g., Chain-ofThought, CoT). However, LLMs can still struggle with problems that are easy for humans, such as generating action plans for executing tasks in a given environment, or performing complex math, logical, and commonsense reasoning. The deficiency stems from the key fact that LLMs lack an internal world model to predict the world state (e.g., environment status, intermediate variable values) and simulate long-term outcomes of actions. This prevents LLMs from performing deliberate planning akin to human brains, which involves exploring alternative reasoning paths, anticipating future states and rewards, and iteratively refining existing reasoning steps. To overcome the limitations, we propose a new LLM reasoning framework, Reasoning via Planning (RAP). RAP repurposes the LLM as both a world model and a reasoning agent, and incorporates a principled planning algorithm (based on Monto Carlo Tree Search) for strategic exploration in the vast reasoning space. During reasoning, the LLM (as agent) incrementally builds a reasoning tree under the guidance of the LLM (as world model) and task-specific rewards, and obtains a high-reward reasoning path efficiently with a proper balance between exploration vs. exploitation. We apply RAP to a variety of challenging reasoning problems including plan generation, math reasoning, and logical inference. Empirical results on these tasks demonstrate the superiority of RAP over various strong baselines, including CoT and least-to-most prompting with self-consistency. RAP on LLaMA33B surpasses CoT on GPT-4 with 33\% relative improvement in a plan generation setting.},
-  langid = {english},
-  file = {/Users/chenghao/Zotero/storage/YDU7TNPC/Hao et al. - Reasoning with Language Model is Planning with Wor.pdf}
 }
 
 @article{hartman_2021,
@@ -1539,6 +1555,22 @@
   file = {/Users/chenghao/Zotero/storage/2XZC5UL8/Klaiman_Lehne_(2021)_DocReader.pdf;/Users/chenghao/Zotero/storage/LJKC8CWT/2105.html}
 }
 
+@online{kleinberg_2022,
+  title = {Textwash -- Automated Open-Source Text Anonymisation},
+  author = {Kleinberg, Bennett and Davies, Toby and Mozes, Maximilian},
+  date = {2022-08-27},
+  eprint = {2208.13081},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/2208.13081},
+  urldate = {2023-07-05},
+  abstract = {The increased use of text data in social science research has benefited from easy-to-access data (e.g., Twitter). That trend comes at the cost of research requiring sensitive but hard-to-share data (e.g., interview data, police reports, electronic health records). We introduce a solution to that stalemate with the open-source text anonymisation software\_Textwash\_. This paper presents the empirical evaluation of the tool using the TILD criteria: a technical evaluation (how accurate is the tool?), an information loss evaluation (how much information is lost in the anonymisation process?) and a de-anonymisation test (can humans identify individuals from anonymised text data?). The findings suggest that Textwash performs similar to state-of-the-art entity recognition models and introduces a negligible information loss of 0.84\%. For the de-anonymisation test, we tasked humans to identify individuals by name from a dataset of crowdsourced person descriptions of very famous, semi-famous and non-existing individuals. The de-anonymisation rate ranged from 1.01-2.01\% for the realistic use cases of the tool. We replicated the findings in a second study and concluded that Textwash succeeds in removing potentially sensitive information that renders detailed person descriptions practically anonymous.},
+  pubstate = {preprint},
+  keywords = {/unread,Computer Science - Computation and Language,Computer Science - Computers and Society},
+  annotation = {2 citations (Semantic Scholar/arXiv) [2023-07-06]},
+  file = {/Users/chenghao/Zotero/storage/HR5DWPCG/Kleinberg et al. - 2022 - Textwash -- automated open-source text anonymisati.pdf;/Users/chenghao/Zotero/storage/GWG3XRLV/2208.html}
+}
+
 @online{kocetkov_2022,
   title = {The {{Stack}}: 3 {{TB}} of Permissively Licensed Source Code},
   shorttitle = {The {{Stack}}},
@@ -1640,39 +1672,6 @@
   file = {/Users/chenghao/Zotero/storage/LMCB3YA5/Kuznetsov_Urdiales_2021_Spelling Correction with Denoising Transformer_annotated.pdf}
 }
 
-@online{lampinen_2023,
-  title = {Can Language Models Handle Recursively Nested Grammatical Structures? {{A}} Case Study on Comparing Models and Humans},
-  shorttitle = {Can Language Models Handle Recursively Nested Grammatical Structures?},
-  author = {Lampinen, Andrew Kyle},
-  date = {2023-02-16},
-  eprint = {2210.15303},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  doi = {10.48550/arXiv.2210.15303},
-  url = {http://arxiv.org/abs/2210.15303},
-  urldate = {2023-03-20},
-  abstract = {How should we compare the capabilities of language models (LMs) and humans? I draw inspiration from comparative psychology to highlight some challenges. In particular, I consider a case study: processing of recursively nested grammatical structures. Prior work suggests that LMs cannot handle these structures as reliably as humans can. However, the humans were provided with instructions and training, while the LMs were evaluated zero-shot. I therefore match the evaluation more closely. Providing large LMs with a simple prompt -- substantially less content than the human training -- allows the LMs to consistently outperform the human results, and even to extrapolate to more deeply nested conditions than were tested with humans. Further, reanalyzing the prior human data suggests that the humans may not perform above chance at the difficult structures initially. Thus, large LMs may indeed process recursively nested grammatical structures as reliably as humans. This case study highlights how discrepancies in the evaluation can confound comparisons of language models and humans. I therefore reflect on the broader challenge of comparing human and model capabilities, and highlight an important difference between evaluating cognitive models and foundation models.},
-  pubstate = {preprint},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
-  file = {/Users/chenghao/Zotero/storage/K7JAMI2Z/Lampinen - 2023 - Can language models handle recursively nested gram.pdf}
-}
-
-@online{lampinen_2023a,
-  title = {Passive Learning of Active Causal Strategies in Agents and Language Models},
-  author = {Lampinen, Andrew Kyle and Chan, Stephanie C. Y. and Dasgupta, Ishita and Nam, Andrew J. and Wang, Jane X.},
-  date = {2023-05-25},
-  eprint = {2305.16183},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  doi = {10.48550/arXiv.2305.16183},
-  url = {http://arxiv.org/abs/2305.16183},
-  urldate = {2023-05-26},
-  abstract = {What can be learned about causality and experimentation from passive data? This question is salient given recent successes of passively-trained language models in interactive domains such as tool use. Passive learning is inherently limited. However, we show that purely passive learning can in fact allow an agent to learn generalizable strategies for determining and using causal structures, as long as the agent can intervene at test time. We formally illustrate that learning a strategy of first experimenting, then seeking goals, can allow generalization from passive learning in principle. We then show empirically that agents trained via imitation on expert data can indeed generalize at test time to infer and use causal links which are never present in the training data; these agents can also generalize experimentation strategies to novel variable sets never observed in training. We then show that strategies for causal intervention and exploitation can be generalized from passive data even in a more complex environment with high-dimensional observations, with the support of natural language explanations. Explanations can even allow passive learners to generalize out-of-distribution from perfectly-confounded training data. Finally, we show that language models, trained only on passive next-word prediction, can generalize causal intervention strategies from a few-shot prompt containing examples of experimentation, together with explanations and reasoning. These results highlight the surprising power of passive learning of active causal strategies, and may help to understand the behaviors and capabilities of language models.},
-  pubstate = {preprint},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
-  file = {/Users/chenghao/Zotero/storage/KY5JUXU2/Lampinen et al. - 2023 - Passive learning of active causal strategies in ag.pdf}
-}
-
 @online{landeghem_2023,
   title = {Document {{Understanding Dataset}} and {{Evaluation}} ({{DUDE}})},
   author = {Landeghem, Jordy and Tito, Rubén and Borchmann, Łukasz and Pietruszka, Michał and Józiak, Paweł and Powalski, Rafał and Jurkiewicz, Dawid and Coustaty, Mickaël and Ackaert, Bertrand and Valveny, Ernest and Blaschko, Matthew and Moens, Sien and Stanisławek, Tomasz},
@@ -1734,6 +1733,23 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning},
   annotation = {101 citations (Semantic Scholar/arXiv) [2023-03-12]},
   file = {/Users/chenghao/Zotero/storage/SVZ4YK4G/Lee et al. - 2022 - Deduplicating Training Data Makes Language Models .pdf}
+}
+
+@online{lenat_2023,
+  title = {Getting from {{Generative AI}} to {{Trustworthy AI}}: {{What LLMs}} Might Learn from {{Cyc}}},
+  shorttitle = {Getting from {{Generative AI}} to {{Trustworthy AI}}},
+  author = {Lenat, Doug and Marcus, Gary},
+  date = {2023-07-31},
+  eprint = {2308.04445},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2308.04445},
+  url = {http://arxiv.org/abs/2308.04445},
+  urldate = {2023-08-10},
+  abstract = {Generative AI, the most popular current approach to AI, consists of large language models (LLMs) that are trained to produce outputs that are plausible, but not necessarily correct. Although their abilities are often uncanny, they are lacking in aspects of reasoning, leading LLMs to be less than completely trustworthy. Furthermore, their results tend to be both unpredictable and uninterpretable. We lay out 16 desiderata for future AI, and discuss an alternative approach to AI which could theoretically address many of the limitations associated with current approaches: AI educated with curated pieces of explicit knowledge and rules of thumb, enabling an inference engine to automatically deduce the logical entailments of all that knowledge. Even long arguments produced this way can be both trustworthy and interpretable, since the full step-by-step line of reasoning is always available, and for each step the provenance of the knowledge used can be documented and audited. There is however a catch: if the logical language is expressive enough to fully represent the meaning of anything we can say in English, then the inference engine runs much too slowly. That's why symbolic AI systems typically settle for some fast but much less expressive logic, such as knowledge graphs. We describe how one AI system, Cyc, has developed ways to overcome that tradeoff and is able to reason in higher order logic in real time. We suggest that any trustworthy general AI will need to hybridize the approaches, the LLM approach and more formal approach, and lay out a path to realizing that dream.},
+  pubstate = {preprint},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Machine Learning,I.2.0},
+  file = {/Users/chenghao/Zotero/storage/FQXV2AM6/Lenat and Marcus - 2023 - Getting from Generative AI to Trustworthy AI What.pdf}
 }
 
 @online{leong_2019,
@@ -1931,6 +1947,24 @@
   file = {/Users/chenghao/Zotero/storage/EZPS3CTL/Liang et al. - 2023 - Unleashing Infinite-Length Input Capacity for Larg.pdf}
 }
 
+@online{liesenfeld_2023,
+  title = {Opening up {{ChatGPT}}: {{Tracking}} Openness, Transparency, and Accountability in Instruction-Tuned Text Generators},
+  shorttitle = {Opening up {{ChatGPT}}},
+  author = {Liesenfeld, Andreas and Lopez, Alianda and Dingemanse, Mark},
+  date = {2023-07-08},
+  eprint = {2307.05532},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.1145/3571884.3604316},
+  url = {http://arxiv.org/abs/2307.05532},
+  urldate = {2023-07-17},
+  abstract = {Large language models that exhibit instruction-following behaviour represent one of the biggest recent upheavals in conversational interfaces, a trend in large part fuelled by the release of OpenAI's ChatGPT, a proprietary large language model for text generation fine-tuned through reinforcement learning from human feedback (LLM+RLHF). We review the risks of relying on proprietary software and survey the first crop of open-source projects of comparable architecture and functionality. The main contribution of this paper is to show that openness is differentiated, and to offer scientific documentation of degrees of openness in this fast-moving field. We evaluate projects in terms of openness of code, training data, model weights, RLHF data, licensing, scientific documentation, and access methods. We find that while there is a fast-growing list of projects billing themselves as 'open source', many inherit undocumented data of dubious legality, few share the all-important instruction-tuning (a key site where human annotation labour is involved), and careful scientific documentation is exceedingly rare. Degrees of openness are relevant to fairness and accountability at all points, from data collection and curation to model architecture, and from training and fine-tuning to release and deployment.},
+  pubstate = {preprint},
+  keywords = {/unread,Computer Science - Computation and Language},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2023-07-17] 0 citations (Semantic Scholar/DOI) [2023-07-17]},
+  file = {/Users/chenghao/Zotero/storage/DB656MRP/Liesenfeld et al. - 2023 - Opening up ChatGPT Tracking openness, transparenc.pdf}
+}
+
 @article{lin_2021,
   title = {{{ViBERTgrid}}: {{A Jointly Trained Multi-Modal 2D Document Representation}} for {{Key Information Extraction}} from {{Documents}}},
   shorttitle = {{{ViBERTgrid}}},
@@ -1956,6 +1990,25 @@
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,data,few-shot learning,lm,multilingual,nlp},
   annotation = {7 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Dropbox/Documents/Zotero/arXiv2112.10668 [cs]/2021/Lin et al_2021_Few-shot Learning with Multilingual Language Models.pdf}
+}
+
+@inproceedings{lison_2021,
+  title = {Anonymisation {{Models}} for {{Text Data}}: {{State}} of the Art, {{Challenges}} and {{Future Directions}}},
+  shorttitle = {Anonymisation {{Models}} for {{Text Data}}},
+  booktitle = {Proceedings of the 59th {{Annual Meeting}} of the {{Association}} for {{Computational Linguistics}} and the 11th {{International Joint Conference}} on {{Natural Language Processing}} ({{Volume}} 1: {{Long Papers}})},
+  author = {Lison, Pierre and Pilán, Ildikó and Sanchez, David and Batet, Montserrat and Øvrelid, Lilja},
+  date = {2021-08},
+  pages = {4188--4203},
+  publisher = {{Association for Computational Linguistics}},
+  location = {{Online}},
+  doi = {10.18653/v1/2021.acl-long.323},
+  url = {https://aclanthology.org/2021.acl-long.323},
+  urldate = {2023-07-10},
+  abstract = {This position paper investigates the problem of automated text anonymisation, which is a prerequisite for secure sharing of documents containing sensitive information about individuals. We summarise the key concepts behind text anonymisation and provide a review of current approaches. Anonymisation methods have so far been developed in two fields with little mutual interaction, namely natural language processing and privacy-preserving data publishing. Based on a case study, we outline the benefits and limitations of these approaches and discuss a number of open challenges, such as (1) how to account for multiple types of semantic inferences, (2) how to strike a balance between disclosure risk and data utility and (3) how to evaluate the quality of the resulting anonymisation. We lay out a case for moving beyond sequence labelling models and incorporate explicit measures of disclosure risk into the text anonymisation process.},
+  eventtitle = {{{ACL-IJCNLP}} 2021},
+  keywords = {/unread},
+  annotation = {26 citations (Semantic Scholar/DOI) [2023-07-11]},
+  file = {/Users/chenghao/Zotero/storage/NDVLSZSI/Lison et al. - 2021 - Anonymisation Models for Text Data State of the a.pdf}
 }
 
 @article{liu_,
@@ -2001,6 +2054,40 @@
   file = {/Users/chenghao/Zotero/storage/BL2WVD4C/Liu_et_al_(2023)_Evaluating_Verifiability_in_Generative_Search_Engines.pdf}
 }
 
+@online{liu_2023a,
+  title = {Lost in the {{Middle}}: {{How Language Models Use Long Contexts}}},
+  shorttitle = {Lost in the {{Middle}}},
+  author = {Liu, Nelson F. and Lin, Kevin and Hewitt, John and Paranjape, Ashwin and Bevilacqua, Michele and Petroni, Fabio and Liang, Percy},
+  date = {2023-07-06},
+  eprint = {2307.03172},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2307.03172},
+  url = {http://arxiv.org/abs/2307.03172},
+  urldate = {2023-07-17},
+  abstract = {While recent language models have the ability to take long contexts as input, relatively little is known about how well the language models use longer context. We analyze language model performance on two tasks that require identifying relevant information within their input contexts: multi-document question answering and key-value retrieval. We find that performance is often highest when relevant information occurs at the beginning or end of the input context, and significantly degrades when models must access relevant information in the middle of long contexts. Furthermore, performance substantially decreases as the input context grows longer, even for explicitly long-context models. Our analysis provides a better understanding of how language models use their input context and provides new evaluation protocols for future long-context models.},
+  pubstate = {preprint},
+  keywords = {/unread,Computer Science - Computation and Language},
+  annotation = {1 citations (Semantic Scholar/arXiv) [2023-07-17] 1 citations (Semantic Scholar/DOI) [2023-07-17]},
+  file = {/Users/chenghao/Zotero/storage/ZD2SJ3FS/Liu et al. - 2023 - Lost in the Middle How Language Models Use Long Contexts.pdf}
+}
+
+@online{liu_2023b,
+  title = {Blockwise {{Parallel Transformer}} for {{Long Context Large Models}}},
+  author = {Liu, Hao and Abbeel, Pieter},
+  date = {2023-05-30},
+  eprint = {2305.19370},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2305.19370},
+  url = {http://arxiv.org/abs/2305.19370},
+  urldate = {2023-06-05},
+  abstract = {Transformers have emerged as the cornerstone of state-of-the-art natural language processing models, showcasing exceptional performance across a wide range of AI applications. However, the memory demands posed by the self-attention mechanism and the large feedforward network in Transformers limit their ability to handle long sequences, thereby creating challenges for tasks involving multiple long sequences or long-term dependencies. We present a distinct approach, Blockwise Parallel Transformer (BPT), that leverages blockwise computation of self-attention and feedforward network fusion to minimize memory costs. By processing longer input sequences while maintaining memory efficiency, BPT enables training sequences up to 32 times longer than vanilla Transformers and 2 to 4 times longer than previous memory-efficient methods. Extensive experiments on language modeling and reinforcement learning tasks demonstrate the effectiveness of BPT in reducing memory requirements and improving performance.},
+  pubstate = {preprint},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning},
+  file = {/Users/chenghao/Zotero/storage/388UWMPN/Liu and Abbeel - 2023 - Blockwise Parallel Transformer for Long Context La.pdf}
+}
+
 @unpublished{lourie_2021,
   title = {{{UNICORN}} on {{RAINBOW}}: {{A Universal Commonsense Reasoning Model}} on a {{New Multitask Benchmark}}},
   shorttitle = {{{UNICORN}} on {{RAINBOW}}},
@@ -2017,6 +2104,21 @@
   keywords = {benchmark,commonsense,Computer Science - Computation and Language,nlp},
   annotation = {38 citations (Semantic Scholar/arXiv) [2022-05-23]},
   file = {/Users/chenghao/Zotero/storage/FDDDW3S9/Lourie_et_al_(2021)_UNICORN_on_RAINBOW.pdf}
+}
+
+@article{lukas_2023,
+  title = {Analyzing {{Leakage}} of {{Personally Identifiable Information}} in {{Language Models}}},
+  author = {Lukas, Nils and Salem, Ahmed and Sim, Robert and Tople, Shruti and Wutschitz, Lukas and Zanella-Béguelin, Santiago},
+  date = {2023},
+  publisher = {{arXiv}},
+  doi = {10.48550/ARXIV.2302.00539},
+  url = {https://arxiv.org/abs/2302.00539},
+  urldate = {2023-07-05},
+  abstract = {Language Models (LMs) have been shown to leak information about training data through sentence-level membership inference and reconstruction attacks. Understanding the risk of LMs leaking Personally Identifiable Information (PII) has received less attention, which can be attributed to the false assumption that dataset curation techniques such as scrubbing are sufficient to prevent PII leakage. Scrubbing techniques reduce but do not prevent the risk of PII leakage: in practice scrubbing is imperfect and must balance the trade-off between minimizing disclosure and preserving the utility of the dataset. On the other hand, it is unclear to which extent algorithmic defenses such as differential privacy, designed to guarantee sentence- or user-level privacy, prevent PII disclosure. In this work, we introduce rigorous game-based definitions for three types of PII leakage via black-box extraction, inference, and reconstruction attacks with only API access to an LM. We empirically evaluate the attacks against GPT-2 models fine-tuned with and without defenses in three domains: case law, health care, and e-mails. Our main contributions are (i) novel attacks that can extract up to 10\$\textbackslash times\$ more PII sequences than existing attacks, (ii) showing that sentence-level differential privacy reduces the risk of PII disclosure but still leaks about 3\% of PII sequences, and (iii) a subtle connection between record-level membership inference and PII reconstruction. Code to reproduce all experiments in the paper is available at https://github.com/microsoft/analysing\_pii\_leakage.},
+  version = {4},
+  keywords = {/unread,FOS: Computer and information sciences,Machine Learning (cs.LG)},
+  annotation = {5 citations (Semantic Scholar/arXiv) [2023-07-06] 5 citations (Semantic Scholar/DOI) [2023-07-06]},
+  file = {/Users/chenghao/Zotero/storage/R5NSNBR6/Lukas et al. - 2023 - Analyzing Leakage of Personally Identifiable Infor.pdf}
 }
 
 @online{ma_2022,
@@ -2052,6 +2154,23 @@
   pubstate = {preprint},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
   file = {/Users/chenghao/Zotero/storage/VIVK8Z8T/Madaan et al. - 2023 - Self-Refine Iterative Refinement with Self-Feedba.pdf}
+}
+
+@online{malladi_2023,
+  title = {Fine-{{Tuning Language Models}} with {{Just Forward Passes}}},
+  author = {Malladi, Sadhika and Gao, Tianyu and Nichani, Eshaan and Damian, Alex and Lee, Jason D. and Chen, Danqi and Arora, Sanjeev},
+  date = {2023-05-26},
+  eprint = {2305.17333},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2305.17333},
+  url = {http://arxiv.org/abs/2305.17333},
+  urldate = {2023-06-07},
+  abstract = {Fine-tuning language models (LMs) has yielded success on diverse downstream tasks, but as LMs grow in size, backpropagation requires a prohibitively large amount of memory. Zeroth-order (ZO) methods can in principle estimate gradients using only two forward passes but are theorized to be catastrophically slow for optimizing large models. In this work, we propose a memory-efficient zerothorder optimizer (MeZO), adapting the classical ZO-SGD method to operate in-place, thereby fine-tuning LMs with the same memory footprint as inference. For example, with a single A100 80GB GPU, MeZO can train a 30-billion parameter model, whereas fine-tuning with backpropagation can train only a 2.7B LM with the same budget. We conduct comprehensive experiments across model types (masked and autoregressive LMs), model scales (up to 66B), and downstream tasks (classification, multiple-choice, and generation). Our results demonstrate that (1) MeZO significantly outperforms in-context learning and linear probing; (2) MeZO achieves comparable performance to fine-tuning with backpropagation across multiple tasks, with up to 12x memory reduction; (3) MeZO is compatible with both full-parameter and parameter-efficient tuning techniques such as LoRA and prefix tuning; (4) MeZO can effectively optimize non-differentiable objectives (e.g., maximizing accuracy or F1). We support our empirical findings with theoretical insights, highlighting how adequate pre-training and task prompts enable MeZO to fine-tune huge models, despite classical ZO analyses suggesting otherwise.},
+  pubstate = {preprint},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2023-06-06]},
+  file = {/Users/chenghao/Zotero/storage/DLMCW8S6/[2305.17333] Fine-Tuning Language Models with Just.pdf}
 }
 
 @inproceedings{manku_2007,
@@ -2319,12 +2438,27 @@
   file = {/Users/chenghao/Zotero/storage/BARSZZUK/Overwijk_et_al_(2022)_ClueWeb22.pdf}
 }
 
+@inproceedings{papadopoulou_2022,
+  title = {Neural {{Text Sanitization}} with {{Explicit Measures}} of {{Privacy Risk}}},
+  booktitle = {Proceedings of the 2nd {{Conference}} of the {{Asia-Pacific Chapter}} of the {{Association}} for {{Computational Linguistics}} and the 12th {{International Joint Conference}} on {{Natural Language Processing}} ({{Volume}} 1: {{Long Papers}})},
+  author = {Papadopoulou, Anthi and Yu, Yunhao and Lison, Pierre and Øvrelid, Lilja},
+  date = {2022-11},
+  pages = {217--229},
+  publisher = {{Association for Computational Linguistics}},
+  location = {{Online only}},
+  url = {https://aclanthology.org/2022.aacl-main.18},
+  urldate = {2023-07-05},
+  abstract = {We present a novel approach for text sanitization, which is the task of editing a document to mask all (direct and indirect) personal identifiers and thereby conceal the identity of the individuals(s) mentioned in the text. In contrast to previous work, the approach relies on explicit measures of privacy risk, making it possible to explicitly control the trade-off between privacy protection and data utility. The approach proceeds in three steps. A neural, privacy-enhanced entity recognizer is first employed to detect and classify potential personal identifiers. We then determine which entities, or combination of entities, are likely to pose a re-identification risk through a range of privacy risk assessment measures. We present three such measures of privacy risk, respectively based on (1) span probabilities derived from a BERT language model, (2) web search queries and (3) a classifier trained on labelled data. Finally, a linear optimization solver decides which entities to mask to minimize the semantic loss while simultaneously ensuring that the estimated privacy risk remains under a given threshold. We evaluate the approach both in the absence and presence of manually annotated data. Our results highlight the potential of the approach, as well as issues specific types of personal data can introduce to the process.},
+  eventtitle = {{{AACL-IJCNLP}} 2022},
+  keywords = {/unread},
+  file = {/Users/chenghao/Zotero/storage/6MRP82FU/Papadopoulou et al. - 2022 - Neural Text Sanitization with Explicit Measures of.pdf}
+}
+
 @article{penedo_,
   title = {The {{RefinedWeb Dataset}} for {{Falcon LLM}}: {{Outperforming Curated Corpora}} with {{Web Data}}, and {{Web Data Only}}},
   author = {Penedo, Guilherme and Malartic, Quentin and Hesslow, Daniel and Cojocaru, Ruxandra and Cappelli, Alessandro and Pannier, Baptiste and Almazrouei, Ebtesam and Launay, Julien},
   abstract = {Large language models are commonly trained on a mixture of filtered web data and curated “high-quality” corpora, such as social media conversations, books, or technical papers. This curation process is believed to be necessary to produce performant models with broad zero-shot generalization abilities. However, as larger models requiring pretraining on trillions of tokens are considered, it is unclear how scalable is curation and whether we will run out of unique high-quality data soon. At variance with previous beliefs, we show that properly filtered and deduplicated web data alone can lead to powerful models; even significantly outperforming models from the state-of-the-art trained on The Pile. Despite extensive filtering, the high-quality data we extract from the web is still plentiful, and we are able to obtain five trillion tokens from CommonCrawl. We publicly release an extract of 600 billion tokens from our REFINEDWEB dataset, and 1.3/7.5B parameters language models trained on it*.},
   langid = {english},
-  keywords = {/unread},
   file = {/Users/chenghao/Zotero/storage/6UXEE77Z/Penedo et al. - The RefinedWeb Dataset for Falcon LLM Outperformi.pdf}
 }
 
@@ -2377,6 +2511,26 @@
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language},
   annotation = {0 citations (Semantic Scholar/arXiv) [2022-08-14] 0 citations (Semantic Scholar/DOI) [2022-08-14]},
   file = {/Users/chenghao/Zotero/storage/2ZHRWW93/Piantadosi_Hill_(2022)_Meaning_without_reference_in_large_language_models.pdf}
+}
+
+@article{pilan_2022,
+  title = {The {{Text Anonymization Benchmark}} ({{TAB}}): {{A Dedicated Corpus}} and {{Evaluation Framework}} for {{Text Anonymization}}},
+  shorttitle = {The {{Text Anonymization Benchmark}} ({{TAB}})},
+  author = {Pilán, Ildikó and Lison, Pierre and Øvrelid, Lilja and Papadopoulou, Anthi and Sánchez, David and Batet, Montserrat},
+  date = {2022-12-01},
+  journaltitle = {Computational Linguistics},
+  volume = {48},
+  number = {4},
+  pages = {1053--1101},
+  issn = {0891-2017, 1530-9312},
+  doi = {10.1162/coli_a_00458},
+  url = {https://direct.mit.edu/coli/article/48/4/1053/112770/The-Text-Anonymization-Benchmark-TAB-A-Dedicated},
+  urldate = {2023-07-05},
+  abstract = {Abstract             We present a novel benchmark and associated evaluation metrics for assessing the performance of text anonymization methods. Text anonymization, defined as the task of editing a text document to prevent the disclosure of personal information, currently suffers from a shortage of privacy-oriented annotated text resources, making it difficult to properly evaluate the level of privacy protection offered by various anonymization methods. This paper presents TAB (Text Anonymization Benchmark), a new, open-source annotated corpus developed to address this shortage. The corpus comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR) enriched with comprehensive annotations about the personal information appearing in each document, including their semantic category, identifier type, confidential attributes, and co-reference relations. Compared with previous work, the TAB corpus is designed to go beyond traditional de-identification (which is limited to the detection of predefined semantic categories), and explicitly marks which text spans ought to be masked in order to conceal the identity of the person to be protected.             Along with presenting the corpus and its annotation layers, we also propose a set of evaluation metrics that are specifically tailored toward measuring the performance of text anonymization, both in terms of privacy protection and utility preservation. We illustrate the use of the benchmark and the proposed metrics by assessing the empirical performance of several baseline text anonymization models. The full corpus along with its privacy-oriented annotation guidelines, evaluation scripts, and baseline models are available on: https://github.com/NorskRegnesentral/text-anonymization-benchmark.},
+  langid = {english},
+  keywords = {/unread},
+  annotation = {17 citations (Semantic Scholar/DOI) [2023-07-06]},
+  file = {/Users/chenghao/Zotero/storage/PAEJI365/Pilán et al. - 2022 - The Text Anonymization Benchmark (TAB) A Dedicate.pdf}
 }
 
 @unpublished{pinter_2021,
@@ -2476,8 +2630,9 @@
   abstract = {The correct use of model evaluation, model selection, and algorithm selection techniques is vital in academic machine learning research as well as in many industrial settings. This article reviews different techniques that can be used for each of these three subtasks and discusses the main advantages and disadvantages of each technique with references to theoretical and empirical studies. Further, recommendations are given to encourage best yet feasible practices in research and applications of machine learning. Common methods such as the holdout method for model evaluation and selection are covered, which are not recommended when working with small datasets. Different flavors of the bootstrap technique are introduced for estimating the uncertainty of performance estimates, as an alternative to confidence intervals via normal approximation if bootstrapping is computationally feasible. Common cross-validation techniques such as leave-one-out cross-validation and k-fold cross-validation are reviewed, the bias-variance trade-off for choosing k is discussed, and practical tips for the optimal choice of k are given based on empirical evidence. Different statistical tests for algorithm comparisons are presented, and strategies for dealing with multiple comparisons such as omnibus tests and multiple-comparison corrections are discussed. Finally, alternative methods for algorithm selection, such as the combined F-test 5x2 cross-validation and nested cross-validation, are recommended for comparing machine learning algorithms when datasets are small.},
   pubstate = {preprint},
   version = {2},
-  keywords = {/unread,\#nosource,Computer Science - Machine Learning,Statistics - Machine Learning},
-  annotation = {390 citations (Semantic Scholar/arXiv) [2022-11-21]}
+  keywords = {\#nosource,Computer Science - Machine Learning,Statistics - Machine Learning},
+  annotation = {390 citations (Semantic Scholar/arXiv) [2022-11-21]},
+  file = {/Users/chenghao/Zotero/storage/5647EYZI/Raschka - 2020 - Model Evaluation, Model Selection, and Algorithm S.pdf}
 }
 
 @online{reed_2022,
@@ -2515,6 +2670,20 @@
   file = {/Users/chenghao/Zotero/storage/ZJST9YRT/Riedl_(2014)_The_Lovelace_2.pdf}
 }
 
+@online{rooij_2023,
+  title = {Reclaiming {{AI}} as a Theoretical Tool for Cognitive Science},
+  author = {family=Rooij, given=Iris, prefix=van, useprefix=false and Guest, Olivia and Adolfi, Federico G. and family=Haan, given=Ronald, prefix=de, useprefix=false and Kolokolova, Antonina and Rich, Patricia},
+  date = {2023-08-01T20:26:54},
+  doi = {10.31234/osf.io/4cbuv},
+  url = {https://psyarxiv.com/4cbuv/},
+  urldate = {2023-08-07},
+  abstract = {The idea that human cognition is, or can be understood as, a form of computation is a useful conceptual tool for cognitive science. It was a foundational assumption during the birth of cognitive science as a multidisciplinary field, with Artificial Intelligence (AI) as one of its contributing fields. One conception of AI in this context is as a provider of computational tools (frameworks, concepts, formalisms, models, proofs, simulations, etc.) that support theory building in cognitive science. The contemporary field of AI, however, has taken the theoretical possibility of explaining human cognition as a form of computation to imply the practical feasibility of realising human(-like or -level) cognition in factual computational systems; and, the field frames this realisation as a short-term inevitability. Yet, as we formally prove herein, creating systems with human(-like or -level) cognition is intrinsically computationally intractable. This means that any factual AI systems created in the short-run are at best decoys. When we think these systems capture something deep about ourselves and our thinking, we induce distorted and impoverished images of ourselves and our cognition. In other words, AI in current practice is deteriorating our theoretical understanding of cognition rather than advancing and enhancing it. The situation could be remediated by releasing the grip of the currently dominant view on AI and by returning to the idea of AI as a theoretical tool for cognitive science. In reclaiming this older idea of AI, however, it is important not to repeat conceptual mistakes of the past (and present) that brought us to where we are today.},
+  langid = {american},
+  pubstate = {preprint},
+  keywords = {artificial intelligence (AI),Cognitive Psychology,cognitive science,computational complexity,engineering,explanation,Meta-science,Social and Behavioral Sciences,theory,Theory and Philosophy of Science},
+  file = {/Users/chenghao/Zotero/storage/BU8AWR2I/Rooij et al. - 2023 - Reclaiming AI as a theoretical tool for cognitive .pdf}
+}
+
 @inproceedings{ruder_2022,
   title = {Square {{One Bias}} in {{NLP}}: {{Towards}} a {{Multi-Dimensional Exploration}} of the {{Research Manifold}}},
   shorttitle = {Square {{One Bias}} in {{NLP}}},
@@ -2531,21 +2700,6 @@
   langid = {english},
   annotation = {1 citations (Semantic Scholar/DOI) [2022-06-26]},
   file = {/Users/chenghao/Zotero/storage/948DPXZN/Ruder_et_al_(2022)_Square_One_Bias_in_NLP.pdf}
-}
-
-@unpublished{rust_2022,
-  title = {Language {{Modelling}} with {{Pixels}}},
-  author = {Rust, Phillip and Lotz, Jonas F. and Bugliarello, Emanuele and Salesky, Elizabeth and family=Lhoneux, given=Miryam, prefix=de, useprefix=true and Elliott, Desmond},
-  date = {2022-07-14},
-  eprint = {2207.06991},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  url = {http://arxiv.org/abs/2207.06991},
-  urldate = {2022-07-17},
-  abstract = {Language models are defined over a finite set of inputs, which creates a vocabulary bottleneck when we attempt to scale the number of supported languages. Tackling this bottleneck results in a trade-off between what can be represented in the embedding matrix and computational issues in the output layer. This paper introduces PIXEL, the Pixel-based Encoder of Language, which suffers from neither of these issues. PIXEL is a pretrained language model that renders text as images, making it possible to transfer representations across languages based on orthographic similarity or the co-activation of pixels. PIXEL is trained to reconstruct the pixels of masked patches, instead of predicting a distribution over tokens. We pretrain the 86M parameter PIXEL model on the same English data as BERT and evaluate on syntactic and semantic tasks in typologically diverse languages, including various non-Latin scripts. We find that PIXEL substantially outperforms BERT on syntactic and semantic processing tasks on scripts that are not found in the pretraining data, but PIXEL is slightly weaker than BERT when working with Latin scripts. Furthermore, we find that PIXEL is more robust to noisy text inputs than BERT, further confirming the benefits of modelling language with pixels.},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning},
-  annotation = {0 citations (Semantic Scholar/arXiv) [2022-07-21]},
-  file = {/Users/chenghao/Zotero/storage/HP3BDPXW/Rust_et_al_(2022)_Language_Modelling_with_Pixels.pdf;/Users/chenghao/Zotero/storage/PCEUMZIH/Rust_et_al_(2022)_Language_Modelling_with_Pixels.pdf}
 }
 
 @online{rust_2022a,
@@ -2576,17 +2730,6 @@
   file = {/Users/chenghao/Zotero/storage/532JWNMA/Sachan_et_al_(2021)_End-to-End_Training_of_Multi-Document_Reader_and_Retriever_for_Open-Domain.pdf;/Users/chenghao/Zotero/storage/IRZWIX25/forum.html}
 }
 
-@online{salehi_2023,
-  type = {Substack newsletter},
-  title = {The {{Glossary}} of {{Human-Centered AI}}},
-  author = {Salehi, Niloufar},
-  date = {2023-05-03},
-  url = {https://niloufars.substack.com/p/the-glossary-of-human-centered-ai},
-  urldate = {2023-05-07},
-  abstract = {Key terms you need to know, whether you're coming from an AI, HCI, or UX background.},
-  organization = {{Niloufar’s Substack}}
-}
-
 @article{salesky_2021,
   title = {Robust {{Open-Vocabulary Translation}} from {{Visual Text Representations}}},
   author = {Salesky, Elizabeth and Etter, David and Post, Matt},
@@ -2597,6 +2740,23 @@
   keywords = {embedding,nlp},
   annotation = {7 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Dropbox/Documents/Zotero/arXiv/2021/Salesky et al_2021_Robust Open-Vocabulary Translation from Visual Text Representations.pdf}
+}
+
+@online{sancheti_2022,
+  title = {What to {{Read}} in a {{Contract}}? {{Party-Specific Summarization}} of {{Important Obligations}}, {{Entitlements}}, and {{Prohibitions}} in {{Legal Documents}}},
+  shorttitle = {What to {{Read}} in a {{Contract}}?},
+  author = {Sancheti, Abhilasha and Garimella, Aparna and Srinivasan, Balaji Vasan and Rudinger, Rachel},
+  date = {2022-12-19},
+  eprint = {2212.09825},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2212.09825},
+  url = {http://arxiv.org/abs/2212.09825},
+  urldate = {2023-06-20},
+  abstract = {Legal contracts, such as employment or lease agreements, are important documents as they govern the obligations and entitlements of the various contracting parties. However, these documents are typically long and written in legalese resulting in lots of manual hours spent in understanding them. In this paper, we address the task of summarizing legal contracts for each of the contracting parties, to enable faster reviewing and improved understanding of them. Specifically, we collect a dataset consisting of pairwise importance comparison annotations by legal experts for \textasciitilde 293K sentence pairs from lease agreements. We propose a novel extractive summarization system to automatically produce a summary consisting of the most important obligations, entitlements, and prohibitions in a contract. It consists of two modules: (1) a content categorize to identify sentences containing each of the categories (i.e., obligation, entitlement, and prohibition) for a party, and (2) an importance ranker to compare the importance among sentences of each category for a party to obtain a ranked list. The final summary is produced by selecting the most important sentences of a category for each of the parties. We demonstrate the effectiveness of our proposed system by comparing it against several text ranking baselines via automatic and human evaluation.},
+  pubstate = {preprint},
+  keywords = {Computer Science - Computation and Language},
+  file = {/Users/chenghao/Zotero/storage/9Z73NXIY/Sancheti et al. - 2022 - What to Read in a Contract Party-Specific Summari.pdf;/Users/chenghao/Zotero/storage/HJRTA6DL/2212.html}
 }
 
 @online{schaeffer_2023,
@@ -2749,23 +2909,6 @@
   file = {/Users/chenghao/Zotero/storage/LN5A4MU8/Shanahan_(2022)_Talking_About_Large_Language_Models.pdf}
 }
 
-@inproceedings{shere_2022,
-  title = {Identifying and {{Extracting Hierarchical Information}} from {{Business PDF Documents}}},
-  booktitle = {15th {{Innovations}} in {{Software Engineering Conference}}},
-  author = {Shere, Rohit Prakash and Chittimalli, Pavan Kumar and Naik, Ravindra},
-  date = {2022-02-24},
-  series = {{{ISEC}} 2022},
-  pages = {1--11},
-  publisher = {{Association for Computing Machinery}},
-  location = {{New York, NY, USA}},
-  doi = {10.1145/3511430.3511440},
-  url = {https://doi.org/10.1145/3511430.3511440},
-  urldate = {2023-05-12},
-  abstract = {Portable Document Format (PDF) is a popular choice for a secure communication and persistence of business information and is a universally accepted format by businesses choosing to become digital. PDF provides multiple ways to make the information visually appealing and readable, and device independent rendering. To achieve this, PDF stores metadata with individual text characters, graphic components and other layout elements. Such atomic component wise meta-data makes machine processing of information in the PDF format very challenging; the challenge is further extended due to the difficulty of stitching together the original semantics from the componentized information. We propose a generic approach for extracting the hierarchy of the document structure while separating the content from header and footer, and extracting metadata associated with checkboxes to annotate the business information contained in PDF for tasks like mining specifications and rules from the document. Our prototype is able to process real-life, large PDF documents each running into roughly 400 pages, with nearly 95\% of the extraction requiring no human intervention.},
-  isbn = {978-1-4503-9618-9},
-  keywords = {Business documents,Document Section Hierarchy Extraction,PDF Text Extraction,PDFBox}
-}
-
 @online{shevlane_2023,
   title = {Model Evaluation for Extreme Risks},
   author = {Shevlane, Toby and Farquhar, Sebastian and Garfinkel, Ben and Phuong, Mary and Whittlestone, Jess and Leung, Jade and Kokotajlo, Daniel and Marchal, Nahema and Anderljung, Markus and Kolt, Noam and Ho, Lewis and Siddarth, Divya and Avin, Shahar and Hawkins, Will and Kim, Been and Gabriel, Iason and Bolina, Vijay and Clark, Jack and Bengio, Yoshua and Christiano, Paul and Dafoe, Allan},
@@ -2809,23 +2952,6 @@
   abstract = {There is a lack of relevant datasets and benchmarks for Document IE on semi-structured business documents as their content is typically legally protected or sensitive, and potential sources of available documents including synthetic data are discussed. Information extraction from semi-structured documents is crucial for frictionless business-to-business (B2B) communication. While machine learning problems related to Document Information Extraction (IE) have been studied for decades, many common problem definitions and benchmarks do not reflect domain-specific aspects and practical needs for automating B2B document communication. We review the landscape of Document IE problems, datasets and benchmarks. We highlight the practical aspects missing in the common definitions and define the Key Information Localization and Extraction (KILE) and Line Item Recognition (LIR) problems. There is a lack of relevant datasets and benchmarks for Document IE on semi-structured business documents as their content is typically legally protected or sensitive. We discuss potential sources of available documents including synthetic data.},
   annotation = {GSCC: 0000132},
   file = {/Users/chenghao/Zotero/storage/CVJE2559/Skalický_et_al_(2022)_Business_Document_Information_Extraction.pdf}
-}
-
-@online{solaiman_2023,
-  title = {The {{Gradient}} of {{Generative AI Release}}: {{Methods}} and {{Considerations}}},
-  shorttitle = {The {{Gradient}} of {{Generative AI Release}}},
-  author = {Solaiman, Irene},
-  date = {2023-02-05},
-  eprint = {2302.04844},
-  eprinttype = {arxiv},
-  eprintclass = {cs},
-  doi = {10.48550/arXiv.2302.04844},
-  url = {http://arxiv.org/abs/2302.04844},
-  urldate = {2023-02-14},
-  abstract = {As increasingly powerful generative AI systems are developed, the release method greatly varies. We propose a framework to assess six levels of access to generative AI systems: fully closed; gradual or staged access; hosted access; cloud-based or API access; downloadable access; and fully open. Each level, from fully closed to fully open, can be viewed as an option along a gradient. We outline key considerations across this gradient: release methods come with tradeoffs, especially around the tension between concentrating power and mitigating risks. Diverse and multidisciplinary perspectives are needed to examine and mitigate risk in generative AI systems from conception to deployment. We show trends in generative system release over time, noting closedness among large companies for powerful systems and openness among organizations founded on principles of openness. We also enumerate safety controls and guardrails for generative systems and necessary investments to improve future releases.},
-  pubstate = {preprint},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computers and Society},
-  file = {/Users/chenghao/Zotero/storage/K2IPYR4P/Solaiman - 2023 - The Gradient of Generative AI Release Methods and.pdf}
 }
 
 @online{somepalli_2022,
@@ -3008,14 +3134,6 @@
   file = {/Users/chenghao/Zotero/storage/GY2FX2NF/Tito_et_al_(2021)_Document_Collection_Visual_Question_Answering.pdf}
 }
 
-@article{touvron_,
-  title = {{{LLaMA}}: {{Open}} and {{Efficient Foundation Language Models}}},
-  author = {Touvron, Hugo and Lavril, Thibaut and Izacard, Gautier and Martinet, Xavier and Lachaux, Marie-Anne and Lacroix, Timothee and Rozière, Baptiste and Goyal, Naman and Hambro, Eric and Azhar, Faisal and Rodriguez, Aurelien and Joulin, Armand and Grave, Edouard and Lample, Guillaume},
-  abstract = {We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters. We train our models on trillions of tokens, and show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessible datasets. In particular, LLaMA-13B outperforms GPT-3 (175B) on most benchmarks, and LLaMA-65B is competitive with the best models, Chinchilla70B and PaLM-540B. We release all our models to the research community1.},
-  langid = {english},
-  file = {/Users/chenghao/Zotero/storage/QJQQ9GCK/Touvron et al. - LLaMA Open and Efficient Foundation Language Mode.pdf}
-}
-
 @online{touvron_2023,
   title = {{{LLaMA}}: {{Open}} and {{Efficient Foundation Language Models}}},
   shorttitle = {{{LLaMA}}},
@@ -3132,6 +3250,24 @@
   file = {/Users/chenghao/Zotero/storage/9NR7ITF2/Wang_et_al_(2022)_mmLayout.pdf}
 }
 
+@article{wasserstein_2016,
+  title = {The {{ASA Statement}} on P-{{Values}}: {{Context}}, {{Process}}, and {{Purpose}}},
+  shorttitle = {The {{ASA Statement}} on P-{{Values}}},
+  author = {Wasserstein, Ronald L. and Lazar, Nicole A.},
+  date = {2016-04-02},
+  journaltitle = {The American Statistician},
+  volume = {70},
+  number = {2},
+  pages = {129--133},
+  publisher = {{Taylor \& Francis}},
+  issn = {0003-1305},
+  doi = {10.1080/00031305.2016.1154108},
+  url = {https://doi.org/10.1080/00031305.2016.1154108},
+  urldate = {2023-06-19},
+  annotation = {4291 citations (Semantic Scholar/DOI) [2023-06-19]},
+  file = {/Users/chenghao/Zotero/storage/L67EHAC7/Wasserstein_Lazar_(2016)_The_ASA_Statement_on_p-Values.pdf}
+}
+
 @unpublished{wei_2021,
   title = {Finetuned {{Language Models Are Zero-Shot Learners}}},
   author = {Wei, Jason and Bosma, Maarten and Zhao, Vincent Y. and Guu, Kelvin and Yu, Adams Wei and Lester, Brian and Du, Nan and Dai, Andrew M. and Le, Quoc V.},
@@ -3162,6 +3298,23 @@
   keywords = {Computer Science - Computation and Language},
   annotation = {6 citations (Semantic Scholar/arXiv) [2022-08-20] 6 citations (Semantic Scholar/DOI) [2022-08-20]},
   file = {/Users/chenghao/Zotero/storage/22AMCFG4/Wei_et_al_(2022)_Emergent_Abilities_of_Large_Language_Models.pdf}
+}
+
+@online{widder_2023,
+  type = {SSRN Scholarly Paper},
+  title = {Open ({{For Business}}): {{Big Tech}}, {{Concentrated Power}}, and the {{Political Economy}} of {{Open AI}}},
+  shorttitle = {Open ({{For Business}})},
+  author = {Widder, David Gray and West, Sarah and Whittaker, Meredith},
+  date = {2023-08-17},
+  number = {4543807},
+  location = {{Rochester, NY}},
+  url = {https://papers.ssrn.com/abstract=4543807},
+  urldate = {2023-08-17},
+  abstract = {This paper examines ‘open’ AI in the context of recent attention to open and open source AI systems. We find that the terms ‘open’ and ‘open source’ are used in confusing and diverse ways, often constituting more aspiration or marketing than technical descriptor, and frequently blending concepts from both open source software and open science. This complicates an already complex landscape, in which there is currently no agreed on definition of ‘open’ in the context of AI, and as such the term is being applied to widely divergent offerings with little reference to a stable descriptor. So, what exactly is ‘open’ about ‘open’ AI, and what does ‘open’ AI enable? To better answer these questions we begin this paper by looking at the various resources required to create and deploy AI systems, alongside the components that comprise these systems. We do this with an eye to which of these can, or cannot, be made open to scrutiny, reuse, and extension. What does ‘open’ mean in practice, and what are its limits in the context of AI? We find that while a handful of maximally open AI systems exist, which offer intentional and extensive transparency, reusability, and extensibility– the resources needed to build AI from scratch, and to deploy large AI systems at scale, remain ‘closed’—available only to those with significant (almost always corporate) resources. From here, we zoom out and examine the history of open source, its cleave from free software in the mid 1990s, and the contested processes by which open source has been incorporated into, and instrumented by, large tech corporations. As a current day example of the overbroad and ill-defined use of the term by tech companies, we look at  ‘open’ in the context of OpenAI the company. We trace its moves from a humanity-focused nonprofit to a for-profit partnered with Microsoft, and its shifting position on ‘open’ AI. Finally, we examine the current discourse around ‘open’ AI–looking at how the term and the (mis)understandings about what ‘open’ enables are being deployed to shape the public’s and policymakers’ understanding about AI, its capabilities, and the power of the AI industry. In particular, we examine the arguments being made for and against ‘open’ and open source AI, who’s making them, and how they are being deployed in the debate over AI regulation. Taken together, we find that ‘open’ AI can, in its more maximal instantiations, provide transparency, reusability, and extensibility that can enable third parties to deploy and build on top of powerful off-the-shelf AI models. These maximalist forms of ‘open’ AI can also allow some forms of auditing and oversight. But even the most open of ‘open’ AI systems do not, on their own, ensure democratic access to or meaningful competition in AI, nor does openness alone solve the problem of oversight and scrutiny. While we recognize that there is a vibrant community of earnest contributors building and contributing to ‘open’ AI efforts in the name of expanding access and insight, we also find that marketing around openness and investment in (somewhat) open AI systems is being leveraged by powerful companies to bolster their positions in the face of growing interest in AI regulation. And that some companies have moved to embrace ‘open’ AI as a mechanism to entrench dominance, using the rhetoric of ‘open’ AI to expand market power while investing in ‘open’ AI efforts in ways that allow them to set standards of development while benefiting from the free labor of open source contributors.},
+  langid = {english},
+  pubstate = {preprint},
+  keywords = {AI,artificial intelligence,Big Tech,competition,data,open source,policy,political economy,privacy},
+  file = {/Users/chenghao/Zotero/storage/EAJ8HB3A/Widder et al. - 2023 - Open (For Business) Big Tech, Concentrated Power,.pdf}
 }
 
 @online{wolf_2023,
@@ -3324,6 +3477,22 @@
   keywords = {/unread,Computer Science - Computation and Language,Computer Science - Programming Languages},
   annotation = {57 citations (Semantic Scholar/arXiv) [2023-03-18]},
   file = {/Users/chenghao/Zotero/storage/356QAF5S/Xu_et_al_(2022)_A_Systematic_Evaluation_of_Large_Language_Models_of_Code.pdf}
+}
+
+@inproceedings{xu_2022b,
+  title = {{{ConReader}}: {{Exploring Implicit Relations}} in {{Contracts}} for {{Contract Clause Extraction}}},
+  shorttitle = {{{ConReader}}},
+  booktitle = {Proceedings of the 2022 {{Conference}} on {{Empirical Methods}} in {{Natural Language Processing}}},
+  author = {Xu, Weiwen and Deng, Yang and Lei, Wenqiang and Zhao, Wenlong and Chua, Tat-Seng and Lam, Wai},
+  date = {2022-12},
+  pages = {2581--2594},
+  publisher = {{Association for Computational Linguistics}},
+  location = {{Abu Dhabi, United Arab Emirates}},
+  url = {https://aclanthology.org/2022.emnlp-main.166},
+  urldate = {2023-06-22},
+  abstract = {We study automatic Contract Clause Extraction (CCE) by modeling implicit relations in legal contracts. Existing CCE methods mostly treat contracts as plain text, creating a substantial barrier to understanding contracts of high complexity. In this work, we first comprehensively analyze the complexity issues of contracts and distill out three implicit relations commonly found in contracts, namely, 1) Long-range Context Relation that captures the correlations of distant clauses; 2) Term-Definition Relation that captures the relation between important terms with their corresponding definitions, and 3) Similar Clause Relation that captures the similarities between clauses of the same type. Then we propose a novel framework ConReader to exploit the above three relations for better contract understanding and improving CCE. Experimental results show that ConReader makes the prediction more interpretable and achieves new state-of-the-art on two CCE tasks in both conventional and zero-shot settings.},
+  eventtitle = {{{EMNLP}} 2022},
+  file = {/Users/chenghao/Zotero/storage/AEL5PTVS/Xu et al. - 2022 - ConReader Exploring Implicit Relations in Contrac.pdf}
 }
 
 @online{xu_2023,

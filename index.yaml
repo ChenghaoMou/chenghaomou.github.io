@@ -1,5 +1,5 @@
 template:
-    name: /templates/layouts/book
+    # name: /templates/layouts/book
     theme: teal
     urlStrategy: pretty
     iconUrl: statics/favicon.ico
@@ -54,4 +54,4 @@ js:
 
 emanote:
     # Whether to automatically treat folder notes as a folgezettel parent of its contents
-    folder-folgezettel: true
+    folder-folgezettel: false
