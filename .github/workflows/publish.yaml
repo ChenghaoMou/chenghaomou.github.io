@@ -7,20 +7,19 @@ jobs:
   emanote:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: nixbuild/nix-quick-install-action@v21
-        with:
-          nix_conf: |
-            experimental-features = nix-command flakes
-            access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
-      - uses: cachix/cachix-action@v11
-        with:
-          name: srid
-      - name: Build the website (Nix) 🔧
+      - uses: actions/checkout@v2
+      - name: Build emanote site 🔧
         run: |
-          nix build -j 4
+          mkdir output.docker
+          docker run \
+            -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
+            --tmpfs /tmp \
+            -v $PWD:/data \
+            sridca/emanote \
+            sh -c "rm -rf /data/4archives /data/reviews /data/templates/*md /data/boilerplates /data/inbox && emanote -L '/data' gen /data/output.docker --allow-broken-links"
+          cp -r output.docker output
       - name: Deploy to gh-pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./result/
+          publish_dir: ./output/
