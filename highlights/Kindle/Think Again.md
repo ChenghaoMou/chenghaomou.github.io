@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Think Again: The Power of Knowing What You Don''t Know'
   author: Adam Grant
   asin: B08H177WQP
-  lastAnnotatedDate: '2023-03-25'
+  lastAnnotatedDate: '2023-05-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71tHmRxhU5S._SY160.jpg'
-  highlightsCount: 27
+  highlightsCount: 29
 order: -1
 tags: null
 title: Think Again
@@ -112,5 +112,12 @@ Anton’s syndrome—a deficit of self-awareness in which a person is oblivious 
 
 ---
 We all have blind spots in our knowledge and opinions. The bad news is that they can leave us blind to our blindness, which gives us false confidence in our judgment and prevents us from rethinking. The good news is that with the right kind of confidence, we can learn to see ourselves more clearly and update our views. — location: [522](kindle://book?action=open&asin=B08H177WQP&location=522) ^ref-29638
+
+---
+
+That’s the armchair quarterback syndrome, where confidence exceeds competence. — location: [556](kindle://book?action=open&asin=B08H177WQP&location=556) ^ref-35667
+
+---
+The opposite of armchair quarterback syndrome is impostor syndrome, where competence exceeds confidence. — location: [558](kindle://book?action=open&asin=B08H177WQP&location=558) ^ref-29902
 
 ---

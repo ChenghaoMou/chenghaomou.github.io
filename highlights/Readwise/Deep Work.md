@@ -1,0 +1,203 @@
+---
+title: Deep Work
+url: 
+author: Cal Newport
+date: 2023-08-26
+time: 11:01 AM
+source: kindle
+---
+## Highlights
+<mark>Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.</mark> ([Location 61](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=61))
+
+<mark>The reason knowledge workers are losing their familiarity with deep work is well established: network tools. This is a broad category that captures communication services like e-mail and SMS, social media networks like Twitter and Facebook, and the shiny tangle of infotainment sites like BuzzFeed and Reddit. In aggregate, the rise of these tools, combined with ubiquitous access to them through smartphones and networked office computers, has fragmented most knowledge workers’ attention into slivers.</mark> ([Location 93](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=93))
+
+<mark>Spend enough time in a state of frenetic shallowness and you permanently reduce your capacity to perform deep work.</mark> ([Location 107](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=107))
+
+<mark>that network tools are distracting us from work that requires unbroken concentration, while simultaneously degrading our capacity to remain focused.</mark> ([Location 114](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=114))
+
+<mark>He decided, therefore, he needed to increase his value to the world. After a period of research, Benn reached a conclusion: He would, he declared to his family, quit his job as a human spreadsheet and become a computer programmer.</mark> ([Location 136](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=136))
+
+<mark>To remain valuable in our economy, therefore, you must master the art of quickly learning complicated things.</mark> ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=177))
+
+<mark>To succeed you have to produce the absolute best stuff you’re capable of producing—a task that requires depth.</mark> ([Location 183](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=183))
+
+<mark>But as we shift to an information economy, more and more of our population are knowledge workers, and deep work is becoming a key currency—even if most haven’t yet recognized this reality.</mark> ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=186))
+
+<mark>The Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.</mark> ([Location 195](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=195))
+
+<mark>This compressed schedule is possible because I’ve invested significant effort to minimize the shallow in my life while making sure I get the most out of the time this frees up.</mark> ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=216))
+
+<mark>As intelligent machines improve, and the gap between machine and human abilities shrinks, employers are becoming increasingly likely to hire “new machines” instead of “new people.”</mark> ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=265))
+
+<mark>In other words, those with the oracular ability to work with and tease valuable results out of increasingly complex machines will thrive.</mark> ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=280))
+
+<mark>Once the talent market is made universally accessible, those at the peak of the market thrive while the rest suffer.</mark> ([Location 293](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=293))
+
+<mark>when money is made through the combination of capital investment and labor, the rewards are returned, roughly speaking, proportional to the input.</mark> ([Location 314](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=314))
+
+<mark>In this new economy, three groups will have a particular advantage: those who can work well and creatively with intelligent machines, those who are the best at what they do, and those with access to capital.</mark> ([Location 322](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=322))
+
+<mark>Two Core Abilities for Thriving in the New Economy 1. The ability to quickly master hard things.</mark> ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=334))
+
+<mark>2. The ability to produce at an elite level, in terms of both quality and speed.</mark> ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=335))
+
+<mark>To join the group of those who can work well with these machines, therefore, requires that you hone your ability to master hard things. And because these technologies change rapidly, this process of mastering hard things never ends: You must be able to do it quickly, again and again.</mark> ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=355))
+
+<mark>If you can’t learn, you can’t thrive.</mark> ([Location 361](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=361))
+
+<mark>You must then transform that latent potential into tangible results that people value.</mark> ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=363))
+
+<mark>If you don’t produce, you won’t thrive—no</mark> ([Location 370](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=370))
+
+<mark>To learn requires intense concentration.</mark> ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=386))
+
+<mark>Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.”</mark> ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=392))
+
+<mark>Its core components are usually identified as follows: (1) your attention is focused tightly on a specific skill you’re trying to improve or an idea you’re trying to master; (2) you receive feedback so you can correct your approach to keep your attention exactly where it’s most productive.</mark> ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=400))
+
+<mark>The reason, therefore, why it’s important to focus intensely on the task at hand while avoiding distraction is because this is the only way to isolate the relevant neural circuit enough to trigger useful myelination.</mark> ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=415))
+
+<mark>They see productivity as a scientific problem to systematically solve—a</mark> ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=440))
+
+<mark>when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task.</mark> ([Location 471](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=471))
+
+<mark>Generally speaking, as knowledge work makes more complex demands of the labor force, it becomes harder to measure the value of an individual’s efforts.</mark> ([Location 616](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=616))
+
+<mark>None of these behaviors would survive long if it was clear that they were hurting the bottom line, but the metric black hole prevents this clarity and allows the shift toward distraction we increasingly encounter in the professional world.</mark> ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=629))
+
+<mark>The Principle of Least Resistance: In a business setting, without clear feedback on the impact of various behaviors to the bottom line, we will tend toward behaviors that are easiest in the moment.</mark> ([Location 649](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=649))
+
+<mark>Busyness as Proxy for Productivity: In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.</mark> ([Location 715](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=715))
+
+<mark>Knowledge work is not an assembly line, and extracting value from information is an activity that’s often at odds with busyness, not supported by it.</mark> ([Location 726](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=726))
+
+<mark>We were, he noted, no longer discussing the trade-offs surrounding new technologies, balancing the new efficiencies against the new problems introduced. If it’s high-tech, we began to instead assume, then it’s good. Case closed.</mark> ([Location 750](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=750))
+
+<mark>what we choose to focus on and what we choose to ignore—plays in defining the quality of our life.</mark> ([Location 850](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=850))
+
+<mark>the skillful management of attention is the sine qua non of the good life and the key to improving virtually every aspect of your experience.</mark> ([Location 853](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=853))
+
+<mark>“concentration so intense that there is no attention left over to think about anything irrelevant, or to worry about problems.”)</mark> ([Location 883](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=883))
+
+<mark>In short, I’ll live the focused life, because it’s the best kind there is.”</mark> ([Location 914](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=914))
+
+<mark>Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one’s work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured, and requires much greater effort to be shaped into something that can be enjoyed.</mark> ([Location 934](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=934))
+
+<mark>Human beings, it seems, are at their best when immersed deeply in something challenging.</mark> ([Location 939](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=939))
+
+<mark>“We who cut mere stones must always be envisioning cathedrals.”</mark> ([Location 996](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=996))
+
+<mark>The meaning uncovered by such efforts is due to the skill and appreciation inherent in craftsmanship—not the outcomes of their work.</mark> ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1011))
+
+<mark>A now voluminous line of inquiry, initiated in a series of pioneering papers also written by Roy Baumeister, has established the following important (and at the time, unexpected) truth about willpower: You have a finite amount of willpower that becomes depleted as you use it.</mark> ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1089))
+
+<mark>The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.</mark> ([Location 1095](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1095))
+
+<mark>The goal, in other words, is to generate a rhythm for this work that removes the need for you to invest energy in deciding if and when you’re going to go deep.</mark> ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1218))
+
+<mark>there’s no way to win a Pulitzer Prize or conceive a grand theory without pushing your brain to its limit.</mark> ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1311))
+
+<mark>At the same time, this support needs to be systematized so that you don’t waste mental energy figuring out what you need in the moment.</mark> ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1330))
+
+<mark>This back-and-forth represents a collaborative form of deep work (common in academic circles) that leverages what I call the whiteboard effect. For some types of problems, working with someone else at the proverbial shared whiteboard can push you deeper than if you were working alone. The presence of the other party waiting for your next insight—be it someone physically in the same room or collaborating with you virtually—can short-circuit the natural instinct to avoid depth.</mark> ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1468))
+
+<mark>isolation is not required for productive deep work.</mark> ([Location 1473](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1473))
+
+<mark>collaborative deep work can yield better results.</mark> ([Location 1474](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1474))
+
+<mark>Discipline #1: Focus on the Wildly Important</mark> ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1506))
+
+<mark>For an individual focused on deep work, the implication is that you should identify a small number of ambitious outcomes to pursue with your deep work hours.</mark> ([Location 1509](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1509))
+
+<mark>Discipline #2: Act on the Lead Measures</mark> ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1517))
+
+<mark>In other words, lead measures turn your attention to improving the behaviors you directly control in the near future that will then have a positive impact on your long-term goals.</mark> ([Location 1525](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1525))
+
+<mark>Discipline #3: Keep a Compelling Scoreboard</mark> ([Location 1531](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1531))
+
+<mark>Discipline #4: Create a Cadence of Accountability</mark> ([Location 1546](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1546))
+
+<mark>At a high level, this theory proposes that for decisions that require the application of strict rules, the conscious mind must be involved.</mark> ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1605))
+
+<mark>On the other hand, for decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue.</mark> ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1607))
+
+<mark>that spending time in nature can improve your ability to concentrate.</mark> ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1623))
+
+<mark>The core mechanism of this theory is the idea that you can restore your ability to direct your attention if you give this activity a rest.</mark> ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1639))
+
+<mark>The implication of these results is that your capacity for deep work in a given day is limited.</mark> ([Location 1660](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1660))
+
+<mark>The concept of a shutdown ritual might at first seem extreme, but there’s a good reason for it: the Zeigarnik effect. This effect, which is named for the experimental work of the early-twentieth-century psychologist Bluma Zeigarnik, describes the ability of incomplete tasks to dominate our attention. It tells us that if you simply stop whatever you are doing at five p.m. and declare, “I’m done with work until tomorrow,” you’ll likely struggle to keep your mind clear of professional issues, as the many obligations left unresolved in your mind will, as in Bluma Zeigarnik’s experiments, keep battling for your attention throughout the evening (a battle that they’ll often win).</mark> ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1686))
+
+<mark>“Committing to a specific plan for a goal may therefore not only facilitate attainment of the goal but may also free cognitive resources for other pursuits.”</mark> ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1697))
+
+<mark>regularly resting your brain improves the quality of your deep work.</mark> ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1707))
+
+<mark>In my experience, it’s common to treat undistracted concentration as a habit like flossing—something that you know how to do and know is good for you, but that you’ve been neglecting due to a lack of motivation. This mind-set is appealing because it implies you can transform your working life from distracted to focused overnight if you can simply muster enough motivation.</mark> ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1736))
+
+<mark>But this understanding ignores the difficulty of focus and the hours of practice necessary to strengthen your “mental muscle.”</mark> ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1739))
+
+<mark>Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate.</mark> ([Location 1755](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1755))
+
+<mark>Instead of scheduling the occasional break from distraction so you can focus, you should instead schedule the occasional break from focus to give in to distraction.</mark> ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1782))
+
+<mark>You must resist this temptation!</mark> ([Location 1812](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1812))
+
+<mark>The key here isn’t to avoid or even to reduce the total amount of time you spend engaging in distracting behavior, but is instead to give yourself plenty of opportunities throughout your evening to resist switching to these distractions at the slightest hint of boredom.</mark> ([Location 1830](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1830))
+
+<mark>To simply wait and be bored has become a novel experience in modern life, but from the perspective of concentration training, it’s incredibly valuable.</mark> ([Location 1834](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1834))
+
+<mark>To summarize, to succeed with deep work you must rewire your brain to be comfortable resisting distracting stimuli.</mark> ([Location 1836](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1836))
+
+<mark>The fragments that remained were then considered time dedicated exclusively to studying.</mark> ([Location 1855](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1855))
+
+<mark>attack the task with every free neuron until it gives way under your unwavering barrage of concentration.</mark> ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1866))
+
+<mark>The goal of productive meditation is to take a period in which you’re occupied physically but not mentally—walking, jogging, driving, showering—and focus your attention on a single well-defined professional problem.</mark> ([Location 1888](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1888))
+
+<mark>To succeed with productive meditation, it’s important to recognize that, like any form of meditation, it requires practice to do well.</mark> ([Location 1903](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1903))
+
+<mark>process. I suggest starting with a careful review of the relevant variables for solving the problem and then storing these values in your working memory.</mark> ([Location 1921](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1921))
+
+<mark>“We found that one of the biggest differences between memory athletes and the rest of us is in a cognitive ability that’s not a direct measure of memory at all but of attention,”</mark> ([Location 1947](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1947))
+
+<mark>We’re not wired to quickly internalize abstract information. We are, however, really good at remembering scenes.</mark> ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1960))
+
+<mark>The key to this strategy is not the specifics, but instead the motivating idea that your ability to concentrate is only as strong as your commitment to train it.</mark> ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1997))
+
+<mark>you must take back control of your time and attention from the many diversions that attempt to steal them.</mark> ([Location 2019](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2019))
+
+<mark>accepting that these tools are not inherently evil, and that some of them might be quite vital to your success and happiness, but at the same time also accepting that the threshold for allowing a site regular access to your time and attention (not to mention personal data) should be much more stringent, and that most people should therefore be using many fewer such tools.</mark> ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2031))
+
+<mark>The problem with this approach, of course, is that it ignores all the negatives that come along with the tools in question.</mark> ([Location 2061](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2061))
+
+<mark>The notion that identifying some benefit is sufficient to invest money, time, and attention in a tool is near laughable to people in his trade.</mark> ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2107))
+
+<mark>The Craftsman Approach to Tool Selection: Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts.</mark> ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2114))
+
+<mark>It simply asks that you give any particular network tool the same type of measured, nuanced accounting that tools in other trades have been subjected to throughout the history of skilled labor.</mark> ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2120))
+
+<mark>The first step of this strategy is to identify the main high-level goals in both your professional and your personal life.</mark> ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2152))
+
+<mark>To abandon a network tool using this logic, therefore, is not to miss out on its potential small benefits, but is instead to get more out of the activities you already know to yield large benefits.</mark> ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2247))
+
+<mark>“during those sixteen hours he is free; he is not a wage-earner; he is not preoccupied with monetary cares; he is just as good as a man with a private income.”</mark> ([Location 2334](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2334))
+
+<mark>Put more thought into your leisure time.</mark> ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2360))
+
+<mark>It’s crucial, therefore, that you figure out in advance what you’re going to do with your evenings and weekends before they begin.</mark> ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2364))
+
+<mark>The value of deep work vastly outweighs the value of shallow, but this doesn’t mean that you must quixotically pursue a schedule in which all of your time is invested in depth.</mark> ([Location 2428](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2428))
+
+<mark>We spend much of our day on autopilot—not giving much thought to what we’re doing with our time. This is a problem.</mark> ([Location 2465](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2465))
+
+<mark>Shallow Work: Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend not to create much new value in the world and are easy to replicate.</mark> ([Location 2533](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2533))
+
+<mark>How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?</mark> ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2544))
+
+<mark>You should, in this case, thank the boss for the feedback, and then promptly start planning how you can transition into a new position that values depth.</mark> ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2618))
+
+<mark>In particular, interrogative e-mails like these generate an initial instinct to dash off the quickest possible response that will clear the message—temporarily—out of your inbox. A quick response will, in the short term, provide you with some minor relief because you’re bouncing the responsibility implied by the message off your court and back onto the sender’s. This relief, however, is short-lived, as this responsibility will continue to bounce back again and again, continually sapping your time and attention.</mark> ([Location 2768](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2768))
+
+<mark>“Develop the habit of letting small bad things happen. If you don’t, you’ll never find time for the life-changing big things.”</mark> ([Location 2841](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2841))
+

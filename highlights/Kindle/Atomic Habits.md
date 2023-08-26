@@ -8,7 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81wgcld4wxL._SY160.jpg'
   highlightsCount: 2
 order: -1
-tags: 
+tags:
 title: Atomic Habits
 ---
 

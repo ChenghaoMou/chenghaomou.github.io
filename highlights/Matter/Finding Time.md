@@ -17,4 +17,3 @@ tags:
 <mark>But I ask them whether, if their children grow up to become adults who spend this one precious life in a spin of multitasking, stress, and achievement, and then work out four times a week, will they be pleased that their kids also pursued this kind of whirlwind life?</mark>
 
 <mark>I’ve heard it said that every day you need half an hour of quiet time for yourself, or your Self, unless you’re incredibly busy and stressed, in which case you need an hour. I promise you, it is there. Fight tooth and nail to find time, to make it. It is our true wealth, this moment, this hour, this day.</mark>
-

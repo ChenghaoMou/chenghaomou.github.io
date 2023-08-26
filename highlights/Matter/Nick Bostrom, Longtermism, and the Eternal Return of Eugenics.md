@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Nick Bostrom, Longtermism, and the Eternal Return of Eugenics
 url: https://www.truthdig.com/dig/nick-bostrom-longtermism-and-the-eternal-return-of-eugenics/
 author: Alexander Rutkin 31
 publisher: www.truthdig.com
 order: -20230119191022
 date: 2023-01-19
 tags:
+title: Nick Bostrom, Longtermism, and the Eternal Return of Eugenics
 ---
 
 ## Highlights
@@ -16,3 +15,5 @@ tags:
 
 <mark>It’s a profoundly disturbing reminder that donating to help people in the Global South doesn’t for a moment mean that one’s not a horrible racist.</mark>
 
+Related:
+[[How elite schools like Stanford became fixated on the AI apocalypse|How elite schools like Stanford became fixated on the AI apocalypse]]
