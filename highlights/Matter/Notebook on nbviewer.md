@@ -1,11 +1,10 @@
 ---
 aliases:
-  - Notebook on nbviewer
+  - AlphaCode
 url: https://nbviewer.org/github/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
 publisher: nbviewer.org
-order: -20160427012217
 date: 2016-04-27
-tags:
+title: "Notebook on nbviewer"
 ---
 
 ## Highlights
@@ -14,4 +13,3 @@ tags:
 <mark>But the machine learning model is just a small part of the overall software development process. If all the other parts could be incorporated into an end-to-end differntiable model, the process of evolving the system would be easier. Consider the scenario where the user experience researchers do an experiment comparring ten different user interfaces, and determine which one is best. The engineers then go implement that UI. Sometime later, the world changes: maybe the blend of users is different, maybe users migrate to devices with a different screen size. What would trigger an update to the UI? today, we rely on institutional memory: someone says, "Hey, I remember that UX study a few years back; maybe we should look at it again and see if a different UI would be better." But if the experiment documents and everything else were all in an end-to-end model, then the model itself could detect when a change is warranted. Building languages that allow for the incorporation of all these different kinds of documents is a challenge for the future.</mark>
 
 <mark>This suggests that the contest problems have a bias towards retrieving an existing solution (and adapting it) rather than synthesizing a new solution.</mark>
-

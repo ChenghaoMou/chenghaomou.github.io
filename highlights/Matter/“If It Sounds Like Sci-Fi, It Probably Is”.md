@@ -2,10 +2,9 @@
 url: https://journal.getabstract.com/en/2023/08/03/if-it-sounds-like-sci-fi-it-probably-is/
 author: Caryn Hunt
 publisher: journal.getabstract.com
-order: -20230803174011
 date: 2023-08-03
 tags:
-title: “If It Sounds Like Sci-Fi, It Probably Is”
+title: "“If It Sounds Like Sci-Fi, It Probably Is”"
 ---
 
 ## Highlights

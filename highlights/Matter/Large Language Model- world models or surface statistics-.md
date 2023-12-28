@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Large Language Model: world models or surface statistics?
+  - "Large Language Model: world models or surface statistics?"
 url: https://thegradient.pub/othello/
 author: Kenneth Li
 publisher: The Gradient
-order: -20230121050036
 date: 2023-01-21
 tags:
+title: "Large Language Model- world models or surface statistics-"
 ---
 
 ## Highlights

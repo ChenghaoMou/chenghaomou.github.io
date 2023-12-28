@@ -1,13 +1,11 @@
 ---
 aliases:
-  - {{title}}
+  - '{{title}}'
   - "{{title}}"
 authors: "{{authors}}"
 date: '{{importDate | format("YYYY-MM-DD HH:mm:ss")}}'
-linter-yaml-title-alias: "{{title}}"
-order: -1
-tags: 
-title: {{title}}
+tags:
+title: '{{title}}'
 url: "{{url}}"
 ---
 
@@ -21,7 +19,9 @@ url: "{{url}}"
 {% endif %}
 
 {% for annotation in annotations %}
-{% if annotation.annotatedText %}<mark style="background: {{annotation.color}}">{{annotation.annotatedText|escape}}</mark> [(p. {{annotation.page}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}) {% endif %}
+{% if annotation.annotatedText %}
+> {{annotation.annotatedText|escape}} [(p. {{annotation.page}})](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}})
+{% endif %}
 {% if annotation.imageRelativePath %}![[{{annotation.imageRelativePath}}]]{% endif %}
 {% if annotation.comment %}
 

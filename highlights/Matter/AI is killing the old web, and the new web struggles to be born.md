@@ -4,7 +4,6 @@ aliases:
 url: https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web
 author: Andy Baio
 publisher: The Verge
-order: -20230626162528
 date: 2023-06-26
 tags:
 title: AI is killing the old web, and the new web struggles to be born

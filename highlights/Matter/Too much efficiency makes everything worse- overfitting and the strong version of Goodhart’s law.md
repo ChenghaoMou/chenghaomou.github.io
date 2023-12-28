@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law
+  - "Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law"
 url: http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
 author: Jascha Sohl-Dickstein
 publisher: sohl-dickstein.github.io
-order: -20221105193450
 date: 2022-11-05
 tags:
+title: "Too much efficiency makes everything worse- overfitting and the strong version of Goodhart’s law"
 ---
 
 ## Highlights
@@ -19,4 +19,3 @@ tags:
 <mark>The strong version of Goodhart's law differs in that it says that as you over-optimize, the goal you care about won't just stop improving, but will instead grow much worse than if you had done nothing at all.</mark>
 
 <mark>One of the best understood causes of extreme overfitting is that the expressivity of the model being trained too closely matches the complexity of the proxy task.</mark>
-

@@ -1,12 +1,10 @@
 ---
-aliases:
-  - ChatGPT Is a Blurry JPEG of the Web
 url: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
 author: Ted Chiang
 publisher: The New Yorker
-order: -20230209030000
 date: 2023-02-09
 tags:
+title: "ChatGPT Is a Blurry JPEG of the Web"
 ---
 
 ## Highlights

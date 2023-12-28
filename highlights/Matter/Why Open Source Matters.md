@@ -1,11 +1,10 @@
 ---
 url: https://redmonk.com/sogrady/2023/08/03/why-opensource-matters/
-author: Stephen O'Grady
+author: "Stephen O'Grady"
 publisher: redmonk.com
-order: -20230803032419
 date: 2023-08-03
 tags:
-title: Why Open Source Matters
+title: "Why Open Source Matters"
 ---
 
 ## Highlights

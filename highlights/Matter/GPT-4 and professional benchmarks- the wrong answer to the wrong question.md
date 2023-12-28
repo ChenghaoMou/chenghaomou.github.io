@@ -1,12 +1,12 @@
 ---
 aliases:
-  - GPT-4 and professional benchmarks: the wrong answer to the wrong question
+  - "GPT-4 and professional benchmarks: the wrong answer to the wrong question"
 url: https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks
 author: Arvind Narayanan
 publisher: Sayash and Arvind from AI Snake Oil
-order: -20230320140005
 date: 2023-03-20
 tags:
+title: "GPT-4 and professional benchmarks- the wrong answer to the wrong question"
 ---
 
 ## Highlights
@@ -17,4 +17,3 @@ tags:
 <mark>Just one of the 270 jobs in the 1950 census has been eliminated by automation: elevator operator. Instead, we need studies that actually evaluate professionals using the help of AI tools to do their jobs. Two early studies are promising: one looks at GitHub copilot for coding and the other looks at ChatGPT for writing assistance.</mark>
 
 <mark>At this stage, we need qualitative studies more than quantitative ones, because these tools are so new that we don’t even know the right quantitative questions to ask. For example, Scott Guthrie of Microsoft reports the eye-catching number that 40% of the code checked in by GitHub Copilot users is AI-generated and unmodified. But any programmer will tell you that especially in enterprise applications, a large percentage of code consists of templates and other mundane logic that we usually copy-paste. If this is the part that Copilot is automating, the productivity improvement would be negligible. To be clear, we’re not saying that Copilot is useless, just that metrics are meaningless without a qualitative understanding of how professionals use AI. Besides, the primary benefit of AI-assisted coding might not even be the productivity improvement.</mark>
-

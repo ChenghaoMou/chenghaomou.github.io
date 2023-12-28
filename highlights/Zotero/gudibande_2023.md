@@ -3,10 +3,8 @@ aliases:
   - The False Promise of Imitating Proprietary LLMs
 authors: "Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song"
 date: '2023-06-25 18:54:25'
-linter-yaml-title-alias: The False Promise of Imitating Proprietary LLMs
-order: -1
 tags:
-title: The False Promise of Imitating Proprietary LLMs
+title: "The False Promise of Imitating Proprietary LLMs"
 url: "http://arxiv.org/abs/2305.15717"
 ---
 

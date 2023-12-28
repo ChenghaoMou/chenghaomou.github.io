@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Ahead of AI #1: A Diffusion of Innovations
+  - "Ahead of AI #1: A Diffusion of Innovations"
 url: https://magazine.sebastianraschka.com/p/ahead-of-ai-1-a-diffusion-of-innovations
 author: Sebastian Raschka
 publisher: sebastianraschka.com
-order: -20221104124347
 date: 2022-11-04
 tags:
+title: "Ahead of AI -1- A Diffusion of Innovations"
 ---
 
 ## Highlights

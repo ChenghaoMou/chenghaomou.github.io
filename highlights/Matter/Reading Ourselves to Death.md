@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Reading Ourselves to Death
 url: https://www.thenewatlantis.com/publications/reading-ourselves-to-death
 author: Kit Wilson
 publisher: "Hacker News: Front Page"
 order: -20220626095723
 date: 2022-06-26
 tags:
+title: Reading Ourselves to Death
 ---
 
 ## Highlights
@@ -17,3 +16,6 @@ tags:
 <mark>What is striking is that both literacy theorists and neuroscientists generally consider the psychological consequences of reading and writing to be fundamentally positive, for reasons that become clearer when we look at the slightly different ways they use the term “abstract.”</mark>
 
 <mark>The anthropologist Joseph Heinrich has suggested that the rise of literacy in the West helped to produce a certain mindset that he calls “WEIRD” — for “Western, educated, industrialized, rich, and democratic” — that excludes some aspects of reality in favor of others.</mark>
+
+Related:
+[[32238617|These 38 Reading Rules Changed My Life]]

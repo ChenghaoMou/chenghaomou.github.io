@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Transcript: Ezra Klein Interviews Gary Marcus
+  - "Transcript: Ezra Klein Interviews Gary Marcus"
 url: https://www.nytimes.com/2023/01/06/podcasts/transcript-ezra-klein-interviews-gary-marcus.html
 publisher: The New York Times
-order: -20230105183946
 date: 2023-01-05
 tags:
+title: "Transcript- Ezra Klein Interviews Gary Marcus"
 ---
 
 ## Highlights
@@ -54,4 +54,3 @@ tags:
 <mark>And so alignment is, in part, about having machines know that we have values like don’t harm people, be honest, be helpful. And we don’t really know how to communicate those in the big data paradigm.</mark>
 
 <mark>I don’t think that — Cicero is the name of the Diplomacy player — is itself going to stand the test of time. But it’s, to me, a hint of people backing down from just doing the giant streetlight and making it bigger. There’s been so much talk lately about scaling models. And that’s not what they did in the Cicero system. Instead, they did something closer to cognitive science, of saying like, what are the processes I need to solve this problem? Let me break this down into pieces, take a modular approach. And I think A.I. needs to move back there. So I was actually excited to see that. I wrote a piece with Ernie Davis about how it worked. It’s a very complicated system, much more complicated, in some ways, than the other systems. I think it’s a good trend.</mark>
-

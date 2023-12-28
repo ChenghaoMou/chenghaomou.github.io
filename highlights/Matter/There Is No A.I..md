@@ -1,12 +1,10 @@
 ---
-aliases:
-  - There Is No A.I.
 url: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai
 author: Jaron Lanier
 publisher: The New Yorker
-order: -20230420092434
 date: 2023-04-20
 tags:
+title: "There Is No A.I."
 ---
 
 ## Highlights
