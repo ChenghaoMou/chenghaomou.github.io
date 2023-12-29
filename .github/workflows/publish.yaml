@@ -11,13 +11,18 @@ jobs:
       - name: Build emanote site 🔧
         run: |
           mkdir output.docker
+          rm -rf $PWD/4archives
+          rm -rf $PWD/reviews
+          rm -rf $PWD/boilerplates
+          rm -rf $PWD/inbox
           docker run \
             -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
             --tmpfs /tmp \
             -v $PWD:/data \
             sridca/emanote \
-            sh -c "rm -rf /data/4archives /data/reviews /data/templates/*md /data/boilerplates /data/inbox && emanote -L '/data' gen /data/output.docker --allow-broken-links"
+            sh -c "emanote -L '/data' gen /data/output.docker --allow-broken-links"
           cp -r output.docker output
+          cp $PWD/robots.txt output/robots.txt
       - name: Deploy to gh-pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:

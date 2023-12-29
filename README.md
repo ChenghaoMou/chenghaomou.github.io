@@ -1,1 +1,1 @@
-This blog is live on [Obsidian Publish](https://publish.obsidian.md/chenghao/index). The Github Page version is only for experiments.
+Personal Blog

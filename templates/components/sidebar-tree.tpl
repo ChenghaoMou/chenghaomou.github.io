@@ -13,12 +13,14 @@
 <has-children>
   <bind tag="icon">
     <tree:open>
+      <button onclick="javascript:goUpOneLevel('${node:url}')">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
         class="${iconSize} inline text-gray-700" fill="currentColor">
         <path fill-rule="evenodd"
           d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm3 10.5a.75.75 0 0 0 0-1.5H9a.75.75 0 0 0 0 1.5h6Z"
           clip-rule="evenodd" />
       </svg>
+      </button>
       <else />
       <svg xmlns="http://www.w3.org/2000/svg" class="${iconSize} inline text-gray-500"
         viewBox="0 0 24 24" fill="currentColor">
@@ -51,33 +53,64 @@
 <!-- Rendering of this tree -->
 <div class="pl-2">
   <!-- Node's rootLabel-->
-  <div class="flex items-center my-2 space-x-2 justify-left">
-    <span>
-      <tree:open>
-        <icon />
-        <else />
-        <has-children>
-          <a href="${node:url}" title="View folgezettel children">
+  <node:terminal>
+    <div class="flex items-center my-2 space-x-2 justify-left sidebar-terminal-item p-1 rounded">
+        <span>
+        <tree:open>
             <icon />
-          </a>
-          <else />
-          <icon />
-        </has-children>
-      </tree:open>
-    </span>
-    <a class="${link-class} rounded px-1.5 truncate" title="${node:text}" href="${node:url}">
-      <node:text />
-    </a>
-    <tree:open>
-      <else />
-      <node:terminal>
-        <else />
-        <span class="text-gray-300" title="${tree:childrenCount} children inside">
-          <tree:childrenCount />
+            <else />
+            <has-children>
+            <a href="${node:url}" title="View folgezettel children">
+                <icon />
+            </a>
+            <else />
+            <icon />
+            </has-children>
+        </tree:open>
         </span>
-      </node:terminal>
-    </tree:open>
-  </div>
+        <a class="${link-class} rounded px-1.5 truncate" title="${node:text}" href="${node:url}">
+        <p style="white-space: pre-wrap;"><node:text /></p>
+        </a>
+        <tree:open>
+        <else />
+        <node:terminal>
+            <else />
+            <span class="text-gray-300" title="${tree:childrenCount} children inside">
+            <tree:childrenCount />
+            </span>
+        </node:terminal>
+        </tree:open>
+    </div>
+    <else />
+    <div class="flex items-center my-2 space-x-2 justify-left">
+        <span>
+        <tree:open>
+            <icon />
+            <else />
+            <has-children>
+            <a href="${node:url}" title="View folgezettel children">
+                <icon />
+            </a>
+            <else />
+            <icon />
+            </has-children>
+        </tree:open>
+        </span>
+        <a class="${link-class} rounded px-1.5 truncate" title="${node:text}" href="${node:url}">
+        <p style="white-space: pre-wrap;"><node:text /></p>
+        </a>
+        <tree:open>
+        <else />
+        <node:terminal>
+            <else />
+            <span class="text-gray-300" title="${tree:childrenCount} children inside">
+            <tree:childrenCount />
+            </span>
+        </node:terminal>
+        </tree:open>
+    </div>
+  </node:terminal>
+
 
   <!-- Node's children forest, displayed only on active trees
     TODO: Use <details> to toggle visibility?
