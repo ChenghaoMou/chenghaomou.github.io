@@ -12,7 +12,6 @@ jobs:
         run: |
           mkdir output.docker
           rm -rf $PWD/4archives
-          rm -rf $PWD/reviews
           rm -rf $PWD/boilerplates
           rm -rf $PWD/inbox
           docker run \

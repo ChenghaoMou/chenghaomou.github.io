@@ -64,8 +64,4 @@ function goUpOneLevel(currentDirectory) {
     width: 350px!important;
     overflow-x: hidden;
   }
-
-  #sidebar .sidebar-terminal-item:hover {
-    background-color: rgba(0, 0, 0, 0.1);
-  }
 </style>
