@@ -1,0 +1,22 @@
+services:
+  generate:
+    
+    platform: linux/arm64/v8
+    environment:
+      - LANG=C.UTF-8
+      - LC_ALL=C.UTF-8
+    tmpfs:
+      - /tmp
+    build:
+      dockerfile: Dockerfile
+    volumes:
+      - ./templates:/app/templates
+      - ./highlights/Matter:/app/highlights/Matter
+      - ./highlights/Readwise:/app/highlights/Readwise
+      - ./highlights/Zotero:/app/highlights/Zotero
+      - ./notes:/app/notes
+      - ./posts:/app/posts
+      - ./statics:/app/statics
+      - ./output:/output
+      - ./index.md:/app/index.md
+      - ./index.yaml:/app/index.yaml
