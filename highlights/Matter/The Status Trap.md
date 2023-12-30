@@ -20,7 +20,7 @@ tags:
 
 <mark>Studies have shown that taking a stressful or traumatic event and writing about it for ~20 minutes for three or four consecutive days can have a significant impact on well-being.</mark>
 
-<mark>When we are consumed by status, our lives become about managing our insecurities. So the question becomes: If you weren’t so busy trying to prove your worth through status games, what would you want your life to be in service of?</mark>
+<mark>When we are consumed by status, our lives become about managing our insecurities. So the question becomes: If you weren’t so busy trying to prove your worth through status games, what would you want your life to be in service of?</mark> ^2a1a3b
 
 <mark>Status, like money and power, is a form of capital. If we can learn to tolerate our feelings of “not-enoughness,” we can then use status in service of what we care about, rather than being addicted to it as an end in itself.</mark>
 

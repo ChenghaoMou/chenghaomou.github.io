@@ -154,9 +154,6 @@ def parse_vault(dir, output, allow_missing=False):
             continue
         for ref in parse_references(file):
             if ref.ref in blocks:
-                print(f"Reference:\n{ref.span}\n")
-                print(f"Found:\n {blocks[ref.ref]}\n")
-
                 # replace reference with block
                 new_file = Path(output) / Path(file).relative_to(dir)
                 content = Path(new_file).read_text()
@@ -170,6 +167,7 @@ def parse_vault(dir, output, allow_missing=False):
             elif not allow_missing:
                 raise ValueError(f"Reference {ref.ref} not found in vault")
             else:
+                print(f"Reference {ref.ref} not found in vault")
                 broken += 1
     print(f"Found {broken} broken references")
 

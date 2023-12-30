@@ -76,6 +76,13 @@
   urldate = {2023-10-11}
 }
 
+@online{_i,
+  title = {[2310.06825] {{Mistral 7B}}},
+  url = {https://arxiv.org/abs/2310.06825},
+  urldate = {2023-12-30},
+  file = {/Users/chenghao/Zotero/storage/YKZ4ZC5W/2310.html}
+}
+
 @online{abbas_2023,
   title = {{{SemDeDup}}: {{Data-efficient}} Learning at Web-Scale through Semantic Deduplication},
   shorttitle = {{{SemDeDup}}},
@@ -824,6 +831,19 @@
   file = {/Users/chenghao/Zotero/storage/YMUZRP7Q/D'ejean_et_al_(2022)_LayoutXLM_vs.pdf}
 }
 
+@online{dettmers_2023,
+  title = {{{QLoRA}}: {{Efficient Finetuning}} of {{Quantized LLMs}}},
+  shorttitle = {{{QLoRA}}},
+  author = {Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
+  date = {2023-05-23},
+  url = {https://arxiv.org/abs/2305.14314v1},
+  urldate = {2023-12-30},
+  abstract = {We present QLoRA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters\textasciitilde (LoRA). Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3\% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU. QLoRA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) double quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) paged optimziers to manage memory spikes. We use QLoRA to finetune more than 1,000 models, providing a detailed analysis of instruction following and chatbot performance across 8 instruction datasets, multiple model types (LLaMA, T5), and model scales that would be infeasible to run with regular finetuning (e.g. 33B and 65B parameter models). Our results show that QLoRA finetuning on a small high-quality dataset leads to state-of-the-art results, even when using smaller models than the previous SoTA. We provide a detailed analysis of chatbot performance based on both human and GPT-4 evaluations showing that GPT-4 evaluations are a cheap and reasonable alternative to human evaluation. Furthermore, we find that current chatbot benchmarks are not trustworthy to accurately evaluate the performance levels of chatbots. A lemon-picked analysis demonstrates where Guanaco fails compared to ChatGPT. We release all of our models and code, including CUDA kernels for 4-bit training.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/9IXMUB7C/Dettmers et al. - 2023 - QLoRA Efficient Finetuning of Quantized LLMs.pdf}
+}
+
 @online{diliello_2022,
   title = {Paragraph-Based {{Transformer Pre-training}} for {{Multi-Sentence Inference}}},
   author = {Di Liello, Luca and Garg, Siddhant and Soldaini, Luca and Moschitti, Alessandro},
@@ -1539,6 +1559,18 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning},
   annotation = {0 citations (Semantic Scholar/arXiv) [2022-12-09] 0 citations (Semantic Scholar/DOI) [2022-12-09]},
   file = {/Users/chenghao/Zotero/storage/7EJ7BXX8/Jiang_et_al_(2022)_Retrieval_as_Attention.pdf}
+}
+
+@online{jiang_2023,
+  title = {Mistral {{7B}}},
+  author = {Jiang, Albert Q. and Sablayrolles, Alexandre and Mensch, Arthur and Bamford, Chris and Chaplot, Devendra Singh and family=Casas, given=Diego, prefix=de las, useprefix=false and Bressand, Florian and Lengyel, Gianna and Lample, Guillaume and Saulnier, Lucile and Lavaud, Lélio Renard and Lachaux, Marie-Anne and Stock, Pierre and Scao, Teven Le and Lavril, Thibaut and Wang, Thomas and Lacroix, Timothée and Sayed, William El},
+  date = {2023-10-10},
+  url = {https://arxiv.org/abs/2310.06825v1},
+  urldate = {2023-12-30},
+  abstract = {We introduce Mistral 7B v0.1, a 7-billion-parameter language model engineered for superior performance and efficiency. Mistral 7B outperforms Llama 2 13B across all evaluated benchmarks, and Llama 1 34B in reasoning, mathematics, and code generation. Our model leverages grouped-query attention (GQA) for faster inference, coupled with sliding window attention (SWA) to effectively handle sequences of arbitrary length with a reduced inference cost. We also provide a model fine-tuned to follow instructions, Mistral 7B -- Instruct, that surpasses the Llama 2 13B -- Chat model both on human and automated benchmarks. Our models are released under the Apache 2.0 license.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/PAA3EDR8/Jiang et al. - 2023 - Mistral 7B.pdf}
 }
 
 @online{jones_2023,
@@ -2946,6 +2978,19 @@
   file = {/Users/chenghao/Dropbox/Documents/Zotero/arXiv2112.11446 [cs]/2021/Rae et al_2021_Scaling Language Models.pdf}
 }
 
+@online{rafailov_2023,
+  title = {Direct {{Preference Optimization}}: {{Your Language Model}} Is {{Secretly}} a {{Reward Model}}},
+  shorttitle = {Direct {{Preference Optimization}}},
+  author = {Rafailov, Rafael and Sharma, Archit and Mitchell, Eric and Ermon, Stefano and Manning, Christopher D. and Finn, Chelsea},
+  date = {2023-05-29},
+  url = {https://arxiv.org/abs/2305.18290v2},
+  urldate = {2023-12-30},
+  abstract = {While large-scale unsupervised language models (LMs) learn broad world knowledge and some reasoning skills, achieving precise control of their behavior is difficult due to the completely unsupervised nature of their training. Existing methods for gaining such steerability collect human labels of the relative quality of model generations and fine-tune the unsupervised LM to align with these preferences, often with reinforcement learning from human feedback (RLHF). However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model. In this paper we introduce a new parameterization of the reward model in RLHF that enables extraction of the corresponding optimal policy in closed form, allowing us to solve the standard RLHF problem with only a simple classification loss. The resulting algorithm, which we call Direct Preference Optimization (DPO), is stable, performant, and computationally lightweight, eliminating the need for sampling from the LM during fine-tuning or performing significant hyperparameter tuning. Our experiments show that DPO can fine-tune LMs to align with human preferences as well as or better than existing methods. Notably, fine-tuning with DPO exceeds PPO-based RLHF in ability to control sentiment of generations, and matches or improves response quality in summarization and single-turn dialogue while being substantially simpler to implement and train.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/J697QUWN/Rafailov et al. - 2023 - Direct Preference Optimization Your Language Model is Secretly a Reward Model.pdf}
+}
+
 @inproceedings{raji_2021,
   title = {You {{Can}}'t {{Sit With Us}}: {{Exclusionary Pedagogy}} in {{AI Ethics Education}}},
   shorttitle = {You {{Can}}'t {{Sit With Us}}},
@@ -3591,6 +3636,19 @@
   file = {/Users/chenghao/Zotero/storage/3GSHT8AZ/Touvron_et_al_(2023)_LLaMA.pdf}
 }
 
+@online{touvron_2023a,
+  title = {Llama 2: {{Open Foundation}} and {{Fine-Tuned Chat Models}}},
+  shorttitle = {Llama 2},
+  author = {Touvron, Hugo and Martin, Louis and Stone, Kevin and Albert, Peter and Almahairi, Amjad and Babaei, Yasmine and Bashlykov, Nikolay and Batra, Soumya and Bhargava, Prajjwal and Bhosale, Shruti and Bikel, Dan and Blecher, Lukas and Ferrer, Cristian Canton and Chen, Moya and Cucurull, Guillem and Esiobu, David and Fernandes, Jude and Fu, Jeremy and Fu, Wenyin and Fuller, Brian and Gao, Cynthia and Goswami, Vedanuj and Goyal, Naman and Hartshorn, Anthony and Hosseini, Saghar and Hou, Rui and Inan, Hakan and Kardas, Marcin and Kerkez, Viktor and Khabsa, Madian and Kloumann, Isabel and Korenev, Artem and Koura, Punit Singh and Lachaux, Marie-Anne and Lavril, Thibaut and Lee, Jenya and Liskovich, Diana and Lu, Yinghai and Mao, Yuning and Martinet, Xavier and Mihaylov, Todor and Mishra, Pushkar and Molybog, Igor and Nie, Yixin and Poulton, Andrew and Reizenstein, Jeremy and Rungta, Rashi and Saladi, Kalyan and Schelten, Alan and Silva, Ruan and Smith, Eric Michael and Subramanian, Ranjan and Tan, Xiaoqing Ellen and Tang, Binh and Taylor, Ross and Williams, Adina and Kuan, Jian Xiang and Xu, Puxin and Yan, Zheng and Zarov, Iliyan and Zhang, Yuchen and Fan, Angela and Kambadur, Melanie and Narang, Sharan and Rodriguez, Aurelien and Stojnic, Robert and Edunov, Sergey and Scialom, Thomas},
+  date = {2023-07-18},
+  url = {https://arxiv.org/abs/2307.09288v2},
+  urldate = {2023-12-30},
+  abstract = {In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters. Our fine-tuned LLMs, called Llama 2-Chat, are optimized for dialogue use cases. Our models outperform open-source chat models on most benchmarks we tested, and based on our human evaluations for helpfulness and safety, may be a suitable substitute for closed-source models. We provide a detailed description of our approach to fine-tuning and safety improvements of Llama 2-Chat in order to enable the community to build on our work and contribute to the responsible development of LLMs.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/MTG78EZ4/Touvron et al. - 2023 - Llama 2 Open Foundation and Fine-Tuned Chat Models.pdf}
+}
+
 @online{treviso_2022,
   title = {Efficient {{Methods}} for {{Natural Language Processing}}: {{A Survey}}},
   shorttitle = {Efficient {{Methods}} for {{Natural Language Processing}}},
@@ -3821,6 +3879,19 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Information Retrieval},
   annotation = {GSCC: 0000000  9 citations (Semantic Scholar/arXiv) [2022-10-07]},
   file = {/Users/chenghao/Zotero/storage/SMU5I3G3/Wu_et_al_(2021)_LAMPRET.pdf}
+}
+
+@online{wu_2023,
+  title = {{{BloombergGPT}}: {{A Large Language Model}} for {{Finance}}},
+  shorttitle = {{{BloombergGPT}}},
+  author = {Wu, Shijie and Irsoy, Ozan and Lu, Steven and Dabravolski, Vadim and Dredze, Mark and Gehrmann, Sebastian and Kambadur, Prabhanjan and Rosenberg, David and Mann, Gideon},
+  date = {2023-03-30},
+  url = {https://arxiv.org/abs/2303.17564v3},
+  urldate = {2023-12-30},
+  abstract = {The use of NLP in the realm of financial technology is broad and complex, with applications ranging from sentiment analysis and named entity recognition to question answering. Large Language Models (LLMs) have been shown to be effective on a variety of tasks; however, no LLM specialized for the financial domain has been reported in literature. In this work, we present BloombergGPT, a 50 billion parameter language model that is trained on a wide range of financial data. We construct a 363 billion token dataset based on Bloomberg's extensive data sources, perhaps the largest domain-specific dataset yet, augmented with 345 billion tokens from general purpose datasets. We validate BloombergGPT on standard LLM benchmarks, open financial benchmarks, and a suite of internal benchmarks that most accurately reflect our intended usage. Our mixed dataset training leads to a model that outperforms existing models on financial tasks by significant margins without sacrificing performance on general LLM benchmarks. Additionally, we explain our modeling choices, training process, and evaluation methodology. We release Training Chronicles (Appendix C) detailing our experience in training BloombergGPT.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/5QWYG467/Wu et al. - 2023 - BloombergGPT A Large Language Model for Finance.pdf}
 }
 
 @online{xie_2022,

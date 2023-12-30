@@ -24,7 +24,7 @@ As AI systems become more capable, we would like to enlist their help to supervi
 
 <mark style="background: #5fb236">That said, scaling supervision could also have downsides and dangers, since it means further automating (and quite possibly obscuring) decision making.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3)
 
-<mark style="background: #ff6666">As we discuss below, our constitutional approach leverages chain-of-thought reasoning [Nye et al., 2021, Wei et al., 2022] to make decision making more legible.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3)
+<mark style="background: #ff6666">As we discuss below, our constitutional approach leverages chain-of-thought reasoning [Nye et al., 2021, Wei et al., 2022] to make decision making more legible.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3) ^81dd1a
 
 <mark style="background: #ff6666">These principles were chosen in a fairly ad hoc and iterative way for research purposes. In the future, we believe such principles should be redeveloped and refined by a larger set of stakeholders, and that they should also be adapted depending on the intended usage and location in which the model may be deployed. Since such a small number of bits of information are involved in these principles, it’s worth studying these bits carefully.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3) ^3857c9
 
@@ -40,7 +40,7 @@ As AI systems become more capable, we would like to enlist their help to supervi
 
 <mark style="background: #ffd400">confused</mark> [(p. 8)](zotero://open-pdf/library/items/C3SNEQJ9?page=8)
 
-<mark style="background: #ff6666">Nonetheless, we expect that more constitutions leads to more diverse behaviors, although we did not studied this quantitatively in this work. Diversity is particularly valuable to encourage exploration during the subsequent RL training step.</mark> [(p. 9)](zotero://open-pdf/library/items/C3SNEQJ9?page=9)
+<mark style="background: #ff6666">Nonetheless, we expect that more constitutions leads to more diverse behaviors, although we did not studied this quantitatively in this work. Diversity is particularly valuable to encourage exploration during the subsequent RL training step.</mark> [(p. 9)](zotero://open-pdf/library/items/C3SNEQJ9?page=9) ^aada6a
 
 <mark style="background: #ff6666">We found that critiqued revisions achieved better harmlessness scores for small models, but made no noticeable different for large models. Furthermore, based on inspecting samples from the 52B, we found that the critiques were sometimes reasonable, but often made inaccurate or overstated criticisms. Nonetheless, the revisions were generally more harmless than the original response.</mark> [(p. 10)](zotero://open-pdf/library/items/C3SNEQJ9?page=10)
 
