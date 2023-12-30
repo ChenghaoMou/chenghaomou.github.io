@@ -3,3 +3,5 @@
 .smart-connections
 build
 output
+intermediate
+.vscode

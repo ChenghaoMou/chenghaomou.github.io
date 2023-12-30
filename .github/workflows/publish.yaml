@@ -15,11 +15,15 @@ jobs:
           rm -rf $PWD/boilerplates
           rm -rf $PWD/inbox
           docker run \
+            -v -v $PWD:/data \
+            python:3.11-slim \
+            sh -c "cd /data && python export/block.py"
+          docker run \
             -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
             --tmpfs /tmp \
             -v $PWD:/data \
             sridca/emanote \
-            sh -c "emanote -L '/data' gen /data/output.docker --allow-broken-links"
+            sh -c "emanote -L '/data/intermediate' gen /data/output.docker --allow-broken-links"
           cp -r output.docker output
           cp $PWD/robots.txt output/robots.txt
       - name: Deploy to gh-pages 🚀

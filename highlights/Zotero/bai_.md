@@ -26,7 +26,7 @@ As AI systems become more capable, we would like to enlist their help to supervi
 
 <mark style="background: #ff6666">As we discuss below, our constitutional approach leverages chain-of-thought reasoning [Nye et al., 2021, Wei et al., 2022] to make decision making more legible.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3)
 
-<mark style="background: #ff6666">These principles were chosen in a fairly ad hoc and iterative way for research purposes. In the future, we believe such principles should be redeveloped and refined by a larger set of stakeholders, and that they should also be adapted depending on the intended usage and location in which the model may be deployed. Since such a small number of bits of information are involved in these principles, it’s worth studying these bits carefully.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3)
+<mark style="background: #ff6666">These principles were chosen in a fairly ad hoc and iterative way for research purposes. In the future, we believe such principles should be redeveloped and refined by a larger set of stakeholders, and that they should also be adapted depending on the intended usage and location in which the model may be deployed. Since such a small number of bits of information are involved in these principles, it’s worth studying these bits carefully.</mark> [(p. 3)](zotero://open-pdf/library/items/C3SNEQJ9?page=3) ^3857c9
 
 > All in the future work.
 
