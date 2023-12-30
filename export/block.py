@@ -128,13 +128,16 @@ def parse_references(file) -> list[Reference]:
 
 def parse_vault(dir, output, allow_missing=False):
 
-    # copy all files to output first
-    for file in glob.glob(f"{dir}/**/*.md", recursive=True):
+    # copy all types of files to output first
+    for file in glob.glob(f"{dir}/**/*", recursive=True):
         if "intermediate" in file:
+            continue
+        if Path(file).is_dir():
             continue
         new_file = Path(output) / Path(file).relative_to(dir)
         Path(new_file).parent.mkdir(parents=True, exist_ok=True)
-        Path(new_file).write_text(Path(file).read_text())
+        with open(file, "rb") as f:
+            Path(new_file).write_bytes(f.read())
 
     blocks = defaultdict(list)
     for file in glob.glob(f"{dir}/**/*.md", recursive=True):
