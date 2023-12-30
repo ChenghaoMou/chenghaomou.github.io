@@ -138,6 +138,8 @@ def parse_vault(dir, output, allow_missing=False):
 
     blocks = defaultdict(list)
     for file in glob.glob(f"{dir}/**/*.md", recursive=True):
+        if "intermediate" in file:
+            continue
         for block in parse_blocks(file):
             blocks[block.ref].append(block)
 
@@ -145,6 +147,8 @@ def parse_vault(dir, output, allow_missing=False):
 
     broken = 0
     for file in glob.glob(f"{dir}/**/*.md", recursive=True):
+        if "intermediate" in file:
+            continue
         for ref in parse_references(file):
             if ref.ref in blocks:
                 print(f"Reference:\n{ref.span}\n")
