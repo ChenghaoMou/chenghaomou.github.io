@@ -9,6 +9,7 @@ up:
 	docker compose up -d
 
 down:
+	bash -c "rm -rf output/* intermediate/*"
 	docker compose down --remove-orphans
 
 
