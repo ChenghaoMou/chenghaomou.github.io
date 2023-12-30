@@ -15,7 +15,7 @@ jobs:
           rm -rf $PWD/boilerplates
           rm -rf $PWD/inbox
           docker run \
-            -v -v $PWD:/data \
+            -v $PWD:/data \
             python:3.11-slim \
             sh -c "cd /data && python export/block.py"
           docker run \
