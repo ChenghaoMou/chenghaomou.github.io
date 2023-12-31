@@ -17,7 +17,7 @@ jobs:
           docker run \
             -v $PWD:/data \
             python:3.11-slim \
-            sh -c "cd /data && pip install pyYAML && python export/block.py"
+            sh -c "cd /data && pip install pyYAML mistletoe && python export/block.py"
           docker run \
             -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
             --tmpfs /tmp \

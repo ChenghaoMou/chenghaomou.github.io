@@ -1,6 +1,6 @@
 ---
 tags: []
-title: "Climbing towards NLU On Meaning Form and Understanding in the Age of Data"
+title: ""
 ---
 
 “We take (linguistic) meaning to be the relation between a linguistic form and communicative intent.” ([Bender and Koller, 2020, p. 5185](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=1&annotation=UZ9Y22VV))

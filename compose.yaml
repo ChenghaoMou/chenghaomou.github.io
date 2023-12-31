@@ -10,9 +10,7 @@ services:
       dockerfile: Dockerfile
     volumes:
       - ./templates:/app/templates
-      - ./intermediate/highlights/Matter:/app/highlights/Matter
-      - ./intermediate/highlights/Readwise:/app/highlights/Readwise
-      - ./intermediate/highlights/Zotero:/app/highlights/Zotero
+      - ./intermediate/highlights:/app/highlights
       - ./intermediate/notes:/app/notes
       - ./intermediate/posts:/app/posts
       - ./intermediate/statics:/app/statics

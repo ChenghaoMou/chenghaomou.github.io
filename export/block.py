@@ -4,11 +4,15 @@ from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 
+import mistletoe
 import yaml
+from mistletoe.markdown_renderer import MarkdownRenderer
 
 # https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note
-REF_PATTERN = re.compile(r"(?<!#)\^[a-zA-Z0-9-]+")
+INLINE_REF_PATTERN = re.compile(r"(?<= )(\^[a-zA-Z0-9-]{4,})")
+TAIL_REF_PATTERN = re.compile(r"^(\^[a-zA-Z0-9-]{4,})")
 EMBED_REF_PATTERN = re.compile(r"(\!\[\[(.*)#(\^[a-zA-Z0-9-]+)\|?(.*)?\]\])")
+LINK_REF_PATTERN = re.compile(r"(?<!\!)(\[\[(.*)#(\^[a-zA-Z0-9-]+)\|?(.*)?\]\])")
 
 
 @dataclass
@@ -21,12 +25,26 @@ class Block:
 
 
 @dataclass
-class Reference:
+class TranslutionReference:
     file: str
     span: str
     ref: str
     alias: str
 
+
+@dataclass
+class LinkReference:
+    file: str
+    span: str
+    ref: str
+    alias: str
+
+def parse_lines(file) -> list[str]:
+    with open(file, 'r') as fin:
+        with MarkdownRenderer() as renderer:
+            doc = mistletoe.Document(fin)
+            for child in doc.children:
+                yield renderer.render(child)
 
 def parse_aliases(file) -> list[str]:
     """
@@ -83,30 +101,35 @@ def parse_blocks(file) -> list[Block]:
     # filename without extension
     aliases = parse_aliases(file)
     filename = Path(file).stem
-    content = Path(file).read_text()
     file_last_modified = Path(file).stat().st_mtime
     blocks = []
     prev_line = None
-    for line in content.splitlines():
+    
+    for line in parse_lines(file):
         if line.strip(" \n") == "":
             continue
-        patterns = REF_PATTERN.findall(line)
-        pattern = patterns[-1] if patterns else None
-        if not pattern:
-            prev_line = line
-            continue
-        if line.replace(pattern, "").strip(" \n\t"):
+
+        patterns = INLINE_REF_PATTERN.findall(line)
+        if patterns:
+            pattern = patterns[-1]
             blocks.append(Block(line, pattern, filename, aliases, file_last_modified))
             prev_line = None
-        elif prev_line:
+            continue
+
+        patterns = TAIL_REF_PATTERN.findall(line)
+        if patterns and prev_line:
+            pattern = patterns[-1]
             blocks.append(
                 Block(prev_line, pattern, filename, aliases, file_last_modified)
             )
             prev_line = None
+            continue
+
+        prev_line = line
     return blocks
 
 
-def parse_references(file) -> list[Reference]:
+def parse_references(file) -> list[TranslutionReference]:
     """
     Parse references from a file and return a list of referenced blocks.
 
@@ -122,15 +145,19 @@ def parse_references(file) -> list[Reference]:
     """
     results = []
     for match in EMBED_REF_PATTERN.findall(Path(file).read_text()):
-        results.append(Reference(match[1], match[0], match[2], match[3]))
+        results.append(TranslutionReference(match[1], match[0], match[2], match[3]))
+
+    for match in LINK_REF_PATTERN.findall(Path(file).read_text()):
+        results.append(LinkReference(match[1], match[0], match[2], match[3]))
     return results
 
 
-def parse_vault(dir, output, allow_missing=False):
-
+def parse_vault(dir, output, allow_missing=False, exclude=None):
+    if exclude is None:
+        exclude = ["intermediate", "4archives"]
     # copy all types of files to output first
     for file in glob.glob(f"{dir}/**/*", recursive=True):
-        if "intermediate" in file:
+        if any([e in file for e in exclude]):
             continue
         if Path(file).is_dir():
             continue
@@ -141,40 +168,56 @@ def parse_vault(dir, output, allow_missing=False):
 
     blocks = defaultdict(list)
     for file in glob.glob(f"{dir}/**/*.md", recursive=True):
-        if "intermediate" in file:
+        if any([e in file for e in exclude]):
             continue
         for block in parse_blocks(file):
             blocks[block.ref].append(block)
 
-    print(f"Found {len(blocks)} block marks")
-
+    links = defaultdict(list)
     broken = 0
+    seen = set()
     for file in glob.glob(f"{dir}/**/*.md", recursive=True):
-        if "intermediate" in file:
+        if any([e in file for e in exclude]):
             continue
         for ref in parse_references(file):
+            if isinstance(ref, LinkReference):
+                links[ref.ref].append(ref)
+                continue
             if ref.ref in blocks:
                 # replace reference with block
+                seen.add(ref.ref)
                 new_file = Path(output) / Path(file).relative_to(dir)
                 content = Path(new_file).read_text()
                 old = ref.span
-                new = f"""
-> {blocks[ref.ref][0].text}
-"""
+                if blocks[ref.ref][0].text.startswith(">"):
+                    new = blocks[ref.ref][0].text
+                else:
+                    new = "\n".join([f"> {line}" for line in blocks[ref.ref][0].text.split("\n")])
+                new = new.strip(" \n")
+                new = f'''
+{new}
+
+_from [[{ref.file}|{ref.alias}]]_
+'''
                 content = content.replace(old, new)
                 Path(new_file).write_text(content)
-
             elif not allow_missing:
                 raise ValueError(f"Reference {ref.ref} not found in vault")
             else:
                 print(f"Reference {ref.ref} not found in vault")
                 broken += 1
-    print(f"Found {broken} broken references")
+
+    orphan = 0
+    for ref in blocks:
+        if ref not in seen and ref not in links:
+            print(f"Unused block mark {ref} from {blocks[ref]}")
+            orphan += 1
+
+    print(f"Found {len(blocks)} marks, {orphan} unused")
+    print(
+        f"Found {len(seen)} blocks embedded, {len(blocks) - len(seen)} linked, {broken} broken"
+    )
 
 
 if __name__ == "__main__":
-    parse_vault(
-        ".",
-        output="intermediate",
-        allow_missing=True
-    )
+    parse_vault(".", output="intermediate", allow_missing=True)

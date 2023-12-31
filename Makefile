@@ -1,5 +1,5 @@
 embed:
-	docker run -v $(shell pwd):/app  python:3.11-slim bash -c "pip install pyYAML && cd /app && python3 export/block.py"
+	docker run -v $(shell pwd):/app  python:3.11-slim bash -c "pip install pyYAML mistletoe --quiet && cd /app && python3 export/block.py"
 
 
 build: embed
