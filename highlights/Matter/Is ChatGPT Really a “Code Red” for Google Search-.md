@@ -4,9 +4,8 @@ aliases:
 url: https://garymarcus.substack.com/p/is-chatgpt-really-a-code-red-for
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20221230090534
 date: 2022-12-30
-tags:
+tags: []
 ---
 
 ## Highlights

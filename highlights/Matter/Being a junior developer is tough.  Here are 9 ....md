@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Being a junior developer is tough.  Here are 9 ...
 url: https://twitter.com/i/web/status/1525543969798733825
 author: Pratham 👨‍💻🚀
 publisher: Twitter
-order: -20220514113000
 date: 2022-05-14
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Google’s Photo App Still Can’t Find Gorillas. And Neither Can Apple’s.
 url: https://www.nytimes.com/2023/05/22/technology/ai-photo-labels-google-apple.html
 author: Nico Grant
 publisher: www.techmeme.com
-order: -20230522051001
 date: 2023-05-22
-tags:
+tags: []
 ---
 
 ## Highlights

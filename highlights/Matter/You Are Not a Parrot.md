@@ -1,12 +1,9 @@
 ---
-aliases:
-  - You Are Not a Parrot
 url: https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html
 author: Elizabeth Weil
 publisher: Intelligencer
-order: -20230301050016
 date: 2023-03-01
-tags:
+tags: []
 ---
 
 ## Highlights

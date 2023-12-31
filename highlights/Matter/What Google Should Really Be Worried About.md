@@ -1,12 +1,9 @@
 ---
-aliases:
-  - What Google Should Really Be Worried About
 url: https://garymarcus.substack.com/p/what-google-should-really-be-worried
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230212093513
 date: 2023-02-12
-tags:
+tags: []
 ---
 
 ## Highlights

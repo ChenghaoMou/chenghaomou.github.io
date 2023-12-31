@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Empty Pointers and Constellations of AI
 url: https://maggieappleton.com/ai-empty-pointer
 author: Maggie Appleton 🧭
 publisher: maggieappleton.com
-order: -20221218143546
 date: 2022-12-18
-tags:
+tags: []
 ---
 
 ## Highlights

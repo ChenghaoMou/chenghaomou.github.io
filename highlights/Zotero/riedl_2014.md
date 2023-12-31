@@ -1,13 +1,11 @@
 ---
 aliases:
   - The Lovelace 2.0 Test of Artificial Creativity and Intelligence
-  - "The Lovelace 2.0 Test of Artificial Creativity and Intelligence"
+  - The Lovelace 2.0 Test of Artificial Creativity and Intelligence
 authors: "Mark O. Riedl"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: The Lovelace 2.0 Test of Artificial Creativity and Intelligence
-order: -1
-tags: 
-title: The Lovelace 2.0 Test of Artificial Creativity and Intelligence
+tags: []
+title: "The Lovelace 2.0 Test of Artificial Creativity and Intelligence"
 url: "http://arxiv.org/abs/1410.6142"
 ---
 

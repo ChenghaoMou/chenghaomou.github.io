@@ -1,12 +1,9 @@
 ---
-aliases:
-  - ChatGPT sometimes makes up facts. For one law prof, it went too far.
 url: https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/
 author: Pranshu Verma
 publisher: The Washington Post
-order: -20230405123318
 date: 2023-04-05
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,13 +1,11 @@
 ---
 aliases:
   - Scaling Transformer to 1M tokens and beyond with RMT
-  - "Scaling Transformer to 1M tokens and beyond with RMT"
+  - Scaling Transformer to 1M tokens and beyond with RMT
 authors: "Aydar Bulatov, Yuri Kuratov, Mikhail S. Burtsev"
 date: '2023-04-30 19:14:02'
-linter-yaml-title-alias: "Scaling Transformer to 1M tokens and beyond with RMT"
-order: -1
-tags: 
-title: Scaling Transformer to 1M tokens and beyond with RMT
+tags: []
+title: "Scaling Transformer to 1M tokens and beyond with RMT"
 url: "http://arxiv.org/abs/2304.11062"
 ---
 

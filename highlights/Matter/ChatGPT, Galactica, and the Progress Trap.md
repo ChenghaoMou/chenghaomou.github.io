@@ -1,12 +1,9 @@
 ---
-aliases:
-  - ChatGPT, Galactica, and the Progress Trap
 url: https://www.wired.com/story/large-language-models-critique/
 author: Birhane Deborah
 publisher: Wired
-order: -20221209073558
 date: 2022-12-09
-tags:
+tags: []
 ---
 
 ## Highlights

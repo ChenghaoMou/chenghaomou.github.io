@@ -1,13 +1,11 @@
 ---
 aliases:
   - Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models
-  - "Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models"
+  - Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models
 authors: "Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models
-order: -1
-tags: 
-title: Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models
+tags: []
+title: "Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models"
 url: "http://arxiv.org/abs/2212.03860"
 ---
 

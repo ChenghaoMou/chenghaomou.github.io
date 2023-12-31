@@ -4,9 +4,8 @@ aliases:
 url: https://garymarcus.substack.com/p/why-is-bing-so-reckless
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230220075141
 date: 2023-02-20
-tags:
+tags: []
 ---
 
 ## Highlights

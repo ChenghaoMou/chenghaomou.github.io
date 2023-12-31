@@ -2,10 +2,9 @@
 url: https://waitbutwhy.com/2018/04/picking-career.html
 author: Tim Urban
 publisher: Wait But Why
-order: -20180412021159
 date: 2018-04-12
-tags:
-title: How to Pick a Career (That Actually Fits You)
+tags: []
+title: "How to Pick a Career (That Actually Fits You)"
 ---
 
 ## Highlights

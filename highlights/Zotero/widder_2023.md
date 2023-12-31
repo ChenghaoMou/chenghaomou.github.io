@@ -3,9 +3,7 @@ aliases:
   - "Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI"
 authors: "David Gray Widder, Sarah West, Meredith Whittaker"
 date: '2023-08-27 15:34:45'
-linter-yaml-title-alias: "Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI"
-order: -1
-tags:
+tags: []
 title: "Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI"
 url: "https://papers.ssrn.com/abstract=4543807"
 ---

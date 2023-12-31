@@ -1,7 +1,6 @@
 ---
-order: -1
-tags: 
-title: Ruder et al_2022_Square One Bias in NLP
+tags: []
+title: "Ruder et al_2022_Square One Bias in NLP"
 ---
 
 #### [Page 1](highlights://Ruder%20et%20al_2022_Square%20One%20Bias%20in%20NLP#page=1)

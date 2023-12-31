@@ -4,9 +4,8 @@ aliases:
 url: https://getmatter.com/email/16496695/?token=16496695%3A-z_98bCv63lRTiJR3x4m8fSmgaY
 author: Mark Manson <mark@markmanson.net>
 publisher: Mark Manson
-order: -20221219043429
 date: 2022-12-19
-tags:
+tags: []
 ---
 
 ## Highlights

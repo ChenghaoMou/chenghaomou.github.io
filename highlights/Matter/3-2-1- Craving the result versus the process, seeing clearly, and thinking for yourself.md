@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Craving the result versus the process, seeing clearly, and thinking for yourself
+  - "3-2-1: Craving the result versus the process, seeing clearly, and thinking for yourself"
 url: https://jamesclear.com/3-2-1/february-9-2023
 author: James Clear
 publisher: James Clear
-order: -20230209102914
 date: 2023-02-09
-tags:
+tags: []
 ---
 
 ## Highlights

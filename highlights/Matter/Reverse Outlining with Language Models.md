@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Reverse Outlining with Language Models
 url: https://maggieappleton.com/reverse-outline
 author: Maggie Appleton 🧭
 publisher: maggieappleton.com
-order: -20230108122300
 date: 2023-01-08
-tags:
+tags: []
 ---
 
 ## Highlights

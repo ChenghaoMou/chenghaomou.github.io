@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Meet Claude: Anthropic’s Rival to ChatGPT
+  - "Meet Claude: Anthropic’s Rival to ChatGPT"
 url: https://scale.com/blog/chatgpt-vs-claude
 author: Andy Baio
 publisher: scale.com
-order: -20230117222852
 date: 2023-01-17
-tags:
+tags: []
 ---
 
 ## Highlights

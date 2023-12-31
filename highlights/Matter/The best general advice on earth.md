@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The best general advice on earth
 url: http://jsomers.net/blog/william-james-advice
 author: James Somers
 publisher: James Somers
-order: -20120726040933
 date: 2012-07-26
-tags:
+tags: []
 ---
 
 ## Highlights

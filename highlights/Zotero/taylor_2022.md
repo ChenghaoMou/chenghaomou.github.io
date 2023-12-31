@@ -3,9 +3,7 @@ aliases:
   - "Galactica: A Large Language Model for Science"
 authors: "Ross Taylor, Marcin Kardas, Guillem Cucurull, Thomas Scialom, Anthony Hartshorn, Elvis Saravia, Andrew Poulton, Viktor Kerkez, Robert Stojnic"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: "Galactica: A Large Language Model for Science"
-order: -1
-tags: 
+tags: []
 title: "Galactica: A Large Language Model for Science"
 url: "http://arxiv.org/abs/2211.09085"
 ---

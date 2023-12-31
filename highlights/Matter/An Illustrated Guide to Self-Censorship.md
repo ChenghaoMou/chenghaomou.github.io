@@ -1,12 +1,9 @@
 ---
-aliases:
-  - An Illustrated Guide to Self-Censorship
 url: https://www.thefp.com/p/an-illustrated-guide-to-self-censorship
 author: Tim Urban
 publisher: The Free Press
-order: -20230418030545
 date: 2023-04-18
-tags:
+tags: []
 ---
 
 ## Highlights

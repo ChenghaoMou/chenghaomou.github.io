@@ -4,9 +4,8 @@ aliases:
 url: https://garymarcus.substack.com/p/agi-will-not-happen-in-your-lifetime
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230122061547
 date: 2023-01-22
-tags:
+tags: []
 ---
 
 ## Highlights

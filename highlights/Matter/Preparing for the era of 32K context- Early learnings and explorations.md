@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Preparing for the era of 32K context: Early learnings and explorations
+  - "Preparing for the era of 32K context: Early learnings and explorations"
 url: https://together.ai/blog/llama-2-7b-32k
 author: Together
 publisher: together.ai
-order: -20230728050730
 date: 2023-07-28
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Near-Death Experience Research Is Slowly Filling In the Picture
 url: https://mindmatters.ai/2023/01/near-death-experience-research-is-slowly-filling-in-the-picture/
-author: Denyse O'Leary
+author: "Denyse O'Leary"
 publisher: Mind Matters
-order: -20230122121941
 date: 2023-01-22
-tags:
+tags: []
 ---
 
 ## Highlights

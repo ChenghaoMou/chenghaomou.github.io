@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Why ChatGPT Won’t Replace Google
 url: https://mindmatters.ai/2023/01/why-chatgpt-wont-replace-google/
 author: Jonathan Bartlett
 publisher: Mind Matters
-order: -20230130085540
 date: 2023-01-30
-tags:
+tags: []
 ---
 
 ## Highlights

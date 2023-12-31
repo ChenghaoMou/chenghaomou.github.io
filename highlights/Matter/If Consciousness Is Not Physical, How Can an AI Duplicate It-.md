@@ -2,11 +2,10 @@
 aliases:
   - If Consciousness Is Not Physical, How Can an AI Duplicate It?
 url: https://mindmatters.ai/2023/01/if-consciousness-is-not-physical-how-can-an-ai-duplicate-it/
-author: Denyse O'Leary
+author: "Denyse O'Leary"
 publisher: Mind Matters
-order: -20230112073134
 date: 2023-01-12
-tags:
+tags: []
 ---
 
 ## Highlights

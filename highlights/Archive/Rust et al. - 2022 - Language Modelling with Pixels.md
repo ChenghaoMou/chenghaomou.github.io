@@ -1,7 +1,7 @@
 ---
-order: -1
-tags: [processed]
-title: Rust et al. - 2022 - Language Modelling with Pixels
+tags:
+  - processed
+title: "Rust et al. - 2022 - Language Modelling with Pixels"
 ---
 
 #### [Page 1](highlights://Rust%20et%20al.%20-%202022%20-%20Language%20Modelling%20with%20Pixels#page=1)

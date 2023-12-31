@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Eight things you need to know when moving from a startup to an established tech company
 url: https://leaddev.com/career-paths-progression-promotion/eight-things-you-need-know-when-moving-startup-established-tech
 author: Govind Chandrasekhar
 publisher: LeadDev Broadcasts
-tags:
+tags: []
 ---
 
 ## Highlights

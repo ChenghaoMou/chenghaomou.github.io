@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The True Threat of Artificial Intelligence
 url: https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html
 author: Evgeny Morozov
 publisher: The New York Times
-order: -20230630100037
 date: 2023-06-30
-tags:
+tags: []
 ---
 
 ## Highlights

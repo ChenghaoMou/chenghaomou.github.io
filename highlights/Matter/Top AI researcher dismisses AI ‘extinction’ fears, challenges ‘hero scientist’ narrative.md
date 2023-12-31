@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative
 url: https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/
 author: Sharon Goldman
 publisher: Venture Beat
-order: -20230601100223
 date: 2023-06-01
-tags:
+tags: []
 ---
 
 ## Highlights

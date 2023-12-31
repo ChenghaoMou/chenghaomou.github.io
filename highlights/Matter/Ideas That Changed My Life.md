@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Ideas That Changed My Life
 url: https://collabfund.com/blog/ideas-that-changed-my-life/
 author: Morgan Housel
 publisher: Collaborative Fund
-order: -20180307112600
 date: 2018-03-07
-tags:
+tags: []
 ---
 
 ## Highlights

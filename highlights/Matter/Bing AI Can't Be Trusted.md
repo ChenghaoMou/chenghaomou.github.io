@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Bing AI Can't Be Trusted
 url: https://dkb.blog/p/bing-ai-cant-be-trusted
 author: Dmitri Brereton
 publisher: dkb
-order: -20230213083948
 date: 2023-02-13
-tags:
+tags: []
 ---
 
 ## Highlights

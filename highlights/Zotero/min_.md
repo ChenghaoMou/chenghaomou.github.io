@@ -3,9 +3,7 @@ aliases:
   - "FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"
 authors: "Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi"
 date: '2023-06-27 19:59:08'
-linter-yaml-title-alias: "FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"
-order: -1
-tags:
+tags: []
 title: "FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation"
 url: ""
 ---

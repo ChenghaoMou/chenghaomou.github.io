@@ -3,7 +3,7 @@ url: https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae
 author: Chenhao Tan
 publisher: Medium
 date: 2023-04-10
-tags:
+tags: []
 title: "On AI Anthropomorphism"
 ---
 

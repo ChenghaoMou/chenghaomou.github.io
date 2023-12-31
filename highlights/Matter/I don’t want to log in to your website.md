@@ -1,12 +1,9 @@
 ---
-aliases:
-  - I don’t want to log in to your website
 url: https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell
 author: Elizabeth Lopatto
 publisher: The Verge
-order: -20230228141206
 date: 2023-02-28
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Human-like programs abuse our empathy - even Google engineers aren’t immune
 url: https://www.theguardian.com/commentisfree/2022/jun/14/human-like-programs-abuse-our-empathy-even-google-engineers-arent-immune
 author: Emily M Bender
 publisher: The Guardian
-order: -20220614095732
 date: 2022-06-14
-tags:
+tags: []
 ---
 
 ## Highlights

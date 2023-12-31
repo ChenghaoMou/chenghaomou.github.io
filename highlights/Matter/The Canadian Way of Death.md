@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Canadian Way of Death
 url: https://www.theatlantic.com/magazine/archive/2023/06/canada-legalized-medical-assisted-suicide-euthanasia-death-maid/673790/
 author: David Brooks
 publisher: The Atlantic
-order: -20230504040000
 date: 2023-05-04
-tags:
+tags: []
 ---
 
 ## Highlights

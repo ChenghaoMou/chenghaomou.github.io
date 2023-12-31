@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Yes, you can measure software developer productivity
 url: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity
 author: About the authors
 publisher: McKinsey & Company
-order: -20230817111323
 date: 2023-08-17
-tags:
+tags: []
 ---
 
 ## Highlights

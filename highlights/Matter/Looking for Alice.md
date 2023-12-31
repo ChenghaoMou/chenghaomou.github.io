@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Looking for Alice
 url: https://escapingflatland.substack.com/p/looking-for-alice
 author: Henrik Karlsson
 publisher: Escaping Flatland
-order: -20230117133538
 date: 2023-01-17
-tags:
+tags: []
 ---
 
 ## Highlights

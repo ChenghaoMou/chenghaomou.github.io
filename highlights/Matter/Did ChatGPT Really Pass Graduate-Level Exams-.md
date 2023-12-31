@@ -4,10 +4,9 @@ aliases:
 url: "https://aiguide.substack.com/p/did-chatgpt-really-pass-graduate-baa"
 author: "Melanie Mitchell"
 publisher: "Melanie Mitchell from AI: A Guide for Thinking Humans"
-order: -20230209194936
 date: 2023-02-09
-tags:
-title: Did ChatGPT Really Pass Graduate-Level Exams-
+tags: []
+title: "Did ChatGPT Really Pass Graduate-Level Exams-"
 ---
 
 ## Highlights

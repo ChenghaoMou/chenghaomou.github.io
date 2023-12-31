@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Internet Thinks We Don’t Know Its Secret. But I Do.
 url: https://slate.com/human-interest/2023/04/phone-listening-recording-loneliness-online-dating.html
 author: Merritt Tierce
 publisher: Slate
-order: -20230416160000
 date: 2023-04-16
-tags:
+tags: []
 ---
 
 ## Highlights

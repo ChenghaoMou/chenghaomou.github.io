@@ -1,5 +1,5 @@
 ---
-title: Clean Code A Handbook of Agile Software Craftsmanship
+title: "Clean Code A Handbook of Agile Software Craftsmanship"
 authors: Robert C. Martin
 isbn: "9780136083238"
 year: 2008

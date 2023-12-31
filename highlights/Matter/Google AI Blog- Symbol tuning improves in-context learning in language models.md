@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Google AI Blog: Symbol tuning improves in-context learning in language models
+  - "Google AI Blog: Symbol tuning improves in-context learning in language models"
 url: https://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html
 author: Google AI (noreply@blogger.com)
 publisher: Google Research
-order: -20230713223146
 date: 2023-07-13
-tags:
+tags: []
 ---
 
 ## Highlights

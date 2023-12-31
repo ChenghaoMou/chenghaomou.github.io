@@ -2,10 +2,9 @@
 url: https://blogs.lse.ac.uk/impactofsocialsciences/2023/05/25/the-bias-puzzle-understanding-gender-differences-in-academia/
 author: Taster
 publisher: blogs.lse.ac.uk
-order: -20230525030007
 date: 2023-05-25
-tags:
-title: The bias puzzle - Understanding gender differences in academia
+tags: []
+title: "The bias puzzle - Understanding gender differences in academia"
 ---
 
 ## Highlights

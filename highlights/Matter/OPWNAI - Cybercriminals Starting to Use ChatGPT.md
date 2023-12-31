@@ -1,11 +1,10 @@
 ---
 aliases:
-  - OPWNAI : Cybercriminals Starting to Use ChatGPT
+  - "OPWNAI : Cybercriminals Starting to Use ChatGPT"
 url: https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/
 publisher: research.checkpoint.com
-order: -20230106074023
 date: 2023-01-06
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The myth of ‘open source’ AI
 url: https://www.wired.com/story/the-myth-of-open-source-ai/
 author: Will Knight
 publisher: Wired
-order: -20230824170201
 date: 2023-08-24
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - That which is unique, breaks
 url: https://simonsarris.substack.com/p/that-which-is-unique-breaks
 author: Simon Sarris
 publisher: Simon Sarris
-order: -20201216013928
 date: 2020-12-16
-tags:
+tags: []
 ---
 
 ## Highlights

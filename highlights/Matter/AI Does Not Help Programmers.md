@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI Does Not Help Programmers
 url: https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext
 author: zdw
 publisher: cacm.acm.org
-order: -20230605222429
 date: 2023-06-05
-tags:
+tags: []
 ---
 
 ## Highlights

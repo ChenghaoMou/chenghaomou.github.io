@@ -1,12 +1,9 @@
 ---
-aliases:
-  - OpenAI's Whisper is another case study in Colonisation
 url: https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/
 author: Keoni Mahelona
 publisher: blog.papareo.nz
-order: -20230123230225
 date: 2023-01-23
-tags:
+tags: []
 ---
 
 ## Highlights

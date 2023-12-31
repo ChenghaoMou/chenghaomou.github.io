@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Natural language is the lazy user interface
 url: https://austinhenley.com/blog/naturallanguageui.html
 author: Austin Z. Henley
 publisher: Hacker News
-order: -20230127095736
 date: 2023-01-27
-tags:
+tags: []
 ---
 
 ## Highlights

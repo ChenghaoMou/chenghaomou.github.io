@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Tips for Writing NLP Papers
 url: https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f
 author: Vered Shwartz
 publisher: Medium
-order: -20230816023713
 date: 2023-08-16
-tags:
+tags: []
 ---
 
 ## Highlights

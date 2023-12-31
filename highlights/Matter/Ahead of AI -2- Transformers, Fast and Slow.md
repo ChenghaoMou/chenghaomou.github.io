@@ -1,11 +1,11 @@
 ---
 aliases:
-  - 'Ahead of AI #2: Transformers, Fast and Slow'
+  - "Ahead of AI #2: Transformers, Fast and Slow"
 url: https://newsletter.sebastianraschka.com/issues/ahead-of-ai-2-transformers-fast-and-slow-1402662
 publisher: sebastianraschka.com
 date: 2022-11-07
-tags:
-title: Ahead of AI -2- Transformers, Fast and Slow
+tags: []
+title: "Ahead of AI -2- Transformers, Fast and Slow"
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - In Wuhan, doctors knew the truth. They were told to keep quiet.
 url: https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/
 author: the Editorial Board
 publisher: The Washington Post
-order: -20230822150749
 date: 2023-08-22
-tags:
+tags: []
 ---
 
 ## Highlights

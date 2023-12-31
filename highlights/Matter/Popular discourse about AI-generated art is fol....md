@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Popular discourse about AI-generated art is fol...
 url: https://twitter.com/i/web/status/1614286362785579008
 author: 𝕊onja Drimmer
 publisher: Twitter
-order: -20230114074035
 date: 2023-01-14
-tags:
+tags: []
 ---
 
 ## Highlights

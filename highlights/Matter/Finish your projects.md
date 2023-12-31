@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Finish your projects
 url: https://github.com/readme/guides/finish-your-projects
 author: aarondf
 publisher: Github
-order: -20230613030000
 date: 2023-06-13
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -5,7 +5,7 @@ url: https://jamesclear.com/3-2-1/february-16-2023
 author: James Clear
 publisher: James Clear
 date: 2023-02-16
-tags:
+tags: []
 title: "3-2-1- Momentum, how to be the best, and the source of inspiration"
 ---
 

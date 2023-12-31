@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Giraffe - Long Context LLMs
 url: https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/
 author: Arka
 publisher: abacus.ai
-order: -20230822192200
 date: 2023-08-22
-tags:
+tags: []
 ---
 
 ## Highlights

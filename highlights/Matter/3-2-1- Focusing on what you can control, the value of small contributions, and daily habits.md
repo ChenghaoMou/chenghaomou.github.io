@@ -5,7 +5,7 @@ url: https://jamesclear.com/3-2-1/january-19-2023
 author: James Clear
 publisher: James Clear
 date: 2023-01-19
-tags:
+tags: []
 title: "3-2-1- Focusing on what you can control, the value of small contributions, and daily habits"
 ---
 

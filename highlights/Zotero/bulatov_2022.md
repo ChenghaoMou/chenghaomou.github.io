@@ -1,13 +1,11 @@
 ---
 aliases:
   - Recurrent Memory Transformer
-  - "Recurrent Memory Transformer"
+  - Recurrent Memory Transformer
 authors: "Aydar Bulatov, Yuri Kuratov, Mikhail S. Burtsev"
 date: '2023-04-30 19:14:02'
-linter-yaml-title-alias: "Recurrent Memory Transformer"
-order: -1
-tags: 
-title: Recurrent Memory Transformer
+tags: []
+title: "Recurrent Memory Transformer"
 url: "http://arxiv.org/abs/2207.06881"
 ---
 

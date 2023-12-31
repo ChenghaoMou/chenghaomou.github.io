@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Buying Experiences Probably Doesn't Make You Happier than Buying Possessions
 url: https://sashachapin.substack.com/p/buying-experiences-probably-doesnt
 author: Sasha Chapin
-publisher: Sasha's 'Newsletter'
-order: -20230222095156
+publisher: "Sasha's 'Newsletter'"
 date: 2023-02-22
-tags:
+tags: []
 title: "Buying Experiences Probably Doesn't Make You Happier than Buying Possessions"
 ---
 

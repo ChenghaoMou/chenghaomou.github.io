@@ -3,9 +3,8 @@ aliases:
   - 🐌 You’re not really that busy
 url: https://mailchi.mp/slowgrowth/youre-not-really-that-busy?e=04aecf5138
 publisher: =?utf-8?Q?Slow=20Growth?=
-order: -20220508145938
 date: 2022-05-08
-tags:
+tags: []
 ---
 
 ## Highlights

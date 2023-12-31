@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Cabin on the Mountain
 url: https://longreads.com/2022/03/29/lateral-thinking-colin-dickey/
 author: Colin Dickey
 publisher: Longreads
-order: -20220329101854
 date: 2022-03-29
-tags:
+tags: []
 ---
 
 ## Highlights

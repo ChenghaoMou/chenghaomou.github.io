@@ -1,12 +1,9 @@
 ---
-aliases:
-  - ChatGPT took their jobs. Now they walk dogs and fix air conditioners.
 url: https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/
 author: erehweb
 publisher: The Washington Post
-order: -20230602032411
 date: 2023-06-02
-tags:
+tags: []
 ---
 
 ## Highlights

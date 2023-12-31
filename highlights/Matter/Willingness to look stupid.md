@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Willingness to look stupid
 url: https://danluu.com/look-stupid/
 author: Dan Luu
 publisher: Dan Luu
-tags:
+tags: []
 ---
 
 ## Highlights

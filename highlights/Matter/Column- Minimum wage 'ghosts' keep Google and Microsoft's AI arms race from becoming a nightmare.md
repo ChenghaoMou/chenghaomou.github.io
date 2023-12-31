@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Column: Minimum wage 'ghosts' keep Google and Microsoft's AI arms race from becoming a nightmare
+  - "Column: Minimum wage 'ghosts' keep Google and Microsoft's AI arms race from becoming a nightmare"
 url: https://www.latimes.com/business/technology/story/2023-02-16/column-google-microsoft-chatgpt-bard-raters
 author: Brian Merchant
 publisher: LA Times
-order: -20230216111757
 date: 2023-02-16
-tags:
+tags: []
 ---
 
 ## Highlights

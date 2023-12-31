@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Microsoft Hopes OpenAI’s Chatbot Will Make Bing Smarter - Bloomberg
 url: https://archive.ph/1ChFk
 author: Dina Bass +Follow
 publisher: archive.ph
-order: -20230103212131
 date: 2023-01-03
-tags:
+tags: []
 ---
 
 ## Highlights

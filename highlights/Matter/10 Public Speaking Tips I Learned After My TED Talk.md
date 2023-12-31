@@ -1,10 +1,7 @@
 ---
-aliases:
-  - 10 Public Speaking Tips I Learned After My TED Talk
 url: https://www.entrepreneur.com/growing-a-business/10-public-speaking-hacks-i-learned-from-my-ted-talk/450960
 author: Arian Adeli
 publisher: Entrepreneur
-order: -20230511083000
 date: 2023-05-11
 tags:
   - TODO

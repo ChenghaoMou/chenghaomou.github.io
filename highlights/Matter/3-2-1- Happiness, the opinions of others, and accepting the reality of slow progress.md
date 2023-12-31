@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Happiness, the opinions of others, and accepting the reality of slow progress
+  - "3-2-1: Happiness, the opinions of others, and accepting the reality of slow progress"
 url: https://kill-the-newsletter.com/alternates/0zj1cel25l8cyqb2.html
 author: James Clear
 publisher: James Clear
-order: -20220526091920
 date: 2022-05-26
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Reddit Moderators Do Over $3.4 Million in Free Labor Every Year
 url: https://clivethompson.medium.com/reddit-moderators-do-over-3-4-million-in-free-labor-every-year-d3571235c32c
 author: Clive Thompson
 publisher: clivethompson.medium.com
-order: -20230617214335
 date: 2023-06-17
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Artifice and Intelligence
 url: https://techpolicy.press/artifice-and-intelligence/
 author: Emily Tucker
 publisher: Tech Policy Press
-order: -20220316181458
 date: 2022-03-16
-tags:
+tags: []
 ---
 
 ## Highlights

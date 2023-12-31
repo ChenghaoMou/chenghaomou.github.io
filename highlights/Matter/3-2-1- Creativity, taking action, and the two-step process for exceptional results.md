@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Creativity, taking action, and the two-step process for exceptional results
+  - "3-2-1: Creativity, taking action, and the two-step process for exceptional results"
 url: https://jamesclear.com/3-2-1/february-23-2023
 author: James Clear
 publisher: James Clear
-order: -20230223081555
 date: 2023-02-23
-tags:
+tags: []
 ---
 
 ## Highlights

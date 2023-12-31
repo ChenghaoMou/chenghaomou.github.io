@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Caricaturing Noam Chomsky
 url: https://garymarcus.substack.com/p/caricaturing-noam-chomsky
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230311173052
 date: 2023-03-11
-tags:
+tags: []
 ---
 
 ## Highlights

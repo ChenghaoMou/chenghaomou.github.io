@@ -1,12 +1,9 @@
 ---
-aliases:
-  - How Loneliness Reshapes the Brain
 url: https://www.quantamagazine.org/how-loneliness-reshapes-the-brain-20230228/
 author: Marta Zaraska
 publisher: Quanta Magazine
-order: -20230228090348
 date: 2023-02-28
-tags:
+tags: []
 ---
 
 ## Highlights

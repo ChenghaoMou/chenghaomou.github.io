@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Notes on Effective Altruism
 url: https://michaelnotebook.com/eanotes/
 author: Michael Nielsen
 publisher: michaelnotebook.com
-tags:
+tags: []
 ---
 
 ## Highlights

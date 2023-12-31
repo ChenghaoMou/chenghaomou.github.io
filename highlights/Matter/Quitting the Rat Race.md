@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Quitting the Rat Race
 url: https://seanbarry.dev/posts/quitting-the-rat-race/
 author: seanbarry
 publisher: seanbarry.dev
-order: -20230116150809
 date: 2023-01-16
-tags:
+tags: []
 ---
 
 ## Highlights

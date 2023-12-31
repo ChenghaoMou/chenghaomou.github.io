@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 20 Things I've Learned in my 20 Years as a Software Engineer
 url: https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 author: Justin Etheredge / @JustinEtheredge
 publisher: www.simplethread.com
-order: -20211007070001
 date: 2021-10-07
-tags:
+tags: []
 ---
 
 ## Highlights

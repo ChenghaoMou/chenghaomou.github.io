@@ -1,13 +1,10 @@
 ---
-aliases:
-  - How Our Brains Are - and Aren’t - Like Computers
 url: https://mindmatters.ai/2023/01/how-our-brains-are-and-arent-like-computers/
 author: News
 publisher: Mind Matters
-order: -20230105161855
 date: 2023-01-05
 note: Does aging over-prune the connections that might lead to a more rigid mind?
-tags:
+tags: []
 ---
 
 ## Highlights

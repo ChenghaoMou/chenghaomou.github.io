@@ -1,12 +1,11 @@
 ---
 aliases:
-  - More tales from the front of #NLProc's evaluati...
+  - "More tales from the front of #NLProc's evaluati..."
 url: https://twitter.com/i/web/status/1603766381807570944
 author: Emily M. Bender
 publisher: Twitter
-order: -20221216065756
 date: 2022-12-16
-tags:
+tags: []
 ---
 
 ## Highlights

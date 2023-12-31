@@ -2,6 +2,8 @@
 doc_type: hypothesis-highlights
 url: >-
   https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history
+aliases:
+  - "From aardvark to woke: inside the Oxford English Dictionary"
 ---
 # From aardvark to woke: inside the Oxford English Dictionary
 ## Highlights

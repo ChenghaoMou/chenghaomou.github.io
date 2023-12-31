@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Artists can now opt out of generative AI. It’s not enough.
 url: https://aisnakeoil.substack.com/p/artists-can-now-opt-out-of-generative
 author: Sayash Kapoor
 publisher: Sayash and Arvind from AI Snake Oil
-order: -20230309063518
 date: 2023-03-09
-tags:
+tags: []
 ---
 
 ## Highlights

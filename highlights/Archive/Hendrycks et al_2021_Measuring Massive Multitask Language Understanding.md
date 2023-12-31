@@ -1,10 +1,8 @@
 ---
 aliases:
   - Measuring Massive Multitask Language Understanding
-linter-yaml-title-alias: Measuring Massive Multitask Language Understanding
-order: -1
-tags: 
-title: Measuring Massive Multitask Language Understanding
+tags: []
+title: "Measuring Massive Multitask Language Understanding"
 ---
 
 # Measuring Massive Multitask Language Understanding

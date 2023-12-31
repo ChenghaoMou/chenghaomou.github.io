@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Inspiration, getting started, and the power of cumulative action
+  - "3-2-1: Inspiration, getting started, and the power of cumulative action"
 url: https://jamesclear.com/3-2-1/january-5-2023
 author: James Clear
 publisher: James Clear
-order: -20230105084849
 date: 2023-01-05
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -2,10 +2,9 @@
 url: https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f
 author: Emily M. Bender
 publisher: Medium
-order: -20230705212709
 date: 2023-07-05
-tags:
-title: Talking about a ‘schism’ is ahistorical
+tags: []
+title: "Talking about a ‘schism’ is ahistorical"
 ---
 
 ## Highlights

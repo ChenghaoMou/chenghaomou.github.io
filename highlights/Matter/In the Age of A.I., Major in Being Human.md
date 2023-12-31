@@ -1,12 +1,9 @@
 ---
-aliases:
-  - In the Age of A.I., Major in Being Human
 url: https://www.nytimes.com/2023/02/02/opinion/ai-human-education.html
 author: David Brooks
 publisher: The New York Times
-order: -20230201165324
 date: 2023-02-01
-tags:
+tags: []
 ---
 
 ## Highlights

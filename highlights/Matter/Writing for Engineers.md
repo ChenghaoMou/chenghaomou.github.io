@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Writing for Engineers
 url: https://www.heinrichhartmann.com/posts/writing/
 publisher: www.heinrichhartmann.com
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -4,9 +4,8 @@ aliases:
 url: https://codewithstyle.info/software-vs-systems/
 author: Miłosz Piechocki
 publisher: codewithstyle.info
-order: -20220913080300
 date: 2022-09-13
-tags:
+tags: []
 ---
 
 ## Highlights

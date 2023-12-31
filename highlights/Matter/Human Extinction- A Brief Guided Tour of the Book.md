@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Human Extinction: A Brief Guided Tour of the Book
+  - "Human Extinction: A Brief Guided Tour of the Book"
 url: https://xriskology.medium.com/human-extinction-a-brief-guided-tour-of-the-book-5cfb6a5a726
 author: Émile P. Torres
 publisher: Medium
-order: -20230715135035
 date: 2023-07-15
-tags:
-title: Human Extinction- A Brief Guided Tour of the Book
+tags: []
+title: "Human Extinction- A Brief Guided Tour of the Book"
 ---
 
 ## Highlights

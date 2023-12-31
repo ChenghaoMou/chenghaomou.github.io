@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 4chan users embrace AI voice clone tool to generate celebrity hatespeech
 url: https://www.theverge.com/2023/1/31/23579289/ai-voice-clone-deepfake-abuse-4chan-elevenlabs
 author: James Vincent
 publisher: The Verge
-order: -20230131050032
 date: 2023-01-31
-tags:
+tags: []
 ---
 
 ## Highlights

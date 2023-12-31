@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Repair and Remain
 url: https://comment.org/repair-and-remain/
 author: Kurt Armstrong
 publisher: Comment
-order: -20220413210042
 date: 2022-04-13
-tags:
+tags: []
 ---
 
 ## Highlights

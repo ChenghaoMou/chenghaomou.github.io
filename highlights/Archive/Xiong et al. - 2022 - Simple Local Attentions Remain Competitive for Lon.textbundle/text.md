@@ -1,7 +1,6 @@
 ---
-order: -1
-tags: 
-title: text
+tags: []
+title: "text"
 ---
 
 #### [Page 2](highlights://Xiong%20et%20al.%20-%202022%20-%20Simple%20Local%20Attentions%20Remain%20Competitive%20for%20Lon#page=2)

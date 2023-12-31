@@ -2,9 +2,8 @@
 url: https://mindmatters.ai/2022/12/large-learning-models-are-an-unfortunate-detour-in-ai/
 author: Gary Smith
 publisher: Mind Matters
-order: -20221219090517
 date: 2022-12-19
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - We come to bury ChatGPT, not to praise it.
 url: https://www.danmcquillan.org/chatgpt.html
 author: dan mcquillan
 publisher: www.danmcquillan.org
-order: -20230209062811
 date: 2023-02-09
-tags:
+tags: []
 ---
 
 ## Highlights

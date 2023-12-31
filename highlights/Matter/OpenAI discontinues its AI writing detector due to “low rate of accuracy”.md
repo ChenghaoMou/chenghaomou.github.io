@@ -1,12 +1,9 @@
 ---
-aliases:
-  - OpenAI discontinues its AI writing detector due to “low rate of accuracy”
 url: https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/
 author: Kiona N. Smith
 publisher: Ars Technica
-order: -20230726205101
 date: 2023-07-26
-tags:
+tags: []
 ---
 
 ## Highlights

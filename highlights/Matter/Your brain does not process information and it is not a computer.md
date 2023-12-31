@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Your brain does not process information and it is not a computer
 url: https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
 author: Robert Epstein
 publisher: Aeon
-order: -20160517212155
 date: 2016-05-17
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Most Precious Resource is Agency
 url: https://simonsarris.substack.com/p/the-most-precious-resource-is-agency
 author: Simon Sarris
 publisher: Simon Sarris
-order: -20210701012713
 date: 2021-07-01
-tags:
+tags: []
 ---
 
 ## Highlights

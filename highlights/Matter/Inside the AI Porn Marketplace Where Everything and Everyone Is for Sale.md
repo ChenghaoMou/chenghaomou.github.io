@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Inside the AI Porn Marketplace Where Everything and Everyone Is for Sale
 url: https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/
 author: Emanuel Maiberg
 publisher: www.404media.co
-order: -20230822133519
 date: 2023-08-22
-tags:
+tags: []
 ---
 
 ## Highlights

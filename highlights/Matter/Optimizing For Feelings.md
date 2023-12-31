@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Optimizing For Feelings
 url: https://browsercompany.substack.com/p/optimizing-for-feelings
 author: The Browser Company
 publisher: Keeping Tabs by The Browser Company
-order: -20220607075410
 date: 2022-06-07
-tags:
+tags: []
 ---
 
 ## Highlights

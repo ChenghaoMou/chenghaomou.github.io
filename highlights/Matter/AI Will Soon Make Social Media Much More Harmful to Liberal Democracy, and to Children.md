@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI Will Soon Make Social Media Much More Harmful to Liberal Democracy, and to Children
 url: https://jonathanhaidt.substack.com/p/ai-will-make-social-media-worse
 author: Jonathan Haidt
 publisher: Jon Haidt from After Babel
-order: -20230505101833
 date: 2023-05-05
-tags:
+tags: []
 ---
 
 ## Highlights

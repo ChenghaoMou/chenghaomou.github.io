@@ -4,9 +4,7 @@ aliases:
   - "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling"
 authors: "Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'Brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar van der Wal"
 date: '2023-05-20 19:53:08'
-linter-yaml-title-alias: "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling"
-order: -1
-tags: 
+tags: []
 title: "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling"
 url: "http://arxiv.org/abs/2304.01373"
 ---

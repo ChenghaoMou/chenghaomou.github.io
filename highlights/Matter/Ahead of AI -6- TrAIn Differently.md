@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Ahead of AI #6: TrAIn Differently
+  - "Ahead of AI #6: TrAIn Differently"
 url: https://magazine.sebastianraschka.com/p/ahead-of-ai-6-train-differently
 author: Sebastian Raschka
 publisher: Sebastian Raschka, PhD from Ahead of AI
-order: -20230307064314
 date: 2023-03-07
-tags:
+tags: []
 ---
 
 ## Highlights

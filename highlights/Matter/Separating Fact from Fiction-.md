@@ -4,9 +4,8 @@ aliases:
 url: https://mindmatters.ai/2023/02/separating-fact-from-fiction/
 author: News
 publisher: Mind Matters
-order: -20230222080817
 date: 2023-02-22
-tags:
+tags: []
 ---
 
 ## Highlights

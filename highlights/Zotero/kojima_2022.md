@@ -1,13 +1,11 @@
 ---
 aliases:
   - Large Language Models Are Zero-Shot Reasoners
-  - "Large Language Models are Zero-Shot Reasoners"
+  - Large Language Models are Zero-Shot Reasoners
 authors: "Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: Large Language Models Are Zero-Shot Reasoners
-order: -1
-tags: 
-title: Large Language Models Are Zero-Shot Reasoners
+tags: []
+title: "Large Language Models Are Zero-Shot Reasoners"
 url: "http://arxiv.org/abs/2205.11916"
 ---
 

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Treat your to-read pile like a river, not a bucket
 url: https://www.oliverburkeman.com/river
 author: Oliver Burkeman
 publisher: Oliver Burkeman
-order: -20210311152652
 date: 2021-03-11
-tags:
+tags: []
 ---
 
 ## Highlights

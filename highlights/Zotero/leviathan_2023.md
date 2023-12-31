@@ -1,11 +1,11 @@
 ---
 aliases:
   - Fast Inference from Transformers via Speculative Decoding
-  - 'Fast Inference from Transformers via Speculative Decoding'
-  - "Fast Inference from Transformers via Speculative Decoding"
+  - Fast Inference from Transformers via Speculative Decoding
+  - Fast Inference from Transformers via Speculative Decoding
 authors: "Yaniv Leviathan, Matan Kalman, Yossi Matias"
 date: '2023-12-03 14:23:40'
-tags:
+tags: []
 title: "Fast Inference from Transformers via Speculative Decoding"
 url: "http://arxiv.org/abs/2211.17192"
 ---

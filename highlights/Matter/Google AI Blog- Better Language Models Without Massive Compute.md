@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Google AI Blog: Better Language Models Without Massive Compute
+  - "Google AI Blog: Better Language Models Without Massive Compute"
 url: https://ai.googleblog.com/2022/11/better-language-models-without-massive.html
 author: Google AI (noreply@blogger.com)
 publisher: Blogtrottr
-order: -20221129103140
 date: 2022-11-29
-tags:
+tags: []
 ---
 
 ## Highlights

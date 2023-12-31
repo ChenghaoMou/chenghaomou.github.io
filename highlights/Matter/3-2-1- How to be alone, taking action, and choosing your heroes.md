@@ -1,10 +1,10 @@
 ---
 aliases:
-  - 3-2-1: How to be alone, taking action, and choosing your heroes
+  - "3-2-1: How to be alone, taking action, and choosing your heroes"
 url: https://jamesclear.com/3-2-1/february-3-2022
 author: James Clear
 publisher: James Clear
-tags:
+tags: []
 ---
 
 ## Highlights

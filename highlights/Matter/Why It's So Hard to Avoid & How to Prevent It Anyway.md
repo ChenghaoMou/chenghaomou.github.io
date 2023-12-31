@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Why It's So Hard to Avoid & How to Prevent It Anyway
 url: https://blog.doist.com/context-switching/
 author: Elaine Meyer
 publisher: twist.com
-order: -20210202083809
 date: 2021-02-02
-tags:
+tags: []
 ---
 
 ## Highlights

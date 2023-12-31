@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Comprehensible texts, productivity and, again, Luhmann
 url: https://www.reddit.com/r/Zettelkasten/comments/zg80qc/comprehensible_texts_productivity_and_again/
 publisher: www.reddit.com
-tags:
+tags: []
 ---
 
 ## Highlights

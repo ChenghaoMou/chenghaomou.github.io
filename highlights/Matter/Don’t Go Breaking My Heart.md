@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Don’t Go Breaking My Heart
 url: https://garymarcus.substack.com/p/dont-go-breaking-my-heart
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230222053209
 date: 2023-02-22
-tags:
+tags: []
 ---
 
 ## Highlights

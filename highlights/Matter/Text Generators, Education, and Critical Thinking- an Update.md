@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Text Generators, Education, and Critical Thinking: an Update
+  - "Text Generators, Education, and Critical Thinking: an Update"
 url: https://mindmatters.ai/2023/03/text-generators-education-and-critical-thinking-an-update/
 author: Gary Smith
 publisher: Mind Matters
-order: -20230301095040
 date: 2023-03-01
-tags:
+tags: []
 ---
 
 ## Highlights

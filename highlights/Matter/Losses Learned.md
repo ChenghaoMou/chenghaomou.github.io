@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Losses Learned
 url: https://sebastianraschka.com/blog/2022/losses-learned-part1.html
 author: Sebastian Raschka
 publisher: sebastianraschka.com
-order: -20220404080000
 date: 2022-04-04
-tags:
+tags: []
 ---
 
 ## Highlights

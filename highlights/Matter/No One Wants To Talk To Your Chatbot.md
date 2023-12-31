@@ -1,12 +1,9 @@
 ---
-aliases:
-  - No One Wants To Talk To Your Chatbot
 url: https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70266
 author: Lucas McGregor
 publisher: Medium
-order: -20230718082420
 date: 2023-07-18
-tags:
+tags: []
 ---
 
 ## Highlights

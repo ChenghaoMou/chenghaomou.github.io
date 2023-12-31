@@ -3,9 +3,7 @@ aliases:
   - "Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators"
 authors: "Andreas Liesenfeld, Alianda Lopez, Mark Dingemanse"
 date: '2023-08-26 16:20:23'
-linter-yaml-title-alias: "Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators"
-order: -1
-tags:
+tags: []
 title: "Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators"
 url: "http://arxiv.org/abs/2307.05532"
 ---

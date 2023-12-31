@@ -1,11 +1,8 @@
 ---
-aliases:
-  - A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes
 url: https://huggingface.co/blog/hf-bitsandbytes-integration
 publisher: huggingface
-order: -20220816150000
 date: 2022-08-16
-tags:
+tags: []
 ---
 
 ## Highlights

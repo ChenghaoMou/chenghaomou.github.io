@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Why We Should Not Trust Chatbots As Sources of Information
 url: https://mindmatters.ai/2022/12/why-we-should-not-trust-chatbots-as-sources-of-information/
 author: News
 publisher: Mind Matters
-order: -20221218080831
 date: 2022-12-18
-tags:
+tags: []
 ---
 
 ## Highlights

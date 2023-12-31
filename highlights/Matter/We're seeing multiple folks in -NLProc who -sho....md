@@ -1,12 +1,11 @@
 ---
 aliases:
-  - We're seeing multiple folks in #NLProc who *sho...
+  - "We're seeing multiple folks in #NLProc who *sho..."
 url: https://twitter.com/i/web/status/1603038856290656256
 author: Emily M. Bender
 publisher: Twitter
-order: -20221214064701
 date: 2022-12-14
-tags:
+tags: []
 ---
 
 ## Highlights

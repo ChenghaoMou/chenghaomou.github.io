@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Give Up GitHub: The Time Has Come!
+  - "Give Up GitHub: The Time Has Come!"
 url: https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
 author: Bradley M. Kuhn
 publisher: "Hacker News: Front Page"
-order: -20220630114106
 date: 2022-06-30
-tags:
+tags: []
 ---
 
 ## Highlights

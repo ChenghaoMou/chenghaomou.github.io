@@ -3,8 +3,7 @@ aliases:
   - "The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”"
 authors: "Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans"
 date: '2023-09-24 10:34:38'
-order: -1
-tags:
+tags: []
 title: "The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”"
 url: ""
 ---

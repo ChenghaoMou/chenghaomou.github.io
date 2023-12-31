@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: A paradox of life, how to find time to write, and three factors that lead to a high performance culture
+  - "3-2-1: A paradox of life, how to find time to write, and three factors that lead to a high performance culture"
 url: https://kill-the-newsletter.com/alternates/df1hn4ejnntmv7t4.html
 author: James Clear
 publisher: James Clear
-order: -20230302081348
 date: 2023-03-02
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The viral AI avatar app Lensa undressed me-without my consent
 url: https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/
 author: Melissa Heikkiläarchive
 publisher: Technology Review
-order: -20221212105447
 date: 2022-12-12
-tags:
+tags: []
 ---
 
 ## Highlights

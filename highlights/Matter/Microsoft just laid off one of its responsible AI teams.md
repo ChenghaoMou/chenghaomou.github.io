@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Microsoft just laid off one of its responsible AI teams
 url: https://www.platformer.news/p/microsoft-just-laid-off-one-of-its
 author: Casey Newton
 publisher: Platformer
-order: -20230313170135
 date: 2023-03-13
-tags:
+tags: []
 ---
 
 ## Highlights

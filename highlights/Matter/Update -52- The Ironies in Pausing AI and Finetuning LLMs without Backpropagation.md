@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Update \#52: The Ironies in Pausing AI and Finetuning LLMs without Backpropagation
+  - "Update #52: The Ironies in Pausing AI and Finetuning LLMs without Backpropagation"
 url: https://getmatter.com/email/26409269/?token=26409269%3AmBHnGbxg2baY3x6OsBXIsKnYWMQ
 author: daniel bashir
-publisher: The Gradient's Newsletter
-order: -20230620163100
+publisher: "The Gradient's Newsletter"
 date: 2023-06-20
-tags:
-title: Update -52- The Ironies in Pausing AI and Finetuning LLMs without Backpropagation
+tags: []
+title: "Update -52- The Ironies in Pausing AI and Finetuning LLMs without Backpropagation"
 ---
 
 ## Highlights

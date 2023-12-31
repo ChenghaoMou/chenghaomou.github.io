@@ -4,9 +4,8 @@ aliases:
 url: https://michellerempelgarner.substack.com/p/is-it-time-to-hit-the-pause-button
 author: Gary Marcus
 publisher: MRG
-order: -20230226101758
 date: 2023-02-26
-tags:
+tags: []
 ---
 
 ## Highlights

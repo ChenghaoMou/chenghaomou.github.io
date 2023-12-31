@@ -1,12 +1,9 @@
 ---
-aliases:
-  - No, Virginia, AGI is not imminent
 url: https://garymarcus.substack.com/p/no-virginia-agi-is-not-imminent
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230820204258
 date: 2023-08-20
-tags:
+tags: []
 ---
 
 ## Highlights

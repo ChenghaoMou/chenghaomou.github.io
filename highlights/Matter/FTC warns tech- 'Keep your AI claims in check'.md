@@ -1,12 +1,11 @@
 ---
 aliases:
-  - FTC warns tech: 'Keep your AI claims in check'
+  - "FTC warns tech: 'Keep your AI claims in check'"
 url: https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/
 author: Devin Coldewey
 publisher: TechCrunch
-order: -20230227161706
 date: 2023-02-27
-tags:
+tags: []
 ---
 
 ## Highlights

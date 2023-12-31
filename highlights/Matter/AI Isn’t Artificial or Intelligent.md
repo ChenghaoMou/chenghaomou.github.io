@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI Isn’t Artificial or Intelligent
 url: https://www.vice.com/en/article/wxnaqz/ai-isnt-artificial-or-intelligent
 author: Jason Koebler
 publisher: VICE
-order: -20221206060000
 date: 2022-12-06
-tags:
+tags: []
 ---
 
 ## Highlights

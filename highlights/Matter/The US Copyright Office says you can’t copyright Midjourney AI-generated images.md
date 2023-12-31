@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The US Copyright Office says you can’t copyright Midjourney AI-generated images
 url: https://www.theverge.com/2023/2/22/23611278/midjourney-ai-copyright-office-kristina-kashtanova
 author: Richard Lawler
 publisher: The Verge
-order: -20230222180641
 date: 2023-02-22
-tags:
+tags: []
 ---
 
 ## Highlights

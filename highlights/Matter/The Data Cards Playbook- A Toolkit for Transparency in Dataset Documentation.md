@@ -1,12 +1,11 @@
 ---
 aliases:
-  - The Data Cards Playbook: A Toolkit for Transparency in Dataset Documentation
+  - "The Data Cards Playbook: A Toolkit for Transparency in Dataset Documentation"
 url: https://ai.googleblog.com/2022/11/the-data-cards-playbook-toolkit-for.html
 author: Google AI (noreply@blogger.com)
 publisher: ai.googleblog.com
-order: -20221117101400
 date: 2022-11-17
-tags:
+tags: []
 ---
 
 ## Highlights

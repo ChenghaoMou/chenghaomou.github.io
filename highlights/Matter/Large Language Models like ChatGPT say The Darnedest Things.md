@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Large Language Models like ChatGPT say The Darnedest Things
 url: https://garymarcus.substack.com/p/large-language-models-like-chatgpt
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230109155145
 date: 2023-01-09
-tags:
+tags: []
 ---
 
 ## Highlights

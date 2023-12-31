@@ -1,9 +1,7 @@
 ---
-aliases:
-  - What Every User Should Know About Mixed Precision Training in PyTorch
 url: https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/?utm_source=twitter&utm_medium=organic_social&utm_campaign=blog&utm_content=mixed-precision-training-in-pytorch
 publisher: pytorch.org
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Why Elite College Admissions Are Biased Toward the Superrich
 url: https://www.theringer.com/2023/8/1/23814588/why-elite-college-admissions-are-biased-toward-the-superrich-david-deming
 author: Derek Thompson
 publisher: The Ringer
-order: -20230801144145
 date: 2023-08-01
-tags:
+tags: []
 ---
 
 ## Highlights

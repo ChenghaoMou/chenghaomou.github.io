@@ -4,7 +4,7 @@ aliases:
 url: https://www.nytimes.com/2023/01/06/podcasts/transcript-ezra-klein-interviews-gary-marcus.html
 publisher: The New York Times
 date: 2023-01-05
-tags:
+tags: []
 title: "Transcript- Ezra Klein Interviews Gary Marcus"
 ---
 

@@ -1,12 +1,11 @@
 ---
 aliases:
-  - AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
+  - "AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability"
 url: https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/
 author: Andy Baio
 publisher: Waxy.org
-order: -20220930105243
 date: 2022-09-30
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,11 @@
 ---
 aliases:
-  - An island of truth: practical data advice from Facebook and Airbnb
+  - "An island of truth: practical data advice from Facebook and Airbnb"
 url: https://towardsdatascience.com/an-island-of-truth-practical-data-advice-from-facebook-and-airbnb-a0d9c355e5a0
 author: James Mayfield
 publisher: Towards Data Science
-order: -20200723102153
 date: 2020-07-23
-tags:
+tags: []
 ---
 
 ## Highlights

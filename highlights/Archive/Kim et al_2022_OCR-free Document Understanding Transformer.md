@@ -1,7 +1,6 @@
 ---
-order: -1
-tags: 
-title: Kim et al_2022_OCR-free Document Understanding Transformer
+tags: []
+title: "Kim et al_2022_OCR-free Document Understanding Transformer"
 ---
 
 #### [Page 2](highlights://Kim%20et%20al_2022_OCR-free%20Document%20Understanding%20Transformer#page=2)

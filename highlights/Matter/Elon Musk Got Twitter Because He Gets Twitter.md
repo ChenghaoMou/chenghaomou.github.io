@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Elon Musk Got Twitter Because He Gets Twitter
 url: https://www.nytimes.com/2022/04/27/opinion/elon-musk-twitter.html
 author: Ezra Klein
 publisher: The New York Times
-order: -20220427020024
 date: 2022-04-27
-tags:
+tags: []
 ---
 
 ## Highlights

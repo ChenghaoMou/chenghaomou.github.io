@@ -1,12 +1,9 @@
 ---
-aliases:
-  - CNET's AI Journalist Appears to Have Committed Extensive Plagiarism
 url: https://futurism.com/cnet-ai-plagiarism
 author: Jon Christian
 publisher: Futurism
-order: -20230123123244
 date: 2023-01-23
-tags:
+tags: []
 ---
 
 ## Highlights

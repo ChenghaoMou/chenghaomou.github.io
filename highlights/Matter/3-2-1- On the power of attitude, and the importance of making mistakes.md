@@ -1,14 +1,13 @@
 ---
 aliases:
-  - 3-2-1: On the power of attitude, and the importance of making mistakes
+  - "3-2-1: On the power of attitude, and the importance of making mistakes"
 url: https://jamesclear.com/3-2-1/july-27-2023
 author: James Clear
 publisher: James Clear
-order: -20230727161547
 date: 2023-07-27
 tags:
   - Reading
-title: 3-2-1- On the power of attitude, and the importance of making mistakes
+title: "3-2-1- On the power of attitude, and the importance of making mistakes"
 ---
 
 ## Highlights

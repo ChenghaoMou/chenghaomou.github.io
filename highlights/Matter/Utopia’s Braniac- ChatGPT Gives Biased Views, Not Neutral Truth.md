@@ -4,9 +4,8 @@ aliases:
 url: https://mindmatters.ai/2023/02/utopias-braniac-chatgpt-gives-biased-views-not-neutral-truth/
 author: Peter Biles
 publisher: Mind Matters
-order: -20230207110603
 date: 2023-02-07
-tags:
+tags: []
 ---
 
 ## Highlights

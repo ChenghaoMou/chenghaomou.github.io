@@ -1,12 +1,9 @@
 ---
-aliases:
-  - You Can’t Simply Decide to Be a Different Person
 url: https://www.theatlantic.com/health/archive/2022/01/self-control-habit-new-years-resolutions/621200/
 author: Amanda Mull
 publisher: The Atlantic
-order: -20220107125400
 date: 2022-01-07
-tags:
+tags: []
 ---
 
 ## Highlights

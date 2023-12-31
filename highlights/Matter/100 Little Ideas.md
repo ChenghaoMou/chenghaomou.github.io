@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 100 Little Ideas
 url: https://www.collaborativefund.com/blog/100-little-ideas/
 author: Morgan Housel
 publisher: www.collaborativefund.com
-order: -20200220182200
 date: 2020-02-20
-tags:
+tags: []
 ---
 
 ## Highlights

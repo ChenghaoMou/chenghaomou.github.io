@@ -2,10 +2,9 @@
 url: https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763
 author: Kira Schacht
 publisher: DW
-order: -20230411113205
 date: 2023-04-11
-tags:
-title: Bridging the AI language gap in Africa and beyond
+tags: []
+title: "Bridging the AI language gap in Africa and beyond"
 ---
 
 ## Highlights

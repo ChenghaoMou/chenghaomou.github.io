@@ -1,12 +1,11 @@
 ---
 aliases:
-  - New post: 10x (engineer, context) pairs
+  - "New post: 10x (engineer, context) pairs"
 url: https://www.benkuhn.net/10x/
 author: Ben Kuhn
 publisher: Ben Kuhn
-order: -20220611103825
 date: 2022-06-11
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Embrace the Grind
 url: https://jacobian.org/2021/apr/7/embrace-the-grind/
 author: Jacob Kaplan-Moss
 publisher: jacobian.org
-order: -20210407155311
 date: 2021-04-07
-tags:
+tags: []
 ---
 
 ## Highlights

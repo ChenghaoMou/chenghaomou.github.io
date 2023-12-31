@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Life Is a Video Game-Here Are the Cheat Codes
 url: https://markmanson.net/life-cheat-codes
 author: Philosophy
 publisher: Mark Manson
-order: -20170330040018
 date: 2017-03-30
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,11 @@
 ---
 aliases:
-  - On NYT Magazine on AI: Resist the Urge to be Impressed
+  - "On NYT Magazine on AI: Resist the Urge to be Impressed"
 url: https://medium.com/@emilymenonbender/on-nyt-magazine-on-ai-resist-the-urge-to-be-impressed-3d92fd9a0edd
 author: M. Bender
 publisher: Medium - Tech
-order: -20220417171509
 date: 2022-04-17
-tags:
+tags: []
 ---
 
 ## Highlights

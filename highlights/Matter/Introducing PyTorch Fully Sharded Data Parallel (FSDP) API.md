@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Introducing PyTorch Fully Sharded Data Parallel (FSDP) API
 url: https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/
 publisher: pytorch.org
-tags:
+tags: []
 ---
 
 ## Highlights

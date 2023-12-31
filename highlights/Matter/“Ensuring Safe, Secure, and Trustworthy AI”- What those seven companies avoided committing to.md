@@ -1,12 +1,11 @@
 ---
 aliases:
-  - “Ensuring Safe, Secure, and Trustworthy AI”: What those seven companies avoided committing to
+  - "“Ensuring Safe, Secure, and Trustworthy AI”: What those seven companies avoided committing to"
 url: https://medium.com/@emilymenonbender/ensuring-safe-secure-and-trustworthy-ai-what-those-seven-companies-avoided-committing-to-8c297f9d71a
 author: Emily M. Bender
 publisher: Medium
-order: -20230729235323
 date: 2023-07-29
-tags:
+tags: []
 ---
 
 ## Highlights

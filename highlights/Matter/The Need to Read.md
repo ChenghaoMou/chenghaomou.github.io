@@ -1,10 +1,8 @@
 ---
-aliases:
-  - The Need to Read
 url: http://paulgraham.com/read.html
 author: Paul Graham
 publisher: paulgraham.com
-tags:
+tags: []
 ---
 
 ## Highlights

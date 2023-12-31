@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Artificial neural networks today are not conscious, according to Douglas Hofstadter
 url: https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-today-are-not-conscious-according-to-douglas-hofstadter
 author: Douglas Hofstadter
 publisher: The Economist
-order: -20220609140647
 date: 2022-06-09
-tags:
+tags: []
 ---
 
 ## Highlights

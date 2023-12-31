@@ -1,12 +1,9 @@
 ---
-aliases:
-  - What Students Lose by Embracing Easy Tech Like ChatGPT
 url: https://mindmatters.ai/2023/01/what-students-lose-by-embracing-easy-tech-like-chatgpt/
 author: Peter Biles
 publisher: Mind Matters
-order: -20230116130436
 date: 2023-01-16
-tags:
+tags: []
 ---
 
 ## Highlights

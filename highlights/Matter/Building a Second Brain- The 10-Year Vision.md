@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Building a Second Brain: The 10-Year Vision
+  - "Building a Second Brain: The 10-Year Vision"
 url: https://fortelabs.co/blog/building-a-second-brain-the-10-year-vision/
 author: Tiago Forte
 publisher: Forte Labs
-order: -20220131133118
 date: 2022-01-31
-tags:
+tags: []
 ---
 
 ## Highlights

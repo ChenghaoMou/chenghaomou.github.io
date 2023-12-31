@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Things they didn't teach you about Software Engineering
 url: https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/
 author: Vadim Kravcenko
 publisher: vadimkravcenko.com
-order: -20230106032310
 date: 2023-01-06
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Ahead of AI #3: A(I)nnouncements
+  - "Ahead of AI #3: A(I)nnouncements"
 url: https://magazine.sebastianraschka.com/p/ahead-of-ai-3-ainnouncements
 author: Sebastian Raschka
 publisher: Sebastian Raschka, PhD from Ahead of AI
-order: -20221207083815
 date: 2022-12-07
-tags:
+tags: []
 ---
 
 ## Highlights

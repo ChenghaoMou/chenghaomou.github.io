@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Hackaday Newsletter 0x66
 url: https://hackaday.com/2023/03/04/chatgpt-bing-and-the-upcoming-security-apocalypse/
 author: Elliot Williams
 publisher: =?utf-8?Q?Hackaday=20Editors?=
-order: -20230303090121
 date: 2023-03-03
-tags:
+tags: []
 ---
 
 ## Highlights

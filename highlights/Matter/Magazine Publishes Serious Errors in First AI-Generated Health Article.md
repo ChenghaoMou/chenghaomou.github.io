@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Magazine Publishes Serious Errors in First AI-Generated Health Article
 url: https://futurism.com/neoscope/magazine-mens-journal-errors-ai-health-article
 author: Jon Christian
 publisher: Futurism
-order: -20230209072052
 date: 2023-02-09
-tags:
+tags: []
 ---
 
 ## Highlights

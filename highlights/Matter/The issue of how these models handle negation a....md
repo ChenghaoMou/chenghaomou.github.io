@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The issue of how these models handle negation a...
 url: https://twitter.com/i/web/status/1601402457501978625
 author: Mar Hicks
 publisher: Twitter
-order: -20221209182433
 date: 2022-12-09
-tags:
+tags: []
 ---
 
 ## Highlights

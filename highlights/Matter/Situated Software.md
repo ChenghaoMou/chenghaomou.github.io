@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Situated Software
 url: https://gwern.net/doc/technology/2004-03-30-shirky-situatedsoftware.html
 author: Devon Zuegel
 publisher: gwern.net
-order: -20040330201333
 date: 2004-03-30
-tags:
+tags: []
 ---
 
 ## Highlights

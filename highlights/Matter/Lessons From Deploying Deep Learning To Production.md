@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Lessons From Deploying Deep Learning To Production
 url: https://thegradient.pub/lessons-from-deploying-deep-learning-to-production/
 author: Peter Gao
 publisher: The Gradient
-order: -20220516083053
 date: 2022-05-16
-tags:
+tags: []
 ---
 
 ## Highlights

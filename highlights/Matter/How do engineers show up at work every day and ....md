@@ -1,12 +1,9 @@
 ---
-aliases:
-  - How do engineers show up at work every day and ...
 url: https://twitter.com/i/web/status/1615452475137609728
 author: Mahmood Hikmet
 publisher: Twitter
-order: -20230117125418
 date: 2023-01-17
-tags:
+tags: []
 ---
 
 ## Highlights

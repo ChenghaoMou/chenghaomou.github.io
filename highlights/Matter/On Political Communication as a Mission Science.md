@@ -1,12 +1,9 @@
 ---
-aliases:
-  - On Political Communication as a Mission Science
 url: https://davekarpf.substack.com/p/on-political-communication-as-a-mission
 author: Dave Karpf
 publisher: The Future, Now and Then
-order: -20230713125600
 date: 2023-07-13
-tags:
+tags: []
 ---
 
 ## Highlights

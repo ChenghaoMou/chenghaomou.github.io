@@ -2,8 +2,8 @@
 url: https://perell.com/essay/never-ending-now/
 author: David Perell
 publisher: David Perell
-tags:
-title: The Never-Ending Now
+tags: []
+title: "The Never-Ending Now"
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Looming Demise of the 10x Developer
 url: https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/
 author: Justin Searls
 publisher: blog.testdouble.com
-order: -20230712142038
 date: 2023-07-12
-tags:
+tags: []
 ---
 
 ## Highlights

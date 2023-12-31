@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Success, getting started, and the unnoticed good in the world
+  - "3-2-1: Success, getting started, and the unnoticed good in the world"
 url: https://getmatter.com/email/5028573/?token=5028573%3AdpgfUaYPTcpOfZ4rC1M6JwrUd98
 author: James Clear
 publisher: James Clear
-order: -20220210104709
 date: 2022-02-10
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -4,9 +4,8 @@ aliases:
 url: https://statmodeling.stat.columbia.edu/2022/03/28/is-open-ai-cooking-the-books-on-gpt-3/
 author: Andrew
 publisher: Statistical Modeling & Social Science
-order: -20220327194755
 date: 2022-03-27
-tags:
+tags: []
 ---
 
 ## Highlights

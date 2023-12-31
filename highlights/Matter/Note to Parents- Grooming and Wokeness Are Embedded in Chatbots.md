@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Note to Parents: Grooming and Wokeness Are Embedded in Chatbots
+  - "Note to Parents: Grooming and Wokeness Are Embedded in Chatbots"
 url: https://mindmatters.ai/2023/01/note-to-parents-grooming-and-wokeness-are-embedded-in-chatbots/
 author: Robert J. Marks
 publisher: Mind Matters
-order: -20230111123225
 date: 2023-01-11
-tags:
+tags: []
 ---
 
 ## Highlights

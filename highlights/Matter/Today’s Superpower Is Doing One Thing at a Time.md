@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Today’s Superpower Is Doing One Thing at a Time
 url: https://www.nytimes.com/2023/07/29/opinion/do-one-thing-at-a-time-management.html
 author: Oliver Burkeman
 publisher: The New York Times
-order: -20230729124130
 date: 2023-07-29
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Alt-Right Manipulated My Comic. Then A.I. Claimed It.
 url: https://www.nytimes.com/2022/12/31/opinion/sarah-andersen-how-algorithim-took-my-work.html
 author: Sarah Andersen
 publisher: The New York Times
-order: -20221231101653
 date: 2022-12-31
-tags:
+tags: []
 ---
 
 ## Highlights

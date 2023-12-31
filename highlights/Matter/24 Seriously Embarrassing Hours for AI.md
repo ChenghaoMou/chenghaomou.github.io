@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 24 Seriously Embarrassing Hours for AI
 url: https://garymarcus.substack.com/p/24-seriously-embarrassing-hours-for
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230118133021
 date: 2023-01-18
-tags:
+tags: []
 ---
 
 ## Highlights

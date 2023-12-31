@@ -5,7 +5,7 @@ url: https://magazine.sebastianraschka.com/p/ahead-of-ai-1-a-diffusion-of-innova
 author: Sebastian Raschka
 publisher: sebastianraschka.com
 date: 2022-11-04
-tags:
+tags: []
 title: "Ahead of AI -1- A Diffusion of Innovations"
 ---
 

@@ -1,13 +1,11 @@
 ---
 aliases:
   - Error bars
-  - "Error bars"
+  - Error bars
 authors: "Martin Krzywinski, Naomi Altman"
 date: '2023-05-18 19:56:04'
-linter-yaml-title-alias: "Error bars"
-order: -1
-tags: 
-title: Error bars
+tags: []
+title: "Error bars"
 url: "https://www.nature.com/articles/nmeth.2659"
 ---
 

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - People keep anthropomorphizing AI. Here’s why
 url: https://aisnakeoil.substack.com/p/people-keep-anthropomorphizing-ai
 author: Arvind Narayanan
 publisher: Sayash and Arvind from AI Snake Oil
-order: -20230222074452
 date: 2023-02-22
-tags:
+tags: []
 ---
 
 ## Highlights

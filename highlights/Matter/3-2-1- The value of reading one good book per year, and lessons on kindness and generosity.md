@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: The value of reading one good book per year, and lessons on kindness and generosity
+  - "3-2-1: The value of reading one good book per year, and lessons on kindness and generosity"
 url: https://jamesclear.com/3-2-1/june-15-2023
 author: James Clear
 publisher: James Clear
-order: -20230615161508
 date: 2023-06-15
-tags:
+tags: []
 ---
 
 ## Highlights

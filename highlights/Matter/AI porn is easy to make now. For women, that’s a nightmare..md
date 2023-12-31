@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI porn is easy to make now. For women, that’s a nightmare.
 url: https://www.washingtonpost.com/technology/2023/02/13/ai-porn-deepfakes-women-consent/
 author: Tatum Hunter
 publisher: The Washington Post
-order: -20230213122129
 date: 2023-02-13
-tags:
+tags: []
 ---
 
 ## Highlights

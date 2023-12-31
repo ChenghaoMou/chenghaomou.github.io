@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The new Bing is acting all weird and creepy - but the human response is way scarier
 url: https://www.businessinsider.com/weird-bing-chatbot-google-chatgpt-alive-conscious-sentient-ethics-2023-2
 author: Adam Rogers
 publisher: Business Insider
-order: -20230222182647
 date: 2023-02-22
-tags:
+tags: []
 ---
 
 ## Highlights

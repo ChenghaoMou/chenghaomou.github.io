@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Gradient Update #24: Robotaxis in Beijing and a Multi-task Visual Language Model
+  - "Gradient Update #24: Robotaxis in Beijing and a Multi-task Visual Language Model"
 url: https://thegradientpub.substack.com/p/gradient-update-24-robotaxis-in-beijing
 author: The Gradient
-publisher: The Gradient's Newsletter
-order: -20220510090156
+publisher: "The Gradient's Newsletter"
 date: 2022-05-10
-tags:
+tags: []
 ---
 
 ## Highlights

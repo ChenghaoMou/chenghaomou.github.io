@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Thought experiment in the National Library of Thailand
 url: https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83
 author: Emily M. Bender
 publisher: Medium
-order: -20230525061032
 date: 2023-05-25
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Noam Chomsky and GPT-3
 url: https://garymarcus.substack.com/p/noam-chomsky-and-gpt-3
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20220521104537
 date: 2022-05-21
-tags:
+tags: []
 ---
 
 ## Highlights

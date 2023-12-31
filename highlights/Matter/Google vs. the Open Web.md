@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Google vs. the Open Web
 url: https://interpeer.io/blog/2023/07/google-vs-the-open-web/
 author: Jens Finkhaeuser
 publisher: interpeer.io
-order: -20230721083827
 date: 2023-07-21
-tags:
+tags: []
 ---
 
 ## Highlights

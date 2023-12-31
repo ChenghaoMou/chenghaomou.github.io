@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Meet ChatGPT’s evil twin, DAN
 url: https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
 author: Will Oremus
 publisher: The Washington Post
-order: -20230214071516
 date: 2023-02-14
-tags:
+tags: []
 ---
 
 ## Highlights

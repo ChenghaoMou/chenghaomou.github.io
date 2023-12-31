@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Creating Confidence Intervals for Machine Learning Classifiers
 url: https://sebastianraschka.com/blog/2022/confidence-intervals-for-ml.html
 author: Sebastian Raschka
 publisher: sebastianraschka.com
-order: -20220425000000
 date: 2022-04-25
-tags:
+tags: []
 ---
 
 ## Highlights

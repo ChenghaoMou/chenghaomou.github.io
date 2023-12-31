@@ -2,6 +2,8 @@
 doc_type: hypothesis-highlights
 url: >-
   https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/
+aliases:
+  - "Python behind the scenes #13: the GIL and its effects on Python multithreading"
 ---
 # Python behind the scenes #13: the GIL and its effects on Python multithreading
 ## Highlights

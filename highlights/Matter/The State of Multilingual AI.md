@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The State of Multilingual AI
 url: https://www.ruder.io/state-of-multilingual-ai/
 author: Sebastian Ruder
 publisher: ruder.io
-order: -20221114110000
 date: 2022-11-14
-tags:
+tags: []
 ---
 
 ## Highlights

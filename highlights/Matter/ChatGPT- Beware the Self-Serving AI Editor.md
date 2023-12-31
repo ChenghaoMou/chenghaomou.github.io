@@ -1,12 +1,11 @@
 ---
 aliases:
-  - ChatGPT: Beware the Self-Serving AI Editor
+  - "ChatGPT: Beware the Self-Serving AI Editor"
 url: https://mindmatters.ai/2023/02/chatgpt-beware-the-self-serving-ai-editor/
 author: Richard W. Stevens
 publisher: Mind Matters
-order: -20230210085253
 date: 2023-02-10
-tags:
+tags: []
 ---
 
 ## Highlights

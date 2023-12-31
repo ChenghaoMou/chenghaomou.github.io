@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Finding Time
 url: https://www.sunset.com/travel/anne-lamott-how-to-find-time
 author: Anne Lamott
 publisher: www.sunset.com
-order: -20100405053448
 date: 2010-04-05
-tags:
+tags: []
 ---
 
 ## Highlights

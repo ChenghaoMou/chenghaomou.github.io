@@ -4,9 +4,8 @@ aliases:
 url: https://www.wired.com/story/what-is-pig-butchering-scam/
 author: Lily Hay Newman
 publisher: Wired
-order: -20230102050000
 date: 2023-01-02
-tags:
+tags: []
 ---
 
 ## Highlights

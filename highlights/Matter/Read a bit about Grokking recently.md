@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Read a bit about Grokking recently
 url: https://twitter.com/i/web/status/1542967463100305408
 author: Awni Hannun
 publisher: Twitter
-order: -20220701132444
 date: 2022-07-01
-tags:
+tags: []
 ---
 
 ## Highlights

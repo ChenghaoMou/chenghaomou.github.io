@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The DAIR Institute
 url: https://www.dair-institute.org/blog/letter-statement-March2023
 author: zzzeek
 publisher: www.dair-institute.org
-order: -20230331224701
 date: 2023-03-31
-tags:
+tags: []
 ---
 
 ## Highlights

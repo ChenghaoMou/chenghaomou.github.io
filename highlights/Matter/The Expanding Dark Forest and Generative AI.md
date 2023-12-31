@@ -3,7 +3,7 @@ url: https://maggieappleton.com/ai-dark-forest
 author: Maggie Appleton 🧭
 publisher: maggieappleton.com
 date: 2023-01-01
-tags:
+tags: []
 title: "The Expanding Dark Forest and Generative AI"
 ---
 

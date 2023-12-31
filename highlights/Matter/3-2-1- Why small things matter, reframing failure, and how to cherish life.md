@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Why small things matter, reframing failure, and how to cherish life
+  - "3-2-1: Why small things matter, reframing failure, and how to cherish life"
 url: https://jamesclear.com/3-2-1/june-29-2023
 author: James Clear
 publisher: James Clear
-order: -20230629162415
 date: 2023-06-29
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,7 +1,6 @@
 ---
-order: -1
-tags: 
-title: Sorscher et al. - 2022 - Beyond neural scaling laws beating power law scal
+tags: []
+title: "Sorscher et al. - 2022 - Beyond neural scaling laws beating power law scal"
 ---
 
 #### [Page 1](highlights://Sorscher%20et%20al.%20-%202022%20-%20Beyond%20neural%20scaling%20laws%20beating%20power%20law%20scal#page=1)

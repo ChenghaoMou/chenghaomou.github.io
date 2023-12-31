@@ -1,12 +1,11 @@
 ---
 aliases:
-  - The Luring Test: AI and the engineering of consumer trust
+  - "The Luring Test: AI and the engineering of consumer trust"
 url: https://www.ftc.gov/business-guidance/blog/2023/05/luring-test-ai-engineering-consumer-trust
 author: Holly Vedova
 publisher: www.ftc.gov
-order: -20230428154442
 date: 2023-04-28
-tags:
+tags: []
 ---
 
 ## Highlights

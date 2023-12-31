@@ -1,12 +1,9 @@
 ---
-aliases:
-  - RETRO Is Blazingly Fast
 url: http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html
 author: bilsbie
 publisher: "Hacker News: Front Page"
-order: -20220703061901
 date: 2022-07-03
-tags:
+tags: []
 ---
 
 ## Highlights

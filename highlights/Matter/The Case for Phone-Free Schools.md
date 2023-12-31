@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Case for Phone-Free Schools
 url: https://jonathanhaidt.substack.com/p/the-case-for-phone-free-schools
 author: Jonathan Haidt
 publisher: Jon Haidt from After Babel
-order: -20230606041449
 date: 2023-06-06
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -4,9 +4,8 @@ aliases:
 url: https://garymarcus.substack.com/p/what-does-meta-ais-diplomacy-winning
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20221125081320
 date: 2022-11-25
-tags:
+tags: []
 ---
 
 ## Highlights

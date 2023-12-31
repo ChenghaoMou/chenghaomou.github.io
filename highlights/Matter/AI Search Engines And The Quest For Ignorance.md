@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI Search Engines And The Quest For Ignorance
 url: https://escapingtech.com/tech/opinions/the-ai-search-engine-problem.html
 author: Marcus Hutchins
 publisher: escapingtech.com
-order: -20230206135800
 date: 2023-02-06
-tags:
+tags: []
 ---
 
 ## Highlights

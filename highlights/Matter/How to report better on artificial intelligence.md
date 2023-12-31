@@ -1,12 +1,9 @@
 ---
-aliases:
-  - How to report better on artificial intelligence
 url: https://www.cjr.org/analysis/how-to-report-better-on-artificial-intelligence.php
 author: Sayash Kapoor
 publisher: Columbia Journalism Review
-order: -20230706190352
 date: 2023-07-06
-tags:
+tags: []
 ---
 
 ## Highlights

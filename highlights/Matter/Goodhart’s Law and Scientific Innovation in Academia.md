@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Goodhart’s Law and Scientific Innovation in Academia
 url: https://mindmatters.ai/2023/01/goodharts-law-and-scientific-innovation-in-academia/
 author: Gary Smith
 publisher: Mind Matters
-order: -20230130082337
 date: 2023-01-30
-tags:
+tags: []
 ---
 
 ## Highlights

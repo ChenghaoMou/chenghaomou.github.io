@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Quotes are Not Notes: Creating a Zettelkasten of Ideas
+  - "Quotes are Not Notes: Creating a Zettelkasten of Ideas"
 url: https://www.reddit.com/r/Zettelkasten/comments/usfmk3/quotes_are_not_notes_creating_a_zettelkasten_of/
 author: u taurusnoises
 publisher: www.reddit.com
-order: -20220518115530
 date: 2022-05-18
-tags:
+tags: []
 ---
 
 ## Highlights

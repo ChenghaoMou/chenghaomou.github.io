@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Staring into the abyss as a core life skill
 url: https://www.benkuhn.net/abyss/
 author: Ben Kuhn
 publisher: Ben Kuhn
-order: -20221222074115
 date: 2022-12-22
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Google shattered human connection
 url: https://staltz.com/google-shattered-human-connection.html
 author: André Staltz
 publisher: staltz.com
-order: -20230720091211
 date: 2023-07-20
-tags:
+tags: []
 ---
 
 ## Highlights

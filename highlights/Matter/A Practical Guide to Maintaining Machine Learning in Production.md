@@ -1,12 +1,9 @@
 ---
-aliases:
-  - A Practical Guide to Maintaining Machine Learning in Production
 url: https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/
 author: Eugene Yan
 publisher: Eugene Yan
-order: -20200525163051
 date: 2020-05-25
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -2,10 +2,9 @@
 url: https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt
 author: Wes Davis
 publisher: The Verge
-order: -20230708230105
 date: 2023-07-08
-tags:
-title: Google’s medical AI chatbot is already being tested in hospitals
+tags: []
+title: "Google’s medical AI chatbot is already being tested in hospitals"
 ---
 
 ## Highlights

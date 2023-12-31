@@ -2,10 +2,9 @@
 url: https://www.truthdig.com/dig/nick-bostrom-longtermism-and-the-eternal-return-of-eugenics/
 author: Alexander Rutkin 31
 publisher: www.truthdig.com
-order: -20230119191022
 date: 2023-01-19
-tags:
-title: Nick Bostrom, Longtermism, and the Eternal Return of Eugenics
+tags: []
+title: "Nick Bostrom, Longtermism, and the Eternal Return of Eugenics"
 ---
 
 ## Highlights

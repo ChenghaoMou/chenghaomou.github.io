@@ -1,12 +1,9 @@
 ---
-aliases:
-  - ChatGPT is a bullshit generator. But it can still be amazingly useful
 url: https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but
 author: Arvind Narayanan
 publisher: Sayash and Arvind from AI Snake Oil
-order: -20221206071946
 date: 2022-12-06
-tags:
+tags: []
 ---
 
 ## Highlights

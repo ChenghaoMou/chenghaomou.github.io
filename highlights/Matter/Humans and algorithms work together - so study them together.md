@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Humans and algorithms work together - so study them together
 url: https://www.nature.com/articles/d41586-023-01521-z
 author: J. Nathan Matias
 publisher: Nature
-order: -20230510172031
 date: 2023-05-10
-tags:
+tags: []
 ---
 
 ## Highlights

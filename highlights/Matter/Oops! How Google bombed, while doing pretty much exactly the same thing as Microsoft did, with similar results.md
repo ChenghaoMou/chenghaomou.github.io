@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Oops! How Google bombed, while doing pretty much exactly the same thing as Microsoft did, with similar results
 url: https://garymarcus.substack.com/p/oops-how-google-bombed-while-doing
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230208210705
 date: 2023-02-08
-tags:
+tags: []
 ---
 
 ## Highlights

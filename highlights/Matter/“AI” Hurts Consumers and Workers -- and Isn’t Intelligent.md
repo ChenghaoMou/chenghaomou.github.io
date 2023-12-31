@@ -1,12 +1,9 @@
 ---
-aliases:
-  - “AI” Hurts Consumers and Workers -- and Isn’t Intelligent
 url: https://techpolicy.press/ai-hurts-consumers-and-workers-and-isnt-intelligent/
 author: Alex Hanna
 publisher: techpolicy.press
-order: -20230804140555
 date: 2023-08-04
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Learning to Communicate
 url: https://mindmatters.ai/2023/03/learning-to-communicate/
 author: Gary Smith
 publisher: Mind Matters
-order: -20230306110336
 date: 2023-03-06
-tags:
+tags: []
 ---
 
 ## Highlights

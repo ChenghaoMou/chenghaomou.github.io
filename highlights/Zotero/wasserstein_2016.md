@@ -3,9 +3,7 @@ aliases:
   - "The ASA Statement on p-Values: Context, Process, and Purpose"
 authors: "Ronald L. Wasserstein, Nicole A. Lazar"
 date: '2023-06-19 20:43:41'
-linter-yaml-title-alias: "The ASA Statement on p-Values: Context, Process, and Purpose"
-order: -1
-tags:
+tags: []
 title: "The ASA Statement on p-Values: Context, Process, and Purpose"
 url: "https://doi.org/10.1080/00031305.2016.1154108"
 ---

@@ -3,7 +3,7 @@ aliases:
   - "What A Situated Language-Using Agent Must be Able to Do: A Top-Down Analysis"
 authors: "David Schlangen"
 date: '2023-10-01 11:56:35'
-tags:
+tags: []
 title: "What A Situated Language-Using Agent Must be Able to Do: A Top-Down Analysis"
 url: "http://arxiv.org/abs/2302.08590"
 ---

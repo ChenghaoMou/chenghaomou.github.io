@@ -1,12 +1,9 @@
 ---
-aliases:
-  - If you want to follow your dreams, you have to say no to all the alternatives
 url: https://oliveremberton.com/2014/if-you-want-to-follow-your-dreams-you-have-to-say-no-to-all-the-alternatives/
 author: Oliver Emberton
 publisher: Oliver Emberton
-order: -20141028000026
 date: 2014-10-28
-tags:
+tags: []
 ---
 
 ## Highlights

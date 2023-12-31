@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Minimalism in Programming
 url: https://pointersgonewild.com/2018/02/18/minimalism-in-programming/
 author: Tags complexity
 publisher: pointersgonewild.com
-order: -20180218082159
 date: 2018-02-18
-tags:
+tags: []
 ---
 
 ## Highlights

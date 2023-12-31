@@ -1,12 +1,9 @@
 ---
-aliases:
-  - A Concerning Trend
 url: http://neil-clarke.com/a-concerning-trend/
 author: Neil Clarke
 publisher: neil-clarke.com
-order: -20230214163401
 date: 2023-02-14
-tags:
+tags: []
 ---
 
 ## Highlights

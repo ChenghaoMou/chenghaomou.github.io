@@ -4,9 +4,8 @@ aliases:
 url: https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey
 author: Ted Chiang
 publisher: The New Yorker
-order: -20230504093814
 date: 2023-05-04
-tags:
+tags: []
 ---
 
 ## Highlights

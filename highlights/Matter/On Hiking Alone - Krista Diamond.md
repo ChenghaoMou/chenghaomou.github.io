@@ -4,9 +4,8 @@ aliases:
 url: https://catapult.co/stories/on-hiking-alone-in-national-parks-krista-diamond
 author: Krista Diamond
 publisher: Catapult
-order: -20220524030000
 date: 2022-05-24
-tags:
+tags: []
 ---
 
 ## Highlights

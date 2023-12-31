@@ -1,14 +1,13 @@
 ---
 aliases:
+  - "Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data"
   - "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data"
   - '"Climbing towards NLU: On Meaning'
   - Form
   - 'and Understanding in the Age of Data"'
 authors: "Emily M. Bender, Alexander Koller"
 date: 2023-01-15 13:54:45
-linter-yaml-title-alias: "Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data"
-order: -1
-tags: 
+tags: []
 title: "Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data"
 url: "https://aclanthology.org/2020.acl-main.463"
 ---

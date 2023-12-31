@@ -1,11 +1,10 @@
 ---
 url: https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/
-author: Lorena O'Neil
+author: "Lorena O'Neil"
 publisher: Rolling Stone
-order: -20230812150000
 date: 2023-08-12
-tags:
-title: These Women Tried to Warn Us About AI
+tags: []
+title: "These Women Tried to Warn Us About AI"
 ---
 
 ## Highlights

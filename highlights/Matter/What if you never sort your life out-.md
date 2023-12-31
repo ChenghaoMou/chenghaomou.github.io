@@ -4,9 +4,8 @@ aliases:
 url: https://www.oliverburkeman.com/never
 author: Oliver Burkeman
 publisher: www.oliverburkeman.com
-order: -20210225094800
 date: 2021-02-25
-tags:
+tags: []
 ---
 
 ## Highlights

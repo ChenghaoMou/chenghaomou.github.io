@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Prompt Engineering Shouldn't Exist
 url: https://matt-rickard.com/prompt-engineering-shouldnt-exist
 author: Matt Rickard
 publisher: Matt Rickard
-order: -20230123063052
 date: 2023-01-23
-tags:
+tags: []
 ---
 
 ## Highlights

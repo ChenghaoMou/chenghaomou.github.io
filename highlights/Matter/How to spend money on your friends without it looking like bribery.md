@@ -1,12 +1,9 @@
 ---
-aliases:
-  - How to spend money on your friends without it looking like bribery
 url: https://billmei.net/blog/bribe-friends
 author: Kortaggio
 publisher: "Hacker News: Front Page"
-order: -20230428050647
 date: 2023-04-28
-tags:
+tags: []
 ---
 
 ## Highlights

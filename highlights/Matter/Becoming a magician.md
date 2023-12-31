@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Becoming a magician
 url: https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/
 author: autotranslucence
 publisher: autotranslucence.wordpress.com
-order: -20180330104353
 date: 2018-03-30
-tags:
+tags: []
 ---
 
 ## Highlights

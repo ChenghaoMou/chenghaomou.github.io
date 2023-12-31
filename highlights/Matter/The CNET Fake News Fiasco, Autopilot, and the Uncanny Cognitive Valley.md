@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The CNET Fake News Fiasco, Autopilot, and the Uncanny Cognitive Valley
 url: https://garymarcus.substack.com/p/the-cnet-fake-news-fiasco-autopilot
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230131095202
 date: 2023-01-31
-tags:
+tags: []
 ---
 
 ## Highlights

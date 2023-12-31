@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Deep Learning in Neuroimaging
 url: https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/
 author: Eloy Geenjaar
 publisher: The Gradient
-order: -20220430103243
 date: 2022-04-30
-tags:
+tags: []
 ---
 
 ## Highlights

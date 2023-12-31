@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Don't Call Yourself A Programmer, And Other Career Advice
 url: https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 author: Patrick McKenzie
 publisher: www.kalzumeus.com
-order: -20111028164320
 date: 2011-10-28
-tags:
+tags: []
 title: "Don't Call Yourself A Programmer, And Other Career Advice"
 ---
 

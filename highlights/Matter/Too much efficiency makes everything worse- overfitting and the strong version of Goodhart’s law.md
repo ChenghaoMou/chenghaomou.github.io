@@ -5,7 +5,7 @@ url: http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
 author: Jascha Sohl-Dickstein
 publisher: sohl-dickstein.github.io
 date: 2022-11-05
-tags:
+tags: []
 title: "Too much efficiency makes everything worse- overfitting and the strong version of Goodhart’s law"
 ---
 

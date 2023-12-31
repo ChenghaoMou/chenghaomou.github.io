@@ -1,12 +1,11 @@
 ---
 aliases:
-  - "Disregard the Words"
+  - Disregard the Words
 url: https://every.to/p/disregard-the-words
 author: Internet Blue
 publisher: Internet Blue
-order: -20220508162157
 date: 2022-05-08
-tags:
+tags: []
 ---
 
 ## Highlights

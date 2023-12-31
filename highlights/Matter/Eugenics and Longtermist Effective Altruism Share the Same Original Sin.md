@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Eugenics and Longtermist Effective Altruism Share the Same Original Sin
 url: https://andreikucharavy.com/L3Cache/eugenics-and-longtermist-effective-altruism-share-the-same-original-sin/
 author: Andrei K.
 publisher: andreikucharavy.com
-order: -20230417185207
 date: 2023-04-17
-tags:
+tags: []
 ---
 
 ## Highlights

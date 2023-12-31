@@ -1,9 +1,7 @@
 ---
-aliases:
-  - Nine Tools I Wish I Mastered Before My PhD in Machine Learning
 url: https://www.kdnuggets.com/2021/09/nine-tools-mastered-before-phd-machine-learning.html
 publisher: www.kdnuggets.com
-tags:
+tags: []
 ---
 
 ## Highlights

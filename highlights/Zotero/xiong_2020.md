@@ -1,13 +1,11 @@
 ---
 aliases:
   - On Layer Normalization in the Transformer Architecture
-  - "On Layer Normalization in the Transformer Architecture"
+  - On Layer Normalization in the Transformer Architecture
 authors: "Ruibin Xiong, Yunchang Yang, Di He, Kai Zheng, Shuxin Zheng, Chen Xing, Huishuai Zhang, Yanyan Lan, Liwei Wang, Tie-Yan Liu"
 date: '2023-06-06 21:52:12'
-linter-yaml-title-alias: "On Layer Normalization in the Transformer Architecture"
-order: -1
-tags: 
-title: On Layer Normalization in the Transformer Architecture
+tags: []
+title: "On Layer Normalization in the Transformer Architecture"
 url: "http://arxiv.org/abs/2002.04745"
 ---
 

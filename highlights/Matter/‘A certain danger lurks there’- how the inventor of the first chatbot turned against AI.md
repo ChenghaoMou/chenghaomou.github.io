@@ -1,13 +1,12 @@
 ---
 aliases:
-  - ‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI
+  - "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
 url: https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai
 author: Ben Tarnoff
 publisher: The Guardian
-order: -20230725052240
 date: 2023-07-25
-tags:
-title: ‘A certain danger lurks there’- how the inventor of the first chatbot turned against AI
+tags: []
+title: "‘A certain danger lurks there’- how the inventor of the first chatbot turned against AI"
 ---
 
 ## Highlights

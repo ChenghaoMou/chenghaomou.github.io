@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI and the American Smile
 url: https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf
 author: jenka
 publisher: Medium
-order: -20230326160814
 date: 2023-03-26
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - I’m a very slow thinker
 url: https://sive.rs/slow
 author: Derek Sivers
 publisher: sive.rs
-order: -20230306022125
 date: 2023-03-06
-tags:
+tags: []
 ---
 
 ## Highlights

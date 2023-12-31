@@ -1,11 +1,9 @@
 ---
-aliases:
-  - Lessons from my PhD
 url: https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html
 author: Austin Z. Henley
 publisher: web.eecs.utk.edu
 tags:
-- career
+  - career
 ---
 
 ## Highlights

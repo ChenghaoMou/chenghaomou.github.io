@@ -1,11 +1,8 @@
 ---
-aliases:
-  - Why I Don't Care if Students Use GPT
 url: http://write.guyhoffman.com/why-i-dont-care-if-students-use-gpt
 publisher: write.guyhoffman.com
-order: -20230206070125
 date: 2023-02-06
-tags:
+tags: []
 ---
 
 ## Highlights

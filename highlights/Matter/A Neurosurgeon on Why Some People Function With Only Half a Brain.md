@@ -1,12 +1,9 @@
 ---
-aliases:
-  - A Neurosurgeon on Why Some People Function With Only Half a Brain
 url: https://mindmatters.ai/2022/08/a-neurosurgeon-on-why-some-people-function-with-only-half-a-brain/
 author: News
 publisher: Mind Matters
-order: -20220819083630
 date: 2022-08-19
-tags:
+tags: []
 ---
 
 ## Highlights

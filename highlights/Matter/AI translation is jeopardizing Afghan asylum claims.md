@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI translation is jeopardizing Afghan asylum claims
 url: https://restofworld.org/2023/ai-translation-errors-afghan-refugees-asylum/
 author: Andrew Deck
 publisher: Rest of World
-order: -20230419030000
 date: 2023-04-19
-tags:
+tags: []
 ---
 
 ## Highlights

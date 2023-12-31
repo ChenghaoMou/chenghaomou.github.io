@@ -3,9 +3,7 @@ aliases:
   - "Cramming: Training a Language Model on a Single GPU in One Day"
 authors: "Jonas Geiping, Tom Goldstein"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: "Cramming: Training a Language Model on a Single GPU in One Day"
-order: -1
-tags: 
+tags: []
 title: "Cramming: Training a Language Model on a Single GPU in One Day"
 url: "http://arxiv.org/abs/2212.14034"
 ---

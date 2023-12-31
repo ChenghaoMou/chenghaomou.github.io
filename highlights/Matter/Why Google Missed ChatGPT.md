@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Why Google Missed ChatGPT
 url: https://www.bigtechnology.com/p/why-google-missed-chatgpt
 author: Alex Kantrowitz
 publisher: Big Technology
-order: -20221209115706
 date: 2022-12-09
-tags:
+tags: []
 ---
 
 ## Highlights

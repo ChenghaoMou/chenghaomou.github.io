@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Microsoft’s AI chatbot is going off the rails
 url: https://www.washingtonpost.com/technology/2023/02/16/microsoft-bing-ai-chatbot-sydney/
 author: Gerrit De Vynck
 publisher: The Washington Post
-order: -20230215213702
 date: 2023-02-15
-tags:
+tags: []
 ---
 
 ## Highlights

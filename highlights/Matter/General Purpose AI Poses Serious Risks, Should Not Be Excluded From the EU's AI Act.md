@@ -1,12 +1,9 @@
 ---
-aliases:
-  - General Purpose AI Poses Serious Risks, Should Not Be Excluded From the EU's AI Act
 url: https://ainowinstitute.org/publication/gpai-is-high-risk-should-not-be-excluded-from-eu-ai-act
 author: AI Now Institute
 publisher: ainowinstitute.org
-order: -20230413055501
 date: 2023-04-13
-tags:
+tags: []
 ---
 
 ## Highlights

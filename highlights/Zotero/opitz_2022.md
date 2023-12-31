@@ -1,11 +1,10 @@
 ---
 aliases:
+  - "SBERT Studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features"
   - "SBERT studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features"
 authors: "Juri Opitz, Anette Frank"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: "SBERT Studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features"
-order: -1
-tags: 
+tags: []
 title: "SBERT Studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features"
 url: "http://arxiv.org/abs/2206.07023"
 ---

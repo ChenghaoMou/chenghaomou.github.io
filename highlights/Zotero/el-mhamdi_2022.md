@@ -4,8 +4,6 @@ aliases:
   - "SoK: On the Impossible Security of Very Large Foundation Models"
 authors: "El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Nirupam Gupta, Lê-Nguyên Hoang, Rafael Pinot, John Stephan"
 date: '2023-04-15 21:50:07'
-linter-yaml-title-alias: "SoK: On the Impossible Security of Very Large Foundation Models"
-order: -1
 tags: []
 title: "SoK: On the Impossible Security of Very Large Foundation Models"
 url: "http://arxiv.org/abs/2209.15259"

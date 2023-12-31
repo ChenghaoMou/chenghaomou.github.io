@@ -2,10 +2,9 @@
 url: https://www.thenewatlantis.com/publications/reading-ourselves-to-death
 author: Kit Wilson
 publisher: "Hacker News: Front Page"
-order: -20220626095723
 date: 2022-06-26
-tags:
-title: Reading Ourselves to Death
+tags: []
+title: "Reading Ourselves to Death"
 ---
 
 ## Highlights

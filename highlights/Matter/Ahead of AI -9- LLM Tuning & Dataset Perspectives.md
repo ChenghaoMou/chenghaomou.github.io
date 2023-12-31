@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Ahead of AI #9: LLM Tuning & Dataset Perspectives
+  - "Ahead of AI #9: LLM Tuning & Dataset Perspectives"
 url: https://magazine.sebastianraschka.com/p/ahead-of-ai-9-llm-tuning-and-dataset
 author: Sebastian Raschka
 publisher: magazine.sebastianraschka.com
-order: -20230603045615
 date: 2023-06-03
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - How Congress Fell for Sam Altman’s AI Magic Tricks
 url: https://www.thedailybeast.com/how-congress-fell-for-openai-and-sam-altmans-ai-magic-tricks
 author: Tony Ho Tran
 publisher: Daily Beast
-order: -20230521180518
 date: 2023-05-21
-tags:
+tags: []
 ---
 
 ## Highlights

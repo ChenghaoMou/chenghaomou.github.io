@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Dangers of Censoring Real-Time Flight Trackers
 url: https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency/
 author: Justin Ling
 publisher: Wired
-order: -20221220040000
 date: 2022-12-20
-tags:
+tags: []
 ---
 
 ## Highlights

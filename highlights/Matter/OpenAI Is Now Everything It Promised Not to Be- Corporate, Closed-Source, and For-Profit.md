@@ -1,12 +1,11 @@
 ---
 aliases:
-  - OpenAI Is Now Everything It Promised Not to Be: Corporate, Closed-Source, and For-Profit
+  - "OpenAI Is Now Everything It Promised Not to Be: Corporate, Closed-Source, and For-Profit"
 url: https://www.vice.com/en/article/5d3naz/openai-is-now-everything-it-promised-not-to-be-corporate-closed-source-and-for-profit
 author: Jason Koebler
 publisher: VICE
-order: -20230228083505
 date: 2023-02-28
-tags:
+tags: []
 ---
 
 ## Highlights

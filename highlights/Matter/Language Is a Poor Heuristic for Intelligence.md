@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Language Is a Poor Heuristic for Intelligence
 url: https://karawynn.substack.com/p/language-is-a-poor-heuristic-for
 author: colinprince
 publisher: Nine Lives
-order: -20230702034622
 date: 2023-07-02
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -4,9 +4,8 @@ aliases:
 url: https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20220914112743
 date: 2022-09-14
-tags:
+tags: []
 ---
 
 ## Highlights

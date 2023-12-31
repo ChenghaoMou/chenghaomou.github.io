@@ -3,7 +3,7 @@ aliases:
   - What Do We Mean When We Talk About “AI Democratisation”?
 url: https://www.governance.ai/post/what-do-we-mean-when-we-talk-about-ai-democratisation
 publisher: www.governance.ai
-tags:
+tags: []
 ---
 
 ## Highlights

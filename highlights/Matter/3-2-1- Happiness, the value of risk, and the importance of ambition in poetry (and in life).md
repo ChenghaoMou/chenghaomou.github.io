@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Happiness, the value of risk, and the importance of ambition in poetry (and in life)
+  - "3-2-1: Happiness, the value of risk, and the importance of ambition in poetry (and in life)"
 url: https://kill-the-newsletter.com/alternates/x41lxpaja19qf9ox.html
 author: James Clear
 publisher: James Clear
-order: -20221222114142
 date: 2022-12-22
-tags:
+tags: []
 ---
 
 ## Highlights

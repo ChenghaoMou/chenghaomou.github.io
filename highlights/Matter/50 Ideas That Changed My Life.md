@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 50 Ideas That Changed My Life
 url: https://perell.com/essay/50-ideas-that-changed-my-life/
 author: Bookmark Save
 publisher: David Perell
-order: -20230409165150
 date: 2023-04-09
-tags:
+tags: []
 ---
 
 ## Highlights

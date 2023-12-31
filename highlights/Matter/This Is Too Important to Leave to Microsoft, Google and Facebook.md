@@ -1,12 +1,9 @@
 ---
-aliases:
-  - This Is Too Important to Leave to Microsoft, Google and Facebook
 url: https://www.nytimes.com/2023/04/16/opinion/this-is-too-important-to-leave-to-microsoft-google-and-facebook.html
 author: Ezra Klein
 publisher: The New York Times
-order: -20230416020011
 date: 2023-04-16
-tags:
+tags: []
 ---
 
 ## Highlights

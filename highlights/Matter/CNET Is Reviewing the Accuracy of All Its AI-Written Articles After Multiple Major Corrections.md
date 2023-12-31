@@ -1,12 +1,9 @@
 ---
-aliases:
-  - CNET Is Reviewing the Accuracy of All Its AI-Written Articles After Multiple Major Corrections
 url: https://gizmodo.com/cnet-ai-chatgpt-news-robot-1849996151
 author: Lauren Leffer
 publisher: Gizmodo Newsletter
-order: -20230117132000
 date: 2023-01-17
-tags:
+tags: []
 ---
 
 ## Highlights

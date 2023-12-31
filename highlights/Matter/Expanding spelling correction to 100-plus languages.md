@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Expanding spelling correction to 100-plus languages
 url: https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/
 author: Jingwen Lu
 publisher: www.microsoft.com
-order: -20210208091609
 date: 2021-02-08
-tags:
+tags: []
 ---
 
 ## Highlights

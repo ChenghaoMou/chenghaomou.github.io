@@ -1,12 +1,9 @@
 ---
-aliases:
-  - I'm a Luddite. You should be one too
 url: https://theconversation.com/im-a-luddite-you-should-be-one-too-163172
 author: Jathan Sadowski
 publisher: The Conversation
-order: -20210808220705
 date: 2021-08-08
-tags:
+tags: []
 ---
 
 ## Highlights

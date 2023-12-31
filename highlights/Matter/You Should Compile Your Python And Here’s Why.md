@@ -1,9 +1,7 @@
 ---
-aliases:
-  - You Should Compile Your Python And Here’s Why
 url: https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html
 publisher: glyph.twistedmatrix.com
-tags:
+tags: []
 ---
 
 ## Highlights

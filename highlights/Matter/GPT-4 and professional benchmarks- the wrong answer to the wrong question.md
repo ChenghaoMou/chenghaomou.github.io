@@ -5,7 +5,7 @@ url: https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks
 author: Arvind Narayanan
 publisher: Sayash and Arvind from AI Snake Oil
 date: 2023-03-20
-tags:
+tags: []
 title: "GPT-4 and professional benchmarks- the wrong answer to the wrong question"
 ---
 

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Bed Rotting and Loud Quitting
 url: https://annehelen.substack.com/p/bed-rotting-and-loud-quitting
 author: Anne Helen Petersen
 publisher: Culture Study
-order: -20230628132151
 date: 2023-06-28
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,10 +1,10 @@
 ---
 aliases:
-  - 3-2-1: The value of leaving things alone, nonmaterial needs, and broadening your interests
+  - "3-2-1: The value of leaving things alone, nonmaterial needs, and broadening your interests"
 url: https://jamesclear.com/3-2-1/may-4-2023
 author: James Clear
 publisher: James Clear
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Artists are alarmed by AI - and they’re fighting back
 url: https://www.washingtonpost.com/comics/2023/02/14/ai-in-illustration/
 author: Michael Cavna
 publisher: The Washington Post
-order: -20230213194944
 date: 2023-02-13
-tags:
+tags: []
 ---
 
 ## Highlights

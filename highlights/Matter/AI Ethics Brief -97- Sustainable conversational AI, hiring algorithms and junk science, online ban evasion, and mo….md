@@ -1,11 +1,10 @@
 ---
 aliases:
-  - AI Ethics Brief #97: Sustainable conversational AI, hiring algorithms and junk science, online ban evasion, and mo…
+  - "AI Ethics Brief #97: Sustainable conversational AI, hiring algorithms and junk science, online ban evasion, and mo…"
 url: https://brief.montrealethics.ai/p/conv-ai-hiring-junk-science-online-ban-evasion?s=r
 publisher: montrealethics.ai
-order: -20220517052452
 date: 2022-05-17
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Ugly Numbers from Microsoft and ChatGPT Reveal that AI Demand is Already Shrinking
 url: https://www.honest-broker.com/p/ugly-numbers-from-microsoft-and-chatgpt
 author: Ted Gioia
 publisher: www.honest-broker.com
-order: -20230823172700
 date: 2023-08-23
-tags:
+tags: []
 ---
 
 ## Highlights

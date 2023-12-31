@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The threat of automated misinformation is only getting worse
 url: https://garymarcus.substack.com/p/the-threat-of-automated-misinformation
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230228085507
 date: 2023-02-28
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Companies are radically redefining what it means to 'own' something
 url: https://www.businessinsider.com/companies-software-legal-tricks-subscriptions-customers-money-pay-death-ownership-2023-5
 author: Nathan Proctor (insider@insider.com)
 publisher: www.businessinsider.com
-order: -20230518030200
 date: 2023-05-18
-tags:
+tags: []
 ---
 
 ## Highlights

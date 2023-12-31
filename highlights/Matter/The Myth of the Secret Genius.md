@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Myth of the Secret Genius
 url: https://brianklaas.substack.com/p/the-myth-of-the-secret-genius
 author: Brian Klaas
 publisher: Brian Klaas
-order: -20221130044429
 date: 2022-11-30
-tags:
+tags: []
 ---
 
 ## Highlights

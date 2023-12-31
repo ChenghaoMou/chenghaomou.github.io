@@ -3,9 +3,7 @@ aliases:
   - "MADLAD-400: A Multilingual And Document-Level Large Audited Dataset"
 authors: "Sneha Kudugunta, Isaac Caswell, Biao Zhang, Xavier Garcia, Christopher A. Choquette-Choo, Katherine Lee, Derrick Xin, Aditya Kusupati, Romi Stella, Ankur Bapna, Orhan Firat"
 date: '2023-09-24 10:34:38'
-linter-yaml-title-alias: "MADLAD-400: A Multilingual And Document-Level Large Audited Dataset"
-order: -1
-tags:
+tags: []
 title: "MADLAD-400: A Multilingual And Document-Level Large Audited Dataset"
 url: "http://arxiv.org/abs/2309.04662"
 ---

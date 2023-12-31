@@ -1,13 +1,11 @@
 ---
 aliases:
   - Fine-Tuning Language Models with Just Forward Passes
-  - "Fine-Tuning Language Models with Just Forward Passes"
+  - Fine-Tuning Language Models with Just Forward Passes
 authors: "Sadhika Malladi, Tianyu Gao, Eshaan Nichani, Alex Damian, Jason D. Lee, Danqi Chen, Sanjeev Arora"
 date: '2023-06-06 20:36:14'
-linter-yaml-title-alias: "Fine-Tuning Language Models with Just Forward Passes"
-order: -1
-tags: 
-title: Fine-Tuning Language Models with Just Forward Passes
+tags: []
+title: "Fine-Tuning Language Models with Just Forward Passes"
 url: "http://arxiv.org/abs/2305.17333"
 ---
 

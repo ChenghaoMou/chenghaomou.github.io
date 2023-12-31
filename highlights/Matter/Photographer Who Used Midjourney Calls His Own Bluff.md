@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Photographer Who Used Midjourney Calls His Own Bluff
 url: https://mindmatters.ai/2023/02/photographer-who-used-midjourney-calls-his-own-bluff/
 author: News
 publisher: Mind Matters
-order: -20230227084037
 date: 2023-02-27
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,13 +1,11 @@
 ---
 aliases:
   - Language Models as Agent Models
-  - "Language Models as Agent Models"
+  - Language Models as Agent Models
 authors: "Jacob Andreas"
 date: 2023-01-14 15:57:33
-linter-yaml-title-alias: Language Models as Agent Models
-order: -1
-tags: 
-title: Language Models as Agent Models
+tags: []
+title: "Language Models as Agent Models"
 url: "http://arxiv.org/abs/2212.01681"
 ---
 

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Own It Mentality - David Perell
 url: https://perell.com/essay/own-it-mentality/
 author: David Perell
 publisher: David Perell
-order: -20230623210854
 date: 2023-06-23
-tags:
+tags: []
 ---
 
 ## Highlights

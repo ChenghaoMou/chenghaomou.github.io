@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Riches Are in the Niches
 url: https://doomberg.substack.com/p/the-riches-are-in-the-niches
 author: Doomberg
 publisher: Doomberg
-order: -20211201065039
 date: 2021-12-01
-tags:
+tags: []
 ---
 
 ## Highlights

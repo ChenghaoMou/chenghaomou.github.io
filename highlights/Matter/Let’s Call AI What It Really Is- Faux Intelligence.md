@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Let’s Call AI What It Really Is: Faux Intelligence
+  - "Let’s Call AI What It Really Is: Faux Intelligence"
 url: https://mindmatters.ai/2023/01/lets-call-ai-what-it-really-is-faux-intelligence/
 author: News
 publisher: Mind Matters
-order: -20230102115407
 date: 2023-01-02
-tags:
+tags: []
 ---
 
 ## Highlights

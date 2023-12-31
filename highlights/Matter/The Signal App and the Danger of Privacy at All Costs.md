@@ -1,11 +1,8 @@
 ---
-aliases:
-  - The Signal App and the Danger of Privacy at All Costs
 url: https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html
 publisher: The New York Times
-order: -20221228094655
 date: 2022-12-28
-tags:
+tags: []
 ---
 
 ## Highlights

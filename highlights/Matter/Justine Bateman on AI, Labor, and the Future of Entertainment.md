@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Justine Bateman on AI, Labor, and the Future of Entertainment
 url: https://techpolicy.press/justine-bateman-on-ai-labor-and-the-future-of-entertainment/
 author: Justin Hendrix
 publisher: techpolicy.press
-order: -20230723131451
 date: 2023-07-23
-tags:
+tags: []
 ---
 
 ## Highlights

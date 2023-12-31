@@ -1,10 +1,8 @@
 ---
 aliases:
   - Beyond the Imitation Game Benchmark
-linter-yaml-title-alias: Beyond the Imitation Game Benchmark
-order: -1
-tags: 
-title: Beyond the Imitation Game Benchmark
+tags: []
+title: "Beyond the Imitation Game Benchmark"
 ---
 
 # Beyond the Imitation Game Benchmark

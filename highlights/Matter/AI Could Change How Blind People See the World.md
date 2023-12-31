@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI Could Change How Blind People See the World
 url: https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/
 author: Khari Johnson
 publisher: Wired
-order: -20230705120000
 date: 2023-07-05
-tags:
+tags: []
 ---
 
 ## Highlights

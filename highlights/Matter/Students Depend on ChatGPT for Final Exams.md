@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Students Depend on ChatGPT for Final Exams
 url: https://mindmatters.ai/2023/01/students-depend-on-chatgpt-for-final-exams/
 author: Peter Biles
 publisher: Mind Matters
-order: -20230104102316
 date: 2023-01-04
-tags:
+tags: []
 ---
 
 ## Highlights

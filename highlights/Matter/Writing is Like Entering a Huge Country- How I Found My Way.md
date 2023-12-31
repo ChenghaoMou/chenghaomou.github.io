@@ -1,12 +1,11 @@
 ---
 aliases:
-  - Writing is Like Entering a Huge Country: How I Found My Way
+  - "Writing is Like Entering a Huge Country: How I Found My Way"
 url: https://medium.com/@sheilabender/writing-is-like-entering-a-huge-country-how-i-found-my-way-cc9aa4890295
 author: Sheila Bender
 publisher: Medium
-order: -20230505173000
 date: 2023-05-05
-tags:
+tags: []
 ---
 
 ## Highlights

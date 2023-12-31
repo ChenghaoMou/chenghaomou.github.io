@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Google won’t launch ChatGPT rival because of ‘reputational risk’
 url: https://www.theverge.com/2022/12/14/23508756/google-vs-chatgpt-ai-replace-search-reputational-risk
 author: James Vincent
 publisher: The Verge
-order: -20221214041120
 date: 2022-12-14
-tags:
+tags: []
 ---
 
 ## Highlights

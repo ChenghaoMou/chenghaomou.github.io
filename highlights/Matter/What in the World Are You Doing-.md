@@ -4,9 +4,8 @@ aliases:
 url: https://markmanson.net/what-are-you-doing
 author: Mark Manson
 publisher: Mark Manson
-order: -20220102200134
 date: 2022-01-02
-tags:
+tags: []
 ---
 
 ## Highlights

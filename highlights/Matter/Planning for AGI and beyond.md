@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Planning for AGI and beyond
 url: https://openai.com/blog/planning-for-agi-and-beyond/
 author: Sam Altman
 publisher: OpenAI
-order: -20230224120029
 date: 2023-02-24
-tags:
+tags: []
 ---
 
 ## Highlights

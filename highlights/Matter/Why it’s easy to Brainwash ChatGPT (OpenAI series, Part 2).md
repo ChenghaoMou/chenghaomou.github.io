@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Why it’s easy to Brainwash ChatGPT (OpenAI series, Part 2)
 url: https://cactus.substack.com/p/why-its-easy-to-brainwash-chatgpt
 author: Brian Chau
 publisher: Meta Politics
-order: -20221224025822
 date: 2022-12-24
-tags:
+tags: []
 ---
 
 ## Highlights

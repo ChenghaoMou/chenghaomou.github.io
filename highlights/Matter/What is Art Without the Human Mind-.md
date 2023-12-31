@@ -4,9 +4,8 @@ aliases:
 url: https://mindmatters.ai/2022/12/what-is-art-without-the-human-mind/
 author: Peter Biles
 publisher: Mind Matters
-order: -20221215094636
 date: 2022-12-15
-tags:
+tags: []
 ---
 
 ## Highlights

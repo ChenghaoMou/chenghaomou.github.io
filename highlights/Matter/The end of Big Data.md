@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The end of Big Data
 url: https://benn.substack.com/p/the-end-of-big-data
 author: Benn Stancil
 publisher: benn.substack
-order: -20220408092136
 date: 2022-04-08
-tags:
+tags: []
 ---
 
 ## Highlights

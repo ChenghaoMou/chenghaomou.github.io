@@ -4,9 +4,8 @@ aliases:
 url: https://www.fast.ai/posts/2023-05-31-extinction.html
 author: Seth Lazar, Jeremy Howard, & Arvind Narayanan
 publisher: www.fast.ai
-order: -20230530012317
 date: 2023-05-30
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,10 +1,8 @@
 ---
-aliases:
-  - How to Work Hard
 url: http://paulgraham.com/hwh.html
 author: Paul Graham
 publisher: Paul Graham
-tags:
+tags: []
 ---
 
 ## Highlights

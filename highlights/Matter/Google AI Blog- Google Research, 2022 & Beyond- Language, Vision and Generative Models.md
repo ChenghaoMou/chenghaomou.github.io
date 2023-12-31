@@ -4,10 +4,9 @@ aliases:
 url: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html
 author: Google AI (noreply@blogger.com)
 publisher: Blogtrottr
-order: -20230118113505
 date: 2023-01-18
-tags:
-title: Google AI Blog- Google Research, 2022 & Beyond- Language, Vision and Generative Models
+tags: []
+title: "Google AI Blog- Google Research, 2022 & Beyond- Language, Vision and Generative Models"
 ---
 
 ## Highlights

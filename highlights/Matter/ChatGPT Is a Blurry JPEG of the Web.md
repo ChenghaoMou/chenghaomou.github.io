@@ -3,7 +3,7 @@ url: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpe
 author: Ted Chiang
 publisher: The New Yorker
 date: 2023-02-09
-tags:
+tags: []
 title: "ChatGPT Is a Blurry JPEG of the Web"
 ---
 

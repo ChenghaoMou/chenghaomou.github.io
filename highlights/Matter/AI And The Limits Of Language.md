@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI And The Limits Of Language
 url: https://www.noemamag.com/ai-and-the-limits-of-language
 author: Jacob Browning
 publisher: Noema
-order: -20220823071757
 date: 2022-08-23
-tags:
+tags: []
 ---
 
 ## Highlights

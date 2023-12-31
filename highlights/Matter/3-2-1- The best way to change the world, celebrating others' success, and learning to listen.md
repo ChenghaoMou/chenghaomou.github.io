@@ -1,10 +1,10 @@
 ---
 aliases:
-  - 3-2-1: The best way to change the world, celebrating others' success, and learning to listen
+  - "3-2-1: The best way to change the world, celebrating others' success, and learning to listen"
 url: https://jamesclear.com/3-2-1/may-18-2023
 author: James Clear
 publisher: James Clear
-tags:
+tags: []
 ---
 
 ## Highlights

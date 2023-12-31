@@ -5,7 +5,7 @@ url: https://thegradient.pub/othello/
 author: Kenneth Li
 publisher: The Gradient
 date: 2023-01-21
-tags:
+tags: []
 title: "Large Language Model- world models or surface statistics-"
 ---
 

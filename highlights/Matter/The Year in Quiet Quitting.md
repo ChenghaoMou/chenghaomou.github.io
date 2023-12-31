@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Year in Quiet Quitting
 url: https://www.newyorker.com/culture/2022-in-review/the-year-in-quiet-quitting
 author: Cal Newport
 publisher: The New Yorker
-order: -20221229030602
 date: 2022-12-29
-tags:
+tags: []
 ---
 
 ## Highlights

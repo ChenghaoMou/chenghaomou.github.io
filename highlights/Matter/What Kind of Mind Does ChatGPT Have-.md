@@ -4,9 +4,8 @@ aliases:
 url: https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have
 author: Cal Newport
 publisher: The New Yorker
-order: -20230413060000
 date: 2023-04-13
-tags:
+tags: []
 ---
 
 ## Highlights

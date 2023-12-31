@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Making small bets, how to do great work, how to support the people you love
+  - "3-2-1: Making small bets, how to do great work, how to support the people you love"
 url: https://jamesclear.com/3-2-1/august-17-2023
 author: James Clear
 publisher: James Clear
-order: -20230817160714
 date: 2023-08-17
-tags:
+tags: []
 ---
 
 ## Highlights

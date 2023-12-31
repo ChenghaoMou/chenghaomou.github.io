@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Status Trap
 url: https://every.to/no-small-plans/the-status-trap
 author: Casey Rosengren
 publisher: Every
-order: -20230324160333
 date: 2023-03-24
-tags:
+tags: []
 ---
 
 ## Highlights

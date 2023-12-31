@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Need for Accountability in AI-Generated Content
 url: https://mindmatters.ai/2023/02/the-need-for-accountability-in-ai-generated-content/
 author: Jonathan Bartlett
 publisher: Mind Matters
-order: -20230213064627
 date: 2023-02-13
-tags:
+tags: []
 ---
 
 ## Highlights

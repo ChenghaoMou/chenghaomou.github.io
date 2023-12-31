@@ -4,9 +4,8 @@ aliases:
 url: https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html
 author: Ingrid K. Williams
 publisher: The New York Times
-order: -20220405020022
 date: 2022-04-05
-tags:
+tags: []
 ---
 
 ## Highlights

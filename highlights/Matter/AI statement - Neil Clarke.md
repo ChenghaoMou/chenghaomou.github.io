@@ -2,10 +2,9 @@
 url: http://neil-clarke.com/ai-statement/
 author: sohkamyung
 publisher: neil-clarke.com
-order: -20230528150647
 date: 2023-05-28
-tags:
-title: AI statement - Neil Clarke
+tags: []
+title: "AI statement - Neil Clarke"
 ---
 
 ## Highlights

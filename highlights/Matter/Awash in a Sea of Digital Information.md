@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Awash in a Sea of Digital Information
 url: https://mindmatters.ai/2023/02/drowning-in-a-sea-of-digital-information/
 author: Peter Biles
 publisher: Mind Matters
-order: -20230208171619
 date: 2023-02-08
-tags:
+tags: []
 ---
 
 ## Highlights

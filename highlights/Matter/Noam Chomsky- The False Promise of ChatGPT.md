@@ -5,7 +5,7 @@ url: https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html
 author: Noam Chomsky
 publisher: The New York Times
 date: 2023-03-08
-tags:
+tags: []
 title: "Noam Chomsky- The False Promise of ChatGPT"
 ---
 

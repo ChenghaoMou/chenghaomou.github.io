@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Let’s Take the “I” Out of AI
 url: https://mindmatters.ai/2023/02/lets-take-the-i-out-of-ai/
 author: Gary Smith
 publisher: Mind Matters
-order: -20230227094020
 date: 2023-02-27
-tags:
+tags: []
 ---
 
 ## Highlights

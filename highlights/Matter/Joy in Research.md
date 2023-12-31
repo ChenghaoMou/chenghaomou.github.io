@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Joy in Research
 url: https://www.theexclusive.org/2023/01/joy.html
 author: The Exclusive Or
 publisher: www.theexclusive.org
-tags:
+tags: []
 ---
 
 ## Highlights

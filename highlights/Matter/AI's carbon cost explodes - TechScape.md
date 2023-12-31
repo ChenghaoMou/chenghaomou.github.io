@@ -5,7 +5,7 @@ url: https://www.theguardian.com/technology/2023/aug/01/techscape-environment-co
 author: Chris Stokel-Walker
 publisher: The Guardian
 date: 2023-08-01
-tags:
+tags: []
 title: "AI's carbon cost explodes - TechScape"
 ---
 

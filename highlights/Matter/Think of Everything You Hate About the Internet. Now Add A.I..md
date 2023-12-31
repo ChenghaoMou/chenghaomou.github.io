@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Think of Everything You Hate About the Internet. Now Add A.I.
 url: https://www.nytimes.com/2023/02/26/opinion/microsoft-bing-sydney-artificial-intelligence.html
 author: Ezra Klein
 publisher: The New York Times
-order: -20230226030003
 date: 2023-02-26
-tags:
+tags: []
 ---
 
 ## Highlights

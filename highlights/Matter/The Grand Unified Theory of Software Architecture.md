@@ -1,12 +1,9 @@
 ---
-aliases:
-  - The Grand Unified Theory of Software Architecture
 url: https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
 author: Dan Gheorghe Haiduc
 publisher: danuker.go.ro
-order: -20200905073947
 date: 2020-09-05
-tags:
+tags: []
 ---
 
 ## Highlights

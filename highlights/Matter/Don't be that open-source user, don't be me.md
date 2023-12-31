@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Don't be that open-source user, don't be me
 url: "https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/"
 author: "1una"
 publisher: "Hacker News: Front Page"
-order: -20220117013302
 date: 2022-01-17
-tags:
+tags: []
 ---
 
 ## Highlights

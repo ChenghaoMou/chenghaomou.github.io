@@ -1,12 +1,9 @@
 ---
-aliases:
-  - You're not uncool. Making friends as an adult is just hard
 url: https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults?utm_campaign=npr&utm_term=nprnews&utm_medium=social&utm_source=facebook.com&fbclid=IwAR2oU-YFLC17G9Tcriv3B-pq12N83PDYmNHyq-tqUrGvL3NBQKXdaoa0oOg
-author: Peter O'Dowd
+author: "Peter O'Dowd"
 publisher: WBUR
-order: -20211110090946
 date: 2021-11-10
-tags:
+tags: []
 ---
 
 ## Highlights

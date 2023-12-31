@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Against LLM maximalism
 url: https://explosion.ai/blog/against-llm-maximalism
 author: About the author
 publisher: explosion.ai
-order: -20230518075536
 date: 2023-05-18
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -4,9 +4,8 @@ aliases:
 url: https://mindmatters.ai/2023/03/you-too-snapchat-another-ai-bot-hits-the-scene/
 author: News
 publisher: Mind Matters
-order: -20230314130326
 date: 2023-03-14
-tags:
+tags: []
 ---
 
 ## Highlights

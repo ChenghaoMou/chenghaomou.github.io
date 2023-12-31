@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Setting your ML project up for success
 url: https://www.linkedin.com/pulse/setting-your-ml-project-up-success-sofie-van-landeghem
 author: Follow
 publisher: LinkedIn
-tags:
+tags: []
 ---
 
 ## Highlights

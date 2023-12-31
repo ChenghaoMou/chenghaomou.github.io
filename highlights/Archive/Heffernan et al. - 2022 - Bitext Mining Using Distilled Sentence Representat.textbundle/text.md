@@ -1,7 +1,6 @@
 ---
-order: -1
-tags: 
-title: text
+tags: []
+title: "text"
 ---
 
 #### [Page 3](highlights://Heffernan%20et%20al.%20-%202022%20-%20Bitext%20Mining%20Using%20Distilled%20Sentence%20Representat#page=3)

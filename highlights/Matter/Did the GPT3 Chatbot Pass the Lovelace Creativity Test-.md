@@ -4,9 +4,8 @@ aliases:
 url: https://mindmatters.ai/2022/12/did-the-gpt3-chatbot-pass-the-lovelace-test/
 author: Robert J. Marks
 publisher: Mind Matters
-order: -20221214151744
 date: 2022-12-14
-tags:
+tags: []
 ---
 
 ## Highlights

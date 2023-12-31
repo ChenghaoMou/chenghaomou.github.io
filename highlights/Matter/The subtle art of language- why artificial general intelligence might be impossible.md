@@ -1,12 +1,11 @@
 ---
 aliases:
-  - The subtle art of language: why artificial general intelligence might be impossible
+  - "The subtle art of language: why artificial general intelligence might be impossible"
 url: https://www.freethink.com/technology/language-artificial-general-intelligence
 author: Daniel Lehewych
 publisher: Freethink
-order: -20220408014025
 date: 2022-04-08
-tags:
+tags: []
 ---
 
 ## Highlights

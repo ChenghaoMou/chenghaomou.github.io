@@ -1,12 +1,9 @@
 ---
-aliases:
-  - OpenAI's Woke Catechism (Part 1)
 url: https://cactus.substack.com/p/openais-woke-catechism-part-1
 author: Brian Chau
 publisher: Meta Politics
-order: -20221223040138
 date: 2022-12-23
-tags:
+tags: []
 ---
 
 ## Highlights

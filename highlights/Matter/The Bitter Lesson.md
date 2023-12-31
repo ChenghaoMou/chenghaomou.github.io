@@ -1,11 +1,8 @@
 ---
-aliases:
-  - The Bitter Lesson
 url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 publisher: Richard S. Sutton
-order: -20190313141357
 date: 2019-03-13
-tags:
+tags: []
 ---
 
 ## Highlights

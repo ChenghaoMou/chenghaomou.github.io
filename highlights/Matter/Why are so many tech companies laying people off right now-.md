@@ -4,9 +4,8 @@ aliases:
 url: https://www.theverge.com/2023/1/26/23571659/tech-layoffs-facebook-google-amazon
 author: Elizabeth Lopatto
 publisher: The Verge
-order: -20230126084342
 date: 2023-01-26
-tags:
+tags: []
 ---
 
 ## Highlights

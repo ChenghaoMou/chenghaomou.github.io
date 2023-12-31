@@ -2,10 +2,9 @@
 url: https://www.currentaffairs.org/2023/05/why-effective-altruism-and-longtermism-are-toxic-ideologies/
 author: Current Affairs
 publisher: Current Affairs
-order: -20230507144210
 date: 2023-05-07
-tags:
-title: Why Effective Altruism and “Longtermism” Are Toxic Ideologies
+tags: []
+title: "Why Effective Altruism and “Longtermism” Are Toxic Ideologies"
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - What ChatGPT’s “iPhone Moment” Looks Like
 url: https://slate.com/technology/2023/04/chatgpt-ai-bing-apps-iphone-moment.html
 author: Alex Kantrowitz
 publisher: Slate
-order: -20230410100007
 date: 2023-04-10
-tags:
+tags: []
 ---
 
 ## Highlights

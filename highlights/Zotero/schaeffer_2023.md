@@ -1,13 +1,11 @@
 ---
 aliases:
   - Are Emergent Abilities of Large Language Models a Mirage?
-  - "Are Emergent Abilities of Large Language Models a Mirage?"
+  - Are Emergent Abilities of Large Language Models a Mirage?
 authors: "Rylan Schaeffer, Brando Miranda, Sanmi Koyejo"
 date: '2023-05-22 10:47:22'
-linter-yaml-title-alias: Are Emergent Abilities of Large Language Models a Mirage?
-order: -1
-tags: 
-title: Are Emergent Abilities of Large Language Models a Mirage?
+tags: []
+title: "Are Emergent Abilities of Large Language Models a Mirage?"
 url: "http://arxiv.org/abs/2304.15004"
 ---
 

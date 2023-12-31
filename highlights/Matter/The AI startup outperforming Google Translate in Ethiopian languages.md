@@ -2,10 +2,9 @@
 url: https://restofworld.org/2023/3-minutes-with-asmelash-teka-hadgu/
 author: Andrew Deck
 publisher: Rest of World
-order: -20230711110000
 date: 2023-07-11
-tags:
-title: The AI startup outperforming Google Translate in Ethiopian languages
+tags: []
+title: "The AI startup outperforming Google Translate in Ethiopian languages"
 ---
 
 ## Highlights

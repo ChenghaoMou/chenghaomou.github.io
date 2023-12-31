@@ -1,12 +1,11 @@
 ---
 aliases:
-  - 3-2-1: Healthy self-esteem, how to build an exercise habit, and improving by 1%
+  - "3-2-1: Healthy self-esteem, how to build an exercise habit, and improving by 1%"
 url: https://jamesclear.com/3-2-1/january-26-2023
 author: James Clear
 publisher: James Clear
-order: -20230126090030
 date: 2023-01-26
-tags:
+tags: []
 ---
 
 ## Highlights

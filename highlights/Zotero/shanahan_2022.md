@@ -1,13 +1,11 @@
 ---
 aliases:
   - Talking About Large Language Models
-  - "Talking About Large Language Models"
+  - Talking About Large Language Models
 authors: "Murray Shanahan"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: Talking About Large Language Models
-order: -1
-tags: 
-title: Talking About Large Language Models
+tags: []
+title: "Talking About Large Language Models"
 url: "http://arxiv.org/abs/2212.03551"
 ---
 

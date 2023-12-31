@@ -4,9 +4,8 @@ aliases:
 url: https://blog.opencagedata.com/post/dont-believe-chatgpt
 author: freyfogle
 publisher: "Hacker News: Front Page"
-order: -20230223132449
 date: 2023-02-23
-tags:
+tags: []
 title: "Don't believe ChatGPT - we do NOT offer a -phone lookup- service"
 ---
 

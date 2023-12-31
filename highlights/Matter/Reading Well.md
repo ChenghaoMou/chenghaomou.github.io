@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Reading Well
 url: https://simonsarris.substack.com/p/reading-well
 author: Simon Sarris
 publisher: Simon Sarris
-order: -20230717145910
 date: 2023-07-17
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - AI Is a Waste of Time
 url: https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/
 author: Derek Thompson
 publisher: The Atlantic
-order: -20230428040000
 date: 2023-04-28
-tags:
+tags: []
 ---
 
 ## Highlights

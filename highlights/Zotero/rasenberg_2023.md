@@ -1,10 +1,10 @@
 ---
 aliases:
-  - 'Reimagining language: Towards a better understanding of language by including our interactions with non-humans'
+  - "Reimagining language: Towards a better understanding of language by including our interactions with non-humans"
   - "Reimagining language: Towards a better understanding of language by including our interactions with non-humans"
 authors: "Marlou Rasenberg, Azeb Amha, Matt Coler, Marjo van Koppen, Emiel van Miltenburg, Lynn de Rijk, Wyke Stommel, Mark Dingemanse"
 date: '2023-12-26 14:47:43'
-tags:
+tags: []
 title: "Reimagining language: Towards a better understanding of language by including our interactions with non-humans"
 url: "https://www.jbe-platform.com/content/journals/10.1075/avt.00095.ras"
 ---

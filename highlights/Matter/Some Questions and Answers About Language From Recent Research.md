@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Some Questions and Answers About Language From Recent Research
 url: https://mindmatters.ai/2022/12/some-questions-and-answers-about-language-from-recent-research/
 author: News
 publisher: Mind Matters
-order: -20221230040000
 date: 2022-12-30
-tags:
+tags: []
 ---
 
 ## Highlights

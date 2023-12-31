@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Inside the Heart of ChatGPT’s Darkness
 url: https://garymarcus.substack.com/p/inside-the-heart-of-chatgpts-darkness
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230211081202
 date: 2023-02-11
-tags:
+tags: []
 ---
 
 ## Highlights

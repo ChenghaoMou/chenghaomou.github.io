@@ -1,7 +1,7 @@
 ---
-order: -1
-tags: [processed]
-title: Schuster et al_2022_Confident Adaptive Language Modeling
+tags:
+  - processed
+title: "Schuster et al_2022_Confident Adaptive Language Modeling"
 ---
 
 #### [Page 1](highlights://Schuster%20et%20al_2022_Confident%20Adaptive%20Language%20Modeling#page=1)

@@ -1,12 +1,11 @@
 ---
 aliases:
-  - AI is eating itself: Bing's AI quotes COVID disinfo sourced from ChatGPT
+  - "AI is eating itself: Bing's AI quotes COVID disinfo sourced from ChatGPT"
 url: https://techcrunch.com/2023/02/08/ai-is-eating-itself-bings-ai-quotes-covid-disinfo-sourced-from-chatgpt/
 author: Devin Coldewey
 publisher: TechCrunch
-order: -20230208144841
 date: 2023-02-08
-tags:
+tags: []
 ---
 
 ## Highlights

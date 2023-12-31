@@ -1,10 +1,8 @@
 ---
-aliases:
-  - Compact word vectors with Bloom embeddings
 url: https://explosion.ai/blog/bloom-embeddings
 author: About the authors
 publisher: explosion.ai
-tags:
+tags: []
 ---
 
 ## Highlights

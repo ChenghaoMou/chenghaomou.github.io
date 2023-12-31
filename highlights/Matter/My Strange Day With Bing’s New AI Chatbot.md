@@ -1,12 +1,9 @@
 ---
-aliases:
-  - My Strange Day With Bing’s New AI Chatbot
 url: https://www.wired.com/story/my-strange-day-with-bings-new-ai-chatbot/
 author: Aarian Marshall
 publisher: Wired
-order: -20230209144831
 date: 2023-02-09
-tags:
+tags: []
 ---
 
 ## Highlights

@@ -3,9 +3,7 @@ aliases:
   - "MTEB: Massive Text Embedding Benchmark"
 authors: "Niklas Muennighoff, Nouamane Tazi, Loïc Magne, Nils Reimers"
 date: 2023-01-10 19:24:30
-linter-yaml-title-alias: "MTEB: Massive Text Embedding Benchmark"
-order: -1
-tags: 
+tags: []
 title: "MTEB: Massive Text Embedding Benchmark"
 url: "http://arxiv.org/abs/2210.07316"
 ---

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - How Human Language Is, and Isn’t, Like a Computer Program
 url: https://mindmatters.ai/2022/12/how-human-language-is-and-isnt-like-a-computer-program/
-author: Denyse O'Leary
+author: "Denyse O'Leary"
 publisher: Mind Matters
-order: -20221226151604
 date: 2022-12-26
-tags:
+tags: []
 ---
 
 ## Highlights

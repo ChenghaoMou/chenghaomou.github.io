@@ -1,6 +1,8 @@
 ---
 doc_type: hypothesis-highlights
 url: 'https://jamesclear.com/3-2-1/september-23-2021'
+aliases:
+  - "3-2-1: Leave room for the unexpected"
 ---
 # 3-2-1: Leave room for the unexpected
 ## Highlights

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Scientists, please don’t let your chatbots grow up to be co-authors
 url: https://garymarcus.substack.com/p/scientists-please-dont-let-your-chatbots
 author: Gary Marcus
 publisher: The Road to AI We Can Trust
-order: -20230113183612
 date: 2023-01-13
-tags:
+tags: []
 ---
 
 ## Highlights

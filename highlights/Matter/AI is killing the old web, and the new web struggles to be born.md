@@ -5,8 +5,8 @@ url: https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-s
 author: Andy Baio
 publisher: The Verge
 date: 2023-06-26
-tags:
-title: AI is killing the old web, and the new web struggles to be born
+tags: []
+title: "AI is killing the old web, and the new web struggles to be born"
 ---
 
 ## Highlights

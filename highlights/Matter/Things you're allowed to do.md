@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Things you're allowed to do
 url: https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/
 author: Milan Cvitkovic
 publisher: milan.cvitkovic.net
-order: -20201221202214
 date: 2020-12-21
-tags:
+tags: []
 ---
 
 ## Highlights

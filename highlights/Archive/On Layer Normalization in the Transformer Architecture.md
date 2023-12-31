@@ -1,7 +1,6 @@
 ---
-order: -1
-tags: 
-title: On Layer Normalization in the Transformer Architecture
+tags: []
+title: "On Layer Normalization in the Transformer Architecture"
 ---
 
 [image] ([pdf](zotero://open-pdf/library/items/SA5JS6UC?page=2&annotation=FCEUGMLG))

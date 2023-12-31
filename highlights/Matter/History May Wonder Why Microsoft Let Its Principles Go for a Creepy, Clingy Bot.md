@@ -1,11 +1,8 @@
 ---
-aliases:
-  - History May Wonder Why Microsoft Let Its Principles Go for a Creepy, Clingy Bot
 url: https://www.nytimes.com/2023/02/23/opinion/microsoft-bing-ai-ethics.html
 publisher: The New York Times
-order: -20230223092311
 date: 2023-02-23
-tags:
+tags: []
 ---
 
 ## Highlights
