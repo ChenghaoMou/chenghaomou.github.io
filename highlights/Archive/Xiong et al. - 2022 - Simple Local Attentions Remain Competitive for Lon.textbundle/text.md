@@ -1,6 +1,6 @@
 ---
 tags: []
-title: "text"
+title: ""
 ---
 
 #### [Page 2](highlights://Xiong%20et%20al.%20-%202022%20-%20Simple%20Local%20Attentions%20Remain%20Competitive%20for%20Lon#page=2)
@@ -10,15 +10,17 @@ title: "text"
 ***
 
 > Fixed local patterns. These methods restrict each token to only
-> attend a local window of to- kens. The long-range interactions
+> attend a local window of tokens. The long-range interactions
 > are achieved by the depth of the model.
+
+^0125cb
 
 ***
 
 > Learnable sparse attention patterns. Instead of relying on the
 > inductive bias of locality, methods like Reformer (Kitaev et
 > al., 2020) and Sinkhorn Attention (Tay et al., 2020) allow the
-> model to adap- tively select tokens to attend to.
+> model to adaptively select tokens to attend to.
 
 ***
 
