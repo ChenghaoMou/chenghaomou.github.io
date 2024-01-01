@@ -18,7 +18,7 @@ Study [^1] and [^2] have shown most predictive models are not well calibrated.
 
 The easiest way to help you understand if your model is calibrated or not is to plot the calibration curve. If 70% of the data is observed positive, then a point should have a similar probability of *being positive*. Then you should expect your model's predicts have an expectation of 70% for being positive.
 
-### How to Draw a Calibration Curve Chart
+How to Draw a Calibration Curve Chart
 
 1. Given a binary label set $Y$ and a prediction set with positive probabilities $\tilde{Y}$
 2. Sort the data based on the predicted probabilities in ascending order

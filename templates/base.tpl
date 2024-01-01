@@ -94,8 +94,13 @@
       content: ""
     }
 
-    a[data-linkicon="external"]::after {
-      content: '⤴';
+    a[data-linkicon="external"] {
+      /* inspired by https://stephango.com */
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='2.5' stroke='gray' class='w-6 h-6'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25' /%3E%3C/svg%3E%0A");
+      background-position: right 33%;
+      background-repeat: no-repeat;
+      background-size: 0.7em;
+      padding-right: 0.75em;
     }
 
     a[data-linkicon="external"][href^="mailto:"]::after {

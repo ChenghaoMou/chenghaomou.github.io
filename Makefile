@@ -5,7 +5,7 @@ embed:
 build: embed
 	docker compose build --no-cache --force-rm
 
-up:
+up: build
 	docker compose up -d
 
 down:

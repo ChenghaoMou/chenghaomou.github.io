@@ -7,7 +7,7 @@ services:
     tmpfs:
       - /tmp
     build:
-      dockerfile: Dockerfile
+      dockerfile: Containerfile
     volumes:
       - ./templates:/app/templates
       - ./intermediate/highlights:/app/highlights

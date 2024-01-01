@@ -10,6 +10,8 @@ function goUpOneLevel(currentDirectory) {
   body {
     font-family: 'Barlow';
     font-variation-settings: 'wght'350;
+    font-size: calc(1rem + 0.25vw);
+    text-rendering: optimizeLegibility;
   }
 
   a.mavenLinkBold {
@@ -32,19 +34,19 @@ function goUpOneLevel(currentDirectory) {
   }
 
   strong {
-    font-weight: 500;
+    font-weight: 500!important;
   }
 
   h1 {
-    font-weight: 500;
+    font-weight: 500!important;
   }
 
   h2 {
-    font-weight: 400;
+    font-weight: 400!important;
   }
 
   h3 {
-    font-weight: 400;
+    font-weight: 400!important;
   }
 
   .footnote-item-header {
@@ -63,5 +65,9 @@ function goUpOneLevel(currentDirectory) {
   #sidebar {
     width: 350px!important;
     overflow-x: hidden;
+  }
+
+  li {
+    color: rgb(108, 108, 108);
   }
 </style>
