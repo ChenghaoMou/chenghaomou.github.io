@@ -6,12 +6,14 @@ function goUpOneLevel(currentDirectory) {
 }
 </script>
 <link href="https://fonts.cdnfonts.com/css/barlow" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/liu-jian-mao-cao" rel="stylesheet">
 <style>
   body {
     font-family: 'Barlow';
     font-variation-settings: 'wght'350;
     font-size: calc(1rem + 0.25vw);
     text-rendering: optimizeLegibility;
+    line-height: 1.3em;
   }
 
   a.mavenLinkBold {
@@ -60,6 +62,7 @@ function goUpOneLevel(currentDirectory) {
   #container {
     height: 900px;
     overflow: scroll;
+    border-radius: 8px;
   }
 
   #sidebar {
@@ -69,5 +72,10 @@ function goUpOneLevel(currentDirectory) {
 
   li {
     color: rgb(108, 108, 108);
+  }
+
+  .personal-touch {
+    font-family: "Liu Jian Mao Cao";
+    color: #AF3029!important;
   }
 </style>
