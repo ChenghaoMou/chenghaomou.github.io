@@ -13,7 +13,7 @@
 <has-children>
   <bind tag="icon">
     <tree:open>
-      <button onclick="javascript:goUpOneLevel('${node:url}')">
+      <button onclick="javascript:goUpOneLevel('${node:url}')" class="sidebar-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
         class="${iconSize} inline text-gray-700" fill="currentColor">
         <path fill-rule="evenodd"
@@ -96,9 +96,7 @@
             </has-children>
         </tree:open>
         </span>
-        <a class="${link-class} rounded px-1.5 truncate" title="${node:text}" href="${node:url}">
-        <p style="white-space: pre-wrap;"><node:text /></p>
-        </a>
+        <p style="white-space: pre-wrap;" class="sidebar-folder-text"><node:text /></p>
         <tree:open>
         <else />
         <node:terminal>

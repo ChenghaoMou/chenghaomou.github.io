@@ -1,5 +1,5 @@
 <!-- DoNotFormat -->
-<bind tag="containerClass"><ema:metadata><value var="template.base.containerClass" /></ema:metadata> <ema:has:sidebar>md:mt-8 <else/>mt-2 <ema:has:uptree>md:mt-4 <else/> md:mt-8 </ema:has:uptree> </ema:has:sidebar></bind>
+<bind tag="containerClass"><ema:metadata><value var="template.base.containerClass" /></ema:metadata> </bind>
 <!-- DoNotFormat -->
 
 <bind tag="storkSearchButtonTopRight">
@@ -40,7 +40,7 @@
   </bind>
 
   <bind tag="body-main">
-    <div class="${containerClass}">
+    <div class="${containerClass} h-screen">
       <ema:has:uptree>
         <apply template="components/note-uptree" />
       </ema:has:uptree>
@@ -51,7 +51,7 @@
 
       <ema:has:sidebar>
         <div id="container"
-          class="flex flex-nowrap flex-col md:flex-row bg-gray-50 md:shadow-2xl md:mb-8">
+          class="flex flex-nowrap flex-col md:flex-row bg-gray-50 md:shadow-2xl md:mb-8 h-screen">
           <!-- Sidebar column -->
           <apply template="components/sidebar" />
           <!-- Main body column -->

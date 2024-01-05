@@ -2,12 +2,24 @@
 <script>
 // A JS function to jump a level above the current directory using the window.location object
 function goUpOneLevel(currentDirectory) {
-    window.location.href = window.location.href.substring(0, window.location.href.lastIndexOf(currentDirectory) + currentDirectory.lastIndexOf("/"));
+  // if the current directory does not have a slash
+  if (currentDirectory.lastIndexOf("/") == -1) {
+    // go to the root url
+    window.location.href = window.location.origin;
+  } else {
+      window.location.href = window.location.href.substring(0, window.location.href.lastIndexOf(currentDirectory) + currentDirectory.lastIndexOf("/"));
+  }
 }
 </script>
 <link href="https://fonts.cdnfonts.com/css/barlow" rel="stylesheet">
 <link href="https://fonts.cdnfonts.com/css/liu-jian-mao-cao" rel="stylesheet">
 <style>
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
   body {
     font-family: 'Barlow';
     font-variation-settings: 'wght'350;
@@ -59,15 +71,23 @@ function goUpOneLevel(currentDirectory) {
     border-radius: 0%;
   }
 
-  #container {
-    height: 900px;
-    overflow: scroll;
-    border-radius: 8px;
+  body #container {
+    margin-top: 0!important;
+    height: calc(100% - 6em);
+    border-radius: 8px!important;
+  }
+
+  body .container {
+    padding-top: 2em;
   }
 
   #sidebar {
     width: 350px!important;
     overflow-x: hidden;
+  }
+
+  footer {
+    font-size: calc(0.8rem + 0.25vw);
   }
 
   li {
@@ -78,4 +98,14 @@ function goUpOneLevel(currentDirectory) {
     font-family: "Liu Jian Mao Cao";
     color: #AF3029!important;
   }
+
+  #sidebar .sidebar-button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  #sidebar .sidebar-folder-text {
+    cursor: default;
+  }
+
 </style>

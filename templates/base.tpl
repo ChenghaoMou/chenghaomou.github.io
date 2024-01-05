@@ -131,7 +131,7 @@
 <bind tag="bodyClass"><ema:metadata><value var="template.base.bodyClass" /></ema:metadata></bind>
 <!-- DoNotFormat -->
 
-<body class="${bodyClass}">
+<body class="${bodyClass} h-screen">
   <body-main />
   <apply template="components/stork/stork-search" />
   <ema:metadata>
