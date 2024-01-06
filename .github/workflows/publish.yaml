@@ -26,6 +26,10 @@ jobs:
             sh -c "emanote -L '/data/intermediate' gen /data/output.docker --allow-broken-links"
           cp -r output.docker output
           cp $PWD/robots.txt output/robots.txt
+          docker run \
+            -v $PWD:/data \
+            python:3.11-slim \
+            sh -c "cd /data && python export/update.py output"
       - name: Deploy to gh-pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:

@@ -151,6 +151,11 @@ def parse_references(file) -> list[TranslutionReference]:
         results.append(LinkReference(match[1], match[0], match[2], match[3]))
     return results
 
+def add_anchor_to_new_file(new_file, block):
+    content = Path(new_file).read_text()
+    new = content.replace(block.text, f"""{block.text} REPLACEWITHANCHOR({block.ref.lstrip('^')})""")
+    with open(new_file, "w") as f:
+        f.write(new)
 
 def parse_vault(dir, output, allow_missing=False, exclude=None):
     if exclude is None:
@@ -170,7 +175,9 @@ def parse_vault(dir, output, allow_missing=False, exclude=None):
     for file in glob.glob(f"{dir}/**/*.md", recursive=True):
         if any([e in file for e in exclude]):
             continue
+        new_file = Path(output) / Path(file).relative_to(dir)
         for block in parse_blocks(file):
+            add_anchor_to_new_file(new_file, block)
             blocks[block.ref].append(block)
 
     links = defaultdict(list)
@@ -197,7 +204,7 @@ def parse_vault(dir, output, allow_missing=False, exclude=None):
                 new = f'''
 {new}
 
-_from [[{ref.file}|{ref.alias}]]_
+REPLACEWITHLINK([[{ref.file}|{ref.alias}]], {ref.ref.lstrip('^')})
 '''
                 content = content.replace(old, new)
                 Path(new_file).write_text(content)
