@@ -10,8 +10,6 @@ link_pattern = re.compile(r"""REPLACEWITHLINK\(<a href='(.+?)'(.+)</a>\, (.*)\)"
 def update_html(html):
     content = Path(html).read_text()
     content = anchor_pattern.sub(r'<a id="\1" class="anchor"></a>', content)
-    for match in link_pattern.findall(content):
-        print(match)
     content = link_pattern.sub(r'<a href="\1#\3"\2</a>', content)
 
     Path(html).write_text(content)

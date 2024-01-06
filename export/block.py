@@ -44,6 +44,7 @@ def parse_lines(file) -> list[str]:
         with MarkdownRenderer() as renderer:
             doc = mistletoe.Document(fin)
             for child in doc.children:
+                print(child.__class__.__name__)
                 yield renderer.render(child)
 
 def parse_aliases(file) -> list[str]:
@@ -153,7 +154,14 @@ def parse_references(file) -> list[TranslutionReference]:
 
 def add_anchor_to_new_file(new_file, block):
     content = Path(new_file).read_text()
-    new = content.replace(block.text, f"""{block.text} REPLACEWITHANCHOR({block.ref.lstrip('^')})""")
+    ends_with_newline = block.text.endswith("\n")
+    if ends_with_newline:
+        prev = len(block.text)
+        block.text = block.text.rstrip("\n")
+        end = '\n' * (len(block.text) - prev)
+    else:
+        end = ""
+    new = content.replace(block.text, f"""{block.text} REPLACEWITHANCHOR({block.ref.lstrip('^')}){end}""")
     with open(new_file, "w") as f:
         f.write(new)
 
