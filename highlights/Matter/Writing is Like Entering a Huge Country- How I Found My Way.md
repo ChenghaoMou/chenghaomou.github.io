@@ -6,6 +6,7 @@ author: Sheila Bender
 publisher: Medium
 date: 2023-05-05
 tags: []
+title: "Writing is Like Entering a Huge Country- How I Found My Way"
 ---
 
 ## Highlights

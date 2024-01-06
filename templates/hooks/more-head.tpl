@@ -75,6 +75,14 @@ html, body {
     margin-top: 0!important;
     height: calc(100% - 6em);
     border-radius: 8px!important;
+    filter: url(#noiseFilter);
+  }
+
+  body #container:after{
+    mix-blend-mode: darken;
+    mix-blend-mode: difference;
+    mix-blend-mode: exclusion;
+    mix-blend-mode: multiply;
   }
 
   body .container {
@@ -84,6 +92,7 @@ html, body {
   #sidebar {
     width: 350px!important;
     overflow-x: hidden;
+    border-right: 0.25em double #E08183;
   }
 
   footer {
@@ -106,6 +115,9 @@ html, body {
   }
   #sidebar .sidebar-folder-text {
     cursor: default;
+  }
+
+  .noise {
   }
 
 </style>

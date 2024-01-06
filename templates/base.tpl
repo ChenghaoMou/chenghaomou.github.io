@@ -130,7 +130,6 @@
 <bind tag="iconSize">w-4 h-4 flex-shrink-0</bind>
 <bind tag="bodyClass"><ema:metadata><value var="template.base.bodyClass" /></ema:metadata></bind>
 <!-- DoNotFormat -->
-
 <body class="${bodyClass} h-screen">
   <body-main />
   <apply template="components/stork/stork-search" />
