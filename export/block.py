@@ -44,7 +44,6 @@ def parse_lines(file) -> list[str]:
         with MarkdownRenderer() as renderer:
             doc = mistletoe.Document(fin)
             for child in doc.children:
-                print(child.__class__.__name__)
                 yield renderer.render(child)
 
 def parse_aliases(file) -> list[str]:
