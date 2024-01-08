@@ -4,6 +4,7 @@ author: Sam Altman
 publisher: OpenAI
 date: 2023-02-24
 tags: []
+title: "Planning for AGI and beyond"
 ---
 
 ## Highlights

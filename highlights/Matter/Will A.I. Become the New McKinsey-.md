@@ -6,8 +6,9 @@ author: Ted Chiang
 publisher: The New Yorker
 date: 2023-05-04
 tags: []
+title: "Will A.I. Become the New McKinsey?"
 ---
-
+# Will A.I. Become the New McKinsey?
 ## Highlights
 <mark>In a similar way, Purdue Pharma used McKinsey to figure out how to “turbocharge” sales of OxyContin during the opioid epidemic. Just as A.I. promises to offer managers a cheap replacement for human workers, so McKinsey and similar firms helped normalize the practice of mass layoffs as a way of increasing stock prices and executive compensation, contributing to the destruction of the middle class in America.</mark>
 
@@ -22,4 +23,3 @@ tags: []
 <mark>It’s A.I.-supercharged corporations destroying the environment and the working class in their pursuit of shareholder value. Capitalism is the machine that will do whatever it takes to prevent us from turning it off, and the most successful weapon in its arsenal has been its campaign to prevent us from considering any alternatives.</mark>
 
 <mark>But what does progress even mean, if it doesn’t include better lives for people who work? What is the point of greater efficiency, if the money being saved isn’t going anywhere except into shareholders’ bank accounts? We should all strive to be Luddites, because we should all be more concerned with economic justice than with increasing the private accumulation of capital. We need to be able to criticize harmful uses of technology—and those include uses that benefit shareholders over workers—without being described as opponents of technology.</mark>
-
