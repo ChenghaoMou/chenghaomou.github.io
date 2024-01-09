@@ -1566,6 +1566,18 @@
   file = {/Users/chenghao/Zotero/storage/PAA3EDR8/Jiang et al. - 2023 - Mistral 7B.pdf}
 }
 
+@online{jiang_2024,
+  title = {Mixtral of {{Experts}}},
+  author = {Jiang, Albert Q. and Sablayrolles, Alexandre and Roux, Antoine and Mensch, Arthur and Savary, Blanche and Bamford, Chris and Chaplot, Devendra Singh and family=Casas, given=Diego, prefix=de las, useprefix=false and Hanna, Emma Bou and Bressand, Florian and Lengyel, Gianna and Bour, Guillaume and Lample, Guillaume and Lavaud, Lélio Renard and Saulnier, Lucile and Lachaux, Marie-Anne and Stock, Pierre and Subramanian, Sandeep and Yang, Sophia and Antoniak, Szymon and Scao, Teven Le and Gervet, Théophile and Lavril, Thibaut and Wang, Thomas and Lacroix, Timothée and Sayed, William El},
+  date = {2024-01-08},
+  url = {https://arxiv.org/abs/2401.04088v1},
+  urldate = {2024-01-09},
+  abstract = {We introduce Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model. Mixtral has the same architecture as Mistral 7B, with the difference that each layer is composed of 8 feedforward blocks (i.e. experts). For every token, at each layer, a router network selects two experts to process the current state and combine their outputs. Even though each token only sees two experts, the selected experts can be different at each timestep. As a result, each token has access to 47B parameters, but only uses 13B active parameters during inference. Mixtral was trained with a context size of 32k tokens and it outperforms or matches Llama 2 70B and GPT-3.5 across all evaluated benchmarks. In particular, Mixtral vastly outperforms Llama 2 70B on mathematics, code generation, and multilingual benchmarks. We also provide a model fine-tuned to follow instructions, Mixtral 8x7B - Instruct, that surpasses GPT-3.5 Turbo, Claude-2.1, Gemini Pro, and Llama 2 70B - chat model on human benchmarks. Both the base and instruct models are released under the Apache 2.0 license.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/AFY4K6W6/Jiang et al. - 2024 - Mixtral of Experts.pdf}
+}
+
 @online{jones_2023,
   title = {Does {{GPT-4 Pass}} the {{Turing Test}}?},
   author = {Jones, Cameron and Bergen, Benjamin},
@@ -2619,6 +2631,19 @@
   file = {/Users/chenghao/Library/Mobile Documents/com~apple~CloudDocs/Zotero/Millière/2023/Millière_(2023)_The_Alignment_Problem_in_Context.pdf}
 }
 
+@online{milliere_2024,
+  title = {A {{Philosophical Introduction}} to {{Language Models}} -- {{Part I}}: {{Continuity With Classic Debates}}},
+  shorttitle = {A {{Philosophical Introduction}} to {{Language Models}} -- {{Part I}}},
+  author = {Millière, Raphaël and Buckner, Cameron},
+  date = {2024-01-08},
+  url = {https://arxiv.org/abs/2401.03910v1},
+  urldate = {2024-01-09},
+  abstract = {Large language models like GPT-4 have achieved remarkable proficiency in a broad spectrum of language-based tasks, some of which are traditionally associated with hallmarks of human intelligence. This has prompted ongoing disagreements about the extent to which we can meaningfully ascribe any kind of linguistic or cognitive competence to language models. Such questions have deep philosophical roots, echoing longstanding debates about the status of artificial neural networks as cognitive models. This article -- the first part of two companion papers -- serves both as a primer on language models for philosophers, and as an opinionated survey of their significance in relation to classic debates in the philosophy cognitive science, artificial intelligence, and linguistics. We cover topics such as compositionality, language acquisition, semantic competence, grounding, world models, and the transmission of cultural knowledge. We argue that the success of language models challenges several long-held assumptions about artificial neural networks. However, we also highlight the need for further empirical investigation to better understand their internal mechanisms. This sets the stage for the companion paper (Part II), which turns to novel empirical methods for probing the inner workings of language models, and new philosophical questions prompted by their latest developments.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/SGUKZSEN/Millière and Buckner - 2024 - A Philosophical Introduction to Language Models -- Part I Continuity With Classic Debates.pdf}
+}
+
 @article{min_,
   title = {{{FACTSCORE}}: {{Fine-grained Atomic Evaluation}} of {{Factual Precision}} in {{Long Form Text Generation}}},
   author = {Min, Sewon and Krishna, Kalpesh and Lyu, Xinxi and Lewis, Mike and Yih, Wen-tau and Koh, Pang Wei and Iyyer, Mohit and Zettlemoyer, Luke and Hajishirzi, Hannaneh},
@@ -2930,6 +2955,19 @@
   keywords = {\#nosource,Computer Science - Computation and Language,token},
   annotation = {1 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Zotero/storage/JLUTX6YN/Pinter_et_al_(2021)_Learning_to_Look_Inside.pdf}
+}
+
+@online{pioro_2024,
+  title = {{{MoE-Mamba}}: {{Efficient Selective State Space Models}} with {{Mixture}} of {{Experts}}},
+  shorttitle = {{{MoE-Mamba}}},
+  author = {Pióro, Maciej and Ciebiera, Kamil and Król, Krystian and Ludziejewski, Jan and Jaszczur, Sebastian},
+  date = {2024-01-08},
+  url = {https://arxiv.org/abs/2401.04081v1},
+  urldate = {2024-01-09},
+  abstract = {State Space Models (SSMs) have become serious contenders in the field of sequential modeling, challenging the dominance of Transformers. At the same time, Mixture of Experts (MoE) has significantly improved Transformer-based LLMs, including recent state-of-the-art open-source models. We propose that to unlock the potential of SSMs for scaling, they should be combined with MoE. We showcase this on Mamba, a recent SSM-based model that achieves remarkable, Transformer-like performance. Our model, MoE-Mamba, outperforms both Mamba and Transformer-MoE. In particular, MoE-Mamba reaches the same performance as Mamba in 2.2x less training steps while preserving the inference performance gains of Mamba against the Transformer.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/P57GTS4B/Pióro et al. - 2024 - MoE-Mamba Efficient Selective State Space Models with Mixture of Experts.pdf}
 }
 
 @online{powalski_2021,
