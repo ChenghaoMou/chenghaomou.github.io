@@ -2387,6 +2387,32 @@
   file = {/Users/chenghao/Zotero/storage/388UWMPN/Liu and Abbeel - 2023 - Blockwise Parallel Transformer for Long Context La.pdf}
 }
 
+@online{liu_2023c,
+  title = {{{LLM360}}: {{Towards Fully Transparent Open-Source LLMs}}},
+  shorttitle = {{{LLM360}}},
+  author = {Liu, Zhengzhong and Qiao, Aurick and Neiswanger, Willie and Wang, Hongyi and Tan, Bowen and Tao, Tianhua and Li, Junbo and Wang, Yuqi and Sun, Suqi and Pangarkar, Omkar and Fan, Richard and Gu, Yi and Miller, Victor and Zhuang, Yonghao and He, Guowei and Li, Haonan and Koto, Fajri and Tang, Liping and Ranjan, Nikhil and Shen, Zhiqiang and Ren, Xuguang and Iriondo, Roberto and Mu, Cun and Hu, Zhiting and Schulze, Mark and Nakov, Preslav and Baldwin, Tim and Xing, Eric P.},
+  date = {2023-12-11},
+  url = {https://arxiv.org/abs/2312.06550v1},
+  urldate = {2024-01-10},
+  abstract = {The recent surge in open-source Large Language Models (LLMs), such as LLaMA, Falcon, and Mistral, provides diverse options for AI practitioners and researchers. However, most LLMs have only released partial artifacts, such as the final model weights or inference code, and technical reports increasingly limit their scope to high-level design choices and surface statistics. These choices hinder progress in the field by degrading transparency into the training of LLMs and forcing teams to rediscover many details in the training process. We present LLM360, an initiative to fully open-source LLMs, which advocates for all training code and data, model checkpoints, and intermediate results to be made available to the community. The goal of LLM360 is to support open and collaborative AI research by making the end-to-end LLM training process transparent and reproducible by everyone. As a first step of LLM360, we release two 7B parameter LLMs pre-trained from scratch, Amber and CrystalCoder, including their training code, data, intermediate checkpoints, and analyses (at https://www.llm360.ai). We are committed to continually pushing the boundaries of LLMs through this open-source effort. More large-scale and stronger models are underway and will be released in the future.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/HSQGT2A3/Liu et al. - 2023 - LLM360 Towards Fully Transparent Open-Source LLMs.pdf}
+}
+
+@online{liu_2023d,
+  title = {{{LLM360}}: {{Towards Fully Transparent Open-Source LLMs}}},
+  shorttitle = {{{LLM360}}},
+  author = {Liu, Zhengzhong and Qiao, Aurick and Neiswanger, Willie and Wang, Hongyi and Tan, Bowen and Tao, Tianhua and Li, Junbo and Wang, Yuqi and Sun, Suqi and Pangarkar, Omkar and Fan, Richard and Gu, Yi and Miller, Victor and Zhuang, Yonghao and He, Guowei and Li, Haonan and Koto, Fajri and Tang, Liping and Ranjan, Nikhil and Shen, Zhiqiang and Ren, Xuguang and Iriondo, Roberto and Mu, Cun and Hu, Zhiting and Schulze, Mark and Nakov, Preslav and Baldwin, Tim and Xing, Eric P.},
+  date = {2023-12-11},
+  url = {https://arxiv.org/abs/2312.06550v1},
+  urldate = {2024-01-10},
+  abstract = {The recent surge in open-source Large Language Models (LLMs), such as LLaMA, Falcon, and Mistral, provides diverse options for AI practitioners and researchers. However, most LLMs have only released partial artifacts, such as the final model weights or inference code, and technical reports increasingly limit their scope to high-level design choices and surface statistics. These choices hinder progress in the field by degrading transparency into the training of LLMs and forcing teams to rediscover many details in the training process. We present LLM360, an initiative to fully open-source LLMs, which advocates for all training code and data, model checkpoints, and intermediate results to be made available to the community. The goal of LLM360 is to support open and collaborative AI research by making the end-to-end LLM training process transparent and reproducible by everyone. As a first step of LLM360, we release two 7B parameter LLMs pre-trained from scratch, Amber and CrystalCoder, including their training code, data, intermediate checkpoints, and analyses (at https://www.llm360.ai). We are committed to continually pushing the boundaries of LLMs through this open-source effort. More large-scale and stronger models are underway and will be released in the future.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/DDDVS6N3/Liu et al. - 2023 - LLM360 Towards Fully Transparent Open-Source LLMs.pdf}
+}
+
 @unpublished{lourie_2021,
   title = {{{UNICORN}} on {{RAINBOW}}: {{A Universal Commonsense Reasoning Model}} on a {{New Multitask Benchmark}}},
   shorttitle = {{{UNICORN}} on {{RAINBOW}}},
@@ -3002,6 +3028,19 @@
   pubstate = {preprint},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
   file = {/Users/chenghao/Zotero/storage/HNSNJFM7/Pramanik_et_al_(2022)_Towards_a_Multi-modal,_Multi-task_Learning_based_Pre-training_Framework_for.pdf;/Users/chenghao/Zotero/storage/MPB9TDLX/2009.html}
+}
+
+@online{qin_2024,
+  title = {Lightning {{Attention-2}}: {{A Free Lunch}} for {{Handling Unlimited Sequence Lengths}} in {{Large Language Models}}},
+  shorttitle = {Lightning {{Attention-2}}},
+  author = {Qin, Zhen and Sun, Weigao and Li, Dong and Shen, Xuyang and Sun, Weixuan and Zhong, Yiran},
+  date = {2024-01-09},
+  url = {https://arxiv.org/abs/2401.04658v1},
+  urldate = {2024-01-10},
+  abstract = {Linear attention is an efficient attention mechanism that has recently emerged as a promising alternative to conventional softmax attention. With its ability to process tokens in linear computational complexities, linear attention, in theory, can handle sequences of unlimited length without sacrificing speed, i.e., maintaining a constant training speed for various sequence lengths with a fixed memory consumption. However, due to the issue with cumulative summation (cumsum), current linear attention algorithms cannot demonstrate their theoretical advantage in a causal setting. In this paper, we present Lightning Attention-2, the first linear attention implementation that enables linear attention to realize its theoretical computational benefits. To achieve this, we leverage the thought of tiling, separately handling the intra-block and inter-block components in linear attention calculation. Specifically, we utilize the conventional attention computation mechanism for the intra-blocks and apply linear attention kernel tricks for the inter-blocks. A tiling technique is adopted through both forward and backward procedures to take full advantage of the GPU hardware. We implement our algorithm in Triton to make it IO-aware and hardware-friendly. Various experiments are conducted on different model sizes and sequence lengths. Lightning Attention-2 retains consistent training and inference speed regardless of input sequence length and is significantly faster than other attention mechanisms. The source code is available at https://github.com/OpenNLPLab/lightning-attention.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/T9ZTJGCV/Qin et al. - 2024 - Lightning Attention-2 A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models.pdf}
 }
 
 @unpublished{rae_2021,
