@@ -6,6 +6,7 @@ author: Andy Baio
 publisher: Waxy.org
 date: 2022-09-30
 tags: []
+title: "AI Data Laundering- How Academic and Nonprofit Researchers Shield Tech Companies from Accountability"
 ---
 
 ## Highlights

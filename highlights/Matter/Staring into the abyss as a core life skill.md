@@ -4,6 +4,7 @@ author: Ben Kuhn
 publisher: Ben Kuhn
 date: 2022-12-22
 tags: []
+title: "Staring into the abyss as a core life skill"
 ---
 
 ## Highlights
