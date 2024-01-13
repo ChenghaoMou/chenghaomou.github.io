@@ -1588,6 +1588,7 @@
   abstract = {This work elicits LLMs' inherent ability to handle long contexts without fine-tuning. The limited length of the training sequence during training may limit the application of Large Language Models (LLMs) on long input sequences for inference. In this work, we argue that existing LLMs themselves have inherent capabilities for handling long contexts. Based on this argument, we suggest extending LLMs' context window by themselves to fully utilize the inherent ability.We propose Self-Extend to stimulate LLMs' long context handling potential. The basic idea is to construct bi-level attention information: the group level and the neighbor level. The two levels are computed by the original model's self-attention, which means the proposed does not require any training. With only four lines of code modification, the proposed method can effortlessly extend existing LLMs' context window without any fine-tuning. We conduct comprehensive experiments and the results show that the proposed method can effectively extend existing LLMs' context window's length.},
   langid = {english},
   organization = {{arXiv.org}},
+  annotation = {\{"size": -1, "pages": -1, "previous": ""\}},
   file = {/Users/chenghao/Library/Mobile Documents/com~apple~CloudDocs/Zotero/Jin et_al/2024/Jin_et_al_(2024)_LLM_Maybe_LongLM.pdf}
 }
 
@@ -3031,6 +3032,22 @@
   pubstate = {preprint},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
   file = {/Users/chenghao/Zotero/storage/HNSNJFM7/Pramanik_et_al_(2022)_Towards_a_Multi-modal,_Multi-task_Learning_based_Pre-training_Framework_for.pdf;/Users/chenghao/Zotero/storage/MPB9TDLX/2009.html}
+}
+
+@online{qin_2023,
+  title = {Scaling {{TransNormer}} to 175 {{Billion Parameters}}},
+  author = {Qin, Zhen and Li, Dong and Sun, Weigao and Sun, Weixuan and Shen, Xuyang and Han, Xiaodong and Wei, Yunshen and Lv, Baohong and Yuan, Fei and Luo, Xiao and Qiao, Yu and Zhong, Yiran},
+  date = {2023-07-27},
+  eprint = {2307.14995},
+  eprinttype = {arxiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2307.14995},
+  url = {http://arxiv.org/abs/2307.14995},
+  urldate = {2024-01-13},
+  abstract = {We present TransNormerLLM, the first linear attention-based Large Language Model (LLM) that outperforms conventional softmax attention-based models in terms of both accuracy and efficiency. TransNormerLLM evolves from the previous linear attention architecture TransNormer by making advanced modifications that include positional embedding, linear attention acceleration, gating mechanism, tensor normalization, inference acceleration and stabilization. Specifically, we use LRPE together with an exponential decay to avoid attention dilution issues while allowing the model to retain global interactions between tokens. Additionally, we propose Lightning Attention, a cutting-edge technique that accelerates linear attention by more than twice in runtime and reduces memory usage by a remarkable four times. To further enhance the performance of TransNormer, we leverage a gating mechanism to smooth training and a new tensor normalization scheme to accelerate the model, resulting in an impressive acceleration of over 20\%. Furthermore, we have developed a robust inference algorithm that ensures numerical stability and consistent inference speed, regardless of the sequence length, showcasing superior efficiency during both training and inference stages. Scalability is at the heart of our model's design, enabling seamless deployment on large-scale clusters and facilitating expansion to even more extensive models, all while maintaining outstanding performance metrics. Rigorous validation of our model design is achieved through a series of comprehensive experiments on our self-collected corpus, boasting a size exceeding 6TB and containing over 2 trillion tokens. To ensure data quality and relevance, we implement a new self-cleaning strategy to filter our collected data. Our pre-trained models will be released to foster community advancements in efficient LLMs.},
+  pubstate = {preprint},
+  keywords = {Computer Science - Computation and Language},
+  file = {/Users/chenghao/Library/Mobile Documents/com~apple~CloudDocs/Zotero/Qin et_al/2023/Qin_et_al_(2023)_Scaling_TransNormer_to_175_Billion_Parameters.pdf}
 }
 
 @online{qin_2024,
