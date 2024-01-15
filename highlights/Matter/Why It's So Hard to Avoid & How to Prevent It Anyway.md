@@ -29,7 +29,7 @@ tags: []
 
 <mark>Try to focus on one task, screen, app, and window at a time, and eliminate what causes you to switch contexts in the first place — the buzzes and screen notifications and excess tabs in your web browser:</mark>
 
-<mark>It’s a natural impulse to want to respond to things as soon as they come in. You don’t want to hold things up, and it feels good to have one less message in the inbox. But you may be sending a message that people should always expect a quick response from you, which can lead to getting more emails and more context switches.</mark>
+<mark>It’s a natural impulse to want to respond to things as soon as they come in. You don’t want to hold things up, and it feels good to have one less message in the inbox. But you may be sending a message that people should always expect a quick response from you, which can lead to getting more emails and more context switches.</mark> ^e57d04
 
 <mark>While it may feel like a matter of personal failing, all of us living and working in digital environments and interruption-heavy work cultures experience it, especially those working from home and caring for children or other family members right now.</mark>
 
