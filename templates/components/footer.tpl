@@ -28,4 +28,10 @@
       <i>Emanote</i>
     </a>
   </div>
+  <div>
+    <span class="text-gray-500">License</span>
+    <a href="https://github.com/ChenghaoMou/chenghaomou.github.io/blob/main/LICENSE" target="_blank" title="Link to the license" class="text-gray-600">
+      <i>CC-BY-NC-SA 4.0 International</i>
+    </a>
+  </div>
 </footer>
