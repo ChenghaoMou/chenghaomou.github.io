@@ -7,7 +7,7 @@ title: "Sleepless in Debugging"
 
 # Sleepless in Debugging
 
-This is my journey of personal knowledge management — building zettelkasten in the open with life-long reading and writing.
+This is my journey of personal knowledge management – building zettelkasten in the open with lifelong reading and writing.
 
 ✌️
 
