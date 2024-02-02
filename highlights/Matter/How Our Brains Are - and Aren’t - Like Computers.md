@@ -5,6 +5,7 @@ publisher: Mind Matters
 date: 2023-01-05
 note: Does aging over-prune the connections that might lead to a more rigid mind?
 tags: []
+title: "How Our Brains Are - and Aren’t - Like Computers"
 ---
 
 ## Highlights
