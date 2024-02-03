@@ -1,1 +1,0 @@
-<img class="inline mb-3" src="${ema:url}" alt="${ema:alt}" style="width: inherit;" />
