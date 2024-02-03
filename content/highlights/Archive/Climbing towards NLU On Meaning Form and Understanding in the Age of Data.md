@@ -1,0 +1,66 @@
+---
+tags: []
+title: ""
+---
+
+“We take (linguistic) meaning to be the relation between a linguistic form and communicative intent.” ([Bender and Koller, 2020, p. 5185](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=1&annotation=UZ9Y22VV))
+
+“If the highlighted terms are meant to describe human-analogous understanding, comprehension, or recall of factual knowledge, then these are gross overclaims. If, instead, they are intended as technical terms, they should be explicitly defined.” ([Bender and Koller, 2020, p. 5186](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=2&annotation=FYVCGKKJ))
+
+“One important consequence of imprudent use of terminology in our academic discourse is that it feeds AI hype in the popular press.” ([Bender and Koller, 2020, p. 5186](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=2&annotation=V6Y86NKC))
+
+“they were instead simply more effective at leveraging artifacts in the data than previous approaches.” ([Bender and Koller, 2020, p. 5186](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=2&annotation=S2EIYSCN))
+
+“We take form to be any observable realization of language: marks” ([Bender and Koller, 2020, p. 5186](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=2&annotation=KFUD2KMI))
+
+“on a page, pixels or bytes in a digital representation of text, or movements of the articulators” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=J96GVWII))
+
+“When humans use language, we do so for a purpose: We do not talk for the joy of moving our articulators, but in order to achieve some communicative intent.” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=EF3LNQWH))
+
+“There are many types of communicative intents: they may be to convey some information to the other person; or to ask them to do something; or simply to socialize. We take meaning to be the relation M ⊆ E × I which contains pairs (e, i) of natural language expressions e and the communicative intents i they can be used to evoke. Given this definition of meaning, we can now use understand to refer to the process of retrieving i given e.” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=RSY3PLMK))
+
+“The conventional meaning of an expression (word, phrase, sentence) is what is constant across all of its possible contexts of use. Conventional meaning is an abstract object that represents the communicative potential of a form, given the linguistic system it is drawn from.” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=SSETADF5))
+
+“Each linguistic system (say, English) provides a relation C ⊆ E × S, which contains pairs (e, s) of expressions e and their conventional meanings s.” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=EPN6V6SL))
+
+“The speaker has a certain communicative intent i, and chooses an expression e with a standing meaning s which is fit to express i in the current communicative situation. Upon hearing e, the listener then reconstructs s and uses their own knowledge of the communicative situation and their hypotheses about the speaker’s state of mind and intention in an attempt to deduce i.” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=D9SFR7UK))
+
+“We humans are also very willing, as we will see in §4 below, to attribute communicative intent to a linguistic signal of a language we speak, even if the originator of the signal is not an entity that could have communicative intent.” ([Bender and Koller, 2020, p. 5187](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=3&annotation=5Z95LJSJ))
+
+“We argue that, independently of whether passing the Turing test would mean a system is intelligent, a system that is trained only on form would fail a sufficiently sensitive test, because it lacks the ability to connect its utterances to the world.” ([Bender and Koller, 2020, p. 5188](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=4&annotation=QVWK4BCH)) Interrelation with other form of text can be seen as a tiny fraction of the world.
+
+“but only because A does all the work in attributing meaning to O’s response. It is not because O understood the meaning of A’s instructions or even his own reply.” ([Bender and Koller, 2020, p. 5189](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=5&annotation=DBF2S3WU))
+
+“The language exchanged by A and B is a projection of their communicative intents through the meaning relation into linguistic forms. Without access to a means of hypothesizing and testing the underlying communicative intents, reconstructing them from the forms alone is hopeless, and O’s language use will eventually diverge from the language use of an agent who can ground their language in coherent communicative intents.” ([Bender and Koller, 2020, p. 5189](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=5&annotation=C7MTT7BN))
+
+“Because she assumes that O is B, she uses that conventional meaning together with her other guesses about B’s state of mind and goals to attribute communicative intent. It is not that O’s utterances make sense, but rather, that A can make sense of them.” ([Bender and Koller, 2020, p. 5189](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=5&annotation=X9C9XZQM))
+
+“But that is precisely the point we are trying to make: a system that has learned the meaning (semantics) of a programming language knows how to execute code in that language. And a system that has learned the meaning of a human language can do things like answer questions posed in the language about things in the world (or in this case, in pictures).” ([Bender and Koller, 2020, p. 5190](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=6&annotation=D3PETWGF)) Interrelation among forms are building a castle in the air
+
+“The form of Java programs, to a system that has not observed the inputs and outputs of these programs, does not include information on how to execute them. Similarly, the form of English sentences, to a system that has not had a chance to acquire the meaning relation C of English, and in the absence of any signal of communicative intent, does not include any information about what language-external entities the speaker might be referring to. Accordingly, a system trained only on the form of Java or English has no way learn their respective meaning relations.” ([Bender and Koller, 2020, p. 5190](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=6&annotation=NYEBJAGD))
+
+“This is not supported by scholarly work on language acquisition: rather, we find that human language learning is not only grounded in the physical world around us, but also in interaction with other people in that world.” ([Bender and Koller, 2020, p. 5190](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=6&annotation=A6NIFLI8))
+
+“In summary, the process of acquiring a linguistic system, like human communication generally, relies on joint attention and intersubjectivity: the ability to be aware of what another human is attending to and guess what they are intending to communicate. Human children do not learn meaning from form alone and we should not expect machines to do so either.” ([Bender and Koller, 2020, p. 5190](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=6&annotation=8JPCARKX))
+
+“One approach to providing grounding is to train distributional models on corpora augmented with perceptual data, such as photos (Hossain et al., 2019) or other modalities (Kiela and Clark, 2015; Kiela et al., 2015).” ([Bender and Koller, 2020, p. 5190](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=6&annotation=WYL46T83))
+
+“Our arguments do not apply to such scenarios: reading comprehension datasets include information which goes beyond just form, in that they specify semantic relations between pieces of text, and thus a sufficiently sophisticated neural model might learn some aspects of meaning when trained on such datasets. It also is conceivable that whatever information a pretrained LM captures might help the downstream task in learning meaning, without being meaning itself.” ([Bender and Koller, 2020, p. 5191](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=7&annotation=9ULG5CM6))
+
+“Thus, everything is going great when we take the bottom-up view. But from a top-down perspective, the question is whether the hill we are climbing so rapidly is the right hill. How do we know that incremental progress on today’s tasks will take us to our end goal, whether that is “General Linguistic Intelligence” (Yogatama et al., 2019) or a system that passes the Turing test or a system that captures the meaning of English, Arapaho, Thai, or Hausa to a linguist’s satisfaction?” ([Bender and Koller, 2020, p. 5191](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=7&annotation=SBUJQNS3))
+
+“First, above all, cultivate humility towards language and ask top-down questions.” ([Bender and Koller, 2020, p. 5192](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=8&annotation=Z86QQ4IT))
+
+“here is no reason to assume that the distribution of language in the test data remotely resembles the distribution of real natural language; thus evaluation results on such tasks must be interpreted very carefully” ([Bender and Koller, 2020, p. 5192](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=8&annotation=HMRHGA6V))
+
+“Analyses which start from an attitude of healthy skepticism (“too good to be true”) and probing tasks which try to identify what the model actually learned can be good ways to find out whether the system performs well for the right reasons.” ([Bender and Koller, 2020, p. 5192](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=8&annotation=3PTEMTQG))
+
+“In addition, certain tasks are designed in a way that specific forms are declared as representing certain semantic relations of interest. Examples of this include NLI datasets (Dagan et al., 2006; Rajpurkar et al., 2016; Ostermann et al., 2019) which pair input/output tuples of linguistic forms with an explicit semantic relation (e.g. text + hypothesis + “entailed”).” ([Bender and Koller, 2020, p. 5192](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=8&annotation=9S6QAT5T))
+
+“Thus a learner could have access to a weak form of interaction data, from which the meaning of Java could conceivably be learned. This is true, but requires a learner which has been equipped by its human developer with the ability to identify and interpret unit tests. This learner thus has access to partial grounding in addition to the form.” ([Bender and Koller, 2020, p. 5193](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=9&annotation=6T57EQC3))
+
+“The internal representations of a neural network have been found to capture certain aspects of meaning, such as semantic similarity (Mikolov et al., 2013; Clark, 2015). As we argued in §4, semantic similarity is only a weak reflection of actual meaning. Neural representations neither qualify as standing meanings (s), lacking interpretations, nor as communicative intents (i), being insufficient to e.g. correctly build a coconut catapult.” ([Bender and Koller, 2020, p. 5193](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=9&annotation=SQ2F92L3))
+
+“It has probably learned something about meaning, in the same sense that syntax captures something about meaning and semantic similarity captures something about meaning: a potentially useful, but incomplete, reflection of the actual meaning.” ([Bender and Koller, 2020, p. 5193](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=9&annotation=8QKN9389))
+
+“This means that even large language models such as BERT do not learn “meaning”; they learn some reflection of meaning into the linguistic form which is very useful in applications.” ([Bender and Koller, 2020, p. 5193](zotero://select/library/items/SGE66L85)) ([pdf](zotero://open-pdf/library/items/MBQQRXLU?page=9&annotation=UXIT8PXP)) ^862047

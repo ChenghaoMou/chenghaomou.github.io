@@ -9,3 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.smart-connections
+build
+output
+intermediate
+.vscode

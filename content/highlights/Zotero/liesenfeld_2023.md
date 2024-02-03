@@ -1,0 +1,40 @@
+---
+aliases:
+  - "Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators"
+authors: "Andreas Liesenfeld, Alianda Lopez, Mark Dingemanse"
+date: '2023-08-26 16:20:23'
+tags: []
+title: "Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators"
+url: "http://arxiv.org/abs/2307.05532"
+---
+
+# Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators
+
+## Abstract
+Large language models that exhibit instruction-following behaviour represent one of the biggest recent upheavals in conversational interfaces, a trend in large part fuelled by the release of OpenAI's ChatGPT, a proprietary large language model for text generation fine-tuned through reinforcement learning from human feedback (LLM+RLHF). We review the risks of relying on proprietary software and survey the first crop of open-source projects of comparable architecture and functionality. The main contribution of this paper is to show that openness is differentiated, and to offer scientific documentation of degrees of openness in this fast-moving field. We evaluate projects in terms of openness of code, training data, model weights, RLHF data, licensing, scientific documentation, and access methods. We find that while there is a fast-growing list of projects billing themselves as 'open source', many inherit undocumented data of dubious legality, few share the all-important instruction-tuning (a key site where human annotation labour is involved), and careful scientific documentation is exceedingly rare. Degrees of openness are relevant to fairness and accountability at all points, from data collection and curation to model architecture, and from training and fine-tuning to release and deployment.
+
+<mark style="background: #2ea8e5">We find that while there is a fast-growing list of projects</mark> [(p. 1)](zotero://open-pdf/library/items/DB656MRP?page=1)
+
+<mark style="background: #2ea8e5">billing themselves as ‘open source’, many inherit undocumented data of dubious legality, few share the all-important instructiontuning (a key site where human annotation labour is involved), and careful scientific documentation is exceedingly rare.</mark> [(p. 1)](zotero://open-pdf/library/items/DB656MRP?page=1)
+
+<mark style="background: #2ea8e5">Only three months after OpenAI rolled out ChatGPT, it abruptly discontinued API support for its widely used Codex model that had been available as a “free limited beta” since 2021 [44] — surprising users with only three days’ notice and undercutting at one blowthe reproducibility of at least 100 research papers.1 This is a starkreminder that proprietary systems are designed to offer smooth onboarding and convenience but come at the price of user lock-in and a lack of reliability.</mark> [(p. 2)](zotero://open-pdf/library/items/DB656MRP?page=2)
+
+<mark style="background: #2ea8e5">Proprietary systems come with considerable further risks and harms [2, 9]. They tend to be developed without transparent ethical oversight, and are typically rolled out with profit motives that incentivise generating hype over enabling careful scientific work. They allow companies to mask exploitative labour practices, privacy implications [27] and murky copyright situations [49].</mark> [(p. 2)](zotero://open-pdf/library/items/DB656MRP?page=2)
+
+<mark style="background: #2ea8e5">The ubiquity of ChatGPT interfaces makes it easy for anyone today to try out some prompt engineering (while freely providing further training data to OpenAI) — but it does not allow one to gain a critical and holistic understanding of the constraints and capabilities of such systems, nor of their risks and harms.</mark> [(p. 2)](zotero://open-pdf/library/items/DB656MRP?page=2)
+
+![[statics/liesenfeld_2023/image-3-x64-y86.png]]
+
+<mark style="background: #2ea8e5">The derivative nature of synthetic datasets is probably one reason they are released specifically “for research purposes only” [57], with commercial use strictly prohibited. This leads to an important wrinkle. Baize models and data are incorporated in several popular instruction-tuned text generators, including the Falcon family of models which bills itself as ready for “research and commer-cial utilization”4 in direct violation of Baize’s prohibition againstcommercial use. This is merely one example of the complex dependencies embedded in these tools, and the legal quagmires obscured by simple claims of ‘openness’.</mark> [(p. 4)](zotero://open-pdf/library/items/DB656MRP?page=4)
+
+<mark style="background: #5fb236">ChatGPT was announced in a company blog post and rolled out to the public with an interface designed to capture as much free human labour as possible, but without any technical documentation.</mark> [(p. 4)](zotero://open-pdf/library/items/DB656MRP?page=4)
+
+<mark style="background: #ff6666">But work that documents data provenance and traces harmful impacts [4, 49] deserves major scholarly and societal credit. Here, AI and NLP might benefit from work in software engineering and infrastructure, where strong frameworks already exist to foster accountability for datasets [22, 31, 45]. Interactive model cards [13] offer a promising step towards a humancentered approach to documentation.</mark> [(p. 4)](zotero://open-pdf/library/items/DB656MRP?page=4)
+
+<mark style="background: #ff6666">Today’s language technology landscape offers ample opportunities for what philosopher Ivan Illich has called counterfoil research: “Counterfoil research must clarify and dramatize the relationship of people to their tools. It ought to hold constantly before the public the resources that are available and the consequences of their use in various ways. It should impress on people the existence of any trend that threatens one of the major balances of which life depends” [23].</mark> [(p. 4)](zotero://open-pdf/library/items/DB656MRP?page=4)
+
+```
+@article{Liesenfeld_Lopez_Dingemanse_2023, title={Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators}, url={[http://arxiv.org/abs/2307.05532](http://arxiv.org/abs/2307.05532)}, DOI={[10.1145/3571884.3604316](https://doi.org/10.1145/3571884.3604316)}, abstractNote={Large language models that exhibit instruction-following behaviour represent one of the biggest recent upheavals in conversational interfaces, a trend in large part fuelled by the release of OpenAI’s ChatGPT, a proprietary large language model for text generation fine-tuned through reinforcement learning from human feedback (LLM+RLHF). We review the risks of relying on proprietary software and survey the first crop of open-source projects of comparable architecture and functionality. The main contribution of this paper is to show that openness is differentiated, and to offer scientific documentation of degrees of openness in this fast-moving field. We evaluate projects in terms of openness of code, training data, model weights, RLHF data, licensing, scientific documentation, and access methods. We find that while there is a fast-growing list of projects billing themselves as “open source”, many inherit undocumented data of dubious legality, few share the all-important instruction-tuning (a key site where human annotation labour is involved), and careful scientific documentation is exceedingly rare. Degrees of openness are relevant to fairness and accountability at all points, from data collection and curation to model architecture, and from training and fine-tuning to release and deployment.}, note={0 citations (Semantic Scholar/arXiv) [2023-07-17] 0 citations (Semantic Scholar/DOI) [2023-07-17] arXiv:2307.05532 [cs]}, author={Liesenfeld, Andreas and Lopez, Alianda and Dingemanse, Mark}, year={2023}, month={Jul} }
+```
+
+%% Import Date: 2023-08-26T16:20:32.163+01:00 %%

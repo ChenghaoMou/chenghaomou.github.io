@@ -1,0 +1,50 @@
+---
+order: -1
+reference: "https://horace.io/brrr_intro.html"
+tags: [Deep Learning, First Principle, Trick]
+title: 202205241112 Deep Learning First Principles for Efficiency
+---
+
+## Three Areas of Optimization
+
+### 1. Compute
+
+Compute refers to the arithmetic operations done by CPU or GPU, typically measured in floating point operations per second (FLOPS). We want to maximize this to take advantage of all the GPUs we are paying.
+
+It is often more difficult to increase the FLOPS than to reduce the memory footprint. One have to change the actual operations to do so, while there are a lot of tricks to use less memory.
+
+Often GPUs are optimized for matrix multiplication. For example, matrix multiplication makes up 99.80% of BERT's computation. The rest of operators, though occupying a small fraction of FLOPS, take about 40% of runtime due to [[#2 Memory Bandwidth]].
+
+### 2. Memory Bandwidth
+
+Memory bandwidth cost refers to the time spent on transferring data, from CPU to GPU or from one GPU to another.
+
+How can we reduce the transferring cost?
+1. Operator fusion: perform operators on the same data sequentially in one-go instead of sending data back and forth;
+2. Extra computation: such as re-materialization or activation checkpointing
+
+#### Calculation
+
+```
+Memory bandwidth: 1.5 TB/s
+FLOPS: 19.5 Tera FLOPS
+Time to load 400 Billion 4-byte (1.6TB) floats: ~1s
+20 Trillion operations: ~1s
+
+read + write time: ~2s
+number of operations needed to spend 2s: 20 T / 400 B * 2 = 100 ops
+```
+
+It means you have to perform more than 100 operations per float number for that 400 billion tensor to spend more time on compute than data transferring.
+
+### 3. Overhead
+
+Overhead means time spent on everything else. One example:
+
+> in the time that Python can perform a _single_ FLOP, an A100 could have chewed through **9.75 million FLOPS**.
+
+However, for modern GPUs, as long as the CPU is ahead of scheduling and queuing up the GPU tasks, large scale computation is less likely to be overhead bound. Two ways to find out if your workflow is overhead-bound:
+1. Scale your data, if the computation does not increase proportionally, then it is likely overhead-bound
+2. Profiling
+3. Sacrifice the flexibility by tracing the PyTorch code into JIT or CUDA operations to reduce PyTorch overhead
+

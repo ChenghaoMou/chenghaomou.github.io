@@ -1,0 +1,31 @@
+---
+url: https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/
+author: Jingwen Lu
+publisher: www.microsoft.com
+date: 2021-02-08
+tags: []
+---
+
+## Highlights
+<mark>•</mark>
+
+<mark>In search we’ve found about 15% of queries submitted by customers have misspellings.</mark>
+
+<mark>We’ve found we need a very large number of data points to train a high-quality spelling correction model for each language, and sourcing data in over 100 languages would be incredibly difficult logistically—not to mention costly in both time and money.</mark>
+
+<mark>This was made possible by leveraging recent advances in AI, particularly zero-shot learning combined with carefully designed large-scale pretraining tasks, and we also draw on historical linguistics theories.</mark>
+
+<mark>For precise and high-performing error models, search engines have largely leveraged user feedback on autocorrection recourse links. This practice has been very effective, especially for languages where user feedback data has been gathered on a large scale. For a language with very little web presence and user feedback, it’s challenging to gather an adequate amount of training data.</mark>
+
+<mark>Broadly speaking, there are two types of spelling errors. One is non-word error, and the other is real-word error.</mark>
+
+<mark>we designed a spelling correction pretraining task to enrich standard Transformer-based models.</mark>
+
+<mark>Also, if typos are considered noises in text, spelling correction can be considered as a denoising process that converts corrupted text into its original text.</mark>
+
+<mark>BART is trained by corrupting text with an arbitrary noise function and learning a model to reconstruct the original text.</mark>
+
+<mark>We have designed noise functions to generate common errors of rotation, insertion, deletion, and replacement. See the figure below for examples of these common errors.</mark>
+
+<mark>The number of pages with no results reduced by up to 30%. * The number of times users had to manually reformulate their query reduced by 5%. * The number of times users clicked on our spelling suggestion increased from single digits to 67%. * The number of times users clicked on any item on the page went from single digits to 70%.</mark>
+
