@@ -4,6 +4,7 @@ author: Oliver Burkeman
 publisher: Oliver Burkeman
 date: 2021-03-11
 tags: []
+title: "Treat your to-read pile like a river, not a bucket"
 ---
 
 ## Highlights
