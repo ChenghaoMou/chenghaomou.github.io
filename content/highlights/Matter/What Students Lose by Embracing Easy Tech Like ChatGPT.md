@@ -4,6 +4,7 @@ author: Peter Biles
 publisher: Mind Matters
 date: 2023-01-16
 tags: []
+title: "What Students Lose by Embracing Easy Tech Like ChatGPT"
 ---
 
 ## Highlights

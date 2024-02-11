@@ -4,6 +4,7 @@ author: André Staltz
 publisher: staltz.com
 date: 2023-07-20
 tags: []
+title: "Google shattered human connection"
 ---
 
 ## Highlights

@@ -4,6 +4,7 @@ author: David Brooks
 publisher: The New York Times
 date: 2023-02-01
 tags: []
+title: "In the Age of A.I., Major in Being Human"
 ---
 
 ## Highlights

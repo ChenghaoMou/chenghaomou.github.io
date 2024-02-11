@@ -4,6 +4,7 @@ author: Peter Biles
 publisher: Mind Matters
 date: 2023-01-04
 tags: []
+title: "Students Depend on ChatGPT for Final Exams"
 ---
 
 ## Highlights

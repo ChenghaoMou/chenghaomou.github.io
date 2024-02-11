@@ -5,7 +5,7 @@
   urldate = {2022-11-22},
   abstract = {It is shown that the bi-encoder scales well, de-duplicating a 10 million article corpus on a single GPU card in a matter of hours, and the neural approaches significantly outperform hashing and N -gram overlap. Identifying near duplicates within large, noisy text corpora has a myriad of applications that range from de-duplicating training datasets, reducing privacy risk, and evaluating test set leakage, to identifying reproduced news articles and literature within large corpora. Across these diverse applications, the overwhelming majority of work relies on N -grams. Limited efforts have been made to evaluate how well N -gram methods perform, in part because it is unclear how one could create an unbiased evaluation dataset for a massive corpus. This study uses the unique timeliness of historical news wires to create a 27,210 document dataset, with 122,876 positive duplicate pairs, for studying noise-robust de-duplication. The time-sensitivity of news makes comprehensive hand labelling feasible - despite the massive overall size of the corpus - as duplicates occur within a narrow date range. The study then develops and evaluates a range of de-duplication methods: hashing and N -gram overlap (which predominate in the literature), a contrastively trained bi-encoder, and a “re-rank” style approach combining a bi- and cross-encoder. The neural approaches significantly outperform hashing and N -gram overlap. We show that the bi-encoder scales well, de-duplicating a 10 million article corpus on a single GPU card in a matter of hours. The public release of our NEWS-COPY de-duplication dataset will facilitate further research and applications.},
   langid = {english},
-  keywords = {\#nosource},
+  keywords = {#nosource},
   annotation = {0 citations (Semantic Scholar/DOI) [2022-11-21]},
   file = {/Users/chenghao/Zotero/storage/NRPYCGI6/[PDF]_Noise-Robust_De-Duplication_at_Scale_Semantic_Scholar.pdf}
 }
@@ -19,7 +19,7 @@
   abstract = {Learn how to fine-tune LayoutLM for document-understand using Hugging Face Transformers. LayoutLM is a document image understanding and information extraction transformers.},
   langid = {english},
   organization = {{philschmid blog}},
-  keywords = {\#nosource}
+  keywords = {#nosource}
 }
 
 @online{_a,
@@ -84,6 +84,17 @@
   file = {/Users/chenghao/Zotero/storage/RH6Y243F/2401.html}
 }
 
+@online{_i,
+  title = {Training {{Data}} for the {{Price}} of a {{Sandwich}}: {{Common Crawl}}’s {{Impact}} on {{Generative AI}}},
+  shorttitle = {Training {{Data}} for the {{Price}} of a {{Sandwich}}},
+  url = {https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/},
+  urldate = {2024-02-06},
+  abstract = {Mozilla research finds that Common Crawl's outsized role in the generative AI boom has improved transparency and competition, but is also contributing to biased and opaque generative AI models.},
+  langid = {english},
+  organization = {{Mozilla Foundation}},
+  annotation = {\{"size": -1, "pages": -1, "previous": ""\}}
+}
+
 @online{abbas_2023,
   title = {{{SemDeDup}}: {{Data-efficient}} Learning at Web-Scale through Semantic Deduplication},
   shorttitle = {{{SemDeDup}}},
@@ -125,7 +136,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {We introduce HTLM, a hyper-text language model trained on a large-scale web crawl. Modeling hyper-text has a number of advantages: (1) it is easily gathered at scale, (2) it provides rich document-level and end-task-adjacent supervision (e.g. class and id attributes often encode document category information), and (3) it allows for new structured prompting that follows the established semantics of HTML (e.g. to do zero-shot summarization by infilling title tags for a webpage that contains the input text). We show that pretraining with a BART-style denoising loss directly on simplified HTML provides highly effective transfer for a wide range of end tasks and supervision levels. HTLM matches or exceeds the performance of comparably sized text-only LMs for zero-shot prompting and fine-tuning for classification benchmarks, while also setting new state-of-the-art performance levels for zero-shot summarization. We also find that hyper-text prompts provide more value to HTLM, in terms of data efficiency, than plain text prompts do for existing LMs, and that HTLM is highly effective at auto-prompting itself, by simply generating the most likely hyper-text formatting for any available training data. We will release all code and models to support future HTLM research.},
-  keywords = {\#nosource,hypter-text language model,nlp,prompting}
+  keywords = {#nosource,hypter-text language model,nlp,prompting}
 }
 
 @article{aghajanyan_2021a,
@@ -134,7 +145,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {We propose pre-finetuning, an additional large-scale learning stage between language model pre-training and fine-tuning. Pre-finetuning is massively multi-task learning (around 50 datasets, over 4.8 million total labeled examples), and is designed to encourage learning of representations that generalize better to many different tasks. We show that pre-finetuning consistently improves performance for pretrained discriminators (e.g.\textbackslash textbackslashtextasciitildeRoBERTa) and generation models (e.g.\textbackslash textbackslashtextasciitildeBART) on a wide range of tasks (sentence prediction, commonsense reasoning, MRC, etc.), while also significantly improving sample efficiency during fine-tuning. We also show that large-scale multi-tasking is crucial; pre-finetuning can hurt performance when few tasks are used up until a critical point (usually above 15) after which performance improves linearly in the number of tasks.},
-  keywords = {\#nosource}
+  keywords = {#nosource}
 }
 
 @online{ainslie_2023,
@@ -252,7 +263,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {We present DocFormer – a multi-modal transformer based architecture for the task of Visual Document Understanding (VDU). VDU is a challenging problem which aims to understand documents in their varied formats (forms, receipts etc.) and layouts. In addition, DocFormer is pre-trained in an unsupervised fashion using carefully designed tasks which encourage multi-modal interaction. DocFormer uses text, vision and spatial features and combines them using a novel multi-modal self-attention layer. DocFormer also shares learned spatial embeddings across modalities which makes it easy for the model to correlate text to visual tokens and vice versa. DocFormer is evaluated on 4 different datasets each with strong baselines. DocFormer achieves state-of-the-art results on all of them, sometimes beating models 4x its size (in no. of parameters).},
-  keywords = {\#nosource,document,nlp,transformer}
+  keywords = {#nosource,document,nlp,transformer}
 }
 
 @online{austin_2021,
@@ -272,12 +283,40 @@
   file = {/Users/chenghao/Zotero/storage/LXCEL3YS/Austin et al. - 2021 - Program Synthesis with Large Language Models.pdf}
 }
 
+@online{baechler_2024,
+  title = {{{ScreenAI}}: {{A Vision-Language Model}} for {{UI}} and {{Infographics Understanding}}},
+  shorttitle = {{{ScreenAI}}},
+  author = {Baechler, Gilles and Sunkara, Srinivas and Wang, Maria and Zubach, Fedir and Mansoor, Hassan and Etter, Vincent and Cărbune, Victor and Lin, Jason and Chen, Jindong and Sharma, Abhanshu},
+  date = {2024-02-07},
+  url = {https://arxiv.org/abs/2402.04615v1},
+  urldate = {2024-02-08},
+  abstract = {Screen user interfaces (UIs) and infographics, sharing similar visual language and design principles, play important roles in human communication and human-machine interaction. We introduce ScreenAI, a vision-language model that specializes in UI and infographics understanding. Our model improves upon the PaLI architecture with the flexible patching strategy of pix2struct and is trained on a unique mixture of datasets. At the heart of this mixture is a novel screen annotation task in which the model has to identify the type and location of UI elements. We use these text annotations to describe screens to Large Language Models and automatically generate question-answering (QA), UI navigation, and summarization training datasets at scale. We run ablation studies to demonstrate the impact of these design choices. At only 5B parameters, ScreenAI achieves new state-of-the-artresults on UI- and infographics-based tasks (Multi-page DocVQA, WebSRC, MoTIF and Widget Captioning), and new best-in-class performance on others (Chart QA, DocVQA, and InfographicVQA) compared to models of similar size. Finally, we release three new datasets: one focused on the screen annotation task and two others focused on question answering.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  annotation = {\{"size": 3785069, "pages": 15, "previous": ""\}},
+  file = {/Users/chenghao/Zotero/storage/XQ4R3P7V/Baechler et al. - 2024 - ScreenAI A Vision-Language Model for UI and Infographics Understanding.pdf}
+}
+
 @article{bai_,
   title = {Constitutional {{AI}}: {{Harmlessness}} from {{AI Feedback}}},
   author = {Bai, Yuntao and Kadavath, Saurav and Kundu, Sandipan and Askell, Amanda and Kernion, Jackson and Jones, Andy and Chen, Anna and Goldie, Anna and Mirhoseini, Azalia and McKinnon, Cameron and Chen, Carol and Olsson, Catherine and Olah, Christopher and Hernandez, Danny and Drain, Dawn and Ganguli, Deep and Li, Dustin and Tran-Johnson, Eli and Perez, Ethan and Kerr, Jamie and Mueller, Jared and Ladish, Jeffrey and Landau, Joshua and Ndousse, Kamal and Lukosuite, Kamile and Lovitt, Liane and Sellitto, Michael and Elhage, Nelson and Schiefer, Nicholas and Mercado, Noemi and DasSarma, Nova and Lasenby, Robert and Larson, Robin and Ringer, Sam and Johnston, Scott and Kravec, Shauna and Showk, Sheer El and Fort, Stanislav and Lanham, Tamera and Telleen-Lawton, Timothy and Conerly, Tom and Henighan, Tom and Hume, Tristan and Bowman, Samuel R and Hatfield-Dodds, Zac and Mann, Ben and Amodei, Dario and Joseph, Nicholas and McCandlish, Sam and Brown, Tom and Kaplan, Jared},
   abstract = {As AI systems become more capable, we would like to enlist their help to supervise other AIs. We experiment with methods for training a harmless AI assistant through selfimprovement, without any human labels identifying harmful outputs. The only human oversight is provided through a list of rules or principles, and so we refer to the method as ‘Constitutional AI’. The process involves both a supervised learning and a reinforcement learning phase. In the supervised phase we sample from an initial model, then generate self-critiques and revisions, and then finetune the original model on revised responses. In the RL phase, we sample from the finetuned model, use a model to evaluate which of the two samples is better, and then train a preference model from this dataset of AI preferences. We then train with RL using the preference model as the reward signal, i.e. we use ‘RL from AI Feedback’ (RLAIF). As a result we are able to train a harmless but nonevasive AI assistant that engages with harmful queries by explaining its objections to them. Both the SL and RL methods can leverage chain-of-thought style reasoning to improve the human-judged performance and transparency of AI decision making. These methods make it possible to control AI behavior more precisely and with far fewer human labels.},
   langid = {english},
   file = {/Users/chenghao/Zotero/storage/4ULNGVNR/Bai_et_al_(Constitutional_AI.pdf}
+}
+
+@online{bandy_2021,
+  title = {Addressing "{{Documentation Debt}}" in {{Machine Learning Research}}: {{A Retrospective Datasheet}} for {{BookCorpus}}},
+  shorttitle = {Addressing "{{Documentation Debt}}" in {{Machine Learning Research}}},
+  author = {Bandy, Jack and Vincent, Nicholas},
+  date = {2021-05-11},
+  url = {https://arxiv.org/abs/2105.05241v1},
+  urldate = {2024-02-05},
+  abstract = {Recent literature has underscored the importance of dataset documentation work for machine learning, and part of this work involves addressing "documentation debt" for datasets that have been used widely but documented sparsely. This paper aims to help address documentation debt for BookCorpus, a popular text dataset for training large language models. Notably, researchers have used BookCorpus to train OpenAI's GPT-N models and Google's BERT models, even though little to no documentation exists about the dataset's motivation, composition, collection process, etc. We offer a preliminary datasheet that provides key context and information about BookCorpus, highlighting several notable deficiencies. In particular, we find evidence that (1) BookCorpus likely violates copyright restrictions for many books, (2) BookCorpus contains thousands of duplicated books, and (3) BookCorpus exhibits significant skews in genre representation. We also find hints of other potential deficiencies that call for future research, including problematic content, potential skews in religious representation, and lopsided author contributions. While more work remains, this initial effort to provide a datasheet for BookCorpus adds to growing literature that urges more careful and systematic documentation for machine learning datasets.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  annotation = {\{"size": 245249, "pages": 16, "previous": ""\}},
+  file = {/Users/chenghao/Zotero/storage/MZYN6ZLU/Bandy and Vincent - 2021 - Addressing Documentation Debt in Machine Learning Research A Retrospective Datasheet for BookCorp.pdf}
 }
 
 @online{bang_2023,
@@ -570,6 +609,19 @@
   file = {/Users/chenghao/Zotero/storage/PXPNIHWQ/Breiman_(Statistical_Modeling.pdf}
 }
 
+@online{bsharat_2023,
+  title = {Principled {{Instructions Are All You Need}} for {{Questioning LLaMA-1}}/2, {{GPT-3}}.5/4},
+  author = {Bsharat, Sondos Mahmoud and Myrzakhan, Aidar and Shen, Zhiqiang},
+  date = {2023-12-26},
+  url = {https://arxiv.org/abs/2312.16171v2},
+  urldate = {2024-02-05},
+  abstract = {This paper introduces 26 guiding principles designed to streamline the process of querying and prompting large language models. Our goal is to simplify the underlying concepts of formulating questions for various scales of large language models, examining their abilities, and enhancing user comprehension on the behaviors of different scales of large language models when feeding into different prompts. Extensive experiments are conducted on LLaMA-1/2 (7B, 13B and 70B), GPT-3.5/4 to verify the effectiveness of the proposed principles on instructions and prompts design. We hope that this work can provide a better guide for researchers working on the prompting of large language models. Project page is available at https://github.com/VILA-Lab/ATLAS.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  annotation = {\{"size": 1577522, "pages": 26, "previous": ""\}},
+  file = {/Users/chenghao/Zotero/storage/XSNKWPLE/Bsharat et al. - 2023 - Principled Instructions Are All You Need for Questioning LLaMA-12, GPT-3.54.pdf}
+}
+
 @online{bulatov_2022,
   title = {Recurrent {{Memory Transformer}}},
   author = {Bulatov, Aydar and Kuratov, Yuri and Burtsev, Mikhail S.},
@@ -760,7 +812,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {Pipelined NLP systems have largely been superseded by end-to-end neural modeling, yet nearly all commonly-used models still require an explicit tokenization step. While recent tokenization approaches based on data-derived subword lexicons are less brittle than manually engineered tokenizers, these techniques are not equally suited to all languages, and the use of any fixed vocabulary may limit a model's ability to adapt. In this paper, we present CANINE, a neural encoder that operates directly on character sequences, without explicit tokenization or vocabulary, and a pre-training strategy that operates either directly on characters or optionally uses subwords as a soft inductive bias. To use its finer-grained input effectively and efficiently, CANINE combines downsampling, which reduces the input sequence length, with a deep transformer stack, which encodes context. CANINE outperforms a comparable mBERT model by 2.8 F1 on TyDi QA, a challenging multilingual benchmark, despite having 28\% fewer model parameters.},
-  keywords = {\#nosource}
+  keywords = {#nosource}
 }
 
 @article{csanyi_2021,
@@ -847,7 +899,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {The world of empirical machine learning (ML) strongly relies on benchmarks in order to determine the relative effectiveness of different algorithms and methods. This paper proposes the notion of "a benchmark lottery" that describes the overall fragility of the ML benchmarking process. The benchmark lottery postulates that many factors, other than fundamental algorithmic superiority, may lead to a method being perceived as superior. On multiple benchmark setups that are prevalent in the ML community, we show that the relative performance of algorithms may be altered significantly simply by choosing different benchmark tasks, highlighting the fragility of the current paradigms and potential fallacious interpretation derived from benchmarking ML methods. Given that every benchmark makes a statement about what it perceives to be important, we argue that this might lead to biased progress in the community. We discuss the implications of the observed phenomena and provide recommendations on mitigating them using multiple machine learning domains and communities as use cases, including natural language processing, computer vision, information retrieval, recommender systems, and reinforcement learning.},
-  keywords = {\#nosource}
+  keywords = {#nosource}
 }
 
 @article{dejean_2022,
@@ -998,7 +1050,7 @@
   url = {http://arxiv.org/abs/2101.03961},
   urldate = {2021-09-10},
   abstract = {In deep learning, models typically reuse the same parameters for all inputs. Mixture of Experts (MoE) defies this and instead selects different parameters for each incoming example. The result is a sparsely-activated model -- with outrageous numbers of parameters -- but a constant computational cost. However, despite several notable successes of MoE, widespread adoption has been hindered by complexity, communication costs and training instability -- we address these with the Switch Transformer. We simplify the MoE routing algorithm and design intuitive improved models with reduced communication and computational costs. Our proposed training techniques help wrangle the instabilities and we show large sparse models may be trained, for the first time, with lower precision (bfloat16) formats. We design models based off T5-Base and T5-Large to obtain up to 7x increases in pre-training speed with the same computational resources. These improvements extend into multilingual settings where we measure gains over the mT5-Base version across all 101 languages. Finally, we advance the current scale of language models by pre-training up to trillion parameter models on the "Colossal Clean Crawled Corpus" and achieve a 4x speedup over the T5-XXL model.},
-  keywords = {\#nosource,Computer Science - Artificial Intelligence,Computer Science - Machine Learning,moe,transformer},
+  keywords = {#nosource,Computer Science - Artificial Intelligence,Computer Science - Machine Learning,moe,transformer},
   annotation = {277 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Zotero/storage/CNTIHHGV/Fedus_et_al_(2021)_Switch_Transformers.pdf}
 }
@@ -1209,6 +1261,7 @@
   abstract = {Language models (LMs) have become ubiquitous in both NLP research and in commercial product offerings. As their commercial importance has surged, the most powerful models have become closed off, gated behind proprietary interfaces, with important details of their training data, architectures, and development undisclosed. Given the importance of these details in scientifically studying these models, including their biases and potential risks, we believe it is essential for the research community to have access to powerful, truly open LMs. To this end, this technical report details the first release of OLMo, a state-of-the-art, truly Open Language Model and its framework to build and study the science of language modeling. Unlike most prior efforts that have only released model weights and inference code, we release OLMo and the whole framework, including training data and training and evaluation code. We hope this release will empower and strengthen the open research community and inspire a new wave of innovation.},
   langid = {english},
   organization = {{arXiv.org}},
+  annotation = {\{"size": 518849, "pages": 21, "previous": ""\}},
   file = {/Users/chenghao/Zotero/storage/4AEWMPLR/Groeneveld et al. - 2024 - OLMo Accelerating the Science of Language Models.pdf}
 }
 
@@ -1259,6 +1312,19 @@
   pubstate = {preprint},
   keywords = {Computer Science - Computation and Language},
   file = {/Users/chenghao/Zotero/storage/4C83PGN7/Gudibande et al. - 2023 - The False Promise of Imitating Proprietary LLMs.pdf}
+}
+
+@online{guo_2024,
+  title = {Direct {{Language Model Alignment}} from {{Online AI Feedback}}},
+  author = {Guo, Shangmin and Zhang, Biao and Liu, Tianlin and Liu, Tianqi and Khalman, Misha and Llinares, Felipe and Rame, Alexandre and Mesnard, Thomas and Zhao, Yao and Piot, Bilal and Ferret, Johan and Blondel, Mathieu},
+  date = {2024-02-07},
+  url = {https://arxiv.org/abs/2402.04792v1},
+  urldate = {2024-02-08},
+  abstract = {Direct alignment from preferences (DAP) methods, such as DPO, have recently emerged as efficient alternatives to reinforcement learning from human feedback (RLHF), that do not require a separate reward model. However, the preference datasets used in DAP methods are usually collected ahead of training and never updated, thus the feedback is purely offline. Moreover, responses in these datasets are often sampled from a language model distinct from the one being aligned, and since the model evolves over training, the alignment phase is inevitably off-policy. In this study, we posit that online feedback is key and improves DAP methods. Our method, online AI feedback (OAIF), uses an LLM as annotator: on each training iteration, we sample two responses from the current model and prompt the LLM annotator to choose which one is preferred, thus providing online feedback. Despite its simplicity, we demonstrate via human evaluation in several tasks that OAIF outperforms both offline DAP and RLHF methods. We further show that the feedback leveraged in OAIF is easily controllable, via instruction prompts to the LLM annotator.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  annotation = {\{"size": 987022, "pages": 18, "previous": ""\}},
+  file = {/Users/chenghao/Zotero/storage/PHHW447R/Guo et al. - 2024 - Direct Language Model Alignment from Online AI Feedback.pdf}
 }
 
 @online{gururangan_2023,
@@ -1563,7 +1629,7 @@
   url = {http://arxiv.org/abs/2107.14795},
   urldate = {2021-08-03},
   abstract = {The recently-proposed Perceiver model obtains good results on several domains (images, audio, multimodal, point clouds) while scaling linearly in compute and memory with the input size. While the Perceiver supports many kinds of inputs, it can only produce very simple outputs such as class scores. Perceiver IO overcomes this limitation without sacrificing the original's appealing properties by learning to flexibly query the model's latent space to produce outputs of arbitrary size and semantics. Perceiver IO still decouples model depth from data size and still scales linearly with data size, but now with respect to both input and output sizes. The full Perceiver IO model achieves strong results on tasks with highly structured output spaces, such as natural language and visual understanding, StarCraft II, and multi-task and multi-modal domains. As highlights, Perceiver IO matches a Transformer-based BERT baseline on the GLUE language benchmark without the need for input tokenization and achieves state-of-the-art performance on Sintel optical flow estimation.},
-  keywords = {\#nosource,bert,Computer Science - Computation and Language,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Computer Science - Sound,Electrical Engineering and Systems Science - Audio and Speech Processing,input},
+  keywords = {#nosource,bert,Computer Science - Computation and Language,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Computer Science - Sound,Electrical Engineering and Systems Science - Audio and Speech Processing,input},
   annotation = {34 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Zotero/storage/E83UCN2U/Jaegle_et_al_(2021)_Perceiver_IO.pdf}
 }
@@ -1680,7 +1746,7 @@
   author = {{Jürgen Schmidhuber}},
   date = {2022-12-29},
   url = {https://people.idsia.ch/~juergen/deep-learning-history.html},
-  keywords = {\#nosource},
+  keywords = {#nosource},
   annotation = {\{"size": 6899575, "pages": 86, "previous": ""\}},
   file = {/Users/chenghao/Zotero/storage/VI5H6374/Jürgen_Schmidhuber_(2022)_Annotated_History_of_Modern_AI_and_Deep_Learning.pdf}
 }
@@ -1786,7 +1852,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {A major challenge in deploying transformer models is their prohibitive inference cost, which quadratically scales with the input sequence length. This makes it especially difficult to use transformers for processing long sequences. To address this, we present a novel Learned Token Pruning (LTP) method that reduces redundant tokens as the data passes through the different layers of the transformer. In particular, LTP prunes tokens with an attention score below a threshold value, which is learned during training. Importantly, our threshold based method avoids algorithmically expensive operations such as top-k token selection which are used in prior token pruning methods, and also leads to structured pruning. We extensively test the performance of our approach on multiple GLUE tasks and show that our learned threshold based method consistently outperforms the prior state-of-the-art top-k token based method by up to \textbackslash textbackslashtextasciitilde2\% higher accuracy with the same amount of FLOPs. Furthermore, our preliminary results show up to 1.4x and 1.9x throughput improvement on Tesla T4 GPU and Intel Haswell CPU, respectively, with less than 1\% of accuracy drop (and up to 2.1x FLOPs reduction). Our code has been developed in PyTorch and has been open-sourced.},
-  keywords = {\#nosource,nlp,token pruning,transformer}
+  keywords = {#nosource,nlp,token pruning,transformer}
 }
 
 @online{kim_2022,
@@ -1888,7 +1954,7 @@
   urldate = {2022-12-20},
   abstract = {Large Language Models (LLMs) play an ever-increasing role in the field of Artificial Intelligence (AI)--not only for natural language processing but also for code understanding and generation. To stimulate open and responsible research on LLMs for code, we introduce The Stack, a 3.1 TB dataset consisting of permissively licensed source code in 30 programming languages. We describe how we collect the full dataset, construct a permissively licensed subset, present a data governance plan, discuss limitations, and show promising results on text2code benchmarks by training 350M-parameter decoders on different Python subsets. We find that (1) near-deduplicating the data significantly boosts performance across all experiments, and (2) it is possible to match previously reported HumanEval and MBPP performance using only permissively licensed data. We make the dataset available at https://hf.co/BigCode, provide a tool called "Am I in The Stack" (https://hf.co/spaces/bigcode/in-the-stack) for developers to search The Stack for copies of their code, and provide a process for code to be removed from the dataset by following the instructions at https://www.bigcode-project.org/docs/about/the-stack/.},
   pubstate = {preprint},
-  keywords = {\#nosource,Computer Science - Artificial Intelligence,Computer Science - Computation and Language},
+  keywords = {#nosource,Computer Science - Artificial Intelligence,Computer Science - Computation and Language},
   file = {/Users/chenghao/Zotero/storage/LA6EBPZS/Kocetkov et al. - 2022 - The Stack 3 TB of permissively licensed source code.pdf}
 }
 
@@ -2019,7 +2085,7 @@
   urldate = {2023-12-21},
   abstract = {High throughput serving of large language models (LLMs) requires batching sufficiently many requests at a time. However, existing systems struggle because the key-value cache (KV cache) memory for each request is huge and grows and shrinks dynamically. When managed inefficiently, this memory can be significantly wasted by fragmentation and redundant duplication, limiting the batch size. To address this problem, we propose PagedAttention, an attention algorithm inspired by the classical virtual memory and paging techniques in operating systems. On top of it, we build vLLM, an LLM serving system that achieves (1) near-zero waste in KV cache memory and (2) flexible sharing of KV cache within and across requests to further reduce memory usage. Our evaluations show that vLLM improves the throughput of popular LLMs by 2-4\$\textbackslash times\$ with the same level of latency compared to the state-of-the-art systems, such as FasterTransformer and Orca. The improvement is more pronounced with longer sequences, larger models, and more complex decoding algorithms. vLLM's source code is publicly available at https://github.com/vllm-project/vllm},
   pubstate = {preprint},
-  keywords = {{Computer Science - Distributed, Parallel, and Cluster Computing},Computer Science - Machine Learning},
+  keywords = {Computer Science - Distributed Parallel and Cluster Computing,Computer Science - Machine Learning},
   annotation = {\{"size": 1459631, "pages": 16, "previous": "arXiv:2309.06180 [cs]"\}},
   file = {/Users/chenghao/Zotero/storage/JUIDZQDG/Kwon_et_al_(2023)_Efficient_Memory_Management_for_Large_Language_Model_Serving_with_PagedAttention.pdf}
 }
@@ -2034,7 +2100,7 @@
   urldate = {2023-09-17},
   abstract = {As a fundamental tool in hierarchical graph clustering, computing connected components has been a central problem in large-scale data mining. While many known algorithms have been developed for this problem, they are either not scalable in practice or lack strong theoretical guarantees on the parallel running time, that is, the number of communication rounds. So far, the best proven guarantee is \$\textbackslash Oh(\textbackslash log n)\$, which matches the running time in the PRAM model. In this paper, we aim to design a distributed algorithm for this problem that works well in theory and practice. In particular, we present a simple algorithm based on contractions and provide a scalable implementation of it in MapReduce. On the theoretical side, in addition to showing \$\textbackslash Oh(\textbackslash log n)\$ convergence for all graphs, we prove an \$\textbackslash Oh(\textbackslash log \textbackslash log n)\$ parallel running time with high probability for a certain class of random graphs. We work in the MPC model that captures popular parallel computing frameworks, such as MapReduce, Hadoop or Spark. On the practical side, we show that our algorithm outperforms the state-of-the-art MapReduce algorithms. To confirm its scalability, we report empirical results on graphs with several trillions of edges.},
   pubstate = {preprint},
-  keywords = {Computer Science - Data Structures and Algorithms,{Computer Science - Distributed, Parallel, and Cluster Computing}},
+  keywords = {Computer Science - Data Structures and Algorithms,Computer Science - Distributed Parallel and Cluster Computing},
   annotation = {\{"size": 344578, "pages": 12, "previous": "arXiv:1807.10727 [cs]"\}},
   file = {/Users/chenghao/Zotero/storage/GXVNVFT6/Łącki et al. - 2018 - Connected Components at Scale via Local Contractions.pdf}
 }
@@ -2065,7 +2131,7 @@
   abstract = {As language models grow ever larger, the need for large-scale high-quality text datasets has never been more pressing, especially in multilingual settings. The BigScience workshop, a 1-year international and multidisciplinary initiative, was formed with the goal of researching and training large language models as a values-driven undertaking, putting issues of ethics, harm, and governance in the foreground. This paper documents the data creation and curation efforts undertaken by BigScience to assemble the Responsible Open-science Open-collaboration Text Sources (ROOTS) corpus, a 1.6TB dataset spanning 59 languages that was used to train the 176-billion-parameter BigScience Large Open-science Open-access Multilingual (BLOOM) language model. We further release a large initial subset of the corpus and analyses thereof, and hope to empower large-scale monolingual and multilingual modeling projects with both the data and the processing tools, as well as stimulate research around this large multilingual corpus.},
   eventtitle = {Thirty-Sixth {{Conference}} on {{Neural Information Processing Systems Datasets}} and {{Benchmarks Track}}},
   langid = {english},
-  keywords = {\#nosource},
+  keywords = {#nosource},
   file = {/Users/chenghao/Zotero/storage/KK7EIDKL/Laurençon et al. - 2022 - The BigScience ROOTS Corpus A 1.6TB Composite Multilingual Dataset.pdf}
 }
 
@@ -2428,7 +2494,7 @@
   pages = {15},
   abstract = {Supersized pre-trained language models have pushed the accuracy of various NLP tasks to a new state-of-the-art (SOTA). Rather than pursuing the reachless SOTA accuracy, most works are pursuing improvement on other dimensions such as efficiency, leading to "Pareto SOTA". Different from accuracy, the metric for efficiency varies across different studies, making them hard to be fairly compared. To that end, this work presents ELUE (Efficient Language Understanding Evaluation), a standard evaluation, and public leaderboard for efficient NLP models. ELUE is dedicated to depict the Pareto Front for various language understanding tasks, such that it can tell whether and how much a method achieves Pareto improvement. Along with the benchmark, we also pre-train and release a strong baseline, ElasticBERT, whose elasticity is both static and dynamic. ElasticBERT is static in that it allows reducing model layers on demand. ElasticBERT is dynamic in that it selectively executes parts of model layers conditioned on the input. We demonstrate the ElasticBERT, despite its simplicity, outperforms or performs on par with SOTA compressed and early exiting models. The ELUE benchmark is publicly available at http://eluebenchmark.fastnlp.top/1.},
   langid = {english},
-  keywords = {\#nosource,benchmark,efficiency,nlp}
+  keywords = {#nosource,benchmark,efficiency,nlp}
 }
 
 @unpublished{liu_2021c,
@@ -2900,6 +2966,20 @@
   file = {/Users/chenghao/Zotero/storage/AJ8RUM55/Niven_Kao_(2019)_Probing_Neural_Network_Comprehension_of_Natural_Language_Arguments.pdf}
 }
 
+@online{nussbaum_2024,
+  title = {Nomic {{Embed}}: {{Training}} a {{Reproducible Long Context Text Embedder}}},
+  shorttitle = {Nomic {{Embed}}},
+  author = {Nussbaum, Zach and Morris, John X. and Duderstadt, Brandon and Mulyar, Andriy},
+  date = {2024-02-02},
+  url = {https://arxiv.org/abs/2402.01613v1},
+  urldate = {2024-02-05},
+  abstract = {This technical report describes the training of nomic-embed-text-v1, the first fully reproducible, open-source, open-weights, open-data, 8192 context length English text embedding model that outperforms both OpenAI Ada-002 and OpenAI text-embedding-3-small on short and long-context tasks. We release the training code and model weights under an Apache 2 license. In contrast with other open-source models, we release a training data loader with 235 million curated text pairs that allows for the full replication of nomic-embed-text-v1. You can find code and data to replicate the model at https://github.com/nomic-ai/contrastors},
+  langid = {english},
+  organization = {{arXiv.org}},
+  annotation = {\{"size": 356769, "pages": 12, "previous": ""\}},
+  file = {/Users/chenghao/Zotero/storage/7PE46NUF/Nussbaum et al. - 2024 - Nomic Embed Training a Reproducible Long Context Text Embedder.pdf}
+}
+
 @online{nylund_2023,
   title = {Time Is {{Encoded}} in the {{Weights}} of {{Finetuned Language Models}}},
   author = {Nylund, Kai and Gururangan, Suchin and Smith, Noah A.},
@@ -3076,7 +3156,7 @@
   url = {http://arxiv.org/abs/2108.00391},
   urldate = {2021-08-03},
   abstract = {Commonly-used transformer language models depend on a tokenization schema which sets an unchangeable subword vocabulary prior to pre-training, destined to be applied to all downstream tasks regardless of domain shift, novel word formations, or other sources of vocabulary mismatch. Recent work has shown that "token-free" models can be trained directly on characters or bytes, but training these models from scratch requires substantial computational resources, and this implies discarding the many domain-specific models that were trained on tokens. In this paper, we present XRayEmb, a method for retrofitting existing token-based models with character-level information. XRayEmb is composed of a character-level "encoder" that computes vector representations of character sequences, and a generative component that decodes from the internal representation to a character sequence. We show that incorporating XRayEmb's learned vectors into sequences of pre-trained token embeddings helps performance on both autoregressive and masked pre-trained transformer architectures and on both sequence-level and sequence tagging tasks, particularly on non-standard English text.},
-  keywords = {\#nosource,Computer Science - Computation and Language,token},
+  keywords = {#nosource,Computer Science - Computation and Language,token},
   annotation = {1 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Zotero/storage/JLUTX6YN/Pinter_et_al_(2021)_Learning_to_Look_Inside.pdf}
 }
@@ -3217,7 +3297,7 @@
   urldate = {2022-11-22},
   abstract = {The correct use of model evaluation, model selection, and algorithm selection techniques is vital in academic machine learning research as well as in many industrial settings. This article reviews different techniques that can be used for each of these three subtasks and discusses the main advantages and disadvantages of each technique with references to theoretical and empirical studies. Further, recommendations are given to encourage best yet feasible practices in research and applications of machine learning. Common methods such as the holdout method for model evaluation and selection are covered, which are not recommended when working with small datasets. Different flavors of the bootstrap technique are introduced for estimating the uncertainty of performance estimates, as an alternative to confidence intervals via normal approximation if bootstrapping is computationally feasible. Common cross-validation techniques such as leave-one-out cross-validation and k-fold cross-validation are reviewed, the bias-variance trade-off for choosing k is discussed, and practical tips for the optimal choice of k are given based on empirical evidence. Different statistical tests for algorithm comparisons are presented, and strategies for dealing with multiple comparisons such as omnibus tests and multiple-comparison corrections are discussed. Finally, alternative methods for algorithm selection, such as the combined F-test 5x2 cross-validation and nested cross-validation, are recommended for comparing machine learning algorithms when datasets are small.},
   pubstate = {preprint},
-  keywords = {\#nosource,Computer Science - Machine Learning,Statistics - Machine Learning},
+  keywords = {#nosource,Computer Science - Machine Learning,Statistics - Machine Learning},
   annotation = {\{"size": 1955226, "pages": 49, "previous": "390 citations (Semantic Scholar/arXiv) [2022-11-21]\textbackslash narXiv:1811.12808 [cs, stat]\textbackslash nversion: 2"\}},
   file = {/Users/chenghao/Zotero/storage/5647EYZI/Raschka - 2020 - Model Evaluation, Model Selection, and Algorithm S.pdf}
 }
@@ -3561,7 +3641,7 @@
   urldate = {2023-02-04},
   abstract = {Large language models have achieved impressive performance on various natural language processing tasks. However, so far they have been evaluated primarily on benchmarks where all information in the input context is relevant for solving the task. In this work, we investigate the distractibility of large language models, i.e., how the model problem-solving accuracy can be influenced by irrelevant context. In particular, we introduce Grade-School Math with Irrelevant Context (GSM-IC), an arithmetic reasoning dataset with irrelevant information in the problem description. We use this benchmark to measure the distractibility of cutting-edge prompting techniques for large language models, and find that the model performance is dramatically decreased when irrelevant information is included. We also identify several approaches for mitigating this deficiency, such as decoding with self-consistency and adding to the prompt an instruction that tells the language model to ignore the irrelevant information.},
   pubstate = {preprint},
-  keywords = {\#nosource,Computer Science - Artificial Intelligence,Computer Science - Computation and Language},
+  keywords = {#nosource,Computer Science - Artificial Intelligence,Computer Science - Computation and Language},
   annotation = {0 citations (Semantic Scholar/arXiv) [2023-02-04]},
   file = {/Users/chenghao/Zotero/storage/IV246Z3J/Shi_et_al_(2023)_Large_Language_Models_Can_Be_Easily_Distracted_by_Irrelevant_Context.pdf}
 }
@@ -3604,6 +3684,7 @@
   abstract = {Language models have become a critical technology to tackling a wide range of natural language processing tasks, yet many details about how the best-performing language models were developed are not reported. In particular, information about their pretraining corpora is seldom discussed: commercial language models rarely provide any information about their data; even open models rarely release datasets they are trained on, or an exact recipe to reproduce them. As a result, it is challenging to conduct certain threads of language modeling research, such as understanding how training data impacts model capabilities and shapes their limitations. To facilitate open research on language model pretraining, we release Dolma, a three trillion tokens English corpus, built from a diverse mixture of web content, scientific papers, code, public-domain books, social media, and encyclopedic materials. In addition, we open source our data curation toolkit to enable further experimentation and reproduction of our work. In this report, we document Dolma, including its design principles, details about its construction, and a summary of its contents. We interleave this report with analyses and experimental results from training language models on intermediate states of Dolma to share what we have learned about important data curation practices, including the role of content or quality filters, deduplication, and multi-source mixing. Dolma has been used to train OLMo, a state-of-the-art, open language model and framework designed to build and study the science of language modeling.},
   langid = {english},
   organization = {{arXiv.org}},
+  annotation = {\{"size": 10087885, "pages": 83, "previous": ""\}},
   file = {/Users/chenghao/Zotero/storage/ZA54BQ79/Soldaini et al. - 2024 - Dolma an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research.pdf}
 }
 
@@ -3789,7 +3870,7 @@
   urldate = {2022-10-07},
   abstract = {This paper focuses on the embedding learning of word blocks containing text and layout information, and proposes UTel, a language model with Unified TExt and Layout pre-training that achieves superior performance than previous methods on various downstream tasks, though requiring no image modality. Due to the complex layouts of documents, it is challenging to extract information for documents. Most previous studies develop multimodal pre-trained models in a self-supervised way. In this paper, we focus on the embedding learning of word blocks containing text and layout information, and propose UTel, a language model with Unified TExt and Layout pre-training. Specifically, we propose two pre-training tasks: Surrounding Word Prediction (SWP) for the layout learning, and Contrastive learning of Word Embeddings (CWE) for identifying different word blocks. Moreover, we replace the commonly used 1D position embedding with a 1D clipped relative position embedding. In this way, the joint training of Masked Layout-Language Modeling (MLLM) and two newly proposed tasks enables the interaction between semantic and spatial features in a unified way. Additionally, the proposed UTel can process arbitrary-length sequences by removing the 1D position embedding, while maintaining competitive performance. Extensive experimental results show UTel learns better joint representations and achieves superior performance than previous methods on various downstream tasks, though requiring no image modality. Code is available at https://github.com/taosong2019/UTel .},
   langid = {english},
-  keywords = {\#nosource},
+  keywords = {#nosource},
   annotation = {GSCC: 0000109}
 }
 
@@ -3854,6 +3935,19 @@
   abstract = {This work introduces Document Collection Visual Question Answering (DocCVQA) a new dataset and related task, where questions are posed over a whole collection of document images and the goal is not only to provide the answer to the given question, but also to retrieve the set of documents that contain the information needed to infer the answer. Current tasks and methods in Document Understanding aims to process documents as single elements. However, documents are usually organized in collections (historical records, purchase invoices), that provide context useful for their interpretation. To address this problem, we introduce Document Collection Visual Question Answering (DocCVQA) a new dataset and related task, where questions are posed over a whole collection of document images and the goal is not only to provide the answer to the given question, but also to retrieve the set of documents that contain the information needed to infer the answer. Along with the dataset we propose a new evaluation metric and baselines which provide further insights to the new dataset and task.},
   annotation = {GSCC: 0000066},
   file = {/Users/chenghao/Zotero/storage/GY2FX2NF/Tito_et_al_(2021)_Document_Collection_Visual_Question_Answering.pdf}
+}
+
+@online{tito_2022,
+  title = {Hierarchical Multimodal Transformers for {{Multi-Page DocVQA}}},
+  author = {Tito, Rubèn and Karatzas, Dimosthenis and Valveny, Ernest},
+  date = {2022-12-07},
+  url = {https://arxiv.org/abs/2212.05935v2},
+  urldate = {2024-02-08},
+  abstract = {Document Visual Question Answering (DocVQA) refers to the task of answering questions from document images. Existing work on DocVQA only considers single-page documents. However, in real scenarios documents are mostly composed of multiple pages that should be processed altogether. In this work we extend DocVQA to the multi-page scenario. For that, we first create a new dataset, MP-DocVQA, where questions are posed over multi-page documents instead of single pages. Second, we propose a new hierarchical method, Hi-VT5, based on the T5 architecture, that overcomes the limitations of current methods to process long multi-page documents. The proposed method is based on a hierarchical transformer architecture where the encoder summarizes the most relevant information of every page and then, the decoder takes this summarized information to generate the final answer. Through extensive experimentation, we demonstrate that our method is able, in a single stage, to answer the questions and provide the page that contains the relevant information to find the answer, which can be used as a kind of explainability measure.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  annotation = {\{"size": 7354424, "pages": 14, "previous": ""\}},
+  file = {/Users/chenghao/Zotero/storage/JQ7DCCXM/Tito et al. - 2022 - Hierarchical multimodal transformers for Multi-Page DocVQA.pdf}
 }
 
 @online{tonmoy_2024,
@@ -4071,7 +4165,7 @@
   url = {http://arxiv.org/abs/2109.01652},
   urldate = {2021-09-06},
   abstract = {This paper explores a simple method for improving the zero-shot learning abilities of language models. We show that instruction tuning -- finetuning language models on a collection of tasks described via instructions -- substantially boosts zero-shot performance on unseen tasks. We take a 137B parameter pretrained language model and instruction-tune it on over 60 NLP tasks verbalized via natural language instruction templates. We evaluate this instruction-tuned model, which we call FLAN, on unseen task types. FLAN substantially improves the performance of its unmodified counterpart and surpasses zero-shot 175B GPT-3 on 19 of 25 tasks that we evaluate. FLAN even outperforms few-shot GPT-3 by a large margin on ANLI, RTE, BoolQ, AI2-ARC, OpenbookQA, and StoryCloze. Ablation studies reveal that number of tasks and model scale are key components to the success of instruction tuning.},
-  keywords = {\#nosource,Computer Science - Computation and Language,nlp,zero-short,zero-shot},
+  keywords = {#nosource,Computer Science - Computation and Language,nlp,zero-short,zero-shot},
   annotation = {66 citations (Semantic Scholar/arXiv) [2022-04-05]},
   file = {/Users/chenghao/Zotero/storage/84P926GC/Wei_et_al_(2021)_Finetuned_Language_Models_Are_Zero-Shot_Learners.pdf}
 }
@@ -4338,7 +4432,7 @@
   date = {2021},
   journaltitle = {arXiv},
   abstract = {Most widely-used pre-trained language models operate on sequences of tokens corresponding to word or subword units. Encoding text as a sequence of tokens requires a tokenizer, which is typically created as an independent artifact from the model. Token-free models that instead operate directly on raw text (bytes or characters) have many benefits: they can process text in any language out of the box, they are more robust to noise, and they minimize technical debt by removing complex and error-prone text preprocessing pipelines. Since byte or character sequences are longer than token sequences, past work on token-free models has often introduced new model architectures designed to amortize the cost of operating directly on raw text. In this paper, we show that a standard Transformer architecture can be used with minimal modifications to process byte sequences. We carefully characterize the trade-offs in terms of parameter count, training FLOPs, and inference speed, and show that byte-level models are competitive with their token-level counterparts. We also demonstrate that byte-level models are significantly more robust to noise and perform better on tasks that are sensitive to spelling and pronunciation. As part of our contribution, we release a new set of pre-trained byte-level Transformer models based on the T5 architecture, as well as all code and data used in our experiments.},
-  keywords = {\#nosource,embedding,pre-trained,tokenization}
+  keywords = {#nosource,embedding,pre-trained,tokenization}
 }
 
 @online{ye_2024,
