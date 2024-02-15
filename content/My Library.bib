@@ -2576,6 +2576,18 @@
   file = {/Users/chenghao/Zotero/storage/HSQGT2A3/Liu et al. - 2023 - LLM360 Towards Fully Transparent Open-Source LLMs.pdf}
 }
 
+@online{liu_2024,
+  title = {World {{Model}} on {{Million-Length Video And Language With RingAttention}}},
+  author = {Liu, Hao and Yan, Wilson and Zaharia, Matei and Abbeel, Pieter},
+  date = {2024-02-13},
+  url = {https://arxiv.org/abs/2402.08268v1},
+  urldate = {2024-02-14},
+  abstract = {Current language models fall short in understanding aspects of the world not easily described in words, and struggle with complex, long-form tasks. Video sequences offer valuable temporal information absent in language and static images, making them attractive for joint modeling with language. Such models could develop a understanding of both human textual knowledge and the physical world, enabling broader AI capabilities for assisting humans. However, learning from millions of tokens of video and language sequences poses challenges due to memory constraints, computational complexity, and limited datasets. To address these challenges, we curate a large dataset of diverse videos and books, utilize the RingAttention technique to scalably train on long sequences, and gradually increase context size from 4K to 1M tokens. This paper makes the following contributions: (a) Largest context size neural network: We train one of the largest context size transformers on long video and language sequences, setting new benchmarks in difficult retrieval tasks and long video understanding. (b) Solutions for overcoming vision-language training challenges, including using masked sequence packing for mixing different sequence lengths, loss weighting to balance language and vision, and model-generated QA dataset for long sequence chat. (c) A highly-optimized implementation with RingAttention, masked sequence packing, and other key features for training on millions-length multimodal sequences. (d) Fully open-sourced a family of 7B parameter models capable of processing long text documents (LWM-Text, LWM-Text-Chat) and videos (LWM, LWM-Chat) of over 1M tokens. This work paves the way for training on massive datasets of long video and language to develop understanding of both human knowledge and the multimodal world, and broader capabilities.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/V335CLN5/Liu_et_al_(2024)_World_Model_on_Million-Length_Video_And_Language_With_RingAttention.pdf}
+}
+
 @unpublished{lourie_2021,
   title = {{{UNICORN}} on {{RAINBOW}}: {{A Universal Commonsense Reasoning Model}} on a {{New Multitask Benchmark}}},
   shorttitle = {{{UNICORN}} on {{RAINBOW}}},
@@ -3611,6 +3623,19 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning},
   annotation = {0 citations (Semantic Scholar/arXiv) [2022-12-11]},
   file = {/Users/chenghao/Zotero/storage/LN5A4MU8/Shanahan_(2022)_Talking_About_Large_Language_Models.pdf}
+}
+
+@online{shenoy_2024,
+  title = {Lumos : {{Empowering Multimodal LLMs}} with {{Scene Text Recognition}}},
+  shorttitle = {Lumos},
+  author = {Shenoy, Ashish and Lu, Yichao and Jayakumar, Srihari and Chatterjee, Debojeet and Moslehpour, Mohsen and Chuang, Pierce and Harpale, Abhay and Bhardwaj, Vikas and Xu, Di and Zhao, Shicong and Zhao, Longfang and Ramchandani, Ankit and Dong, Xin Luna and Kumar, Anuj},
+  date = {2024-02-12},
+  url = {https://arxiv.org/abs/2402.08017v1},
+  urldate = {2024-02-14},
+  abstract = {We introduce Lumos, the first end-to-end multimodal question-answering system with text understanding capabilities. At the core of Lumos is a Scene Text Recognition (STR) component that extracts text from first person point-of-view images, the output of which is used to augment input to a Multimodal Large Language Model (MM-LLM). While building Lumos, we encountered numerous challenges related to STR quality, overall latency, and model inference. In this paper, we delve into those challenges, and discuss the system architecture, design choices, and modeling techniques employed to overcome these obstacles. We also provide a comprehensive evaluation for each component, showcasing high quality and efficiency.},
+  langid = {english},
+  organization = {{arXiv.org}},
+  file = {/Users/chenghao/Zotero/storage/5WYTF3DY/Shenoy_et_al_(2024)_Lumos.pdf}
 }
 
 @online{shevlane_2023,
