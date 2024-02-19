@@ -12,3 +12,5 @@ This is my journey of personal knowledge management – building zettelkaste
 ✌️
 
 Chenghao
+
+[[20240218204257|About Me]]
