@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Randomness in Scikit-learn</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</guid>
-    <description>Randomness in Scikit-learn Use RandomState to make sure your code is reproducible between runs maintains randomness within the pipeline Avoid setting the global random seed – it can fix all the randomness for any code subsequently involved, including caller code.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>Estimation</title>
+    <link>https://quartz.jzhao.xyz/4archives/System-Design/Estimation</link>
+    <guid>https://quartz.jzhao.xyz/4archives/System-Design/Estimation</guid>
+    <description>Back of the Envelope Estimation Rounding and approximation What are your assumptions? What is the unit? Common estimations: QPS, peak QPS, storage, cache .</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>Mixture of Experts</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</guid>
-    <description>Mixture of Experts Mixture of Experts (MoE) is special case of 202109261533 Adaptive Computation where multiple experts or learners are used to solve a problem by dividing the problem space into regions.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>Interview</title>
+    <link>https://quartz.jzhao.xyz/4archives/System-Design/Interview</link>
+    <guid>https://quartz.jzhao.xyz/4archives/System-Design/Interview</guid>
+    <description>Interview Goals To understand candidate’s ability to collaborate, to work under pressure, to solve problems, and to communicate — asking good question.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>Data-centric AI</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109281804-Data-centric-AI</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109281804-Data-centric-AI</guid>
-    <description>Data-centric AI A paradigm shift from model-centric AI to data-centric AI, advocated by many companies and scholars recently, especially Andrew Ng and his famous talk.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>Scaling</title>
+    <link>https://quartz.jzhao.xyz/4archives/System-Design/Scaling</link>
+    <guid>https://quartz.jzhao.xyz/4archives/System-Design/Scaling</guid>
+    <description>Scaling a Web Service Terminology Client: web browsers or mobile applications. Server: machines that host back-end code, not necessarily where data live.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>Contrastive Learning</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031750-Contrastive-Learning</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031750-Contrastive-Learning</guid>
-    <description>Contrastive Learning The idea of contrastive learning is to learn representations where similar input will have closer representations and vice versa, without explictly modeling the similarity.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>UNICORN on RAINBOW A Universal Commonsense Reasoning Model on a New Multitask Benchmark</title>
+    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UNICORN-on-RAINBOW-A-Universal-Commonsense-Reasoning-Model-on-a-New-Multitask-Benchmark</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UNICORN-on-RAINBOW-A-Universal-Commonsense-Reasoning-Model-on-a-New-Multitask-Benchmark</guid>
+    <description>202205231928 Cost Equivalent Curve 202205231931 Transfer Learning Approaches Directly modeling commonsense knowledge graph does not help the model, maybe this calls for something like knowledge augmented language modeling.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>Calibration in Machine Learning</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</guid>
-    <description>Calibration in Machine Learning Calibration refers to a practice where model’s output logits are calibrated to reflect probabilities. More precisely, the predicted probabilities and distributions are close to what observed in training data.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>UniDoc Unified Pretraining Framework for Document Understanding</title>
+    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UniDoc-Unified-Pretraining-Framework-for-Document-Understanding</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UniDoc-Unified-Pretraining-Framework-for-Document-Understanding</guid>
+    <description>Hierarchical Document Textual Representation By stacking two transformers sequentially, the system models paragraph representations from tokens and then document representations on top of paragraph representations.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>202110091321 Open Vocabulary</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110091321-Open-Vocabulary</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110091321-Open-Vocabulary</guid>
-    <description>Open Vocabulary Problems Word based models suffer from the Out-of-Vocabulary (OOV) problem. Character-level models can be useful if the sequence length is manageable.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>Unified Pretraining Framework for Document Understanding</title>
+    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Unified-Pretraining-Framework-for-Document-Understanding</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Unified-Pretraining-Framework-for-Document-Understanding</guid>
+    <description>graph TD Sentences id2.1(Sentence 0) id2.2(Sentence 1) id2.3(Sentence 2) ROI id4.1(Sentence 0 BBox RoI) ROI Discret id6.1(Sentence 0 BBox RoI Discretized) Input id9.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>202112251111 PyTorch Tricks</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</guid>
-    <description>Scheduler Both following schedulers prove to be faster in convergence, with the cost of introduction of few extra hyper-parameters – minimum learning rate, maximum learning rate.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>Video Transformer in Transformer</title>
+    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Video-Transformer-in-Transformer</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Video-Transformer-in-Transformer</guid>
+    <description>Problem Definition Current models view an image as patches without explicitly modeling the patch itself. In other words, transforming an image patch to a single vector through some linear layers does not capture the information to the fullest extend.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>202112251133 Incorrect Data Labels</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</guid>
-    <description>Machine learning models are robust even when there is random errors/noise in the training set. But it is less so when they are systematic errors/bias.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>_Index_of_Literature Notes</title>
+    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/_Index_of_Literature-Notes</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/_Index_of_Literature-Notes</guid>
+    <description>_Index_of_Readings _Index_of_Courses 20220605111758.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>202112251244 Deep Work</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251244-Deep-Work</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251244-Deep-Work</guid>
-    <description>Why is Deep Work Important? To be valuable in the job market and the society, one needs expertise in his/her domains and capability to learn and produce things fast, and deep work can help us achieve that – being in the flow state pushes your mind to expand its boundary as well as horns your skills to a deeper level.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>index_Literature Notes</title>
+    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/index_Literature-Notes</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/index_Literature-Notes</guid>
+    <description>index_Readings index_Courses 20220605111758 _Index_of_Literature Notes.</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item><item>
-    <title>202202081923 Workplace Productivity</title>
-    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202202081923-Workplace-Productivity</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202202081923-Workplace-Productivity</guid>
-    <description>Core idea: how to setup our workplace to encourage productivity and therefore promote Deep Work. This is based on this podcast episode Optimizing Workspace for Productivity, Focus, &amp; Creativity - Huberman Lab.</description>
-    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+    <title>202204280830 Bayes Error</title>
+    <link>https://quartz.jzhao.xyz/4archives/Machine-Learning-Concepts/202204280830-Bayes-Error</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Machine-Learning-Concepts/202204280830-Bayes-Error</guid>
+    <description>Smallest error made possible by the inherent noise in reality, a.k.a irreducible error. References: Bayes error rate - Wikipedia .</description>
+    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
