@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Randomness in Scikit-learn</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</guid>
+    <description>Randomness in Scikit-learn Use RandomState to make sure your code is reproducible between runs maintains randomness within the pipeline Avoid setting the global random seed – it can fix all the randomness for any code subsequently involved, including caller code.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>Mixture of Experts</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</guid>
+    <description>Mixture of Experts Mixture of Experts (MoE) is special case of 202109261533 Adaptive Computation where multiple experts or learners are used to solve a problem by dividing the problem space into regions.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>Data-centric AI</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109281804-Data-centric-AI</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202109281804-Data-centric-AI</guid>
+    <description>Data-centric AI A paradigm shift from model-centric AI to data-centric AI, advocated by many companies and scholars recently, especially Andrew Ng and his famous talk.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>Contrastive Learning</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031750-Contrastive-Learning</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031750-Contrastive-Learning</guid>
+    <description>Contrastive Learning The idea of contrastive learning is to learn representations where similar input will have closer representations and vice versa, without explictly modeling the similarity.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>Calibration in Machine Learning</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</guid>
+    <description>Calibration in Machine Learning Calibration refers to a practice where model’s output logits are calibrated to reflect probabilities. More precisely, the predicted probabilities and distributions are close to what observed in training data.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>202110091321 Open Vocabulary</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110091321-Open-Vocabulary</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202110091321-Open-Vocabulary</guid>
+    <description>Open Vocabulary Problems Word based models suffer from the Out-of-Vocabulary (OOV) problem. Character-level models can be useful if the sequence length is manageable.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>202112251111 PyTorch Tricks</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</guid>
+    <description>Scheduler Both following schedulers prove to be faster in convergence, with the cost of introduction of few extra hyper-parameters – minimum learning rate, maximum learning rate.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>202112251133 Incorrect Data Labels</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</guid>
+    <description>Machine learning models are robust even when there is random errors/noise in the training set. But it is less so when they are systematic errors/bias.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>202112251244 Deep Work</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251244-Deep-Work</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202112251244-Deep-Work</guid>
+    <description>Why is Deep Work Important? To be valuable in the job market and the society, one needs expertise in his/her domains and capability to learn and produce things fast, and deep work can help us achieve that – being in the flow state pushes your mind to expand its boundary as well as horns your skills to a deeper level.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item><item>
+    <title>202202081923 Workplace Productivity</title>
+    <link>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202202081923-Workplace-Productivity</link>
+    <guid>https://quartz.jzhao.xyz/4archives/Permanent-Notes/202202081923-Workplace-Productivity</guid>
+    <description>Core idea: how to setup our workplace to encourage productivity and therefore promote Deep Work. This is based on this podcast episode Optimizing Workspace for Productivity, Focus, &amp; Creativity - Huberman Lab.</description>
+    <pubDate>Sat, 02 Mar 2024 20:37:22 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
