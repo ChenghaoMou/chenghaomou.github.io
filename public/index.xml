@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <title>Sleepless in Debugging</title>
+      <link>https://sleepless-in-debugging.statichost.eu</link>
+      <description>Last 10 notes on Sleepless in Debugging</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Estimation</title>
-    <link>https://quartz.jzhao.xyz/4archives/System-Design/Estimation</link>
-    <guid>https://quartz.jzhao.xyz/4archives/System-Design/Estimation</guid>
-    <description>Back of the Envelope Estimation Rounding and approximation What are your assumptions? What is the unit? Common estimations: QPS, peak QPS, storage, cache .</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205241111 Code Review Pyramid</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241111-Code-Review-Pyramid</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241111-Code-Review-Pyramid</guid>
+    <description> Style and most tests should be automated (in the commit hooks, CI tools or in a bash script) so you don’t have to write a PR comment about this. One should have a trace of written records regarding design decisions and implementation choices, ranging from technical specifications to your API documentations.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>Interview</title>
-    <link>https://quartz.jzhao.xyz/4archives/System-Design/Interview</link>
-    <guid>https://quartz.jzhao.xyz/4archives/System-Design/Interview</guid>
-    <description>Interview Goals To understand candidate’s ability to collaborate, to work under pressure, to solve problems, and to communicate — asking good question.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205241112 Deep Learning First Principles for Efficiency</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241112-Deep-Learning-First-Principles-for-Efficiency</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241112-Deep-Learning-First-Principles-for-Efficiency</guid>
+    <description>Three Areas of Optimization 1. Compute Compute refers to the arithmetic operations done by CPU or GPU, typically measured in floating point operations per second (FLOPS).</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>Scaling</title>
-    <link>https://quartz.jzhao.xyz/4archives/System-Design/Scaling</link>
-    <guid>https://quartz.jzhao.xyz/4archives/System-Design/Scaling</guid>
-    <description>Scaling a Web Service Terminology Client: web browsers or mobile applications. Server: machines that host back-end code, not necessarily where data live.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205241113 Hotelling&#039;s Two-sample T-squared Test</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</guid>
+    <description>Multivariate (multiple features) two-sample test. Assumptions Both samples are independent; Both samples are multivariate normal; Both samples have equal variance-covariance matrices; H0​: Samples drawn from populations with the same multivariate mean.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>UNICORN on RAINBOW A Universal Commonsense Reasoning Model on a New Multitask Benchmark</title>
-    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UNICORN-on-RAINBOW-A-Universal-Commonsense-Reasoning-Model-on-a-New-Multitask-Benchmark</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UNICORN-on-RAINBOW-A-Universal-Commonsense-Reasoning-Model-on-a-New-Multitask-Benchmark</guid>
-    <description>202205231928 Cost Equivalent Curve 202205231931 Transfer Learning Approaches Directly modeling commonsense knowledge graph does not help the model, maybe this calls for something like knowledge augmented language modeling.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205241114 How to Remember Names</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241114-How-to-Remember-Names</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241114-How-to-Remember-Names</guid>
+    <description>Takeaways: Initially, a name and a face are not associated until your hippocampus puts them together into a single memory; Instead of focusing on introducing yourself, pay more attention to learning them.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>UniDoc Unified Pretraining Framework for Document Understanding</title>
-    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UniDoc-Unified-Pretraining-Framework-for-Document-Understanding</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/UniDoc-Unified-Pretraining-Framework-for-Document-Understanding</guid>
-    <description>Hierarchical Document Textual Representation By stacking two transformers sequentially, the system models paragraph representations from tokens and then document representations on top of paragraph representations.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205241115 How to Work Hard</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241115-How-to-Work-Hard</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241115-How-to-Work-Hard</guid>
+    <description>Why Work Hard? We can not change our talents, so work hard is, in most cases, the only choice. How to Work Hard? Define your goals and foster disciplines Two mindsets: Enjoy achievement Dislike idleness Learn what work is What matches your talent might not be your interest Know what is important and interesting Plan ahead Avoid diminishing returns and burnout Work towards the hard-core center problems .</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>Unified Pretraining Framework for Document Understanding</title>
-    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Unified-Pretraining-Framework-for-Document-Understanding</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Unified-Pretraining-Framework-for-Document-Understanding</guid>
-    <description>graph TD Sentences id2.1(Sentence 0) id2.2(Sentence 1) id2.3(Sentence 2) ROI id4.1(Sentence 0 BBox RoI) ROI Discret id6.1(Sentence 0 BBox RoI Discretized) Input id9.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205241116 Kernel Two-sample Test</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241116-Kernel-Two-sample-Test</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241116-Kernel-Two-sample-Test</guid>
+    <description>Maximum Mean Discrepancy (MMD) Multivariate two-sample test. Formula MMD(P,Q)=n21​i=1∑n​j=1∑n​k(xi​,xj​)+m21​i=1∑m​j=1∑m​k(yi​,yj​)−nm2​i=1∑n​j=1∑m​k(xi​,yj​) k refers to the kernel function.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>Video Transformer in Transformer</title>
-    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Video-Transformer-in-Transformer</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/Readings/Video-Transformer-in-Transformer</guid>
-    <description>Problem Definition Current models view an image as patches without explicitly modeling the patch itself. In other words, transforming an image patch to a single vector through some linear layers does not capture the information to the fullest extend.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>202205281322 Four Things That Make Things Memorable</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205281322-Four-Things-That-Make-Things-Memorable</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205281322-Four-Things-That-Make-Things-Memorable</guid>
+    <description> Novelty: something new Repetition: reinforcement Association: connections Emotional Resonance .</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>_Index_of_Literature Notes</title>
-    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/_Index_of_Literature-Notes</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/_Index_of_Literature-Notes</guid>
-    <description>_Index_of_Readings _Index_of_Courses 20220605111758.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>01 Intro</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/01-Intro</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/01-Intro</guid>
+    <description>Information Flow: a flow of bits from sender to receiver with some probability. Privacy VS. Transparency Leaky information flow: aka. privacy violation.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>index_Literature Notes</title>
-    <link>https://quartz.jzhao.xyz/4archives/Literature-Notes/index_Literature-Notes</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Literature-Notes/index_Literature-Notes</guid>
-    <description>index_Readings index_Courses 20220605111758 _Index_of_Literature Notes.</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>03 Information Flow within Communities</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</guid>
+    <description>Dilemmas AI progress originating from data growth or high quality dataset simply cannot exempt us from violating privacy; We need relative and representative data in all research so that it is applicable in real-life; Not just AI research that is data-hunger because all research collaborates with each other at some point Information Services A typical narrative about privacy: Lack of data sharing could lead to service lock-in; More privacy violation could happen because of data-sharing; But there is a difference regarding private data being transferred: Private data moving with the owner; This is the sharing we want Private data being sold with owner’s consent; This is not the sharing we want We need Interoperability (e.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item><item>
-    <title>202204280830 Bayes Error</title>
-    <link>https://quartz.jzhao.xyz/4archives/Machine-Learning-Concepts/202204280830-Bayes-Error</link>
-    <guid>https://quartz.jzhao.xyz/4archives/Machine-Learning-Concepts/202204280830-Bayes-Error</guid>
-    <description>Smallest error made possible by the inherent noise in reality, a.k.a irreducible error. References: Bayes error rate - Wikipedia .</description>
-    <pubDate>Sat, 02 Mar 2024 20:51:17 GMT</pubDate>
+    <title>Rate Limiter</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</guid>
+    <description>Rate Limiter In web services, rate limiters are used to control the client traffic by limiting the number of requests allowed within a certain time window.</description>
+    <pubDate>Sat, 02 Mar 2024 21:51:49 GMT</pubDate>
   </item>
     </channel>
   </rss>
