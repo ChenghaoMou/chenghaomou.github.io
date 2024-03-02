@@ -2,7 +2,7 @@ FROM node:20-slim as builder
 RUN apt update && apt install -y git
 
 WORKDIR /
-RUN git clone "https://github.com/jackyzha0/quartz"
+RUN git clone "https://github.com/ChenghaoMou/quartz"
 
 WORKDIR /quartz
 RUN npm install
