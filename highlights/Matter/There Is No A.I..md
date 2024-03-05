@@ -3,7 +3,8 @@ url: https://www.newyorker.com/science/annals-of-artificial-intelligence/there-i
 author: Jaron Lanier
 publisher: The New Yorker
 date: 2023-04-20
-tags: []
+tags:
+  - TODO
 title: "There Is No A.I."
 ---
 
