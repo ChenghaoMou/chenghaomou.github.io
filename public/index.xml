@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sleepless in Debugging</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>202205241115 How to Work Hard</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241115-How-to-Work-Hard</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241115-How-to-Work-Hard</guid>
+    <description>Why Work Hard? We can not change our talents, so work hard is, in most cases, the only choice. How to Work Hard? Define your goals and foster disciplines Two mindsets: Enjoy achievement Dislike idleness Learn what work is What matches your talent might not be your interest Know what is important and interesting Plan ahead Avoid diminishing returns and burnout Work towards the hard-core center problems .</description>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
+  </item><item>
+    <title>202205241116 Kernel Two-sample Test</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241116-Kernel-Two-sample-Test</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241116-Kernel-Two-sample-Test</guid>
+    <description>Maximum Mean Discrepancy (MMD) Multivariate two-sample test. Formula MMD(P,Q)=n21​i=1∑n​j=1∑n​k(xi​,xj​)+m21​i=1∑m​j=1∑m​k(yi​,yj​)−nm2​i=1∑n​j=1∑m​k(xi​,yj​) k refers to the kernel function.</description>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
+  </item><item>
+    <title>202205281322 Four Things That Make Things Memorable</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205281322-Four-Things-That-Make-Things-Memorable</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205281322-Four-Things-That-Make-Things-Memorable</guid>
+    <description> Novelty: something new Repetition: reinforcement Association: connections Emotional Resonance .</description>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
+  </item><item>
     <title>01 Intro</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/01-Intro</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/01-Intro</guid>
     <description>Information Flow: a flow of bits from sender to receiver with some probability. Privacy VS. Transparency Leaky information flow: aka. privacy violation.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item><item>
     <title>03 Information Flow within Communities</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</guid>
     <description>Dilemmas AI progress originating from data growth or high quality dataset simply cannot exempt us from violating privacy; We need relative and representative data in all research so that it is applicable in real-life; Not just AI research that is data-hunger because all research collaborates with each other at some point Information Services A typical narrative about privacy: Lack of data sharing could lead to service lock-in; More privacy violation could happen because of data-sharing; But there is a difference regarding private data being transferred: Private data moving with the owner; This is the sharing we want Private data being sold with owner’s consent; This is not the sharing we want We need Interoperability (e.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item><item>
     <title>Rate Limiter</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</guid>
     <description>Rate Limiter In web services, rate limiters are used to control the client traffic by limiting the number of requests allowed within a certain time window.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item><item>
     <title>Estimation</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Estimation</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Estimation</guid>
     <description>Back of the Envelope Estimation Rounding and approximation What are your assumptions? What is the unit? Common estimations: QPS, peak QPS, storage, cache .</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item><item>
     <title>Interview</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Interview</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Interview</guid>
     <description>Interview Goals To understand candidate’s ability to collaborate, to work under pressure, to solve problems, and to communicate — asking good question.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item><item>
     <title>Scaling</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Scaling</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Scaling</guid>
     <description>Scaling a Web Service Terminology Client: web browsers or mobile applications. Server: machines that host back-end code, not necessarily where data live.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item><item>
-    <title>202112251133 Incorrect Data Labels</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</guid>
-    <description>Machine learning models are robust even when there is random errors/noise in the training set. But it is less so when they are systematic errors/bias.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
-  </item><item>
-    <title>202112251244 Deep Work</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251244-Deep-Work</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251244-Deep-Work</guid>
-    <description>Why is Deep Work Important? To be valuable in the job market and the society, one needs expertise in his/her domains and capability to learn and produce things fast, and deep work can help us achieve that – being in the flow state pushes your mind to expand its boundary as well as horns your skills to a deeper level.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
-  </item><item>
-    <title>202202081923 Workplace Productivity</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202202081923-Workplace-Productivity</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202202081923-Workplace-Productivity</guid>
-    <description>Core idea: how to setup our workplace to encourage productivity and therefore promote Deep Work. This is based on this podcast episode Optimizing Workspace for Productivity, Focus, &amp; Creativity - Huberman Lab.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
-  </item><item>
-    <title>202205112015 Effective Note-taking</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205112015-Effective-Note-taking</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205112015-Effective-Note-taking</guid>
-    <description>How to Take Notes From Book Highlights Make a checkpoint every chapter so as to gather highlights and organize them into fleeting notes. Refractor your fleeting notes into literature notes.</description>
-    <pubDate>Tue, 05 Mar 2024 21:57:04 GMT</pubDate>
+    <title>Contrastive Learning</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031750-Contrastive-Learning</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031750-Contrastive-Learning</guid>
+    <description>Contrastive Learning The idea of contrastive learning is to learn representations where similar input will have closer representations and vice versa, without explictly modeling the similarity.</description>
+    <pubDate>Sat, 09 Mar 2024 20:50:28 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -1,3 +1,8 @@
 .obsidian
 boilerplates
 .DS_Store
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
