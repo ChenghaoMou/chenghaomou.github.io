@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Sleepless in Debugging
+  - Home
 tags: []
-title: "Sleepless in Debugging"
+title: "Home"
 ---
 
-# Sleepless in Debugging
+# Home
 
 This is my journey of personal knowledge management – building zettelkasten in the open with lifelong reading and writing.
 

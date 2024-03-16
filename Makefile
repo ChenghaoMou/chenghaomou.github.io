@@ -1,3 +1,10 @@
+env=local
+
 build:
+	rsync -r -c ../quartz ./
 	rm -rf ./public/*
-	DOCKER_BUILDKIT=1 docker image build . -o .
+	docker compose up ${env} -d --build
+	docker compose cp ${env}:/public ./
+
+down:
+	docker compose down ${env}

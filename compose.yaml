@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  local:
+    tty: true
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        repo: "./quartz"
+  
+  remote:
+    tty: true
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        repo: "https://github.com/ChenghaoMou/quartz"
