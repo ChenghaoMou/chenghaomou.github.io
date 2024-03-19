@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sleepless in Debugging</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>202204280834 Bootstrapping</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Machine-Learning-Concepts/202204280834-Bootstrapping</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Machine-Learning-Concepts/202204280834-Bootstrapping</guid>
-    <description>In terms of sampling, bootstrapping means sampling with replacement in order to generate multiple datasets from one underlying dataset.</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
-  </item><item>
     <title>Machine Learning Optimization</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261532-Machine-Learning-Optimization</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261532-Machine-Learning-Optimization</guid>
     <description>Machine Learning Optimization In general, you can optimize your model locally or globally. Locally is when you improve operators, blocks, or layers of your model while globally is when you optimize your model end to end.</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>Adaptive Computation</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261533-Adaptive-Computation</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261533-Adaptive-Computation</guid>
     <description>Adaptive Computation It is a concept that models can perform conditionally computation, primarily based on the input. It is a form of 202109261532 Machine Learning Optimization.</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>Randomness in Scikit-learn</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</guid>
     <description>Randomness in Scikit-learn Use RandomState to make sure your code is reproducible between runs maintains randomness within the pipeline Avoid setting the global random seed – it ...</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>Mixture of Experts</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</guid>
     <description>Mixture of Experts Mixture of Experts (MoE) is special case of 202109261533 Adaptive Computation where multiple experts or learners are used to solve a problem by dividing the problem ...</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>Data-centric AI</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109281804-Data-centric-AI</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109281804-Data-centric-AI</guid>
     <description>Data-centric AI A paradigm shift from model-centric AI to data-centric AI, advocated by many companies and scholars recently, especially Andrew Ng and his famous talk ...</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>Contrastive Learning</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031750-Contrastive-Learning</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031750-Contrastive-Learning</guid>
     <description>Contrastive Learning The idea of contrastive learning is to learn representations where similar input will have closer representations and vice versa, without explictly modeling ...</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>Calibration in Machine Learning</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</guid>
     <description>Calibration in Machine Learning Calibration refers to a practice where model’s output logits are calibrated to reflect probabilities. More precisely, the predicted probabilities and distributions are close to what observed in training data.</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>202110091321 Open Vocabulary</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110091321-Open-Vocabulary</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110091321-Open-Vocabulary</guid>
     <description>Open Vocabulary Problems Word based models suffer from the Out-of-Vocabulary (OOV) problem. Character-level models can be useful if the sequence length is manageable.</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item><item>
     <title>202112251111 PyTorch Tricks</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</guid>
     <description>Scheduler Both following schedulers prove to be faster in convergence, with the cost of introduction of few extra hyper-parameters – minimum learning rate, maximum learning rate ...</description>
-    <pubDate>Sat, 16 Mar 2024 14:30:08 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+  </item><item>
+    <title>202112251133 Incorrect Data Labels</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</guid>
+    <description>Machine learning models are robust even when there is random errors/noise in the training set. But it is less so when they are systematic errors/bias. When there are incorrect labels in the validation or test set, it is important to evaluate the percentage of those correctable errors.</description>
+    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
