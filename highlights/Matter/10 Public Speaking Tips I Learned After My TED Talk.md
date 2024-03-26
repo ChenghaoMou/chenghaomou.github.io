@@ -5,6 +5,7 @@ publisher: Entrepreneur
 date: 2023-05-11
 tags:
   - TODO
+title: "10 Public Speaking Tips I Learned After My TED Talk"
 ---
 
 ## Highlights

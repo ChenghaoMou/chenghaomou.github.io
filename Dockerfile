@@ -22,9 +22,3 @@ COPY ./statics ./content/statics
 
 RUN npx quartz build -d ./content
 RUN cp -r ./public /public
-
-# # Minimise HTML files
-# FROM rust:slim-bullseye as post-processor
-# COPY --from=builder /quartz/public /public
-# RUN cargo install minhtml
-# RUN minhtml --keep-closing-tags --minify-css "/public/**/*.html"

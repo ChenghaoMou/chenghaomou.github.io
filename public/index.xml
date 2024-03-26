@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sleepless in Debugging</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Machine Learning Optimization</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261532-Machine-Learning-Optimization</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261532-Machine-Learning-Optimization</guid>
-    <description>Machine Learning Optimization In general, you can optimize your model locally or globally. Locally is when you improve operators, blocks, or layers of your model while globally is when you optimize your model end to end.</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>202205241113 Hotelling&#039;s Two-sample T-squared Test</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</guid>
+    <description>Multivariate (multiple features) two-sample test. Assumptions Both samples are independent; Both samples are multivariate normal; Both samples have equal variance-covariance matrices; H0​: Samples drawn from populations with the same multivariate mean.</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>Adaptive Computation</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261533-Adaptive-Computation</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261533-Adaptive-Computation</guid>
-    <description>Adaptive Computation It is a concept that models can perform conditionally computation, primarily based on the input. It is a form of 202109261532 Machine Learning Optimization.</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>202205241114 How to Remember Names</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241114-How-to-Remember-Names</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241114-How-to-Remember-Names</guid>
+    <description>Takeaways: Initially, a name and a face are not associated until your hippocampus puts them together into a single memory; Instead of focusing on introducing yourself, pay more attention ...</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>Randomness in Scikit-learn</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</guid>
-    <description>Randomness in Scikit-learn Use RandomState to make sure your code is reproducible between runs maintains randomness within the pipeline Avoid setting the global random seed – it ...</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>202205241115 How to Work Hard</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241115-How-to-Work-Hard</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241115-How-to-Work-Hard</guid>
+    <description>Why Work Hard? We can not change our talents, so work hard is, in most cases, the only choice. How to Work Hard? Define your goals and foster disciplines Two mindsets: Enjoy achievement Dislike idleness Learn what work is What matches your talent might not be your interest Know what is important and interesting Plan ahead Avoid diminishing returns and burnout Work towards the hard-core center problems .</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>Mixture of Experts</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261818-Mixture-of-Experts</guid>
-    <description>Mixture of Experts Mixture of Experts (MoE) is special case of 202109261533 Adaptive Computation where multiple experts or learners are used to solve a problem by dividing the problem ...</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>202205241116 Kernel Two-sample Test</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241116-Kernel-Two-sample-Test</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241116-Kernel-Two-sample-Test</guid>
+    <description>Maximum Mean Discrepancy (MMD) Multivariate two-sample test. Formula MMD(P,Q)=n21​i=1∑n​j=1∑n​k(xi​,xj​)+m21​i=1∑m​j=1∑m​k(yi​,yj​)−nm2​i=1∑n​j=1∑m​k(xi​,yj​) k refers to the kernel function.</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>Data-centric AI</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109281804-Data-centric-AI</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109281804-Data-centric-AI</guid>
-    <description>Data-centric AI A paradigm shift from model-centric AI to data-centric AI, advocated by many companies and scholars recently, especially Andrew Ng and his famous talk ...</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>202205281322 Four Things That Make Things Memorable</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205281322-Four-Things-That-Make-Things-Memorable</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205281322-Four-Things-That-Make-Things-Memorable</guid>
+    <description> Novelty: something new Repetition: reinforcement Association: connections Emotional Resonance .</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>Contrastive Learning</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031750-Contrastive-Learning</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031750-Contrastive-Learning</guid>
-    <description>Contrastive Learning The idea of contrastive learning is to learn representations where similar input will have closer representations and vice versa, without explictly modeling ...</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>01 Intro</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/01-Intro</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/01-Intro</guid>
+    <description>Information Flow: a flow of bits from sender to receiver with some probability. Privacy VS. Transparency Leaky information flow: aka. privacy violation. Inefficient information flow It is important to recognize the context.</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>Calibration in Machine Learning</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110031800-Calibration-in-Machine-Learning</guid>
-    <description>Calibration in Machine Learning Calibration refers to a practice where model’s output logits are calibrated to reflect probabilities. More precisely, the predicted probabilities and distributions are close to what observed in training data.</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>03 Information Flow within Communities</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</guid>
+    <description>Dilemmas AI progress originating from data growth or high quality dataset simply cannot exempt us from violating privacy; We need relative and representative data in all research ...</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>202110091321 Open Vocabulary</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110091321-Open-Vocabulary</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202110091321-Open-Vocabulary</guid>
-    <description>Open Vocabulary Problems Word based models suffer from the Out-of-Vocabulary (OOV) problem. Character-level models can be useful if the sequence length is manageable.</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>Rate Limiter</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</guid>
+    <description>Rate Limiter In web services, rate limiters are used to control the client traffic by limiting the number of requests allowed within a certain time window ...</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>202112251111 PyTorch Tricks</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251111-PyTorch-Tricks</guid>
-    <description>Scheduler Both following schedulers prove to be faster in convergence, with the cost of introduction of few extra hyper-parameters – minimum learning rate, maximum learning rate ...</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>Estimation</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Estimation</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Estimation</guid>
+    <description>Back of the Envelope Estimation Rounding and approximation What are your assumptions? What is the unit? Common estimations: QPS, peak QPS, storage, cache ...</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item><item>
-    <title>202112251133 Incorrect Data Labels</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251133-Incorrect-Data-Labels</guid>
-    <description>Machine learning models are robust even when there is random errors/noise in the training set. But it is less so when they are systematic errors/bias. When there are incorrect labels in the validation or test set, it is important to evaluate the percentage of those correctable errors.</description>
-    <pubDate>Tue, 19 Mar 2024 21:44:20 GMT</pubDate>
+    <title>Interview</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Interview</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Interview</guid>
+    <description>Interview Goals To understand candidate’s ability to collaborate, to work under pressure, to solve problems, and to communicate — asking good question ...</description>
+    <pubDate>Tue, 26 Mar 2024 11:04:09 GMT</pubDate>
   </item>
     </channel>
   </rss>

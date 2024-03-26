@@ -8,3 +8,6 @@ build:
 
 down:
 	docker compose down ${env}
+
+compile: build
+	docker run -v ./public:/public node npx @divriots/jampack /public
