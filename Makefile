@@ -10,4 +10,5 @@ build:
 
 down:
 	docker compose down ${env}
+	rm -rf ./public
 	

@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sleepless in Debugging</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>03 Information Flow within Communities</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Privacy-AI/03-Information-Flow-within-Communities</guid>
-    <description>Dilemmas AI progress originating from data growth or high quality dataset simply cannot exempt us from violating privacy; We need relative and representative data in all research ...</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202112251244 Deep Work</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251244-Deep-Work</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251244-Deep-Work</guid>
+    <description>Why is Deep Work Important? To be valuable in the job market and the society, one needs expertise in his/her domains and capability to learn and produce things fast, and deep work can ...</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Rate Limiter</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Design-a-Rate-Limiter</guid>
-    <description>Rate Limiter In web services, rate limiters are used to control the client traffic by limiting the number of requests allowed within a certain time window ...</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202202081923 Workplace Productivity</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202202081923-Workplace-Productivity</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202202081923-Workplace-Productivity</guid>
+    <description>Core idea: how to setup our workplace to encourage productivity and therefore promote Deep Work. This is based on this podcast episode Optimizing Workspace for Productivity, Focus, &amp; Creativity - Huberman Lab.</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Estimation</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Estimation</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Estimation</guid>
-    <description>Back of the Envelope Estimation Rounding and approximation What are your assumptions? What is the unit? Common estimations: QPS, peak QPS, storage, cache ...</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205112015 Effective Note-taking</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205112015-Effective-Note-taking</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205112015-Effective-Note-taking</guid>
+    <description>How to Take Notes From Book Highlights Make a checkpoint every chapter so as to gather highlights and organize them into fleeting notes. Refractor your fleeting notes into literature notes.</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Interview</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Interview</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Interview</guid>
-    <description>Interview Goals To understand candidate’s ability to collaborate, to work under pressure, to solve problems, and to communicate — asking good question ...</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205202159 2x Rule</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202159-2x-Rule</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202159-2x-Rule</guid>
+    <description>Definition Every time you spend $x on something, spend the same amount of money on investment. Coincidently, most minimalists also practice a similar mindset when purchasing something — to factor in the expenses of maintaining and disposing.</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Scaling</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Scaling</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/System-Design/Scaling</guid>
-    <description>Scaling a Web Service Terminology Client: web browsers or mobile applications. Server: machines that host back-end code, not necessarily where data live.</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205202200 Diminishing Marginal Utility</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202200-Diminishing-Marginal-Utility</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202200-Diminishing-Marginal-Utility</guid>
+    <description>Definition Each additional unit of consumption brings less satisfaction than previous unit. References: Spending Diminishing Marginal Utility - an overview | ScienceDirect Topics.) .</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>202204280830 Bayes Error</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Machine-Learning-Concepts/202204280830-Bayes-Error</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Machine-Learning-Concepts/202204280830-Bayes-Error</guid>
-    <description>Smallest error made possible by the inherent noise in reality, a.k.a irreducible error. References: Bayes error rate - Wikipedia .</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205231928 Cost Equivalent Curve</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231928-Cost-Equivalent-Curve</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231928-Cost-Equivalent-Curve</guid>
+    <description>Definitions Cost: the number of training examples in the training set used. Performance: the performance given a model and a cost according to the task metric.</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>202204280834 Bootstrapping</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Machine-Learning-Concepts/202204280834-Bootstrapping</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Machine-Learning-Concepts/202204280834-Bootstrapping</guid>
-    <description>In terms of sampling, bootstrapping means sampling with replacement in order to generate multiple datasets from one underlying dataset.</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205231931 Transfer Learning Approaches</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231931-Transfer-Learning-Approaches</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231931-Transfer-Learning-Approaches</guid>
+    <description>Multitask Training: Train the model on all tasks/datasets all at once; Sequential Multitask Training: Train the model on some tasks/datasets first before continue training it ...</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Machine Learning Optimization</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261532-Machine-Learning-Optimization</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261532-Machine-Learning-Optimization</guid>
-    <description>Machine Learning Optimization In general, you can optimize your model locally or globally. Locally is when you improve operators, blocks, or layers of your model while globally is when you optimize your model end to end.</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205241111 Code Review Pyramid</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241111-Code-Review-Pyramid</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241111-Code-Review-Pyramid</guid>
+    <description> Style and most tests should be automated (in the commit hooks, CI tools or in a bash script) so you don’t have to write a PR comment about this. One should have a trace of written records regarding design decisions and implementation choices, ranging from technical specifications to your API documentations.</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Adaptive Computation</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261533-Adaptive-Computation</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261533-Adaptive-Computation</guid>
-    <description>Adaptive Computation It is a concept that models can perform conditionally computation, primarily based on the input. It is a form of 202109261532 Machine Learning Optimization.</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205241112 Deep Learning First Principles for Efficiency</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241112-Deep-Learning-First-Principles-for-Efficiency</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241112-Deep-Learning-First-Principles-for-Efficiency</guid>
+    <description>Three Areas of Optimization 1. Compute Compute refers to the arithmetic operations done by CPU or GPU, typically measured in floating point operations per second (FLOPS).</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item><item>
-    <title>Randomness in Scikit-learn</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202109261813-Randomness-in-Scikit-learn</guid>
-    <description>Randomness in Scikit-learn Use RandomState to make sure your code is reproducible between runs maintains randomness within the pipeline Avoid setting the global random seed – it ...</description>
-    <pubDate>Fri, 29 Mar 2024 15:18:57 GMT</pubDate>
+    <title>202205241113 Hotelling&#039;s Two-sample T-squared Test</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</guid>
+    <description>Multivariate (multiple features) two-sample test. Assumptions Both samples are independent; Both samples are multivariate normal; Both samples have equal variance-covariance matrices; H0​: Samples drawn from populations with the same multivariate mean.</description>
+    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
