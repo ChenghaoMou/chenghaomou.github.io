@@ -226,6 +226,14 @@
   file = {/Users/chenghao/Zotero/storage/FUVKUZJR/Andreas_(2022)_Language_Models_as_Agent_Models.pdf}
 }
 
+@article{anil_,
+  title = {Many-Shot {{Jailbreaking}}},
+  author = {Anil, Cem and Durmus, Esin and Sharma, Mrinank and Benton, Joe and Kundu, Sandipan and Batson, Joshua and Rimsky, Nina and Tong, Meg and Mu, Jesse and Ford, Daniel and Mosconi, Francesco and Agrawal, Rajashree and Schaeffer, Rylan and Bashkansky, Naomi and Svenningsen, Samuel and Lambert, Mike and Radhakrishnan, Ansh and Denison, Carson and Hubinger, Evan J and Bai, Yuntao and Bricken, Trenton and Maxwell, Timothy and Schiefer, Nicholas and Sully, Jamie and Tamkin, Alex and Lanham, Tamera and Nguyen, Karina and Korbak, Tomasz and Kaplan, Jared and Ganguli, Deep and Bowman, Samuel R and Perez, Ethan and Grosse, Roger and Duvenaud, David},
+  abstract = {We investigate a family of simple long-context attacks on large language models: prompting with hundreds of demonstrations of undesirable behavior. This is newly feasible with the larger context windows recently deployed by Anthropic, OpenAI and Google DeepMind. We find that in diverse, realistic circumstances, the effectiveness of this attack follows a power law, up to hundreds of shots. We demonstrate the success of this attack on the most widely used state-of-the-art closedweight models, and across various tasks. Our results suggest very long contexts present a rich new attack surface for LLMs.},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/45NW67Q6/Anil et al. - Many-shot Jailbreaking.pdf}
+}
+
 @article{anonymous_2022,
   title = {{{ERNIE-Layout}}: {{Layout-Knowledge Enhanced Multi-modal Pre-training}} for {{Document Understanding}}},
   shorttitle = {{{ERNIE-Layout}}},
@@ -2480,6 +2488,19 @@
   file = {/Users/chenghao/Zotero/storage/JG62PR2J/Li and Flanigan - 2023 - Task Contamination Language Models May Not Be Few-Shot Anymore.pdf}
 }
 
+@misc{li_2024,
+  title = {Long-Context {{LLMs Struggle}} with {{Long In-context Learning}}},
+  author = {Li, Tianle and Zhang, Ge and Do, Quy Duc and Yue, Xiang and Chen, Wenhu},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-03},
+  abstract = {Large Language Models (LLMs) have made significant strides in handling long sequences exceeding 32K tokens. However, their performance evaluation has largely been confined to metrics like perplexity and synthetic tasks, which may not fully capture their abilities in more nuanced, real-world scenarios. This study introduces a specialized benchmark (LIConBench) focusing on long in-context learning within the realm of extreme-label classification. We meticulously selected six datasets with a label range spanning 28 to 174 classes covering different input (few-shot demonstration) length from 2K to 50K. Our benchmark requires LLMs to comprehend the entire input to recognize the massive label spaces to make correct prediction. We evaluate 13 long-context LLMs on our benchmarks. We find that the long-context LLMs perform relatively well under the token length of 20K and the performance benefits from utilizing the long context window. However, after the context window exceeds 20K, most LLMs except GPT-4 will dip dramatically. This suggests a notable gap in current LLM capabilities for processing and understanding long, context-rich sequences. Further analysis revealed a tendency among models to favor predictions for labels presented towards the end at the sequence. Their ability to reason over multiple pieces in the long sequence is yet to be improved. Our study reveals that long context understanding and reasoning is still a challenging task for the existing LLMs. We believe LIConBench could serve as a more realistic evaluation for the future long context LLMs.},
+  howpublished = {https://arxiv.org/abs/2404.02060v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/KT7B535H/Li et al. - 2024 - Long-context LLMs Struggle with Long In-context Learning.pdf}
+}
+
 @misc{lialin_2023,
   title = {Scaling {{Down}} to {{Scale Up}}: {{A Guide}} to {{Parameter-Efficient Fine-Tuning}}},
   shorttitle = {Scaling {{Down}} to {{Scale Up}}},
@@ -2540,6 +2561,21 @@
   howpublished = {https://arxiv.org/abs/2403.06504v1},
   langid = {english},
   file = {/Users/chenghao/Zotero/storage/9BUYR8DF/Liao et al. - 2024 - Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU.pdf}
+}
+
+@misc{lieber_2024,
+  title = {Jamba: {{A Hybrid Transformer-Mamba Language Model}}},
+  shorttitle = {Jamba},
+  author = {Lieber, Opher and Lenz, Barak and Bata, Hofit and Cohen, Gal and Osin, Jhonathan and Dalmedigos, Itay and Safahi, Erez and Meirom, Shaked and Belinkov, Yonatan and {Shalev-Shwartz}, Shai and Abend, Omri and Alon, Raz and Asida, Tomer and Bergman, Amir and Glozman, Roman and Gokhman, Michael and Manevich, Avashalom and Ratner, Nir and Rozen, Noam and Shwartz, Erez and Zusman, Mor and Shoham, Yoav},
+  year = {2024},
+  month = mar,
+  journal = {arXiv.org},
+  urldate = {2024-04-01},
+  abstract = {We present Jamba, a new base large language model based on a novel hybrid Transformer-Mamba mixture-of-experts (MoE) architecture. Specifically, Jamba interleaves blocks of Transformer and Mamba layers, enjoying the benefits of both model families. MoE is added in some of these layers to increase model capacity while keeping active parameter usage manageable. This flexible architecture allows resource- and objective-specific configurations. In the particular configuration we have implemented, we end up with a powerful model that fits in a single 80GB GPU. Built at large scale, Jamba provides high throughput and small memory footprint compared to vanilla Transformers, and at the same time state-of-the-art performance on standard language model benchmarks and long-context evaluations. Remarkably, the model presents strong results for up to 256K tokens context length. We study various architectural decisions, such as how to combine Transformer and Mamba layers, and how to mix experts, and show that some of them are crucial in large scale modeling. We also describe several interesting properties of these architectures which the training and evaluation of Jamba have revealed, and plan to release checkpoints from various ablation runs, to encourage further exploration of this novel architecture. We make the weights of our implementation of Jamba publicly available under a permissive license.},
+  howpublished = {https://arxiv.org/abs/2403.19887v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-04-01]},
+  file = {/Users/chenghao/Zotero/storage/82BEJAZ7/Lieber et al. - 2024 - Jamba A Hybrid Transformer-Mamba Language Model.pdf}
 }
 
 @misc{liesenfeld_2023,
@@ -3486,6 +3522,20 @@
   isbn = {978-1-4503-8309-7},
   annotation = {27 citations (Semantic Scholar/DOI) [2022-12-27]},
   file = {/Users/chenghao/Zotero/storage/4N7ZXGNU/Raji_et_al_(2021)_You_Can't_Sit_With_Us.pdf}
+}
+
+@misc{raposo_2024,
+  title = {Mixture-of-{{Depths}}: {{Dynamically}} Allocating Compute in Transformer-Based Language Models},
+  shorttitle = {Mixture-of-{{Depths}}},
+  author = {Raposo, David and Ritter, Sam and Richards, Blake and Lillicrap, Timothy and Humphreys, Peter Conway and Santoro, Adam},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-06},
+  abstract = {Transformer-based language models spread FLOPs uniformly across input sequences. In this work we demonstrate that transformers can instead learn to dynamically allocate FLOPs (or compute) to specific positions in a sequence, optimising the allocation along the sequence for different layers across the model depth. Our method enforces a total compute budget by capping the number of tokens (\$k\$) that can participate in the self-attention and MLP computations at a given layer. The tokens to be processed are determined by the network using a top-\$k\$ routing mechanism. Since \$k\$ is defined a priori, this simple procedure uses a static computation graph with known tensor sizes, unlike other conditional computation techniques. Nevertheless, since the identities of the \$k\$ tokens are fluid, this method can expend FLOPs non-uniformly across the time and model depth dimensions. Thus, compute expenditure is entirely predictable in sum total, but dynamic and context-sensitive at the token-level. Not only do models trained in this way learn to dynamically allocate compute, they do so efficiently. These models match baseline performance for equivalent FLOPS and wall-clock times to train, but require a fraction of the FLOPs per forward pass, and can be upwards of 50{\textbackslash}\% faster to step during post-training sampling.},
+  howpublished = {https://arxiv.org/abs/2404.02258v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/UGQLSE5R/Raposo et al. - 2024 - Mixture-of-Depths Dynamically allocating compute in transformer-based language models.pdf}
 }
 
 @misc{raschka_2020,

@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sleepless in Debugging</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>202112251244 Deep Work</title>
-    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251244-Deep-Work</link>
-    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202112251244-Deep-Work</guid>
-    <description>Why is Deep Work Important? To be valuable in the job market and the society, one needs expertise in his/her domains and capability to learn and produce things fast, and deep work can ...</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
-  </item><item>
     <title>202202081923 Workplace Productivity</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202202081923-Workplace-Productivity</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202202081923-Workplace-Productivity</guid>
     <description>Core idea: how to setup our workplace to encourage productivity and therefore promote Deep Work. This is based on this podcast episode Optimizing Workspace for Productivity, Focus, &amp; Creativity - Huberman Lab.</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205112015 Effective Note-taking</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205112015-Effective-Note-taking</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205112015-Effective-Note-taking</guid>
     <description>How to Take Notes From Book Highlights Make a checkpoint every chapter so as to gather highlights and organize them into fleeting notes. Refractor your fleeting notes into literature notes.</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205202159 2x Rule</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202159-2x-Rule</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202159-2x-Rule</guid>
     <description>Definition Every time you spend $x on something, spend the same amount of money on investment. Coincidently, most minimalists also practice a similar mindset when purchasing something — to factor in the expenses of maintaining and disposing.</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205202200 Diminishing Marginal Utility</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202200-Diminishing-Marginal-Utility</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205202200-Diminishing-Marginal-Utility</guid>
     <description>Definition Each additional unit of consumption brings less satisfaction than previous unit. References: Spending Diminishing Marginal Utility - an overview | ScienceDirect Topics.) .</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205231928 Cost Equivalent Curve</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231928-Cost-Equivalent-Curve</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231928-Cost-Equivalent-Curve</guid>
     <description>Definitions Cost: the number of training examples in the training set used. Performance: the performance given a model and a cost according to the task metric.</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205231931 Transfer Learning Approaches</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231931-Transfer-Learning-Approaches</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205231931-Transfer-Learning-Approaches</guid>
     <description>Multitask Training: Train the model on all tasks/datasets all at once; Sequential Multitask Training: Train the model on some tasks/datasets first before continue training it ...</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205241111 Code Review Pyramid</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241111-Code-Review-Pyramid</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241111-Code-Review-Pyramid</guid>
     <description> Style and most tests should be automated (in the commit hooks, CI tools or in a bash script) so you don’t have to write a PR comment about this. One should have a trace of written records regarding design decisions and implementation choices, ranging from technical specifications to your API documentations.</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205241112 Deep Learning First Principles for Efficiency</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241112-Deep-Learning-First-Principles-for-Efficiency</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241112-Deep-Learning-First-Principles-for-Efficiency</guid>
     <description>Three Areas of Optimization 1. Compute Compute refers to the arithmetic operations done by CPU or GPU, typically measured in floating point operations per second (FLOPS).</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item><item>
     <title>202205241113 Hotelling&#039;s Two-sample T-squared Test</title>
     <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</link>
     <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241113-Hotelling's-Two-sample-T-squared-Test</guid>
     <description>Multivariate (multiple features) two-sample test. Assumptions Both samples are independent; Both samples are multivariate normal; Both samples have equal variance-covariance matrices; H0​: Samples drawn from populations with the same multivariate mean.</description>
-    <pubDate>Sun, 31 Mar 2024 13:15:39 GMT</pubDate>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
+  </item><item>
+    <title>202205241114 How to Remember Names</title>
+    <link>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241114-How-to-Remember-Names</link>
+    <guid>https://sleepless-in-debugging.statichost.eu/4archives/Permanent-Notes/202205241114-How-to-Remember-Names</guid>
+    <description>Takeaways: Initially, a name and a face are not associated until your hippocampus puts them together into a single memory; Instead of focusing on introducing yourself, pay more attention ...</description>
+    <pubDate>Sun, 07 Apr 2024 11:53:31 GMT</pubDate>
   </item>
     </channel>
   </rss>
