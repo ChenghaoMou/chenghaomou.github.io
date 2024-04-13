@@ -1,6 +1,5 @@
 ---
-tags:
-  - processed
+tags: []
 title: "Rust et al. - 2022 - Language Modelling with Pixels"
 ---
 

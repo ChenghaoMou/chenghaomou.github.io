@@ -7,6 +7,7 @@ build:
 	docker compose cp ${env}:/public ./
 	rm -rf ./quartz
 	docker run -v ./public:/public node npx @divriots/jampack /public
+	bash -c "du -sh ./public"
 
 down:
 	docker compose down ${env}

@@ -3,8 +3,7 @@ url: https://www.wired.com/story/twitter-laptop-scam-hunters/
 author: Selena Larson
 publisher: Wired
 date: 2023-07-26
-tags:
-  - Accessibility
+tags: []
 title: "Twitter Scammers Stole $1,000 From My Friend-So I Hunted Them Down"
 ---
 

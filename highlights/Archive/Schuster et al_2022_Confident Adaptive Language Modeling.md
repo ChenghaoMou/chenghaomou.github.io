@@ -1,6 +1,5 @@
 ---
-tags:
-  - processed
+tags: []
 title: "Schuster et al_2022_Confident Adaptive Language Modeling"
 ---
 

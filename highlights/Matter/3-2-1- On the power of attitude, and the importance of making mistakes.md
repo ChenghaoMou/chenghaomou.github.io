@@ -5,8 +5,7 @@ url: https://jamesclear.com/3-2-1/july-27-2023
 author: James Clear
 publisher: James Clear
 date: 2023-07-27
-tags:
-  - Reading
+tags: []
 title: "3-2-1- On the power of attitude, and the importance of making mistakes"
 ---
 

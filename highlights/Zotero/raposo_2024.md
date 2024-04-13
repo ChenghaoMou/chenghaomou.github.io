@@ -2,11 +2,12 @@
 aliases:
   - "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models"
   - "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models"
-authors: "David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro"
-date: '2024-04-06 20:40:58'
-tags: []
+authors: David Raposo, Sam Ritter, Blake Richards, Timothy Lillicrap, Peter Conway Humphreys, Adam Santoro
+date: 2024-04-06 20:40:58
+tags:
+  - TODO
 title: "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models"
-url: "https://arxiv.org/abs/2404.02258v1"
+url: https://arxiv.org/abs/2404.02258v1
 ---
 
 # Mixture-of-Depths: Dynamically allocating compute in transformer-based language models

@@ -1,6 +1,5 @@
 ---
-tags:
-  - processed
+tags: []
 title: "Wortsman et al. - 2022 - Model soups averaging weights of multiple fine-tu"
 ---
 

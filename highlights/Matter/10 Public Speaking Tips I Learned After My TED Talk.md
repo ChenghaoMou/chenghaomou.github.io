@@ -3,8 +3,7 @@ url: https://www.entrepreneur.com/growing-a-business/10-public-speaking-hacks-i-
 author: Arian Adeli
 publisher: Entrepreneur
 date: 2023-05-11
-tags:
-  - TODO
+tags: []
 title: "10 Public Speaking Tips I Learned After My TED Talk"
 ---
 

@@ -4,6 +4,7 @@ author: Birhane Deborah
 publisher: Wired
 date: 2022-12-09
 tags: []
+title: "ChatGPT, Galactica, and the Progress Trap"
 ---
 
 ## Highlights

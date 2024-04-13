@@ -1633,6 +1633,20 @@
   file = {/Users/chenghao/Dropbox/Documents/Zotero/arXiv2203.13240 [cs]/2022/Hou et al_2022_Token Dropping for Efficient BERT Pretraining.pdf}
 }
 
+@misc{hsieh_2024,
+  title = {{{RULER}}: {{What}}'s the {{Real Context Size}} of {{Your Long-Context Language Models}}?},
+  shorttitle = {{{RULER}}},
+  author = {Hsieh, Cheng-Ping and Sun, Simeng and Kriman, Samuel and Acharya, Shantanu and Rekesh, Dima and Jia, Fei and Ginsburg, Boris},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-11},
+  abstract = {The needle-in-a-haystack (NIAH) test, which examines the ability to retrieve a piece of information (the "needle") from long distractor texts (the "haystack"), has been widely adopted to evaluate long-context language models (LMs). However, this simple retrieval-based test is indicative of only a superficial form of long-context understanding. To provide a more comprehensive evaluation of long-context LMs, we create a new synthetic benchmark RULER with flexible configurations for customized sequence length and task complexity. RULER expands upon the vanilla NIAH test to encompass variations with diverse types and quantities of needles. Moreover, RULER introduces new task categories multi-hop tracing and aggregation to test behaviors beyond searching from context. We evaluate ten long-context LMs with 13 representative tasks in RULER. Despite achieving nearly perfect accuracy in the vanilla NIAH test, all models exhibit large performance drops as the context length increases. While these models all claim context sizes of 32K tokens or greater, only four models (GPT-4, Command-R, Yi-34B, and Mixtral) can maintain satisfactory performance at the length of 32K. Our analysis of Yi-34B, which supports context length of 200K, reveals large room for improvement as we increase input length and task complexity. We open source RULER to spur comprehensive evaluation of long-context LMs.},
+  howpublished = {https://arxiv.org/abs/2404.06654v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/7267MVT7/Hsieh et al. - 2024 - RULER What's the Real Context Size of Your Long-Context Language Models.pdf}
+}
+
 @misc{hu_2024,
   title = {{{mPLUG-DocOwl}} 1.5: {{Unified Structure Learning}} for {{OCR-free Document Understanding}}},
   shorttitle = {{{mPLUG-DocOwl}} 1.5},
@@ -2638,6 +2652,20 @@
   file = {/Users/chenghao/Zotero/storage/8GRFS38Q/Lin et al. - 2024 - MaLA-500 Massive Language Adaptation of Large Language Models.pdf}
 }
 
+@misc{lin_2024a,
+  title = {Rho-1: {{Not All Tokens Are What You Need}}},
+  shorttitle = {Rho-1},
+  author = {Lin, Zhenghao and Gou, Zhibin and Gong, Yeyun and Liu, Xiao and Shen, Yelong and Xu, Ruochen and Lin, Chen and Yang, Yujiu and Jiao, Jian and Duan, Nan and Chen, Weizhu},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-12},
+  abstract = {Previous language model pre-training methods have uniformly applied a next-token prediction loss to all training tokens. Challenging this norm, we posit that "Not all tokens in a corpus are equally important for language model training". Our initial analysis delves into token-level training dynamics of language model, revealing distinct loss patterns for different tokens. Leveraging these insights, we introduce a new language model called Rho-1. Unlike traditional LMs that learn to predict every next token in a corpus, Rho-1 employs Selective Language Modeling (SLM), which selectively trains on useful tokens that aligned with the desired distribution. This approach involves scoring pretraining tokens using a reference model, and then training the language model with a focused loss on tokens with higher excess loss. When continual pretraining on 15B OpenWebMath corpus, Rho-1 yields an absolute improvement in few-shot accuracy of up to 30\% in 9 math tasks. After fine-tuning, Rho-1-1B and 7B achieved state-of-the-art results of 40.6\% and 51.8\% on MATH dataset, respectively - matching DeepSeekMath with only 3\% of the pretraining tokens. Furthermore, when pretraining on 80B general tokens, Rho-1 achieves 6.8\% average enhancement across 15 diverse tasks, increasing both efficiency and performance of the language model pre-training.},
+  howpublished = {https://arxiv.org/abs/2404.07965v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/NVPA924U/Lin et al. - 2024 - Rho-1 Not All Tokens Are What You Need.pdf}
+}
+
 @inproceedings{lison_2021,
   title = {Anonymisation {{Models}} for {{Text Data}}: {{State}} of the Art, {{Challenges}} and {{Future Directions}}},
   shorttitle = {Anonymisation {{Models}} for {{Text Data}}},
@@ -3255,7 +3283,7 @@
   primaryclass = {cs},
   doi = {10.48550/arXiv.2206.07023},
   urldate = {2022-12-19},
-  abstract = {Models based on large-pretrained language models, such as S(entence)BERT, provide effective and efficient sentence embeddings that show high correlation to human similarity ratings, but lack interpretability. On the other hand, graph metrics for graph-based meaning representations (e.g., Abstract Meaning Representation, AMR) can make explicit the semantic aspects in which two sentences are similar. However, such metrics tend to be slow, rely on parsers, and do not reach state-of-the-art performance when rating sentence similarity. In this work, we aim at the best of both worlds, by learning to induce \$S\$emantically \$S\$tructured \$S\$entence BERT embeddings (S\$\^{}3\$BERT). Our S\$\^{}3\$BERT embeddings are composed of explainable sub-embeddings that emphasize various semantic sentence features (e.g., semantic roles, negation, or quantification). We show how to i) learn a decomposition of the sentence embeddings into semantic features, through approximation of a suite of interpretable AMR graph metrics, and how to ii) preserve the overall power of the neural embeddings by controlling the decomposition learning process with a second objective that enforces consistency with the similarity ratings of an SBERT teacher model. In our experimental studies, we show that our approach offers interpretability -- while fully preserving the effectiveness and efficiency of the neural sentence embeddings.},
+  abstract = {Models based on large-pretrained language models, such as S(entence)BERT, provide effective and efficient sentence embeddings that show high correlation to human similarity ratings, but lack interpretability. On the other hand, graph metrics for graph-based meaning representations (e.g., Abstract Meaning Representation, AMR) can make explicit the semantic aspects in which two sentences are similar. However, such metrics tend to be slow, rely on parsers, and do not reach state-of-the-art performance when rating sentence similarity. In this work, we aim at the best of both worlds, by learning to induce \$S\$emantically \$S\$tructured \$S\$entence BERT embeddings (S\${\textasciicircum}3\$BERT). Our S\${\textasciicircum}3\$BERT embeddings are composed of explainable sub-embeddings that emphasize various semantic sentence features (e.g., semantic roles, negation, or quantification). We show how to i) learn a decomposition of the sentence embeddings into semantic features, through approximation of a suite of interpretable AMR graph metrics, and how to ii) preserve the overall power of the neural embeddings by controlling the decomposition learning process with a second objective that enforces consistency with the similarity ratings of an SBERT teacher model. In our experimental studies, we show that our approach offers interpretability -- while fully preserving the effectiveness and efficiency of the neural sentence embeddings.},
   archiveprefix = {arxiv},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language},
   file = {/Users/chenghao/Zotero/storage/3ZZ5EDHY/Opitz_Frank_(2022)_SBERT_studies_Meaning_Representations.pdf}
@@ -4382,6 +4410,21 @@
   keywords = {Computer Science - Computation and Language},
   annotation = {0 citations (Semantic Scholar/arXiv) [2023-05-01]},
   file = {/Users/chenghao/Zotero/storage/PEUI6V2C/Turski_et_al_(2023)_CCpdf.pdf}
+}
+
+@misc{udandarao_2024,
+  title = {No "{{Zero-Shot}}" {{Without Exponential Data}}: {{Pretraining Concept Frequency Determines Multimodal Model Performance}}},
+  shorttitle = {No "{{Zero-Shot}}" {{Without Exponential Data}}},
+  author = {Udandarao, Vishaal and Prabhu, Ameya and Ghosh, Adhiraj and Sharma, Yash and Torr, Philip H. S. and Bibi, Adel and Albanie, Samuel and Bethge, Matthias},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-08},
+  abstract = {Web-crawled pretraining datasets underlie the impressive "zero-shot" evaluation performance of multimodal models, such as CLIP for classification/retrieval and Stable-Diffusion for image generation. However, it is unclear how meaningful the notion of "zero-shot" generalization is for such multimodal models, as it is not known to what extent their pretraining datasets encompass the downstream concepts targeted for during "zero-shot" evaluation. In this work, we ask: How is the performance of multimodal models on downstream concepts influenced by the frequency of these concepts in their pretraining datasets? We comprehensively investigate this question across 34 models and five standard pretraining datasets (CC-3M, CC-12M, YFCC-15M, LAION-400M, LAION-Aesthetics), generating over 300GB of data artifacts. We consistently find that, far from exhibiting "zero-shot" generalization, multimodal models require exponentially more data to achieve linear improvements in downstream "zero-shot" performance, following a sample inefficient log-linear scaling trend. This trend persists even when controlling for sample-level similarity between pretraining and downstream datasets, and testing on purely synthetic data distributions. Furthermore, upon benchmarking models on long-tailed data sampled based on our analysis, we demonstrate that multimodal models across the board perform poorly. We contribute this long-tail test set as the "Let it Wag!" benchmark to further research in this direction. Taken together, our study reveals an exponential need for training data which implies that the key to "zero-shot" generalization capabilities under large-scale training paradigms remains to be found.},
+  howpublished = {https://arxiv.org/abs/2404.04125v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-04-08]},
+  file = {/Users/chenghao/Zotero/storage/UH3BS6SI/Udandarao et al. - 2024 - No Zero-Shot Without Exponential Data Pretraining Concept Frequency Determines Multimodal Model P.pdf}
 }
 
 @article{vassei_,

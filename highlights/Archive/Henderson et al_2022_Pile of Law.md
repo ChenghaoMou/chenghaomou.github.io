@@ -1,6 +1,5 @@
 ---
-tags:
-  - processed
+tags: []
 title: "Henderson et al_2022_Pile of Law"
 ---
 
