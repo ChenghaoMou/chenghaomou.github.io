@@ -8,6 +8,3 @@ boilerplates
 .smart-connections
 
 quartz
-.env
-robots.py
-robots_cache.sqlite
