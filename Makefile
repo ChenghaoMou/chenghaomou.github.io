@@ -6,7 +6,8 @@ build:
 	docker compose up ${env} -d --build
 	docker compose cp ${env}:/public ./
 	rm -rf ./quartz
-	docker run -v ./public:/public node npx @divriots/jampack /public
+	# docker run -v ./public:/public node npx @divriots/jampack /public
+	python robots.py
 	bash -c "du -sh ./public"
 
 down:
