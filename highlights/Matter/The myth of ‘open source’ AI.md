@@ -4,6 +4,9 @@ author: Will Knight
 publisher: Wired
 date: 2023-08-24
 tags: []
+title: "The myth of ‘open source’ AI"
+created: 2024-03-02
+modified: 2024-04-21
 ---
 
 ## Highlights
