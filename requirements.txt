@@ -1,2 +1,3 @@
 requests-cache
 beautifulsoup4
+python-frontmatter

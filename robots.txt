@@ -1009,14 +1009,6 @@ Disallow: /
 User-agent: Claritybot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/claude-web
-User-agent: Claude-Web
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/claudebot
-User-agent: ClaudeBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/clickagy
 User-agent: Clickagy
 Disallow: /
@@ -3107,6 +3099,16 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/zyborg
 User-agent: ZyBORG
+Disallow: /
+
+# Undocumented AI Agents
+
+# https://darkvisitors.com/agents/agents/claude-web
+User-agent: Claude-Web
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/claudebot
+User-agent: ClaudeBot
 Disallow: /
 
 # End Section: Dark Visitors

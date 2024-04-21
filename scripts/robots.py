@@ -14,12 +14,18 @@ existing_content = Path("./robots.txt").read_text()
 section_header = "# Section: Dark Visitors"
 section_footer = "# End Section: Dark Visitors"
 
-has_dark_visitors = section_header in existing_content and section_footer in existing_content
+has_dark_visitors = (
+    section_header in existing_content and section_footer in existing_content
+)
 if has_dark_visitors:
     # Remove the existing section
     start = existing_content.index(section_header)
     end = existing_content.index(section_footer) + len(section_footer)
-    existing_content = existing_content[:start].rstrip('\n ') + '\n' + existing_content[end:].strip('\n ')
+    existing_content = (
+        existing_content[:start].rstrip("\n ")
+        + "\n"
+        + existing_content[end:].strip("\n ")
+    )
 
 new_dark_visitors = f"{section_header}\n"
 
