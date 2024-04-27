@@ -454,7 +454,7 @@ User-agent: Baiduspider
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/bingbot
-User-agent: Bingbot
+User-agent: bingbot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/coccocbot-web
@@ -1986,7 +1986,7 @@ User-agent: NAVER Blog Rssbot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/naverbot
-User-agent: Naverbot
+User-agent: NaverBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/neevabot

@@ -101,6 +101,34 @@
   file = {/Users/chenghao/Zotero/storage/HC4NWGKM/Abbas_et_al_(2023)_SemDeDup.pdf}
 }
 
+@misc{abbas_2023a,
+  title = {{{SemDeDup}}: {{Data-efficient}} Learning at Web-Scale through Semantic Deduplication},
+  shorttitle = {{{SemDeDup}}},
+  author = {Abbas, Amro and Tirumala, Kushal and Simig, D{\'a}niel and Ganguli, Surya and Morcos, Ari S.},
+  year = {2023},
+  month = mar,
+  journal = {arXiv.org},
+  urldate = {2024-04-27},
+  abstract = {Progress in machine learning has been driven in large part by massive increases in data. However, large web-scale datasets such as LAION are largely uncurated beyond searches for exact duplicates, potentially leaving much redundancy. Here, we introduce SemDeDup, a method which leverages embeddings from pre-trained models to identify and remove semantic duplicates: data pairs which are semantically similar, but not exactly identical. Removing semantic duplicates preserves performance and speeds up learning. Analyzing a subset of LAION, we show that SemDeDup can remove 50\% of the data with minimal performance loss, effectively halving training time. Moreover, performance increases out of distribution. Also, analyzing language models trained on C4, a partially curated dataset, we show that SemDeDup improves over prior approaches while providing efficiency gains. SemDeDup provides an example of how simple ways of leveraging quality embeddings can be used to make models learn faster with less data.},
+  howpublished = {https://arxiv.org/abs/2303.09540v3},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/XR7AWJFY/Abbas et al. - 2023 - SemDeDup Data-efficient learning at web-scale through semantic deduplication.pdf}
+}
+
+@misc{abdin_2024,
+  title = {Phi-3 {{Technical Report}}: {{A Highly Capable Language Model Locally}} on {{Your Phone}}},
+  shorttitle = {Phi-3 {{Technical Report}}},
+  author = {Abdin, Marah and Jacobs, Sam Ade and Awan, Ammar Ahmad and Aneja, Jyoti and Awadallah, Ahmed and Awadalla, Hany and Bach, Nguyen and Bahree, Amit and Bakhtiari, Arash and Behl, Harkirat and Benhaim, Alon and Bilenko, Misha and Bjorck, Johan and Bubeck, S{\'e}bastien and Cai, Martin and Mendes, Caio C{\'e}sar Teodoro and Chen, Weizhu and Chaudhary, Vishrav and Chopra, Parul and Del Giorno, Allie and {de Rosa}, Gustavo and Dixon, Matthew and Eldan, Ronen and Iter, Dan and Goswami, Abhishek and Gunasekar, Suriya and Haider, Emman and Hao, Junheng and Hewett, Russell J. and Huynh, Jamie and Javaheripi, Mojan and Jin, Xin and Kauffmann, Piero and Karampatziakis, Nikos and Kim, Dongwoo and Khademi, Mahoud and Kurilenko, Lev and Lee, James R. and Lee, Yin Tat and Li, Yuanzhi and Liang, Chen and Liu, Weishung and Lin, Eric and Lin, Zeqi and Madan, Piyush and Mitra, Arindam and Modi, Hardik and Nguyen, Anh and Norick, Brandon and Patra, Barun and {Perez-Becker}, Daniel and Portet, Thomas and Pryzant, Reid and Qin, Heyang and Radmilac, Marko and Rosset, Corby and Roy, Sambudha and Saarikivi, Olli and Saied, Amin and Salim, Adil and Santacroce, Michael and Shah, Shital and Shang, Ning and Sharma, Hiteshi and Song, Xia and Ruwase, Olatunji and Wang, Xin and Ward, Rachel and Wang, Guanhua and Witte, Philipp and Wyatt, Michael and Xu, Can and Xu, Jiahang and Yadav, Sonali and Yang, Fan and Yang, Ziyi and Yu, Donghan and Zhang, Chengruidong and Zhang, Cyril and Zhang, Jianwen and Zhang, Li Lyna and Zhang, Yi and Zhang, Yunan and Zhou, Xiren},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-23},
+  abstract = {We introduce phi-3-mini, a 3.8 billion parameter language model trained on 3.3 trillion tokens, whose overall performance, as measured by both academic benchmarks and internal testing, rivals that of models such as Mixtral 8x7B and GPT-3.5 (e.g., phi-3-mini achieves 69\% on MMLU and 8.38 on MT-bench), despite being small enough to be deployed on a phone. The innovation lies entirely in our dataset for training, a scaled-up version of the one used for phi-2, composed of heavily filtered web data and synthetic data. The model is also further aligned for robustness, safety, and chat format. We also provide some initial parameter-scaling results with a 7B and 14B models trained for 4.8T tokens, called phi-3-small and phi-3-medium, both significantly more capable than phi-3-mini (e.g., respectively 75\% and 78\% on MMLU, and 8.7 and 8.9 on MT-bench).},
+  howpublished = {https://arxiv.org/abs/2404.14219v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/CXEDRUV3/Abdin et al. - 2024 - Phi-3 Technical Report A Highly Capable Language Model Locally on Your Phone.pdf}
+}
+
 @misc{abercrombie_2023,
   title = {Mirages: {{On Anthropomorphism}} in {{Dialogue Systems}}},
   shorttitle = {Mirages},
@@ -118,6 +146,20 @@
   keywords = {Computer Science - Computation and Language},
   annotation = {0 citations (Semantic Scholar/arXiv) [2023-05-29] 0 citations (Semantic Scholar/DOI) [2023-05-29]},
   file = {/Users/chenghao/Zotero/storage/DJ92DHUC/Abercrombie_et_al_(2023)_Mirages.pdf}
+}
+
+@misc{agarwal_2024,
+  title = {Many-{{Shot In-Context Learning}}},
+  author = {Agarwal, Rishabh and Singh, Avi and Zhang, Lei M. and Bohnet, Bernd and Chan, Stephanie and Anand, Ankesh and Abbas, Zaheer and Nova, Azade and {Co-Reyes}, John D. and Chu, Eric and Behbahani, Feryal and Faust, Aleksandra and Larochelle, Hugo},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-25},
+  abstract = {Large language models (LLMs) excel at few-shot in-context learning (ICL) -- learning from a few examples provided in context at inference, without any weight updates. Newly expanded context windows allow us to investigate ICL with hundreds or thousands of examples -- the many-shot regime. Going from few-shot to many-shot, we observe significant performance gains across a wide variety of generative and discriminative tasks. While promising, many-shot ICL can be bottlenecked by the available amount of human-generated examples. To mitigate this limitation, we explore two new settings: Reinforced and Unsupervised ICL. Reinforced ICL uses model-generated chain-of-thought rationales in place of human examples. Unsupervised ICL removes rationales from the prompt altogether, and prompts the model only with domain-specific questions. We find that both Reinforced and Unsupervised ICL can be quite effective in the many-shot regime, particularly on complex reasoning tasks. Finally, we demonstrate that, unlike few-shot learning, many-shot learning is effective at overriding pretraining biases and can learn high-dimensional functions with numerical inputs. Our analysis also reveals the limitations of next-token prediction loss as an indicator of downstream ICL performance.},
+  howpublished = {https://arxiv.org/abs/2404.11018v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-04-25]},
+  file = {/Users/chenghao/Zotero/storage/DIUGG7PY/Agarwal et al. - 2024 - Many-Shot In-Context Learning.pdf}
 }
 
 @article{aghajanyan_2021,
@@ -862,6 +904,20 @@
   langid = {english},
   annotation = {24 citations (Semantic Scholar/arXiv) [2022-10-09]},
   file = {/Users/chenghao/Zotero/storage/7QXV6QUI/Dahlgaard_et_al_(2017)_Fast_Similarity_Sketching.pdf}
+}
+
+@misc{dai_2024,
+  title = {Sequence Can {{Secretly Tell You What}} to {{Discard}}},
+  author = {Dai, Jincheng and Huang, Zhuowei and Jiang, Haiyun and Chen, Chen and Cai, Deng and Bi, Wei and Shi, Shuming},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-27},
+  abstract = {Large Language Models (LLMs), despite their impressive performance on a wide range of tasks, require significant GPU memory and consume substantial computational resources. In addition to model weights, the memory occupied by KV cache increases linearly with sequence length, becoming a main bottleneck for inference. In this paper, we introduce a novel approach for optimizing the KV cache which significantly reduces its memory footprint. Through a comprehensive investigation, we find that on LLaMA2 series models, (i) the similarity between adjacent tokens' query vectors is remarkably high, and (ii) current query's attention calculation can rely solely on the attention information of a small portion of the preceding queries. Based on these observations, we propose CORM, a KV cache eviction policy that dynamically retains important key-value pairs for inference without finetuning the model. We validate that CORM reduces the inference memory usage of KV cache by up to 70\% without noticeable performance degradation across six tasks in LongBench.},
+  howpublished = {https://arxiv.org/abs/2404.15949v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-04-27]},
+  file = {/Users/chenghao/Zotero/storage/AM83TBJP/Dai et al. - 2024 - Sequence can Secretly Tell You What to Discard.pdf}
 }
 
 @article{davis_,
@@ -1617,6 +1673,20 @@
   file = {/Users/chenghao/Zotero/storage/L2HDGR8S/Hong_et_al_(2022)_BROS.pdf;/Users/chenghao/Zotero/storage/Z3R5QME2/2108.html}
 }
 
+@misc{hong_2024,
+  title = {{{ORPO}}: {{Monolithic Preference Optimization}} without {{Reference Model}}},
+  shorttitle = {{{ORPO}}},
+  author = {Hong, Jiwoo and Lee, Noah and Thorne, James},
+  year = {2024},
+  month = mar,
+  journal = {arXiv.org},
+  urldate = {2024-04-22},
+  abstract = {While recent preference alignment algorithms for language models have demonstrated promising results, supervised fine-tuning (SFT) remains imperative for achieving successful convergence. In this paper, we study the crucial role of SFT within the context of preference alignment, emphasizing that a minor penalty for the disfavored generation style is sufficient for preference-aligned SFT. Building on this foundation, we introduce a straightforward and innovative reference model-free monolithic odds ratio preference optimization algorithm, ORPO, eliminating the necessity for an additional preference alignment phase. We demonstrate, both empirically and theoretically, that the odds ratio is a sensible choice for contrasting favored and disfavored styles during SFT across the diverse sizes from 125M to 7B. Specifically, fine-tuning Phi-2 (2.7B), Llama-2 (7B), and Mistral (7B) with ORPO on the UltraFeedback alone surpasses the performance of state-of-the-art language models with more than 7B and 13B parameters: achieving up to 12.20\% on \${\textbackslash}text\{AlpacaEval\}\_\{2.0\}\$ (Figure 1), 66.19\% on IFEval (instruction-level loose, Table 6), and 7.32 in MT-Bench (Figure 12). We release code and model checkpoints for Mistral-ORPO-\${\textbackslash}alpha\$ (7B) and Mistral-ORPO-\${\textbackslash}beta\$ (7B).},
+  howpublished = {https://arxiv.org/abs/2403.07691v2},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/KJU7R9L9/Hong et al. - 2024 - ORPO Monolithic Preference Optimization without Reference Model.pdf}
+}
+
 @article{hou_2022,
   title = {Token {{Dropping}} for {{Efficient BERT Pretraining}}},
   author = {Hou, Le and Pang, Richard Yuanzhe and Zhou, Tianyi and Wu, Yuexin and Song, Xinying and Song, Xiaodan and Zhou, Denny},
@@ -1695,6 +1765,20 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Computer Vision and Pattern Recognition},
   annotation = {\{"size": 3743140, "pages": 26, "previous": "arXiv:2302.14045 [cs]"\}},
   file = {/Users/chenghao/Zotero/storage/FX4IH3JF/Huang_et_al_(2023)_Language_Is_Not_All_You_Need.pdf}
+}
+
+@misc{huang_2024,
+  title = {How {{Good Are Low-bit Quantized LLaMA3 Models}}? {{An Empirical Study}}},
+  shorttitle = {How {{Good Are Low-bit Quantized LLaMA3 Models}}?},
+  author = {Huang, Wei and Ma, Xudong and Qin, Haotong and Zheng, Xingyu and Lv, Chengtao and Chen, Hong and Luo, Jie and Qi, Xiaojuan and Liu, Xianglong and Magno, Michele},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-23},
+  abstract = {Meta's LLaMA family has become one of the most powerful open-source Large Language Model (LLM) series. Notably, LLaMA3 models have recently been released and achieve impressive performance across various with super-large scale pre-training on over 15T tokens of data. Given the wide application of low-bit quantization for LLMs in resource-limited scenarios, we explore LLaMA3's capabilities when quantized to low bit-width. This exploration holds the potential to unveil new insights and challenges for low-bit quantization of LLaMA3 and other forthcoming LLMs, especially in addressing performance degradation problems that suffer in LLM compression. Specifically, we evaluate the 10 existing post-training quantization and LoRA-finetuning methods of LLaMA3 on 1-8 bits and diverse datasets to comprehensively reveal LLaMA3's low-bit quantization performance. Our experiment results indicate that LLaMA3 still suffers non-negligent degradation in these scenarios, especially in ultra-low bit-width. This highlights the significant performance gap under low bit-width that needs to be bridged in future developments. We expect that this empirical study will prove valuable in advancing future models, pushing the LLMs to lower bit-width with higher accuracy for being practical. Our project is released on https://github.com/Macaronlin/LLaMA3-Quantization and quantized LLaMA3 models are released in https://huggingface.co/LLMQ.},
+  howpublished = {https://arxiv.org/abs/2404.14047v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/DL8FD48R/Huang et al. - 2024 - How Good Are Low-bit Quantized LLaMA3 Models An Empirical Study.pdf}
 }
 
 @misc{hubinger_2024,
@@ -2287,6 +2371,20 @@
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning},
   annotation = {101 citations (Semantic Scholar/arXiv) [2023-03-12]},
   file = {/Users/chenghao/Zotero/storage/SVZ4YK4G/Lee et al. - 2022 - Deduplicating Training Data Makes Language Models .pdf}
+}
+
+@misc{lehnert_2024,
+  title = {Beyond {{A}}*: {{Better Planning}} with {{Transformers}} via {{Search Dynamics Bootstrapping}}},
+  shorttitle = {Beyond {{A}}*},
+  author = {Lehnert, Lucas and Sukhbaatar, Sainbayar and Mcvay, Paul and Rabbat, Michael and Tian, Yuandong},
+  year = {2024},
+  month = feb,
+  journal = {arXiv.org},
+  urldate = {2024-04-27},
+  abstract = {While Transformers have enabled tremendous progress in various application settings, such architectures still lag behind traditional symbolic planners for solving complex decision making tasks. In this work, we demonstrate how to train Transformers to solve complex planning tasks and present Searchformer, a Transformer model that optimally solves previously unseen Sokoban puzzles 93.7\% of the time, while using up to 26.8\% fewer search steps than standard \$A{\textasciicircum}*\$ search. Searchformer is an encoder-decoder Transformer model trained to predict the search dynamics of \$A{\textasciicircum}*\$. This model is then fine-tuned via expert iterations to perform fewer search steps than \$A{\textasciicircum}*\$ search while still generating an optimal plan. In our training method, \$A{\textasciicircum}*\$'s search dynamics are expressed as a token sequence outlining when task states are added and removed into the search tree during symbolic planning. In our ablation studies on maze navigation, we find that Searchformer significantly outperforms baselines that predict the optimal plan directly with a 5-10\${\textbackslash}times\$ smaller model size and a 10\${\textbackslash}times\$ smaller training dataset. We also demonstrate how Searchformer scales to larger and more complex decision making tasks like Sokoban with improved percentage of solved tasks and shortened search dynamics.},
+  howpublished = {https://arxiv.org/abs/2402.14083v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/8FCNNR43/Lehnert et al. - 2024 - Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.pdf}
 }
 
 @misc{lenat_2023,
@@ -3033,6 +3131,20 @@
   file = {/Users/chenghao/Zotero/storage/BGIMCSJI/McKinzie et al. - 2024 - MM1 Methods, Analysis & Insights from Multimodal LLM Pre-training.pdf;/Users/chenghao/Zotero/storage/E5AZHVLU/McKinzie_et_al_(2024)_MM1.pdf}
 }
 
+@misc{mehta_2024,
+  title = {{{CatLIP}}: {{CLIP-level Visual Recognition Accuracy}} with 2.7x {{Faster Pre-training}} on {{Web-scale Image-Text Data}}},
+  shorttitle = {{{CatLIP}}},
+  author = {Mehta, Sachin and Horton, Maxwell and Faghri, Fartash and Sekhavat, Mohammad Hossein and Najibi, Mahyar and Farajtabar, Mehrdad and Tuzel, Oncel and Rastegari, Mohammad},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-27},
+  abstract = {Contrastive learning has emerged as a transformative method for learning effective visual representations through the alignment of image and text embeddings. However, pairwise similarity computation in contrastive loss between image and text pairs poses computational challenges. This paper presents a novel weakly supervised pre-training of vision models on web-scale image-text data. The proposed method reframes pre-training on image-text data as a classification task. Consequently, it eliminates the need for pairwise similarity computations in contrastive loss, achieving a remarkable \$2.7{\textbackslash}times\$ acceleration in training speed compared to contrastive learning on web-scale data. Through extensive experiments spanning diverse vision tasks, including detection and segmentation, we demonstrate that the proposed method maintains high representation quality. Our source code along with pre-trained model weights and training recipes is available at {\textbackslash}url\{https://github.com/apple/corenet\}.},
+  howpublished = {https://arxiv.org/abs/2404.15653v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/ERQJMP3Q/Mehta et al. - 2024 - CatLIP CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text.pdf}
+}
+
 @misc{meng_2022,
   title = {Locating and {{Editing Factual Associations}} in {{GPT}}},
   author = {Meng, Kevin and Bau, David and Andonian, Alex and Belinkov, Yonatan},
@@ -3142,6 +3254,21 @@
   archiveprefix = {arxiv},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
   file = {/Users/chenghao/Zotero/storage/HMI42UTG/Muennighoff et al. - 2023 - Scaling Data-Constrained Language Models.pdf}
+}
+
+@misc{munkhdalai_2024,
+  title = {Leave {{No Context Behind}}: {{Efficient Infinite Context Transformers}} with {{Infini-attention}}},
+  shorttitle = {Leave {{No Context Behind}}},
+  author = {Munkhdalai, Tsendsuren and Faruqui, Manaal and Gopal, Siddharth},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-25},
+  abstract = {This work introduces an efficient method to scale Transformer-based Large Language Models (LLMs) to infinitely long inputs with bounded memory and computation. A key component in our proposed approach is a new attention technique dubbed Infini-attention. The Infini-attention incorporates a compressive memory into the vanilla attention mechanism and builds in both masked local attention and long-term linear attention mechanisms in a single Transformer block. We demonstrate the effectiveness of our approach on long-context language modeling benchmarks, 1M sequence length passkey context block retrieval and 500K length book summarization tasks with 1B and 8B LLMs. Our approach introduces minimal bounded memory parameters and enables fast streaming inference for LLMs.},
+  howpublished = {https://arxiv.org/abs/2404.07143v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-04-25]},
+  file = {/Users/chenghao/Zotero/storage/J9BA9FI5/Munkhdalai et al. - 2024 - Leave No Context Behind Efficient Infinite Context Transformers with Infini-attention.pdf}
 }
 
 @misc{nasr_2023,
@@ -3483,6 +3610,20 @@
   archiveprefix = {arxiv},
   keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
   file = {/Users/chenghao/Zotero/storage/HNSNJFM7/Pramanik_et_al_(2022)_Towards_a_Multi-modal,_Multi-task_Learning_based_Pre-training_Framework_for.pdf;/Users/chenghao/Zotero/storage/MPB9TDLX/2009.html}
+}
+
+@misc{qian_2024,
+  title = {{{BASS}}: {{Batched Attention-optimized Speculative Sampling}}},
+  shorttitle = {{{BASS}}},
+  author = {Qian, Haifeng and Gonugondla, Sujan Kumar and Ha, Sungsoo and Shang, Mingyue and Gouda, Sanjay Krishna and Nallapati, Ramesh and Sengupta, Sudipta and Ma, Xiaofei and Deoras, Anoop},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-25},
+  abstract = {Speculative decoding has emerged as a powerful method to improve latency and throughput in hosting large language models. However, most existing implementations focus on generating a single sequence. Real-world generative AI applications often require multiple responses and how to perform speculative decoding in a batched setting while preserving its latency benefits poses non-trivial challenges. This paper describes a system of batched speculative decoding that sets a new state of the art in multi-sequence generation latency and that demonstrates superior GPU utilization as well as quality of generations within a time budget. For example, for a 7.8B-size model on a single A100 GPU and with a batch size of 8, each sequence is generated at an average speed of 5.8ms per token, the overall throughput being 1.1K tokens per second. These results represent state-of-the-art latency and a 2.15X speed-up over optimized regular decoding. Within a time budget that regular decoding does not finish, our system is able to generate sequences with HumanEval Pass@First of 43\% and Pass@All of 61\%, far exceeding what's feasible with single-sequence speculative decoding. Our peak GPU utilization during decoding reaches as high as 15.8\%, more than 3X the highest of that of regular decoding and around 10X of single-sequence speculative decoding.},
+  howpublished = {https://arxiv.org/abs/2404.15778v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/S4JDBQEZ/Qian et al. - 2024 - BASS Batched Attention-optimized Speculative Sampling.pdf}
 }
 
 @misc{qin_2023,
@@ -4065,6 +4206,19 @@
   langid = {english},
   annotation = {\{"size": 10087885, "pages": 83, "previous": ""\}},
   file = {/Users/chenghao/Zotero/storage/ZA54BQ79/Soldaini et al. - 2024 - Dolma an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research.pdf}
+}
+
+@article{solove_2023,
+  title = {Murky {{Consent}}: {{An Approach}} to the {{Fictions}} of {{Consent}} in {{Privacy Law}}},
+  shorttitle = {Murky {{Consent}}},
+  author = {Solove, Daniel J.},
+  year = {2023},
+  month = aug,
+  doi = {10.2139/ssrn.4333743},
+  urldate = {2024-04-25},
+  abstract = {Consent plays a profound role in nearly all privacy laws. As Professor Heidi Hurd aptly said, consent works ``moral magic'' -- it transforms things that would be i},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/BYF7GAKY/Solove - 2023 - Murky Consent An Approach to the Fictions of Consent in Privacy Law.pdf}
 }
 
 @misc{somepalli_2022,
@@ -4721,6 +4875,34 @@
   howpublished = {https://arxiv.org/abs/2303.17564v3},
   langid = {english},
   file = {/Users/chenghao/Zotero/storage/5QWYG467/Wu et al. - 2023 - BloombergGPT A Large Language Model for Finance.pdf}
+}
+
+@misc{wu_2024,
+  title = {How Faithful Are {{RAG}} Models? {{Quantifying}} the Tug-of-War between {{RAG}} and {{LLMs}}' Internal Prior},
+  shorttitle = {How Faithful Are {{RAG}} Models?},
+  author = {Wu, Kevin and Wu, Eric and Zou, James},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-25},
+  abstract = {Retrieval augmented generation (RAG) is often used to fix hallucinations and provide up-to-date knowledge for large language models (LLMs). However, in cases when the LLM alone incorrectly answers a question, does providing the correct retrieved content always fix the error? Conversely, in cases where the retrieved content is incorrect, does the LLM know to ignore the wrong information, or does it recapitulate the error? To answer these questions, we systematically analyze the tug-of-war between a LLM's internal knowledge (i.e. its prior) and the retrieved information in settings when they disagree. We test GPT-4 and other LLMs on question-answering abilities across datasets with and without reference documents. As expected, providing the correct retrieved information fixes most model mistakes (94\% accuracy). However, when the reference document is perturbed with increasing levels of wrong values, the LLM is more likely to recite the incorrect, modified information when its internal prior is weaker but is more resistant when its prior is stronger. Similarly, we also find that the more the modified information deviates from the model's prior, the less likely the model is to prefer it. These results highlight an underlying tension between a model's prior knowledge and the information presented in reference documents.},
+  howpublished = {https://arxiv.org/abs/2404.10198v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-04-25]},
+  file = {/Users/chenghao/Zotero/storage/77KW7JCC/Wu et al. - 2024 - How faithful are RAG models Quantifying the tug-of-war between RAG and LLMs' internal prior.pdf}
+}
+
+@misc{xiang_2024,
+  title = {How {{Far Can We Go}} with {{Practical Function-Level Program Repair}}?},
+  author = {Xiang, Jiahong and Xu, Xiaoyang and Kong, Fanchu and Wu, Mingyuan and Zhang, Haotian and Zhang, Yuqun},
+  year = {2024},
+  month = apr,
+  journal = {arXiv.org},
+  urldate = {2024-04-23},
+  abstract = {Recently, multiple Automated Program Repair (APR) techniques based on Large Language Models (LLMs) have been proposed to enhance the repair performance. While these techniques mainly focus on the single-line or hunk-level repair, they face significant challenges in real-world application due to the limited repair task scope and costly statement-level fault localization. However, the more practical function-level APR, which broadens the scope of APR task to fix entire buggy functions and requires only cost-efficient function-level fault localization, remains underexplored. In this paper, we conduct the first comprehensive study of LLM-based function-level APR including investigating the effect of the few-shot learning mechanism and the auxiliary repair-relevant information. Specifically, we adopt six widely-studied LLMs and construct a benchmark in both the Defects4J 1.2 and 2.0 datasets. Our study demonstrates that LLMs with zero-shot learning are already powerful function-level APR techniques, while applying the few-shot learning mechanism leads to disparate repair performance. Moreover, we find that directly applying the auxiliary repair-relevant information to LLMs significantly increases function-level repair performance. Inspired by our findings, we propose an LLM-based function-level APR technique, namely SRepair, which adopts a dual-LLM framework to leverage the power of the auxiliary repair-relevant information for advancing the repair performance. The evaluation results demonstrate that SRepair can correctly fix 300 single-function bugs in the Defects4J dataset, largely surpassing all previous APR techniques by at least 85\%, without the need for the costly statement-level fault location information. Furthermore, SRepair successfully fixes 32 multi-function bugs in the Defects4J dataset, which is the first time achieved by any APR technique ever to our best knowledge.},
+  howpublished = {https://arxiv.org/abs/2404.12833v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/RXSAUPHT/Xiang et al. - 2024 - How Far Can We Go with Practical Function-Level Program Repair.pdf}
 }
 
 @misc{xie_2022,
