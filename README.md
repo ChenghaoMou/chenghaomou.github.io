@@ -1,3 +1,11 @@
+---
+title: "Personal Blog"
+aliases:
+  - Personal Blog
+created: 2024-03-02
+modified: 2024-06-29
+---
+
 # Personal Blog
 
 [![statichost.eu status](https://builder.statichost.eu/sleepless-in-debugging/status.svg)](https://builder.statichost.eu/sleepless-in-debugging/)

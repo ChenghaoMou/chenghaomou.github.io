@@ -5,6 +5,8 @@ publisher: "Hacker News: Front Page"
 date: 2022-06-26
 tags: []
 title: "Reading Ourselves to Death"
+created: 2024-03-02
+modified: 2024-05-06
 ---
 
 ## Highlights

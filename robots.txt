@@ -75,8 +75,16 @@ Disallow: /
 
 # AI Data Scrapers
 
+# https://darkvisitors.com/agents/agents/applebot-extended
+User-agent: Applebot-Extended
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/bytespider
 User-agent: Bytespider
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/claudebot
+User-agent: ClaudeBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/diffbot
@@ -101,6 +109,10 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/archive-org-bot
 User-agent: archive.org_bot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/arquivo-web-crawler
+User-agent: Arquivo-web-crawler
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/heritrix
@@ -141,8 +153,8 @@ Disallow: /
 User-agent: Dark Visitor
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/google-web-preview
-User-agent: Google Web Preview
+# https://darkvisitors.com/agents/agents/deadlinkchecker
+User-agent: deadlinkchecker
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/google-inspectiontool
@@ -161,8 +173,16 @@ Disallow: /
 User-agent: t3versionsBot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/w3c-css-validator
+User-agent: W3C_CSS_Validator
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/w3c-validator
 User-agent: W3C_Validator
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/wellknownbot
+User-agent: WellKnownBot
 Disallow: /
 
 # Fetchers
@@ -207,12 +227,24 @@ Disallow: /
 User-agent: Friendica
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/google-web-preview
+User-agent: Google Web Preview
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/google-read-aloud
+User-agent: Google-Read-Aloud
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/hatena
 User-agent: Hatena
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/iframely
 User-agent: Iframely
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/inoreader
+User-agent: inoreader
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/linkedinbot
@@ -283,6 +315,10 @@ Disallow: /
 User-agent: Superfeedr
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/surdotlybot
+User-agent: SurdotlyBot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/synapse
 User-agent: Synapse
 Disallow: /
@@ -317,8 +353,28 @@ Disallow: /
 
 # Intelligence Gatherers
 
+# https://darkvisitors.com/agents/agents/adbeat-bot
+User-agent: adbeat_bot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/adsbot-google
+User-agent: AdsBot-Google
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/adsbot-google-mobile
+User-agent: AdsBot-Google-Mobile
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/aihitbot
+User-agent: aiHitBot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/anderspinkbot
 User-agent: AndersPinkBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/archivebot
+User-agent: ArchiveBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/awariobot
@@ -327,6 +383,22 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/awariosmartbot
 User-agent: AwarioSmartBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/bitsightbot
+User-agent: BitSightBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/blackboard
+User-agent: Blackboard
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/brandverity
+User-agent: BrandVerity
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/cincraw
+User-agent: Cincraw
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/ev-crawler
@@ -341,8 +413,20 @@ Disallow: /
 User-agent: HubSpot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/imagesiftbot
+User-agent: ImagesiftBot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/ioncrawl
 User-agent: IonCrawl
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/jugendschutzprogramm-crawler
+User-agent: Jugendschutzprogramm-Crawler
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/kstandbot
+User-agent: KStandBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/lightspeedsystemscrawler
@@ -353,8 +437,16 @@ Disallow: /
 User-agent: linkfluence
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/linkwalker
+User-agent: LinkWalker
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/magpie-crawler
 User-agent: magpie-crawler
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/mediapartners-google
+User-agent: Mediapartners-Google
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/mediatoolkitbot
@@ -377,12 +469,20 @@ Disallow: /
 User-agent: Pandalytics
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/panscient-com
+User-agent: panscient.com
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/proximic
 User-agent: proximic
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/scoop-it
 User-agent: scoop.it
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/smtbot
+User-agent: SMTBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/trendictionbot
@@ -397,6 +497,14 @@ Disallow: /
 User-agent: Turnitin
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/turnitinbot
+User-agent: TurnitinBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/tweetmemebot
+User-agent: TweetmemeBot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/twingly
 User-agent: Twingly
 Disallow: /
@@ -405,8 +513,16 @@ Disallow: /
 User-agent: um-LN
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/velenpublicwebcrawler
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/virustotal
 User-agent: virustotal
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/zoominfobot
+User-agent: ZoominfoBot
 Disallow: /
 
 # Scrapers
@@ -447,7 +563,23 @@ Disallow: /
 User-agent: Offline Explorer
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/openindexspider
+User-agent: OpenindexSpider
+Disallow: /
+
 # Search Engine Crawlers
+
+# https://darkvisitors.com/agents/agents/360spider
+User-agent: 360Spider
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/alexandriaorgbot
+User-agent: AlexandriaOrgBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/atom-feed-robot
+User-agent: Atom Feed Robot
+Disallow: /
 
 # https://darkvisitors.com/agents/agents/baiduspider
 User-agent: Baiduspider
@@ -477,6 +609,10 @@ Disallow: /
 User-agent: Feedfetcher-Google
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/google-favicon
+User-agent: Google Favicon
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/googlebot
 User-agent: Googlebot
 Disallow: /
@@ -485,16 +621,48 @@ Disallow: /
 User-agent: Googlebot-Image
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/googlebot-mobile
+User-agent: Googlebot-Mobile
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/googlebot-news
+User-agent: Googlebot-News
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/googlebot-video
+User-agent: Googlebot-Video
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/googleother
 User-agent: GoogleOther
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/haosouspider
+User-agent: HaoSouSpider
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/mojeekbot
 User-agent: MojeekBot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/msnbot
+User-agent: msnbot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/msnbot-media
 User-agent: msnbot-media
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/qwantify
+User-agent: Qwantify
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/seekportbot
+User-agent: SeekportBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/semanticscholarbot
+User-agent: SemanticScholarBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/seznambot
@@ -503,6 +671,18 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/sogou-web-spider
 User-agent: Sogou web spider
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/teoma
+User-agent: teoma
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/tineye
+User-agent: TinEye
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/tineye-bot
+User-agent: TinEye-bot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/yacybot
@@ -521,14 +701,38 @@ Disallow: /
 User-agent: YandexBot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/yandeximages
+User-agent: YandexImages
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/yandexrenderresourcesbot
+User-agent: YandexRenderResourcesBot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/yeti
 User-agent: Yeti
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/yisouspider
+User-agent: YisouSpider
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/zumbot
+User-agent: ZumBot
 Disallow: /
 
 # SEO Crawlers
 
 # https://darkvisitors.com/agents/agents/barkrowler
 User-agent: Barkrowler
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/brightedge-crawler
+User-agent: BrightEdge Crawler
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/cocolyzebot
+User-agent: Cocolyzebot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/domainstatsbot
@@ -551,6 +755,10 @@ Disallow: /
 User-agent: MJ12bot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/online-webceo-bot
+User-agent: online-webceo-bot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/screaming-frog-seo-spider
 User-agent: Screaming Frog SEO Spider
 Disallow: /
@@ -571,8 +779,28 @@ Disallow: /
 User-agent: SemrushBot-SWA
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/senutobot
+User-agent: SenutoBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/seobilitybot
+User-agent: SeobilityBot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/seokicks
+User-agent: SEOkicks
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/seolizer
+User-agent: SEOlizer
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/serpstatbot
 User-agent: serpstatbot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/sitecheckerbotcrawler
+User-agent: SiteCheckerBotCrawler
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/zoombot
@@ -589,8 +817,12 @@ Disallow: /
 User-agent: 2ip.ru
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/360spider
-User-agent: 360Spider
+# https://darkvisitors.com/agents/agents/360spider-image
+User-agent: 360Spider-Image
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/360spider-video
+User-agent: 360Spider-Video
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/5emerue
@@ -613,6 +845,10 @@ Disallow: /
 User-agent: Aboundex
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/academicbotrtu
+User-agent: AcademicBotRTU
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/acapbot
 User-agent: acapbot
 Disallow: /
@@ -627,10 +863,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/acunetix-web-vulnerability-scanner
 User-agent: Acunetix Web Vulnerability Scanner
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/adbeat-bot
-User-agent: adbeat_bot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/addsearchbot
@@ -657,14 +889,6 @@ Disallow: /
 User-agent: ADmantX
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/adsbot-google
-User-agent: AdsBot-Google
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/adsbot-google-mobile
-User-agent: AdsBot-Google-Mobile
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/adscanner
 User-agent: adscanner
 Disallow: /
@@ -677,20 +901,12 @@ Disallow: /
 User-agent: AdvBot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/aihitbot
-User-agent: aiHitBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/aisearchbot
 User-agent: AISearchBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/alexabot
 User-agent: Alexabot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/alexandriaorgbot
-User-agent: AlexandriaOrgBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/alexibot
@@ -729,14 +945,6 @@ Disallow: /
 User-agent: arabot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/archivebot
-User-agent: ArchiveBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/arquivo-web-crawler
-User-agent: Arquivo-web-crawler
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/ask-n-read
 User-agent: Ask n read
 Disallow: /
@@ -751,10 +959,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/asterias
 User-agent: asterias
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/atom-feed-robot
-User-agent: Atom Feed Robot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/augure
@@ -833,20 +1037,16 @@ Disallow: /
 User-agent: binlar
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/birdcrawlerbot
+User-agent: Birdcrawlerbot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/bitbot
 User-agent: BitBot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/bitsightbot
-User-agent: BitSightBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/black-hole
 User-agent: Black Hole
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/blackboard
-User-agent: Blackboard
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/blekkobot
@@ -909,20 +1109,16 @@ Disallow: /
 User-agent: BrandONbot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/brandverity
-User-agent: BrandVerity
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/brightedge-crawler
-User-agent: BrightEdge Crawler
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/btwebclient
 User-agent: BTWebClient
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/bubing
 User-agent: BUbiNG
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/buck
+User-agent: Buck
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/builtbottough
@@ -989,10 +1185,6 @@ Disallow: /
 User-agent: CherryPickerSE
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/cincraw
-User-agent: Cincraw
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/cision
 User-agent: Cision
 Disallow: /
@@ -1003,6 +1195,10 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/citeseerxbot
 User-agent: citeseerxbot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/citoid
+User-agent: Citoid
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/claritybot
@@ -1027,10 +1223,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/coccocbot
 User-agent: coccocbot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/cocolyzebot
-User-agent: Cocolyzebot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/coexel
@@ -1145,10 +1337,6 @@ Disallow: /
 User-agent: daumoa
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/deadlinkchecker
-User-agent: deadlinkchecker
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/deepcrawl
 User-agent: deepcrawl
 Disallow: /
@@ -1219,6 +1407,10 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/e-ventures-investment-crawler
 User-agent: e.ventures Investment Crawler
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/easybib-autocite
+User-agent: EasyBib AutoCite
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/ec2linkfinder
@@ -1325,6 +1517,10 @@ Disallow: /
 User-agent: FAST-WebCrawler
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/fedidb
+User-agent: FediDB
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/fedoraplanet
 User-agent: fedoraplanet
 Disallow: /
@@ -1335,6 +1531,10 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/feedbot
 User-agent: feedbot
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/feedburner
+User-agent: FeedBurner
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/feedspot
@@ -1457,10 +1657,6 @@ Disallow: /
 User-agent: GnowitNewsbot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/google-favicon
-User-agent: Google Favicon
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/google-adwords-instant
 User-agent: Google-Adwords-Instant
 Disallow: /
@@ -1473,10 +1669,6 @@ Disallow: /
 User-agent: Google-PhysicalWeb
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/google-read-aloud
-User-agent: Google-Read-Aloud
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/google-site-verification
 User-agent: Google-Site-Verification
 Disallow: /
@@ -1487,18 +1679,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/google-xrawler
 User-agent: google-xrawler
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/googlebot-mobile
-User-agent: Googlebot-Mobile
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/googlebot-news
-User-agent: Googlebot-News
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/googlebot-video
-User-agent: Googlebot-Video
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/gowikibot
@@ -1541,12 +1721,12 @@ Disallow: /
 User-agent: Gwene
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/haosouspider
-User-agent: HaoSouSpider
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/harvest
 User-agent: Harvest
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/hawaiibot
+User-agent: HawaiiBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/humanlinks
@@ -1595,10 +1775,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/infoseek
 User-agent: infoseek
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/inoreader
-User-agent: inoreader
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/integromedb
@@ -1685,10 +1861,6 @@ Disallow: /
 User-agent: jpg-newsbot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/jugendschutzprogramm-crawler
-User-agent: Jugendschutzprogramm-Crawler
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/jyxobot
 User-agent: jyxobot
 Disallow: /
@@ -1713,6 +1885,10 @@ Disallow: /
 User-agent: Kenjin Spider
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/keys-so-bot
+User-agent: keys-so-bot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/keyword-density
 User-agent: Keyword Density
 Disallow: /
@@ -1727,10 +1903,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/kosmiobot
 User-agent: KosmioBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/kstandbot
-User-agent: KStandBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/landau-media-spider
@@ -1809,12 +1981,12 @@ Disallow: /
 User-agent: LinkScan
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/linkwalker
-User-agent: LinkWalker
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/lipperhey
 User-agent: lipperhey
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/livelapbot
+User-agent: LivelapBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/lkxscan
@@ -1863,10 +2035,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/mbcrawler
 User-agent: MBCrawler
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/mediapartners-google
-User-agent: Mediapartners-Google
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/megaindex
@@ -1959,10 +2127,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/msiecrawler
 User-agent: MSIECrawler
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/msnbot
-User-agent: msnbot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/msrbot
@@ -2065,6 +2229,10 @@ Disallow: /
 User-agent: NIXStatsbot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/nlux-iaharvester
+User-agent: NLUX_IAHarvester
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/nmap-scripting-engine
 User-agent: Nmap Scripting Engine
 Disallow: /
@@ -2089,10 +2257,6 @@ Disallow: /
 User-agent: officestorebot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/online-webceo-bot
-User-agent: online-webceo-bot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/openbot
 User-agent: Openbot
 Disallow: /
@@ -2111,10 +2275,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/openhosebot
 User-agent: OpenHoseBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/openindexspider
-User-agent: OpenindexSpider
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/opinion-tracker
@@ -2151,10 +2311,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/pagething
 User-agent: PageThing
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/panscient
-User-agent: panscient
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/peer39-crawler
@@ -2223,10 +2379,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/qwam-content-intelligence
 User-agent: Qwam content intelligence
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/qwantify
-User-agent: Qwantify
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/radiation-retriever-1-1
@@ -2353,10 +2505,6 @@ Disallow: /
 User-agent: Seekport Crawler
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/seekportbot
-User-agent: SeekportBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/seekr
 User-agent: Seekr
 Disallow: /
@@ -2367,10 +2515,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/semanticbot
 User-agent: semanticbot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/semanticscholarbot
-User-agent: SemanticScholarBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/sempi-tech
@@ -2389,24 +2533,8 @@ Disallow: /
 User-agent: sentibot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/senutobot
-User-agent: SenutoBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/seobilitybot
-User-agent: SeobilityBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/seokicks
-User-agent: SEOkicks
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/seokicks-robot
 User-agent: SEOkicks-Robot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/seolizer
-User-agent: SEOlizer
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/seoscanners
@@ -2445,10 +2573,6 @@ Disallow: /
 User-agent: sitecheck.internetseer.com
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/sitecheckerbotcrawler
-User-agent: SiteCheckerBotCrawler
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/siteexplorer-info
 User-agent: siteexplorer.info
 Disallow: /
@@ -2479,10 +2603,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/slurp
 User-agent: Slurp
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/smtbot
-User-agent: SMTBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/socialrankiobot
@@ -2549,16 +2669,16 @@ Disallow: /
 User-agent: Streamline3Bot
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/summalybot
+User-agent: SummalyBot
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/summify
 User-agent: summify
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/superbot
 User-agent: SuperBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/surdotlybot
-User-agent: SurdotlyBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/surveybot
@@ -2617,10 +2737,6 @@ Disallow: /
 User-agent: Telesoft
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/teoma
-User-agent: teoma
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/the-intraformant
 User-agent: The Intraformant
 Disallow: /
@@ -2641,12 +2757,8 @@ Disallow: /
 User-agent: tigerbot
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/tineye
-User-agent: TinEye
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/tineye-bot
-User-agent: TinEye-bot
+# https://darkvisitors.com/agents/agents/timpibot
+User-agent: Timpibot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/titan
@@ -2677,6 +2789,10 @@ Disallow: /
 User-agent: tracemyfile
 Disallow: /
 
+# https://darkvisitors.com/agents/agents/trafilatura
+User-agent: trafilatura
+Disallow: /
+
 # https://darkvisitors.com/agents/agents/trendeo
 User-agent: trendeo
 Disallow: /
@@ -2705,16 +2821,8 @@ Disallow: /
 User-agent: turingos
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/turnitinbot
-User-agent: TurnitinBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/tweetedtimes
 User-agent: tweetedtimes
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/tweetmemebot
-User-agent: TweetmemeBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/twengabot
@@ -2727,6 +2835,10 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/ubicrawler
 User-agent: UbiCrawler
+Disallow: /
+
+# https://darkvisitors.com/agents/agents/um-ic
+User-agent: um-IC
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/updownerbot
@@ -2797,10 +2909,6 @@ Disallow: /
 User-agent: vecteurplus
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/velenpublicwebcrawler
-User-agent: VelenPublicWebCrawler
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/veoozbot
 User-agent: Veoozbot
 Disallow: /
@@ -2835,10 +2943,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/vuhuvbot
 User-agent: vuhuvBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/w3c-css-validator
-User-agent: W3C_CSS_Validator
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/w3c-i18n-checker
@@ -2937,10 +3041,6 @@ Disallow: /
 User-agent: WebZIP
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/wellknownbot
-User-agent: WellKnownBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/winello
 User-agent: winello
 Disallow: /
@@ -3017,12 +3117,8 @@ Disallow: /
 User-agent: YaK
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/yandeximages
-User-agent: YandexImages
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/yandexrenderresourcesbot
-User-agent: YandexRenderResourcesBot
+# https://darkvisitors.com/agents/agents/yandexmobilebot
+User-agent: YandexMobileBot
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/yandexvideo
@@ -3035,10 +3131,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/yellowbrandprotectionbot
 User-agent: Yellowbrandprotectionbot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/yisouspider
-User-agent: YisouSpider
 Disallow: /
 
 # https://darkvisitors.com/agents/agents/yoozbot
@@ -3085,14 +3177,6 @@ Disallow: /
 User-agent: Zite
 Disallow: /
 
-# https://darkvisitors.com/agents/agents/zoominfobot
-User-agent: ZoominfoBot
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/zumbot
-User-agent: ZumBot
-Disallow: /
-
 # https://darkvisitors.com/agents/agents/zuperlistbot
 User-agent: ZuperlistBot
 Disallow: /
@@ -3105,10 +3189,6 @@ Disallow: /
 
 # https://darkvisitors.com/agents/agents/claude-web
 User-agent: Claude-Web
-Disallow: /
-
-# https://darkvisitors.com/agents/agents/claudebot
-User-agent: ClaudeBot
 Disallow: /
 
 # End Section: Dark Visitors
