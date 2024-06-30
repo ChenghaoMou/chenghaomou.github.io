@@ -4,7 +4,7 @@ aliases:
 authors: "Jack Bandy, Nicholas Vincent"
 date: '2024-02-05 21:32:53'
 tags: []
-title: 'Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus'
+title: 'Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus' 
 url: "https://arxiv.org/abs/2105.05241v1"
 ---
 

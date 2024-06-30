@@ -5,7 +5,7 @@ aliases:
 authors: "Nicholas Lourie, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi"
 date: '2023-11-13 21:43:10'
 tags: []
-title: 'UNICORN on RAINBOW: A Universal Commonsense Reasoning Model on a New Multitask Benchmark'
+title: "'UNICORN on RAINBOW: A Universal Commonsense Reasoning Model on a New Multitask Benchmark'"
 url: "http://arxiv.org/abs/2103.13009"
 ---
 

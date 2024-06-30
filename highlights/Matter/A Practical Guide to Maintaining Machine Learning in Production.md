@@ -1,37 +1,40 @@
 ---
-url: https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/
-author: Eugene Yan
-publisher: Eugene Yan
-date: 2020-05-25
-tags: []
+url: "https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/"
+author: "Eugene Yan"
+publisher: "eugeneyan.com"
+published: 2020-05-26
+title: "A Practical Guide to Maintaining Machine Learning in Production"
+created: 2024-06-30
+modified: 2024-06-30
 ---
 
 ## Highlights
-<mark>Data: Upstream schema changes contaminate data * Model: Increased complexity hampers maintainability * Engineering: Fragmented codebase, configuration, and infra * The Real World: Bias, feedback loops, and adversaries * Org Structure: Excessive division of labour slows down iteration * Customers: Frequent operational requests disrupt work</mark>
 
-<mark>Validate your incoming data.</mark>
+> Data: Upstream schema changes contaminate data * Model: Increased complexity hampers maintainability * Engineering: Fragmented codebase, configuration, and infra * The Real World: Bias, feedback loops, and adversaries * Org Structure: Excessive division of labour slows down iteration * Customers: Frequent operational requests disrupt work
 
-<mark>Check the data’s overall distribution.</mark>
+> Validate your incoming data.
 
-<mark>Check the features’ distributions.</mark>
+> Check the data’s overall distribution.
 
-<mark>* Detect changes with homogeneity tests, ANOVAs, and time series analysis. Is gender distribution the same? Use a chi-squared test to (dis)confirm the null hypothesis. (However, if your data is large, statistical significance can be common.)</mark>
+> Check the features’ distributions.
 
-<mark>log the input data before and after processing and do some checks.</mark>
+> * Detect changes with homogeneity tests, ANOVAs, and time series analysis. Is gender distribution the same? Use a chi-squared test to (dis)confirm the null hypothesis. (However, if your data is large, statistical significance can be common.)
 
-<mark>Shadow release your model. You can do this by running your model in production, running some live traffic through it, and logging the outcomes.</mark>
+> log the input data before and after processing and do some checks.
 
-<mark>Monitor your model health. As a first step, check for model staleness. When was the last time you refreshed the production model?</mark>
+> Shadow release your model. You can do this by running your model in production, running some live traffic through it, and logging the outcomes.
 
-<mark>Investing in finding dependable offline metrics will continuously pay dividends.</mark>
+> Monitor your model health. As a first step, check for model staleness. When was the last time you refreshed the production model?
 
-<mark>Log your configuration details.</mark>
+> Investing in finding dependable offline metrics will continuously pay dividends.
 
-<mark>Make a conscious effort to keep things simple. Start simple. Keep your system simple as long as possible.</mark>
+> Log your configuration details.
 
-<mark>Model validation before deployment: This</mark>
+> Make a conscious effort to keep things simple. Start simple. Keep your system simple as long as possible.
 
-<mark>Input data validation:</mark>
+> Model validation before deployment: This
 
-<mark>Easy rollback:</mark>
+> Input data validation:
+
+> Easy rollback:
 

@@ -1,17 +1,19 @@
 ---
-url: https://twitter.com/i/web/status/1525543969798733825
-author: Pratham 👨‍💻🚀
-publisher: Twitter
-date: 2022-05-14
-tags: []
+url: "https://twitter.com/i/web/status/1525543969798733825"
+author: "Pratham 👨‍💻🚀"
+publisher: "Twitter"
+published: 2022-05-14
+aliases:
+  -  Being a junior developer is tough.  Here are 9 ...
+title: Being a junior developer is tough.  Here are 9 ...
 ---
 
 ## Highlights
-<mark>Always make sure to explain or report anything in a verbose manner.</mark>
+> Always make sure to explain or report anything in a verbose manner.
 
-<mark>Think Twice, analyze possible outcomes, and take action accordingly.</mark>
+> Think Twice, analyze possible outcomes, and take action accordingly.
 
-<mark>Keep exploring new technologies, tools, and ideas to help you deliver your goals 10X faster.</mark>
+> Keep exploring new technologies, tools, and ideas to help you deliver your goals 10X faster.
 
-<mark>Prepare your day plan, take notes in meetings, and work accordingly.</mark>
+> Prepare your day plan, take notes in meetings, and work accordingly.
 
