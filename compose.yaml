@@ -2,6 +2,8 @@ version: "3.8"
 services:
   local:
     tty: true
+    ports:
+      - "8080:8080"
     build:
       context: .
       dockerfile: Dockerfile

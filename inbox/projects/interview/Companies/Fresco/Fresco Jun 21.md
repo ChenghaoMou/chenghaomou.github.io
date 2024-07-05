@@ -1,7 +1,7 @@
 ---
 title: "Fresco Jun 21"
 created: 2024-06-21
-modified: 2024-06-22
+modified: 2024-07-02
 ---
 
 Responsibility
@@ -49,20 +49,40 @@ The willingness to get my hands dirty with data to drive data quality one step f
 - Step by step (receipe adoption)
 - Global impact without appliance -> hardware is hard
 - Platform: guided cooking exp; connectivity; Platform as a service;
-- Carplay
 - onboarding new partners -> appliances slow scaling; change bricks; IoT;
 - build a platform from scratch; scale and onboarding; march 2023;
 - Going: B2B2C (million users) Kitchen OS; Receipe: 30 mins/meat/cook;
 - Meal plan for the week: more customisation (have + need) expiration food waste; save cost; allergy; chief;
 
-Thanks for the introduction. and the cause/future.
-
 **Questions**
 
 1. Team
-2. Interview process, conv with HM, technical conv MLE; Lean team: Amar focus: DS Recipe generation kamal AS and sasha MLE + AS/MLE + final stage C + two/three;
-3. Work permit and salary 80-100; 23 daily week; **thursday** + flexibile; comprehensive and useful. Remote working; It all sounds lovely; It has been very comprehensive and detailed; Very enticing;
-5. COVID
+	1. Lean team:
+		1. Amar focus: DS Recipe generation
+		2. kamal AS and sasha MLE
+		3. + 1 AS/MLE (DS+ML vs ML + MLOps **70% ops side**: **12 to 18 months** platform model deployment scalling service): MLOps technical challenges;
+		4. Technical questions:
+			1. Azure
+			2. Identify MLOps
+			3. Scalable data ingestion, training, LLMs, model registry,
+			4. CICD pipeline;
+		5. ML frameworks:
+			1. transformers, pytorch + lightning
+			2. TensorRT, ONNX, vLLM
+			3. Terraform, Azure, AWS.
+			4. MLpipeline: mlflow;
+			5. CICD: DevOps
+		6. final stage C + two/three;
+2. Interview process:
+	1. conv with HM amar UK;
+	2. technical conv MLE; ML System Design;
+	3. Coding interview; conversation and clarification; Dublin
+	4. CTO: overview, bring values to the team; Path for MLOps; Dublin;
+3. Work permit and salary 80-100; 2/3 daily week; **thursday** + flexibile; Remote working;
+
+Role: waiting for approval; Finallising the found raising; Thanks for the transparency;
+
+Thanks for all the transparency and information. Is the job right? Win-win. Next week; 
 
 ---
 
