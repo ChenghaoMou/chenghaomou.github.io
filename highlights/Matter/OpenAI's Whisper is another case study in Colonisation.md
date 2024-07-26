@@ -3,12 +3,13 @@ url: "https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/"
 author: "Keoni Mahelona"
 publisher: "blog.papareo.nz"
 published: 2023-01-24
-aliases:
-  -  OpenAI's Whisper is another case study in Colonisation
-title: OpenAI's Whisper is another case study in Colonisation
+title: "OpenAI's Whisper is another case study in Colonisation"
+created: 2024-06-30
+modified: 2024-07-24
 ---
 
 ## Highlights
+
 > A few of our data scientists tried Whisper on te reo Māori videos from YouTube. Their initial reaction was, "Wow it works!" A more critical assessment of Whisper by our Māori data experts saw that it sort of worked but it was terrible. Still, this is concerning, that a non-Māori organisation thought it was okay to create a Māori speech recognition model and open it to the public.
 
 > The main questions we ask when we see papers like FLEURS and Whisper are: where did they get their indigenous data from, who gave them access to it, and who gave them the right to create a derived work from that data and then open source the derivation? The history of colonisation and how actions like this do more harm than good is clear: Indigenous Data Sovereignty in the Era of Big Data and Open Data, Big Data May Not Know Your Name. But It Knows Everything Else, Indigenous Data Sovereignty. For our organisation, the way in which Whisper was created goes against everything we stand for. It's an unethical approach to data extraction and it disregards the harm that can be done by open sourcing multilingual models like these. It is problematic to only focus on the "good" that AI has to offer. Why would our organisation use something like Whisper, or could we ever use it in a way that doesn’t go against our values?

@@ -3,12 +3,13 @@ url: "https://redmonk.com/sogrady/2023/08/03/why-opensource-matters/"
 author: "Stephen O'Grady"
 publisher: "redmonk.com"
 published: 2023-08-03
-aliases:
-  -  Why Open Source Matters
-title: Why Open Source Matters
+title: "Why Open Source Matters"
+created: 2024-06-30
+modified: 2024-07-24
 ---
 
 ## Highlights
+
 > * First, developers don’t care about the definition because they don’t have to, and the reason they don’t have to is because of said definition. Developers don’t have to worry, among other concerns, about royalties or what size their user base is or what their revenues are when using open source software because the open source definition does not permit restrictions on use. Ironically, the very meaning of open source that developers imperil with their neglect is what has allowed open source to become what it is today.
 
 > * Second, developers caring about something is, as has been argued here previously, meaningful and important. This does not imply that the reverse is true, however. Developers don’t care because they don’t have to, as stated above, and also because their focus is, quite understandably, myopic. They worry about the software they’re directly using and working on that day, not the wider implications of a licensing shift over the long term from an industry perspective, because they get paid for the former and not the latter. That does not mean, however, that the latter is unimportant. Arguing that the definition of open source doesn’t matter because developers don’t care about it is like arguing that climate change doesn’t matter because citizens don’t care.

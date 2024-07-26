@@ -17,6 +17,8 @@ title: Justine Bateman on AI, Labor, and the Future of Entertainment
 
 > It’s something I am 100% disinterested in. So for me as a filmmaker, I’m going in the complete opposite direction. I want to make new things that have a deeper emotional impact to the viewer than any work I’ve done before. Or ideally, what if I could make something that had a greater emotional impact than any film before? I don’t even know if that’s possible, but if you have that as a goal, you can’t use AI for anything. It’s generative, automatic imitation. So all it is going to regurgitate the past. I would never be making anything new, and I would also be stealing from myself of my own enjoyment to do anything, to make film.
 
+^7f8f0f
+
 > I love writing and directing. Why would I give that away to somebody? So for me, it’s not for me, but the job of these unions is to set a floor, set a default, and the default for actors and writers and directors too. I’d like to see directors’ past work protected because now they can feed it all in and just say, “Well, I want something that’s in the style of PT Anderson, or “I want something that’s in the style of Alfred Hitchcock or something like that.” Which I think we have a responsibility to not necessarily older, but to directors’ past work. We have a responsibility to all of those directors.
 
 > Because I had a Bloomberg journalist make a good point. She said, “It’s great in a way that it’s coming after the entertainment business first because you guys have really strong unions and people are also interested in your business. And so people are watching, people are listening.” And maybe we can become a template for, or at least a model for how to push back and not just lay down.

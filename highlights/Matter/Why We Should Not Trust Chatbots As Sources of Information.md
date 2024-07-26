@@ -3,12 +3,13 @@ url: "https://mindmatters.ai/2022/12/why-we-should-not-trust-chatbots-as-sources
 author: "News"
 publisher: "mindmatters.ai"
 published: 2022-12-18
-aliases:
-  -  Why We Should Not Trust Chatbots As Sources of Information
-title: Why We Should Not Trust Chatbots As Sources of Information
+title: "Why We Should Not Trust Chatbots As Sources of Information"
+created: 2024-06-30
+modified: 2024-07-23
 ---
 
 ## Highlights
+
 > The result is systems that can produce text that is very compelling when we as humans make sense of it. But the systems do not have any understanding of what they are producing, any communicative intent, any model of the world, or any ability to be accountable for the truth of what they are saying.
 
 > But the extracts the chatbot grabs from vast troves and arranges according to rules of syntax are not the result of an intelligent process. No one is in charge of it — unless, of course, there is a human in the loop, listening in. But then the session with the chatbot is no longer an interaction with a supercomputer alone.

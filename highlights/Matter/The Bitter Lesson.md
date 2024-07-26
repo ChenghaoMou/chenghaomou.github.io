@@ -1,14 +1,17 @@
 ---
-url: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"
-author: "hyperthesis"
-publisher: "incompleteideas.net"
+url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+author: hyperthesis
+publisher: incompleteideas.net
 published: 2019-03-13
-aliases:
-  -  The Bitter Lesson
-title: The Bitter Lesson
+title: "The Bitter Lesson"
+tags:
+  - todo
+created: 2024-06-30
+modified: 2024-07-25
 ---
 
 ## Highlights
+
 > Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation. These two need not run counter to each other, but in practice they tend to. Time spent on one is time not spent on the other.
 
 > Search and learning are the two most important classes of techniques for utilizing massive amounts of computation in AI research. In computer Go, as in computer chess, researchers' initial effort was directed towards utilizing human understanding (so that less search was needed) and only much later was much greater success had by embracing search and learning.

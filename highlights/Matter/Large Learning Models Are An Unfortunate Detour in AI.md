@@ -15,5 +15,7 @@ title: Large Learning Models Are An Unfortunate Detour in AI
 
 > I take the slow, articulate, thoughtful expression of… thoughts… to be not only a crucial part of cultivating one’s mind and one’s ideas, but a fundamental part of what it is to be human… When people outsource writing to a computer program, the result is phony. When I read text, I want it to express what a fellow human thought and cared enough about to say, one who lives in and has a stake in the same public world that I do, and one whose inner life I can empathize with and understand… If nearly all written text we see becomes likely to be phony, then I don’t think people will any longer have a real community, at least not the precious kind of community that has formed around written language.
 
+^8b1bea
+
 > Enormous amounts of electricity, water, and other resources are needed to train and run deep-learning AI models and it has been estimated that the resources needed to train AI systems has been doubling every 3 to 4 months. Even more costly is the diversion of extremely intelligent and hard-working people from more productive pursuits. I find it deeply regrettable that so many talented people have worked so hard to create systems that are designed to deceive. The development of mammoth LLMs is not a road to AGI. It is a very expensive detour.
 
