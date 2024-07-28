@@ -2,6 +2,8 @@
 boilerplates
 .DS_Store
 bin
+.smart-env
+smart-chats
 
 
 # Ignore Smart Connections folder
