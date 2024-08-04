@@ -15,8 +15,7 @@ This is my journey of personal knowledge management – building zettelkaste
 
 Chenghao
 
-[[20240218204257|About Me]]
 
-[Evergreen Notes](./notes) | [Literature Notes](./highlights/Zotero) | [Posts](./posts)
+[Evergreen Notes](./notes) | [Literature Notes](./highlights/Zotero) | [Posts](./posts) | [[20240218204257|About Me]]
 
-Fleeting Notes: [Matter](./highlights/Matter), [Readwise](./highlights/Readwise), [Omnivore](./highlights/Omnivore)
+Fleeting Notes: [Matter](./highlights/Matter) | [Readwise](./highlights/Readwise) | [Omnivore](./highlights/Omnivore)
