@@ -1,12 +1,13 @@
 .obsidian
-boilerplates
+.trash
 .DS_Store
 bin
-.smart-env
-smart-chats
 
+boilerplates
 
 # Ignore Smart Connections folder
 .smart-connections
+.smart-env
+smart-chats
 
 quartz

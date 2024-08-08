@@ -1,19 +1,76 @@
-version: "3.8"
 services:
   local:
     tty: true
     ports:
       - "8080:8080"
+    volumes:
+      - type: bind
+        source: ./public
+        target: /quartz/public
+      - type: bind
+        source: ./highlights
+        target: /quartz/content/highlights
+      - type: bind
+        source: ./posts
+        target: /quartz/content/posts
+      - type: bind
+        source: ./notes
+        target: /quartz/content/notes
+      - type: bind
+        source: ./index.md
+        target: /quartz/content/index.md
+      - type: bind
+        source: ./LICENSE
+        target: /quartz/content/LICENSE
+      - type: bind
+        source: ./robots.txt
+        target: /quartz/content/robots.txt
+      - type: bind
+        source: ./4archives
+        target: /quartz/content/4archives
+      - type: bind
+        source: ./statics
+        target: /quartz/content/statics
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ../
+      dockerfile: blog/Dockerfile
       args:
         repo: "./quartz"
   
   remote:
     tty: true
+    ports:
+      - "8080:8080"
+    volumes:
+      - type: bind
+        source: ./public
+        target: /quartz/public
+      - type: bind
+        source: ./highlights
+        target: /quartz/content/highlights
+      - type: bind
+        source: ./posts
+        target: /quartz/content/posts
+      - type: bind
+        source: ./notes
+        target: /quartz/content/notes
+      - type: bind
+        source: ./index.md
+        target: /quartz/content/index.md
+      - type: bind
+        source: ./LICENSE
+        target: /quartz/content/LICENSE
+      - type: bind
+        source: ./robots.txt
+        target: /quartz/content/robots.txt
+      - type: bind
+        source: ./4archives
+        target: /quartz/content/4archives
+      - type: bind
+        source: ./statics
+        target: /quartz/content/statics
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ../
+      dockerfile: blog/Dockerfile
       args:
         repo: "https://github.com/ChenghaoMou/quartz"

@@ -3,8 +3,8 @@ aliases:
   - Home
 tags: []
 title: "Home"
-created: 2024-03-02
-modified: 2024-07-01
+created: "2024-03-02"
+modified: "2024-08-08"
 ---
 
 # Home
@@ -14,7 +14,6 @@ This is my journey of personal knowledge management – building zettelkaste
 ✌️
 
 Chenghao
-
 
 [Evergreen Notes](./notes) | [Literature Notes](./highlights/Zotero) | [Posts](./posts) | [[20240218204257|About Me]]
 

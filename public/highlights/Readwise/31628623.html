@@ -37,4 +37,8 @@ on what’s going on in the world, and so don’t be  too sure. Take time to ha
               })
             }
           });
-          </script><script src="../../postscript.js" type="module"></script></html>
+          </script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../postscript.js" type="module"></script></html>

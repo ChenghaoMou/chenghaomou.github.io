@@ -1,15 +1,17 @@
 env=local
 
+up:
+	docker compose up ${env} -d
+
 build:
-	rsync -r -c ../quartz ./
-	rm -rf ./public/*
 	docker compose up ${env} -d --build
-	docker compose cp ${env}:/public ./
-	rm -rf ./quartz
+
+compile: up
+	docker compose exec ${env} bash -c "npx quartz build -d ./content"
 	bash -c "du -sh ./public"
 
-preview: build
-	docker compose exec ${env} bash -c "cd /quartz && npx quartz build --serve"
+preview: up
+	docker compose exec ${env} bash -c "npx quartz build --serve --fastRebuild"
 
 down:
 	docker compose down ${env}

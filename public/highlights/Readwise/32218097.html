@@ -50,4 +50,8 @@ This should at least give you a clue that this game is not for everyone, and the
               })
             }
           });
-          </script><script src="../../postscript.js" type="module"></script></html>
+          </script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../postscript.js" type="module"></script></html>

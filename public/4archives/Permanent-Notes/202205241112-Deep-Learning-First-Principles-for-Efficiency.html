@@ -60,4 +60,8 @@ number of operations needed to spend 2s: 20 T / 400 B * 2 = 100 ops
               })
             }
           });
-          </script><script src="../../postscript.js" type="module"></script></html>
+          </script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../postscript.js" type="module"></script></html>
