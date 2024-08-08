@@ -3,10 +3,9 @@ url: https://allenpike.com/2013/unprofessionalism
 author: Brajeshwar
 publisher: allenpike.com
 title: "Unprofessionalism"
-tags:
-  - todo
+tags: []
 created: 2024-08-03
-modified: 2024-08-03
+modified: 2024-08-05
 ---
 
 ## Highlights
