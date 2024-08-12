@@ -1,13 +1,12 @@
 ---
-url: "https://newhumanist.org.uk/articles/6306/the-introverts-are-winning"
-author: "Marie Le Conte -"
-publisher: "newhumanist.org.uk"
+url: https://newhumanist.org.uk/articles/6306/the-introverts-are-winning
+author: Marie Le Conte -
+publisher: newhumanist.org.uk
 published: 2024-07-25
 title: "The introverts are winning"
-tags:
-  - todo
+tags: []
 created: 2024-08-04
-modified: 2024-08-05
+modified: 2024-08-11
 ---
 
 ## Highlights

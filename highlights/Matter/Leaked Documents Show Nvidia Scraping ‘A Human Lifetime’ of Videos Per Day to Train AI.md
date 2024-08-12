@@ -1,13 +1,12 @@
 ---
-url: "https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/"
-author: "Samantha Cole"
-publisher: "404media.co"
+url: https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/
+author: Samantha Cole
+publisher: 404media.co
 published: 2024-08-05
 title: "Leaked Documents Show Nvidia Scraping ‘A Human Lifetime’ of Videos Per Day to Train AI"
-tags:
-  - todo
+tags: []
 created: 2024-08-06
-modified: 2024-08-07
+modified: 2024-08-11
 ---
 
 ## Highlights

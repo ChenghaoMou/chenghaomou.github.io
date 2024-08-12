@@ -1,13 +1,12 @@
 ---
-url: "https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool"
-author: "Wes Davis"
-publisher: "The Verge"
+url: https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool
+author: Wes Davis
+publisher: The Verge
 published: 2024-08-04
 title: "OpenAI won’t watermark ChatGPT text because its users could get caught"
-tags:
-  - todo
+tags: []
 created: 2024-08-05
-modified: 2024-08-05
+modified: 2024-08-11
 ---
 
 ## Highlights

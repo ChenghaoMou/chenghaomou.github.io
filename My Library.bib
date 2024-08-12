@@ -2333,24 +2333,6 @@ GSCC: 0000006},
   file = {/Users/chenghao/Zotero/storage/GTB4XUC3/Erscoi_et_al_(2023)_Pygmalion_Displacement.pdf}
 }
 
-@misc{li_2023,
-  title = {Internet {{Explorer}}: {{Targeted Representation Learning}} on the {{Open Web}}},
-  shorttitle = {Internet {{Explorer}}},
-  author = {Li, Alexander C. and Brown, Ellis and Efros, Alexei A. and Pathak, Deepak},
-  year = {2023},
-  month = feb,
-  number = {arXiv:2302.14051},
-  eprint = {2302.14051},
-  primaryclass = {cs},
-  publisher = {arXiv},
-  doi = {10.48550/arXiv.2302.14051},
-  urldate = {2023-02-28},
-  abstract = {Modern vision models typically rely on fine-tuning general-purpose models pre-trained on large, static datasets. These general-purpose models only capture the knowledge within their pre-training datasets, which are tiny, out-of-date snapshots of the Internet -- where billions of images are uploaded each day. We suggest an alternate approach: rather than hoping our static datasets transfer to our desired tasks after large-scale pre-training, we propose dynamically utilizing the Internet to quickly train a small-scale model that does extremely well on the task at hand. Our approach, called Internet Explorer, explores the web in a self-supervised manner to progressively find relevant examples that improve performance on a desired target dataset. It cycles between searching for images on the Internet with text queries, self-supervised training on downloaded images, determining which images were useful, and prioritizing what to search for next. We evaluate Internet Explorer across several datasets and show that it outperforms or matches CLIP oracle performance by using just a single GPU desktop to actively query the Internet for 30--40 hours. Results, visualizations, and videos at https://internet-explorer-ssl.github.io/},
-  archiveprefix = {arXiv},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Computer Science - Neural and Evolutionary Computing,Computer Science - Robotics},
-  file = {/Users/chenghao/Zotero/storage/72MANP75/Li_et_al_(2023)_Internet_Explorer.pdf}
-}
-
 @misc{huang_2023,
   title = {Language {{Is Not All You Need}}: {{Aligning Perception}} with {{Language Models}}},
   shorttitle = {Language {{Is Not All You Need}}},
@@ -7535,4 +7517,107 @@ GSCC: 0000006},
   title = {{{FlexAttention}}: {{The Flexibility}} of {{PyTorch}} with the {{Performance}} of {{FlashAttention}} {\textbar} {{PyTorch}}},
   urldate = {2024-08-07},
   howpublished = {https://pytorch.org/blog/flexattention/}
+}
+
+@misc{li_2023c,
+  title = {Are {{ChatGPT}} and {{GPT-4 General-Purpose Solvers}} for {{Financial Text Analytics}}? {{A Study}} on {{Several Typical Tasks}}},
+  shorttitle = {Are {{ChatGPT}} and {{GPT-4 General-Purpose Solvers}} for {{Financial Text Analytics}}?},
+  author = {Li, Xianzhi and Chan, Samuel and Zhu, Xiaodan and Pei, Yulong and Ma, Zhiqiang and Liu, Xiaomo and Shah, Sameena},
+  year = {2023},
+  month = may,
+  journal = {arXiv.org},
+  urldate = {2024-08-09},
+  abstract = {The most recent large language models(LLMs) such as ChatGPT and GPT-4 have shown exceptional capabilities of generalist models, achieving state-of-the-art performance on a wide range of NLP tasks with little or no adaptation. How effective are such models in the financial domain? Understanding this basic question would have a significant impact on many downstream financial analytical tasks. In this paper, we conduct an empirical study and provide experimental evidences of their performance on a wide variety of financial text analytical problems, using eight benchmark datasets from five categories of tasks. We report both the strengths and limitations of the current models by comparing them to the state-of-the-art fine-tuned approaches and the recently released domain-specific pretrained models. We hope our study can help understand the capability of the existing models in the financial domain and facilitate further improvements.},
+  howpublished = {https://arxiv.org/abs/2305.05862v2},
+  langid = {english},
+  annotation = {20 citations (Semantic Scholar/arXiv) [2024-08-09]},
+  file = {/Users/chenghao/Zotero/storage/Y83GQSJ5/Li et al. - 2023 - Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics A Study on Several Typic.pdf}
+}
+
+@misc{cho_2024,
+  title = {Transformer {{Explainer}}: {{Interactive Learning}} of {{Text-Generative Models}}},
+  shorttitle = {Transformer {{Explainer}}},
+  author = {Cho, Aeree and Kim, Grace C. and Karpekov, Alexander and Helbling, Alec and Wang, Zijie J. and Lee, Seongmin and Hoover, Benjamin and Chau, Duen Horng},
+  year = {2024},
+  month = aug,
+  journal = {arXiv.org},
+  urldate = {2024-08-09},
+  abstract = {Transformers have revolutionized machine learning, yet their inner workings remain opaque to many. We present Transformer Explainer, an interactive visualization tool designed for non-experts to learn about Transformers through the GPT-2 model. Our tool helps users understand complex Transformer concepts by integrating a model overview and enabling smooth transitions across abstraction levels of mathematical operations and model structures. It runs a live GPT-2 instance locally in the user's browser, empowering users to experiment with their own input and observe in real-time how the internal components and parameters of the Transformer work together to predict the next tokens. Our tool requires no installation or special hardware, broadening the public's education access to modern generative AI techniques. Our open-sourced tool is available at https://poloclub.github.io/transformer-explainer/. A video demo is available at https://youtu.be/ECR4oAwocjs.},
+  howpublished = {https://arxiv.org/abs/2408.04619v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-08-09]},
+  file = {/Users/chenghao/Zotero/storage/T3T33FYD/Cho et al. - 2024 - Transformer Explainer Interactive Learning of Text-Generative Models.pdf}
+}
+
+@misc{tai_2024,
+  title = {{{PIXAR}}: {{Auto-Regressive Language Modeling}} in {{Pixel Space}}},
+  shorttitle = {{{PIXAR}}},
+  author = {Tai, Yintao and Liao, Xiyang and Suglia, Alessandro and Vergari, Antonio},
+  year = {2024},
+  month = jan,
+  journal = {arXiv.org},
+  urldate = {2024-08-10},
+  abstract = {Recent work showed the possibility of building open-vocabulary large language models (LLMs) that directly operate on pixel representations. These models are implemented as autoencoders that reconstruct masked patches of rendered text. However, these pixel-based LLMs are limited to discriminative tasks (e.g., classification) and, similar to BERT, cannot be used to generate text. Therefore, they cannot be used for generative tasks such as free-form question answering. In this work, we introduce PIXAR, the first pixel-based autoregressive LLM that performs text generation. Consisting of only a decoder, PIXAR can perform free-form generative tasks while keeping the number of parameters on par with previous encoder-decoder models. Furthermore, we highlight the challenges of generating text as non-noisy images and show this is due to using a maximum likelihood objective. To overcome this problem, we propose an adversarial pretraining stage that improves the readability and accuracy of PIXAR by 8.1 on LAMBADA and 8.5 on bAbI -- making it comparable to GPT-2 on text generation tasks. This paves the way to build open-vocabulary LLMs that operate on perceptual input only and calls into question the necessity of the usual symbolic input representation, i.e., text as (sub)tokens.},
+  howpublished = {https://arxiv.org/abs/2401.03321v2},
+  langid = {english},
+  annotation = {3 citations (Semantic Scholar/arXiv) [2024-08-10]},
+  file = {/Users/chenghao/Zotero/storage/7S3TNLMF/Tai et al. - 2024 - PIXAR Auto-Regressive Language Modeling in Pixel Space.pdf}
+}
+
+@misc{desai_2020,
+  title = {Calibration of {{Pre-trained Transformers}}},
+  author = {Desai, Shrey and Durrett, Greg},
+  year = {2020},
+  month = mar,
+  journal = {arXiv.org},
+  urldate = {2024-08-11},
+  abstract = {Pre-trained Transformers are now ubiquitous in natural language processing, but despite their high end-task performance, little is known empirically about whether they are calibrated. Specifically, do these models' posterior probabilities provide an accurate empirical measure of how likely the model is to be correct on a given example? We focus on BERT and RoBERTa in this work, and analyze their calibration across three tasks: natural language inference, paraphrase detection, and commonsense reasoning. For each task, we consider in-domain as well as challenging out-of-domain settings, where models face more examples they should be uncertain about. We show that: (1) when used out-of-the-box, pre-trained models are calibrated in-domain, and compared to baselines, their calibration error out-of-domain can be as much as 3.5x lower; (2) temperature scaling is effective at further reducing calibration error in-domain, and using label smoothing to deliberately increase empirical uncertainty helps calibrate posteriors out-of-domain.},
+  howpublished = {https://arxiv.org/abs/2003.07892v3},
+  langid = {english},
+  annotation = {238 citations (Semantic Scholar/arXiv) [2024-08-11]},
+  file = {/Users/chenghao/Zotero/storage/YZCKEDDA/Desai and Durrett - 2020 - Calibration of Pre-trained Transformers.pdf}
+}
+
+@misc{shyam_2024,
+  title = {Tree {{Attention}}: {{Topology-aware Decoding}} for {{Long-Context Attention}} on {{GPU}} Clusters},
+  shorttitle = {Tree {{Attention}}},
+  author = {Shyam, Vasudev and Pilault, Jonathan and Shepperd, Emily and Anthony, Quentin and Millidge, Beren},
+  year = {2024},
+  month = aug,
+  journal = {arXiv.org},
+  urldate = {2024-08-11},
+  abstract = {Self-attention is the core mathematical operation of modern transformer architectures and is also a significant computational bottleneck due to its quadratic complexity in the sequence length. In this work, we derive the scalar energy function whose gradient computes the self-attention block, thus elucidating the theoretical underpinnings of self-attention, providing a Bayesian interpretation of the operation and linking it closely with energy-based models such as Hopfield Networks. Moreover, due to this formulation, we discover that we can use efficient and optimized automatic-differentiation techniques to derive a highly efficient Tree Attention algorithm to compute the gradient of the energy and hence self-attention. Our formulation reveals that the reduction across the sequence axis can be efficiently computed in parallel through a tree reduction. Our algorithm, for parallelizing attention computation across multiple GPUs, enables cross-device decoding to be performed asymptotically faster (up to 8x faster) than alternative approaches such as Ring Attention, while also requiring significantly less communication volume and incurring 2x less peak memory. Our code is publicly available here: {\textbackslash}url\{https://github.com/Zyphra/tree\_attention\}},
+  howpublished = {https://arxiv.org/abs/2408.04093v1},
+  langid = {english},
+  annotation = {0 citations (Semantic Scholar/arXiv) [2024-08-11]},
+  file = {/Users/chenghao/Zotero/storage/2VNY8SHA/Shyam et al. - 2024 - Tree Attention Topology-aware Decoding for Long-Context Attention on GPU clusters.pdf}
+}
+
+@misc{_ah,
+  title = {A Minimal {{Introduction}} to {{Quantization}} -- Hackerllama},
+  urldate = {2024-08-11},
+  howpublished = {https://osanseviero.github.io/hackerllama/blog/posts/minimal-quantize-intro/},
+  file = {/Users/chenghao/Zotero/storage/Q23ZC4S2/minimal-quantize-intro.html}
+}
+
+@misc{_ai,
+  title = {A {{Visual Guide}} to {{Quantization}} - by {{Maarten Grootendorst}}},
+  urldate = {2024-08-11},
+  howpublished = {https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization\#footnote-3-145531349},
+  file = {/Users/chenghao/Zotero/storage/QLW3RHW5/a-visual-guide-to-quantization.html}
+}
+
+@misc{li_2023,
+  title = {Internet {{Explorer}}: {{Targeted Representation Learning}} on the {{Open Web}}},
+  shorttitle = {Internet {{Explorer}}},
+  author = {Li, Alexander C. and Brown, Ellis and Efros, Alexei A. and Pathak, Deepak},
+  year = {2023},
+  month = feb,
+  journal = {arXiv.org},
+  urldate = {2024-08-11},
+  abstract = {Modern vision models typically rely on fine-tuning general-purpose models pre-trained on large, static datasets. These general-purpose models only capture the knowledge within their pre-training datasets, which are tiny, out-of-date snapshots of the Internet -- where billions of images are uploaded each day. We suggest an alternate approach: rather than hoping our static datasets transfer to our desired tasks after large-scale pre-training, we propose dynamically utilizing the Internet to quickly train a small-scale model that does extremely well on the task at hand. Our approach, called Internet Explorer, explores the web in a self-supervised manner to progressively find relevant examples that improve performance on a desired target dataset. It cycles between searching for images on the Internet with text queries, self-supervised training on downloaded images, determining which images were useful, and prioritizing what to search for next. We evaluate Internet Explorer across several datasets and show that it outperforms or matches CLIP oracle performance by using just a single GPU desktop to actively query the Internet for 30--40 hours. Results, visualizations, and videos at https://internet-explorer-ssl.github.io/},
+  howpublished = {https://arxiv.org/abs/2302.14051v2},
+  langid = {english},
+  annotation = {16 citations (Semantic Scholar/arXiv) [2024-08-11]},
+  file = {/Users/chenghao/Zotero/storage/P5ENF5VX/Li et al. - 2023 - Internet Explorer Targeted Representation Learning on the Open Web.pdf}
 }
