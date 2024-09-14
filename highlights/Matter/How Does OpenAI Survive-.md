@@ -1,15 +1,15 @@
 ---
-url: "https://www.wheresyoured.at/to-serve-altman/"
-author: "Edward Zitron"
-publisher: "wheresyoured.at"
+url: https://www.wheresyoured.at/to-serve-altman/
+author: Edward Zitron
+publisher: wheresyoured.at
 published: 2024-07-29
 aliases:
   - How Does OpenAI Survive?
 title: "How Does OpenAI Survive-"
 tags:
-  - todo
+  - later
 created: 2024-07-31
-modified: 2024-08-03
+modified: 2024-09-02
 ---
 
 ## Highlights

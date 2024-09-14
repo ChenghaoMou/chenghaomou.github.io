@@ -1,13 +1,12 @@
 ---
-url: "https://www.404media.co/ai-music-generator-suno-admits-it-was-trained-on-essentially-all-music-files-on-the-internet/"
-author: "Jason Koebler"
-publisher: "404media.co"
+url: https://www.404media.co/ai-music-generator-suno-admits-it-was-trained-on-essentially-all-music-files-on-the-internet/
+author: Jason Koebler
+publisher: 404media.co
 published: 2024-08-01
 title: "AI Music Generator Suno Admits It Was Trained on ‘Essentially All Music Files on the Internet’"
-tags:
-  - todo
+tags: []
 created: 2024-08-03
-modified: 2024-08-03
+modified: 2024-09-02
 ---
 
 ## Highlights

@@ -1,13 +1,13 @@
 ---
-url: "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html"
-author: "twitchard"
-publisher: "twitchard.github.io"
+url: http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html
+author: twitchard
+publisher: twitchard.github.io
 published: 2022-08-26
 title: "Be good-argument-driven, not data-driven"
 tags:
-  - todo
+  - later
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-09-02
 ---
 
 ## Highlights

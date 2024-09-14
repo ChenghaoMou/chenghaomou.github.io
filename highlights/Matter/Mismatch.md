@@ -1,13 +1,13 @@
 ---
-url: "https://manuelmoreale.com/mismatch"
-author: "hello@manuelmoreale.com (Manuel Moreale)"
-publisher: "manuelmoreale.com"
+url: https://manuelmoreale.com/mismatch
+author: hello@manuelmoreale.com (Manuel Moreale)
+publisher: manuelmoreale.com
 published: 2024-07-22
 title: "Mismatch"
 tags:
-  - todo
+  - later
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-09-02
 ---
 
 ## Highlights

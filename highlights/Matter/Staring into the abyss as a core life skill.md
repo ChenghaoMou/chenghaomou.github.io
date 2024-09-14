@@ -3,12 +3,13 @@ url: "https://www.benkuhn.net/abyss/"
 author: "Ben Kuhn"
 publisher: "Ben Kuhn"
 published: 2022-12-22
-aliases:
-  -  Staring into the abyss as a core life skill
-title: Staring into the abyss as a core life skill
+title: "Staring into the abyss as a core life skill"
+created: 2024-06-30
+modified: 2024-09-05
 ---
 
 ## Highlights
+
 > Thinking about whether to leave your job is uncomfortable in a few different ways: it involves acknowledging that you made a poor decision in the past (taking your current job) that wasted a bunch of time; it involves signing up for a bunch more difficult, stressful work to interview at new jobs; and it saps your motivation to invest in getting better at your current job if you think it’s likely that you’ll leave soon. So it’s understandable that people procrastinate on staring into that abyss. But that procrastination leads to a lot of avoidable suffering.
 
 > For example, it’s common for students at elite colleges to follow the mantra of “do what you love” and choose a major that doesn’t have very good job prospects, without really grappling with that fact until their final year. (I’m not saying that they don’t think about it at all, just that they don’t work effectively on solving that problem—which is completely understandable since they mostly have way too little life experience to do a good job at that, and don’t generally get much support from their environment.)

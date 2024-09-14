@@ -1,13 +1,13 @@
 ---
-url: "https://garymarcus.substack.com/p/this-one-important-fact-about-current"
-author: "Gary Marcus"
-publisher: "The Road to AI We Can Trust"
+url: https://garymarcus.substack.com/p/this-one-important-fact-about-current
+author: Gary Marcus
+publisher: The Road to AI We Can Trust
 published: 2024-08-01
 title: "This one important fact about current AI explains almost everything"
 tags:
-  - todo
+  - later
 created: 2024-08-03
-modified: 2024-08-03
+modified: 2024-09-02
 ---
 
 ## Highlights

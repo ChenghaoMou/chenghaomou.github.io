@@ -1,13 +1,12 @@
 ---
-url: "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
-author: "John Salvatier"
-publisher: "John Salvatier"
+url: http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+author: John Salvatier
+publisher: John Salvatier
 published: 2017-05-13
 title: "Reality has a surprising amount of detail"
-tags:
-  - todo
+tags: []
 created: 2024-07-21
-modified: 2024-07-21
+modified: 2024-09-02
 ---
 
 ## Highlights

@@ -3,12 +3,13 @@ url: "https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults?utm_campa
 author: "Peter O'Dowd"
 publisher: "wbur.org"
 published: 2021-11-10
-aliases:
-  -  You're not uncool. Making friends as an adult is just hard
-title: You're not uncool. Making friends as an adult is just hard
+title: "You're not uncool. Making friends as an adult is just hard"
+created: 2024-06-30
+modified: 2024-09-02
 ---
 
 ## Highlights
+
 > But somewhere along the long, winding road to adulthood, making new friends became an impossibly hard thing to do.
 
 > “Researchers also find that when we develop groups, our friendships are more sustainable than they are with individuals. Because there's multiple touch points now, right? Someone else in the group could reach out to all of us, and then we all keep in touch,” she notes. If that sounds terrifying to you, Franco says it’s crucial to assume that people already like you. Assume any meet ups will go well, she says, which in turn will help build up your confidence.

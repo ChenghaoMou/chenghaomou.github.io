@@ -1,13 +1,12 @@
 ---
-url: "https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/"
-author: "Jason Koebler"
-publisher: "404media.co"
+url: https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/
+author: Jason Koebler
+publisher: 404media.co
 published: 2024-07-29
 title: "Websites are Blocking the Wrong AI Scrapers"
-tags:
-  - todo
+tags: []
 created: 2024-07-31
-modified: 2024-08-03
+modified: 2024-09-02
 ---
 
 ## Highlights

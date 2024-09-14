@@ -3,12 +3,13 @@ url: "https://www.vice.com/en/article/wxnaqz/ai-isnt-artificial-or-intelligent"
 author: "Jason Koebler"
 publisher: "Vice"
 published: 2022-12-06
-aliases:
-  -  AI Isn’t Artificial or Intelligent
-title: AI Isn’t Artificial or Intelligent
+title: "AI Isn’t Artificial or Intelligent"
+created: 2024-06-30
+modified: 2024-08-19
 ---
 
 ## Highlights
+
 > These tasks, deemed rote and unglamorous for many in-house developers, are often outsourced to gig workers and workers who largely live in South Asia and Africa and work for data training companies such as iMerit, Sama, and Alegion. For example, Facebook has one of the most advanced algorithmic content moderation systems on the internet. That system's so-called artificial intelligence, though, is "learning from thousands of human decisions" made by human moderators.
 
 > The biggest tech companies in the world imagine a near future where AI will replace a lot of human labor, unleashing new efficiency and productivity. But this vision ignores the fact that much of what we think of as “AI” is actually powered by tedious, low-paid human labor.

@@ -5,9 +5,9 @@ publisher: incompleteideas.net
 published: 2019-03-13
 title: "The Bitter Lesson"
 tags:
-  - todo
+  - later
 created: 2024-06-30
-modified: 2024-07-25
+modified: 2024-09-10
 ---
 
 ## Highlights

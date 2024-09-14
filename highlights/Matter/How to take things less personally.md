@@ -1,13 +1,12 @@
 ---
-url: "https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading"
-author: "Joel Minden + BIO"
-publisher: "Psyche"
+url: https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading
+author: Joel Minden + BIO
+publisher: Psyche
 published: 2022-04-27
 title: "How to take things less personally"
-tags:
-  - todo
+tags: []
 created: 2024-07-23
-modified: 2024-07-23
+modified: 2024-09-12
 ---
 
 ## Highlights

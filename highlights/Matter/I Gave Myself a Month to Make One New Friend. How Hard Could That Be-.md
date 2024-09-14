@@ -1,15 +1,14 @@
 ---
-url: "https://www.esquire.com/lifestyle/a61536364/one-friend-in-one-month/"
-author: "Kelly Stout Published"
-publisher: "Esquire"
+url: https://www.esquire.com/lifestyle/a61536364/one-friend-in-one-month/
+author: Kelly Stout Published
+publisher: Esquire
 published: 2024-07-15
 aliases:
   - I Gave Myself a Month to Make One New Friend. How Hard Could That Be?
 title: "I Gave Myself a Month to Make One New Friend. How Hard Could That Be-"
-tags:
-  - todo
+tags: []
 created: 2024-07-20
-modified: 2024-07-21
+modified: 2024-09-02
 ---
 
 ## Highlights
