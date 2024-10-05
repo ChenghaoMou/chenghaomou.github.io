@@ -22,6 +22,16 @@
   keywords = {nosource}
 }
 
+@misc{_2024,
+  title = {Paper Page - {{MIO}}: {{A Foundation Model}} on {{Multimodal Tokens}}},
+  shorttitle = {Paper Page - {{MIO}}},
+  year = {2024},
+  month = sep,
+  urldate = {2024-10-01},
+  abstract = {Join the discussion on this paper page},
+  howpublished = {https://huggingface.co/papers/2409.17692}
+}
+
 @misc{_a,
   title = {No {{Language Left Behind}}: {{Scaling Human-Centered Machine Translation}} - {{Meta Research}}},
   shorttitle = {No {{Language Left Behind}}},
@@ -520,6 +530,20 @@
   keywords = {Computer Science - Computation and Language},
   annotation = {2811 citations (Semantic Scholar/arXiv) [2024-07-22]},
   file = {/Users/chenghao/Zotero/storage/US2XJAIR/Amodei et al. - 2015 - Deep Speech 2 End-to-End Speech Recognition in English and Mandarin.pdf}
+}
+
+@misc{an_2024,
+  title = {{{FunAudioLLM}}: {{Voice Understanding}} and {{Generation Foundation Models}} for {{Natural Interaction Between Humans}} and {{LLMs}}},
+  shorttitle = {{{FunAudioLLM}}},
+  author = {An, Keyu and Chen, Qian and Deng, Chong and Du, Zhihao and Gao, Changfeng and Gao, Zhifu and Gu, Yue and He, Ting and Hu, Hangrui and Hu, Kai and Ji, Shengpeng and Li, Yabin and Li, Zerui and Lu, Heng and Luo, Haoneng and Lv, Xiang and Ma, Bin and Ma, Ziyang and Ni, Chongjia and Song, Changhe and Shi, Jiaqi and Shi, Xian and Wang, Hao and Wang, Wen and Wang, Yuxuan and Xiao, Zhangyu and Yan, Zhijie and Yang, Yexin and Zhang, Bin and Zhang, Qinglin and Zhang, Shiliang and Zhao, Nan and Zheng, Siqi},
+  year = {2024},
+  month = jul,
+  journal = {arXiv.org},
+  urldate = {2024-09-23},
+  abstract = {This report introduces FunAudioLLM, a model family designed to enhance natural voice interactions between humans and large language models (LLMs). At its core are two innovative models: SenseVoice, which handles multilingual speech recognition, emotion recognition, and audio event detection; and CosyVoice, which facilitates natural speech generation with control over multiple languages, timbre, speaking style, and speaker identity. SenseVoice-Small delivers exceptionally low-latency ASR for 5 languages, and SenseVoice-Large supports high-precision ASR for over 50 languages, while CosyVoice excels in multi-lingual voice generation, zero-shot in-context learning, cross-lingual voice cloning, and instruction-following capabilities. The models related to SenseVoice and CosyVoice have been open-sourced on Modelscope and Huggingface, along with the corresponding training, inference, and fine-tuning codes released on GitHub. By integrating these models with LLMs, FunAudioLLM enables applications such as speech-to-speech translation, emotional voice chat, interactive podcasts, and expressive audiobook narration, thereby pushing the boundaries of voice interaction technology. Demos are available at https://fun-audio-llm.github.io, and the code can be accessed at https://github.com/FunAudioLLM.},
+  howpublished = {https://arxiv.org/abs/2407.04051v3},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/4TPXU7KD/An et al. - 2024 - FunAudioLLM Voice Understanding and Generation Foundation Models for Natural Interaction Between Hu.pdf}
 }
 
 @misc{andreas_2022,
@@ -1655,6 +1679,14 @@ GSCC: 0000000},
   file = {/Users/chenghao/Zotero/storage/C5CB93M6/Defazio et al. - 2024 - The Road Less Scheduled.pdf}
 }
 
+@article{defossez_,
+  title = {Moshi: A Speech-Text Foundation Model for Real-Time Dialogue},
+  author = {Defossez, Alexandre and Mazare, Laurent and Orsini, Manu and Royer, Amelie and Perez, Patrick and Jegou, Herve and Grave, Edouard and Zeghidour, Neil},
+  abstract = {We introduce Moshi, a speech-text foundation model and full-duplex spoken dialogue framework. Current systems for spoken dialogue rely on pipelines of independent components, namely voice activity detection, speech recognition, textual dialogue and text-to-speech. Such frameworks cannot emulate the experience of real conversations. First, their complexity induces a latency of several seconds between interactions. Second, text being the intermediate modality for dialogue, non-linguistic information that modifies meaning--- such as emotion or non-speech sounds--- is lost in the interaction. Finally, they rely on a segmentation into speaker turns, which does not take into account overlapping speech, interruptions and interjections. Moshi solves these independent issues altogether by casting spoken dialogue as speech-to-speech generation. Starting from a text language model backbone, Moshi generates speech as tokens from the residual quantizer of a neural audio codec, while modeling separately its own speech and that of the user into parallel streams. This allows for the removal of explicit speaker turns, and the modeling of arbitrary conversational dynamics. We moreover extend the hierarchical semantic-to-acoustic token generation of previous work to first predict time-aligned text tokens as a prefix to audio tokens. Not only this ``Inner Monologue'' method significantly improves the linguistic quality of generated speech, but we also illustrate how it can provide streaming speech recognition and text-to-speech. Our resulting model is the first real-time full-duplex spoken large language model, with a theoretical latency of 160ms, 200ms in practice, and is available at github.com/kyutai-labs/moshi.},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/9NCKU4II/Defossez et al. - Moshi a speech-text foundation model for real-time dialogue.pdf}
+}
+
 @article{dehghani_2021,
   title = {The {{Benchmark Lottery}}},
   author = {Dehghani, Mostafa and Tay, Yi and Gritsenko, Alexey A and Zhao, Zhe and Houlsby, Neil and Diaz, Fernando and Metzler, Donald and Vinyals, Oriol},
@@ -1662,6 +1694,14 @@ GSCC: 0000000},
   journal = {arXiv},
   abstract = {The world of empirical machine learning (ML) strongly relies on benchmarks in order to determine the relative effectiveness of different algorithms and methods. This paper proposes the notion of "a benchmark lottery" that describes the overall fragility of the ML benchmarking process. The benchmark lottery postulates that many factors, other than fundamental algorithmic superiority, may lead to a method being perceived as superior. On multiple benchmark setups that are prevalent in the ML community, we show that the relative performance of algorithms may be altered significantly simply by choosing different benchmark tasks, highlighting the fragility of the current paradigms and potential fallacious interpretation derived from benchmarking ML methods. Given that every benchmark makes a statement about what it perceives to be important, we argue that this might lead to biased progress in the community. We discuss the implications of the observed phenomena and provide recommendations on mitigating them using multiple machine learning domains and communities as use cases, including natural language processing, computer vision, information retrieval, recommender systems, and reinforcement learning.},
   keywords = {nosource}
+}
+
+@article{deitke_,
+  title = {Open {{Weights}} and {{Open Data}} for {{State-of-the-Art Multimodal Models}}},
+  author = {Deitke, Matt and Clark, Christopher and Lee, Sangho and Tripathi, Rohun and Yang, Yue and Park, James and Salehi, Reza and Muennighoff, Niklas and Lo, Kyle and Soldaini, Luca and Lu, Jiasen and Anderson, Taira and Bransom, Erin and Ehsani, Kiana and Ngo, Huong and Chen, YenSung and Patel, Ajay and Yatskar, Mark and {Callison-Burch}, Chris and Head, Andrew and Hendrix, Rose and Bastani, Favyen and VanderBilt, Eli and Lambert, Nathan and Chou, Yvonne and Chheda, Arnavi and Sparks, Jenna and Skjonsberg, Sam and Schmitz, Michael and Sarnat, Aaron and Bischoff, Byron and Walsh, Pete and Newell, Chris and Wolters, Piper and Gupta, Tanmay and Borchardt, Jon and Groeneveld, Dirk and Dumas, Jen and Nam, Crystal and Lebrecht, Sophie and Wittlif, Caitlin and Schoenick, Carissa and Michel, Oscar and Krishna, Ranjay and Weihs, Luca and Smith, Noah and Hajishirzi, Hannaneh and Girshick, Ross and Farhadi, Ali and Kembhavi, Aniruddha},
+  abstract = {Today's most advanced multimodal models remain proprietary. The strongest open-weight models rely heavily on synthetic data from proprietary VLMs to achieve good performance, effectively distilling these closed models into open ones. As a result, the community is still missing foundational knowledge about how to build performant VLMs from scratch. We present Molmo, a new family of VLMs that are state-of-the-art in their class of openness. Our key innovation is a novel, highly detailed image caption dataset collected entirely from human annotators using speech-based descriptions. To enable a wide array of user interactions, we also introduce a diverse dataset mixture for fine-tuning that includes innovative 2D pointing data. The success of our approach relies on careful choices for the model architecture details, a well-tuned training pipeline, and, most critically, the quality of our newly collected datasets, all of which will be released. The best-in-class 72B model within the Molmo family not only outperforms others in the class of open weight and data models but also compares favorably against proprietary systems like GPT-4o, Claude 3.5, and Gemini 1.5 on both academic benchmarks and human evaluation.},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/XSCXZC8J/Deitke et al. - Open Weights and Open Data for State-of-the-Art Multimodal Models.pdf}
 }
 
 @article{dejean_2022,
@@ -1978,6 +2018,20 @@ GSCC: 0000000},
   copyright = {2024 The Author(s)},
   langid = {english},
   file = {/Users/chenghao/Zotero/storage/XCS5NPQA/Farquhar et al. - 2024 - Detecting hallucinations in large language models using semantic entropy.pdf}
+}
+
+@misc{faye_2024,
+  title = {{{OneEncoder}}: {{A Lightweight Framework}} for {{Progressive Alignment}} of {{Modalities}}},
+  shorttitle = {{{OneEncoder}}},
+  author = {Faye, Bilal and Azzag, Hanane and Lebbah, Mustapha},
+  year = {2024},
+  month = sep,
+  journal = {arXiv.org},
+  urldate = {2024-09-21},
+  abstract = {Cross-modal alignment Learning integrates information from different modalities like text, image, audio and video to create unified models. This approach develops shared representations and learns correlations between modalities, enabling applications such as visual question answering and audiovisual content analysis. Current techniques rely on large modality-specific encoders, necessitating fine-tuning or training from scratch on vast aligned datasets (e.g., text-image, text-audio, image-audio). This approach has limitations: (i) it is very expensive due to the need for training large encoders on extensive datasets, (ii) acquiring aligned large paired datasets is challenging, and (iii) adding new modalities requires retraining the entire framework to incorporate these modalities. To address these issues, we propose OneEncoder, a lightweight framework that progressively represents and aligns four modalities (image, text, audio, video). Initially, we train a lightweight Universal Projection module (UP) to align image and text modalities. Then, we freeze the pretrained UP and progressively align future modalities to those already aligned. OneEncoder operates efficiently and cost-effectively, even in scenarios where vast aligned datasets are unavailable, due to its lightweight design. Trained on small paired datasets, it shows strong performance in tasks like classification, querying, and visual question answering, surpassing methods that rely on large datasets and specialized encoders.},
+  howpublished = {https://arxiv.org/abs/2409.11059v2},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/LU9MCDST/Faye et al. - 2024 - OneEncoder A Lightweight Framework for Progressive Alignment of Modalities.pdf}
 }
 
 @misc{faysse_2024,
@@ -3831,7 +3885,8 @@ GSCC: 0000000},
   urldate = {2024-05-24},
   abstract = {Representation learning, and interpreting learned representations, are key areas of focus in machine learning and neuroscience. Both fields generally use representations as a means to understand or improve a system's computations. In this work, however, we explore surprising dissociations between representation and computation that may pose challenges for such efforts. We create datasets in which we attempt to match the computational role that different features play, while manipulating other properties of the features or the data. We train various deep learning architectures to compute these multiple abstract features about their inputs. We find that their learned feature representations are systematically biased towards representing some features more strongly than others, depending upon extraneous properties such as feature complexity, the order in which features are learned, and the distribution of features over the inputs. For example, features that are simpler to compute or learned first tend to be represented more strongly and densely than features that are more complex or learned later, even if all features are learned equally well. We also explore how these biases are affected by architectures, optimizers, and training regimes (e.g., in transformers, features decoded earlier in the output sequence also tend to be represented more strongly). Our results help to characterize the inductive biases of gradient-based representation learning. These results also highlight a key challenge for interpretability \$-\$ or for comparing the representations of models and brains \$-\$ disentangling extraneous biases from the computationally important aspects of a system's internal representations.},
   howpublished = {https://arxiv.org/abs/2405.05847v1},
-  langid = {english}
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/GZGXDJ9X/Lampinen et al. - 2024 - Learned feature representations are biased by complexity, learning order, position, and more.pdf}
 }
 
 @misc{land_2024,
@@ -4624,6 +4679,20 @@ GSCC: 0000011},
   file = {/Users/chenghao/Zotero/storage/Z2W5QJWN/Longpre et al. - 2024 - The Responsible Foundation Model Development Cheatsheet A Review of Tools & Resources.pdf}
 }
 
+@misc{longpre_2024a,
+  title = {Consent in {{Crisis}}: {{The Rapid Decline}} of the {{AI Data Commons}}},
+  shorttitle = {Consent in {{Crisis}}},
+  author = {Longpre, Shayne and Mahari, Robert and Lee, Ariel and Lund, Campbell and Oderinwale, Hamidah and Brannon, William and Saxena, Nayan and {Obeng-Marnu}, Naana and South, Tobin and Hunter, Cole and Klyman, Kevin and Klamm, Christopher and Schoelkopf, Hailey and Singh, Nikhil and Cherep, Manuel and Anis, Ahmad and Dinh, An and Chitongo, Caroline and Yin, Da and Sileo, Damien and Mataciunas, Deividas and Misra, Diganta and Alghamdi, Emad and Shippole, Enrico and Zhang, Jianguo and Materzynska, Joanna and Qian, Kun and Tiwary, Kush and Miranda, Lester and Dey, Manan and Liang, Minnie and Hamdy, Mohammed and Muennighoff, Niklas and Ye, Seonghyeon and Kim, Seungone and Mohanty, Shrestha and Gupta, Vipul and Sharma, Vivek and Chien, Vu Minh and Zhou, Xuhui and Li, Yizhi and Xiong, Caiming and Villa, Luis and Biderman, Stella and Li, Hanlin and Ippolito, Daphne and Hooker, Sara and Kabbara, Jad and Pentland, Sandy},
+  year = {2024},
+  month = jul,
+  journal = {arXiv.org},
+  urldate = {2024-09-26},
+  abstract = {General-purpose artificial intelligence (AI) systems are built on massive swathes of public web data, assembled into corpora such as C4, RefinedWeb, and Dolma. To our knowledge, we conduct the first, large-scale, longitudinal audit of the consent protocols for the web domains underlying AI training corpora. Our audit of 14,000 web domains provides an expansive view of crawlable web data and how codified data use preferences are changing over time. We observe a proliferation of AI-specific clauses to limit use, acute differences in restrictions on AI developers, as well as general inconsistencies between websites' expressed intentions in their Terms of Service and their robots.txt. We diagnose these as symptoms of ineffective web protocols, not designed to cope with the widespread re-purposing of the internet for AI. Our longitudinal analyses show that in a single year (2023-2024) there has been a rapid crescendo of data restrictions from web sources, rendering {\textasciitilde}5\%+ of all tokens in C4, or 28\%+ of the most actively maintained, critical sources in C4, fully restricted from use. For Terms of Service crawling restrictions, a full 45\% of C4 is now restricted. If respected or enforced, these restrictions are rapidly biasing the diversity, freshness, and scaling laws for general-purpose AI systems. We hope to illustrate the emerging crises in data consent, for both developers and creators. The foreclosure of much of the open web will impact not only commercial AI, but also non-commercial AI and academic research.},
+  howpublished = {https://arxiv.org/abs/2407.14933v2},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/5BIKT8UW/Longpre et al. - 2024 - Consent in Crisis The Rapid Decline of the AI Data Commons.pdf}
+}
+
 @misc{lourie_2021,
   title = {{{UNICORN}} on {{RAINBOW}}: {{A Universal Commonsense Reasoning Model}} on a {{New Multitask Benchmark}}},
   shorttitle = {{{UNICORN}} on {{RAINBOW}}},
@@ -5083,6 +5152,20 @@ GSCC: 0000011},
   keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,I.2.7},
   annotation = {5 citations (Semantic Scholar/arXiv) [2022-11-12]},
   file = {/Users/chenghao/Zotero/storage/A5ZJ74VU/Meng_et_al_(2022)_Locating_and_Editing_Factual_Associations_in_GPT.pdf}
+}
+
+@misc{meng_2024,
+  title = {{{SimPO}}: {{Simple Preference Optimization}} with a {{Reference-Free Reward}}},
+  shorttitle = {{{SimPO}}},
+  author = {Meng, Yu and Xia, Mengzhou and Chen, Danqi},
+  year = {2024},
+  month = may,
+  journal = {arXiv.org},
+  urldate = {2024-09-17},
+  abstract = {Direct Preference Optimization (DPO) is a widely used offline preference optimization algorithm that reparameterizes reward functions in reinforcement learning from human feedback (RLHF) to enhance simplicity and training stability. In this work, we propose SimPO, a simpler yet more effective approach. The effectiveness of SimPO is attributed to a key design: using the average log probability of a sequence as the implicit reward. This reward formulation better aligns with model generation and eliminates the need for a reference model, making it more compute and memory efficient. Additionally, we introduce a target reward margin to the Bradley-Terry objective to encourage a larger margin between the winning and losing responses, further enhancing the algorithm's performance. We compare SimPO to DPO and its latest variants across various state-of-the-art training setups, including both base and instruction-tuned models like Mistral and Llama3. We evaluated on extensive instruction-following benchmarks, including AlpacaEval 2, MT-Bench, and the recent challenging Arena-Hard benchmark. Our results demonstrate that SimPO consistently and significantly outperforms existing approaches without substantially increasing response length. Specifically, SimPO outperforms DPO by up to 6.4 points on AlpacaEval 2 and by up to 7.5 points on Arena-Hard. Our top-performing model, built on Llama3-8B-Instruct, achieves a remarkable 53.7 length-controlled win rate on AlpacaEval 2 -- surpassing Claude 3 Opus on the leaderboard, and a 36.5 win rate on Arena-Hard -- making it the strongest 8B open-source model.},
+  howpublished = {https://arxiv.org/abs/2405.14734v2},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/GBIJB9RG/Meng et al. - 2024 - SimPO Simple Preference Optimization with a Reference-Free Reward.pdf}
 }
 
 @misc{milliere_2023,
@@ -5756,6 +5839,35 @@ GSCC: 0000001},
   langid = {english},
   annotation = {\{"size": 709518, "pages": 11, "previous": ""\}},
   file = {/Users/chenghao/Zotero/storage/T9ZTJGCV/Qin et al. - 2024 - Lightning Attention-2 A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models.pdf}
+}
+
+@misc{radford_2022,
+  title = {Robust {{Speech Recognition}} via {{Large-Scale Weak Supervision}}},
+  author = {Radford, Alec and Kim, Jong Wook and Xu, Tao and Brockman, Greg and McLeavey, Christine and Sutskever, Ilya},
+  year = {2022},
+  month = dec,
+  journal = {arXiv.org},
+  urldate = {2024-09-21},
+  abstract = {We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet. When scaled to 680,000 hours of multilingual and multitask supervision, the resulting models generalize well to standard benchmarks and are often competitive with prior fully supervised results but in a zero-shot transfer setting without the need for any fine-tuning. When compared to humans, the models approach their accuracy and robustness. We are releasing models and inference code to serve as a foundation for further work on robust speech processing.},
+  howpublished = {https://arxiv.org/abs/2212.04356v1},
+  langid = {english}
+}
+
+@misc{radford_2022a,
+  title = {Robust {{Speech Recognition}} via {{Large-Scale Weak Supervision}}},
+  author = {Radford, Alec and Kim, Jong Wook and Xu, Tao and Brockman, Greg and McLeavey, Christine and Sutskever, Ilya},
+  year = {2022},
+  month = dec,
+  number = {arXiv:2212.04356},
+  eprint = {2212.04356},
+  primaryclass = {cs, eess},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2212.04356},
+  urldate = {2024-09-21},
+  abstract = {We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet. When scaled to 680,000 hours of multilingual and multitask supervision, the resulting models generalize well to standard benchmarks and are often competitive with prior fully supervised results but in a zero-shot transfer setting without the need for any fine-tuning. When compared to humans, the models approach their accuracy and robustness. We are releasing models and inference code to serve as a foundation for further work on robust speech processing.},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Computation and Language,Computer Science - Machine Learning,Computer Science - Sound,Electrical Engineering and Systems Science - Audio and Speech Processing},
+  file = {/Users/chenghao/Zotero/storage/FY62NCIF/Radford et al. - 2022 - Robust Speech Recognition via Large-Scale Weak Supervision.pdf}
 }
 
 @article{rae_2021,
@@ -7370,6 +7482,48 @@ GSCC: 0000000},
   file = {/Users/chenghao/Zotero/storage/RZJPV4CZ/Wang et al. - 2024 - How Do Your Code LLMs Perform Empowering Code Instruction Tuning with High-Quality Data.pdf}
 }
 
+@misc{wang_2024g,
+  title = {Simul-{{Whisper}}: {{Attention-Guided Streaming Whisper}} with {{Truncation Detection}}},
+  shorttitle = {Simul-{{Whisper}}},
+  author = {Wang, Haoyu and Hu, Guoqiang and Lin, Guodong and Zhang, Wei-Qiang and Li, Jian},
+  year = {2024},
+  month = jun,
+  journal = {arXiv.org},
+  urldate = {2024-09-21},
+  abstract = {As a robust and large-scale multilingual speech recognition model, Whisper has demonstrated impressive results in many low-resource and out-of-distribution scenarios. However, its encoder-decoder structure hinders its application to streaming speech recognition. In this paper, we introduce Simul-Whisper, which uses the time alignment embedded in Whisper's cross-attention to guide auto-regressive decoding and achieve chunk-based streaming ASR without any fine-tuning of the pre-trained model. Furthermore, we observe the negative effect of the truncated words at the chunk boundaries on the decoding results and propose an integrate-and-fire-based truncation detection model to address this issue. Experiments on multiple languages and Whisper architectures show that Simul-Whisper achieves an average absolute word error rate degradation of only 1.46\% at a chunk size of 1 second, which significantly outperforms the current state-of-the-art baseline.},
+  howpublished = {https://arxiv.org/abs/2406.10052v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/A33YDGZ4/Wang et al. - 2024 - Simul-Whisper Attention-Guided Streaming Whisper with Truncation Detection.pdf}
+}
+
+@misc{wang_2024h,
+  title = {Emu3: {{Next-Token Prediction}} Is {{All You Need}}},
+  shorttitle = {Emu3},
+  author = {Wang, Xinlong and Zhang, Xiaosong and Luo, Zhengxiong and Sun, Quan and Cui, Yufeng and Wang, Jinsheng and Zhang, Fan and Wang, Yueze and Li, Zhen and Yu, Qiying and Zhao, Yingli and Ao, Yulong and Min, Xuebin and Li, Tao and Wu, Boya and Zhao, Bo and Zhang, Bowen and Wang, Liangdong and Liu, Guang and He, Zheqi and Yang, Xi and Liu, Jingjing and Lin, Yonghua and Huang, Tiejun and Wang, Zhongyuan},
+  year = {2024},
+  month = sep,
+  journal = {arXiv.org},
+  urldate = {2024-10-01},
+  abstract = {While next-token prediction is considered a promising path towards artificial general intelligence, it has struggled to excel in multimodal tasks, which are still dominated by diffusion models (e.g., Stable Diffusion) and compositional approaches (e.g., CLIP combined with LLMs). In this paper, we introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences. Emu3 outperforms several well-established task-specific models in both generation and perception tasks, surpassing flagship models such as SDXL and LLaVA-1.6, while eliminating the need for diffusion or compositional architectures. Emu3 is also capable of generating high-fidelity video via predicting the next token in a video sequence. We simplify complex multimodal model designs by converging on a singular focus: tokens, unlocking great potential for scaling both during training and inference. Our results demonstrate that next-token prediction is a promising path towards building general multimodal intelligence beyond language. We open-source key techniques and models to support further research in this direction.},
+  howpublished = {https://arxiv.org/abs/2409.18869v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/ZAXKATV7/Wang et al. - 2024 - Emu3 Next-Token Prediction is All You Need.pdf}
+}
+
+@misc{wang_2024i,
+  title = {{{MIO}}: {{A Foundation Model}} on {{Multimodal Tokens}}},
+  shorttitle = {{{MIO}}},
+  author = {Wang, Zekun and Zhu, King and Xu, Chunpu and Zhou, Wangchunshu and Liu, Jiaheng and Zhang, Yibo and Wang, Jiashuo and Shi, Ning and Li, Siyu and Li, Yizhi and Que, Haoran and Zhang, Zhaoxiang and Zhang, Yuanxing and Zhang, Ge and Xu, Ke and Fu, Jie and Huang, Wenhao},
+  year = {2024},
+  month = sep,
+  journal = {arXiv.org},
+  urldate = {2024-10-01},
+  abstract = {In this paper, we introduce MIO, a novel foundation model built on multimodal tokens, capable of understanding and generating speech, text, images, and videos in an end-to-end, autoregressive manner. While the emergence of large language models (LLMs) and multimodal large language models (MM-LLMs) propels advancements in artificial general intelligence through their versatile capabilities, they still lack true any-to-any understanding and generation. Recently, the release of GPT-4o has showcased the remarkable potential of any-to-any LLMs for complex real-world tasks, enabling omnidirectional input and output across images, speech, and text. However, it is closed-source and does not support the generation of multimodal interleaved sequences. To address this gap, we present MIO, which is trained on a mixture of discrete tokens across four modalities using causal multimodal modeling. MIO undergoes a four-stage training process: (1) alignment pre-training, (2) interleaved pre-training, (3) speech-enhanced pre-training, and (4) comprehensive supervised fine-tuning on diverse textual, visual, and speech tasks. Our experimental results indicate that MIO exhibits competitive, and in some cases superior, performance compared to previous dual-modal baselines, any-to-any model baselines, and even modality-specific baselines. Moreover, MIO demonstrates advanced capabilities inherent to its any-to-any feature, such as interleaved video-text generation, chain-of-visual-thought reasoning, visual guideline generation, instructional image editing, etc.},
+  howpublished = {https://arxiv.org/abs/2409.17692v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/ELHTJMBB/Wang et al. - 2024 - MIO A Foundation Model on Multimodal Tokens.pdf}
+}
+
 @article{wasserstein_2016,
   title = {The {{ASA Statement}} on P-{{Values}}: {{Context}}, {{Process}}, and {{Purpose}}},
   shorttitle = {The {{ASA Statement}} on P-{{Values}}},
@@ -7462,6 +7616,19 @@ GSCC: 0000000},
   howpublished = {https://arxiv.org/abs/2406.06563v1},
   langid = {english},
   file = {/Users/chenghao/Zotero/storage/K64HMV7G/Wei et al. - 2024 - Skywork-MoE A Deep Dive into Training Techniques for Mixture-of-Experts Language Models.pdf}
+}
+
+@misc{wen_2024,
+  title = {Language {{Models Learn}} to {{Mislead Humans}} via {{RLHF}}},
+  author = {Wen, Jiaxin and Zhong, Ruiqi and Khan, Akbir and Perez, Ethan and Steinhardt, Jacob and Huang, Minlie and Boman, Samuel R. and He, He and Feng, Shi},
+  year = {2024},
+  month = sep,
+  journal = {arXiv.org},
+  urldate = {2024-09-20},
+  abstract = {Language models (LMs) can produce errors that are hard to detect for humans, especially when the task is complex. RLHF, the most popular post-training method, may exacerbate this problem: to achieve higher rewards, LMs might get better at convincing humans that they are right even when they are wrong. We study this phenomenon under a standard RLHF pipeline, calling it "U-SOPHISTRY" since it is Unintended by model developers. Specifically, we ask time-constrained (e.g., 3-10 minutes) human subjects to evaluate the correctness of model outputs and calculate humans' accuracy against gold labels. On a question-answering task (QuALITY) and programming task (APPS), RLHF makes LMs better at convincing our subjects but not at completing the task correctly. RLHF also makes the model harder to evaluate: our subjects' false positive rate increases by 24.1\% on QuALITY and 18.3\% on APPS. Finally, we show that probing, a state-of-the-art approach for detecting Intended Sophistry (e.g. backdoored LMs), does not generalize to U-SOPHISTRY. Our results highlight an important failure mode of RLHF and call for more research in assisting humans to align them.},
+  howpublished = {https://arxiv.org/abs/2409.12822v1},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/XEKAB53W/Wen et al. - 2024 - Language Models Learn to Mislead Humans via RLHF.pdf}
 }
 
 @misc{white_2024,
@@ -8019,6 +8186,20 @@ GSCC: 0000000},
   file = {/Users/chenghao/Zotero/storage/Z7WKA9RA/Zaremba et al. - 2014 - Recurrent Neural Network Regularization.pdf}
 }
 
+@misc{zelikman_2024,
+  title = {Quiet-{{STaR}}: {{Language Models Can Teach Themselves}} to {{Think Before Speaking}}},
+  shorttitle = {Quiet-{{STaR}}},
+  author = {Zelikman, Eric and Harik, Georges and Shao, Yijia and Jayasiri, Varuna and Haber, Nick and Goodman, Noah D.},
+  year = {2024},
+  month = mar,
+  journal = {arXiv.org},
+  urldate = {2024-09-15},
+  abstract = {When writing and talking, people sometimes pause to think. Although reasoning-focused works have often framed reasoning as a method of answering questions or completing agentic tasks, reasoning is implicit in almost all written text. For example, this applies to the steps not stated between the lines of a proof or to the theory of mind underlying a conversation. In the Self-Taught Reasoner (STaR, Zelikman et al. 2022), useful thinking is learned by inferring rationales from few-shot examples in question-answering and learning from those that lead to a correct answer. This is a highly constrained setting -- ideally, a language model could instead learn to infer unstated rationales in arbitrary text. We present Quiet-STaR, a generalization of STaR in which LMs learn to generate rationales at each token to explain future text, improving their predictions. We address key challenges, including 1) the computational cost of generating continuations, 2) the fact that the LM does not initially know how to generate or use internal thoughts, and 3) the need to predict beyond individual next tokens. To resolve these, we propose a tokenwise parallel sampling algorithm, using learnable tokens indicating a thought's start and end, and an extended teacher-forcing technique. Encouragingly, generated rationales disproportionately help model difficult-to-predict tokens and improve the LM's ability to directly answer difficult questions. In particular, after continued pretraining of an LM on a corpus of internet text with Quiet-STaR, we find zero-shot improvements on GSM8K (5.9\%\${\textbackslash}rightarrow\$10.9\%) and CommonsenseQA (36.3\%\${\textbackslash}rightarrow\$47.2\%) and observe a perplexity improvement of difficult tokens in natural text. Crucially, these improvements require no fine-tuning on these tasks. Quiet-STaR marks a step towards LMs that can learn to reason in a more general and scalable way.},
+  howpublished = {https://arxiv.org/abs/2403.09629v2},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/3E46IHJY/Zelikman et al. - 2024 - Quiet-STaR Language Models Can Teach Themselves to Think Before Speaking.pdf}
+}
+
 @misc{zhang_2022,
   title = {On the {{Paradox}} of {{Learning}} to {{Reason}} from {{Data}}},
   author = {Zhang, Honghua and Li, Liunian Harold and Meng, Tao and Chang, Kai-Wei and den Broeck, Guy Van},
@@ -8127,6 +8308,20 @@ GSCC: 0000000},
   langid = {english},
   annotation = {0 citations (Semantic Scholar/arXiv) [2024-07-05]},
   file = {/Users/chenghao/Zotero/storage/JMM9Q94E/Zhang et al. - 2024 - InternLM-XComposer-2.5 A Versatile Large Vision Language Model Supporting Long-Contextual Input and.pdf}
+}
+
+@misc{zhang_2024d,
+  title = {Adam-Mini: {{Use Fewer Learning Rates To Gain More}}},
+  shorttitle = {Adam-Mini},
+  author = {Zhang, Yushun and Chen, Congliang and Li, Ziniu and Ding, Tian and Wu, Chenwei and Ye, Yinyu and Luo, Zhi-Quan and Sun, Ruoyu},
+  year = {2024},
+  month = jun,
+  journal = {arXiv.org},
+  urldate = {2024-09-16},
+  abstract = {We propose Adam-mini, an optimizer that achieves on-par or better performance than AdamW with 45\% to 50\% less memory footprint. Adam-mini reduces memory by cutting down the learning rate resources in Adam (i.e., \$1/{\textbackslash}sqrt\{v\}\$). We find that \${\textbackslash}geq\$ 90\% of these learning rates in \$v\$ could be harmlessly removed if we (1) carefully partition the parameters into blocks following our proposed principle on Hessian structure; (2) assign a single but good learning rate to each parameter block. We further find that, for each of these parameter blocks, there exists a single high-quality learning rate that can outperform Adam, provided that sufficient resources are available to search it out. We then provide one cost-effective way to find good learning rates and propose Adam-mini. Empirically, we verify that Adam-mini performs on par or better than AdamW on various language models sized from 125M to 7B for pre-training, supervised fine-tuning, and RLHF. The reduced memory footprint of Adam-mini also alleviates communication overheads among GPUs and CPUs, thereby increasing throughput. For instance, Adam-mini achieves 49.6\% higher throughput than AdamW when pre-training Llama2-7B on \$2{\textbackslash}times\$ A800-80GB GPUs, which saves 33\% wall-clock time for pre-training.},
+  howpublished = {https://arxiv.org/abs/2406.16793v5},
+  langid = {english},
+  file = {/Users/chenghao/Zotero/storage/5DCJDKJE/Zhang et al. - 2024 - Adam-mini Use Fewer Learning Rates To Gain More.pdf}
 }
 
 @misc{zhao_2023,
