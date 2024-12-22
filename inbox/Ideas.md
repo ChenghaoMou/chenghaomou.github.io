@@ -1,7 +1,7 @@
 ---
 title: "Ideas"
 created: 2024-04-14
-modified: 2024-10-01
+modified: 2024-11-14
 ---
 
 # Ideas

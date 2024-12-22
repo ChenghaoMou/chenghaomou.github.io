@@ -1,13 +1,13 @@
 ---
-url: "https://www.wheresyoured.at/subprimeai/"
-author: "Edward Zitron"
-publisher: "wheresyoured.at"
+url: https://www.wheresyoured.at/subprimeai/
+author: Edward Zitron
+publisher: wheresyoured.at
 published: 2024-09-16
 title: "The Subprime AI Crisis"
 tags:
-  - todo
+  - later
 created: 2024-09-29
-modified: 2024-10-01
+modified: 2024-10-13
 ---
 
 ## Highlights
