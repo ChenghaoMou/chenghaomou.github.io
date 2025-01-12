@@ -1,4 +1,4 @@
-FROM node:20-slim as builder
+FROM node:20-slim AS builder
 RUN apt update && apt install -y git
 
 WORKDIR /
