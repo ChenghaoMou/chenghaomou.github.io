@@ -1,2 +1,3 @@
+name = "cm-blog"
 compatibility_date = "2025-01-12"
 pages_build_output_dir = "./public"
