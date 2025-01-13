@@ -5,9 +5,6 @@ services:
       - "8080:8080"
     volumes:
       - type: bind
-        source: ./public
-        target: /quartz/public
-      - type: bind
         source: ./highlights
         target: /quartz/content/highlights
       - type: bind
@@ -42,9 +39,6 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - type: bind
-        source: ./public
-        target: /quartz/public
       - type: bind
         source: ./highlights
         target: /quartz/content/highlights
